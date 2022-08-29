@@ -37,51 +37,54 @@ description: ""
 | SH / ML 	| Mdm Irdawaty Binte Mohd 	| [irdawaty_mohd@schools.gov.sg](mailto:irdawaty_mohd@schools.gov.sg) 	|
 
 
-
-
-
+<br>
+<br>
+<br>
 
 | Senior Teacher 	| Name 	| Email Address 	|
 |---	|---	|---	|
 | Senior Teacher, Science 	| Mdm Goi Geok San 	| [goi_geok_san@schools.gov.sg](mailto:goi_geok_san@schools.gov.sg) 	|
 | ST / Chemistry 	| Mr Pooi Ming Shurn Benjamin  	| [pooi_ming_shurn_benjamin@schools.gov.sg](mailto:pooi_ming_shurn_benjamin@schools.gov.sg) 	|
 
+<br>
+<br>
+<br>
 
 | Form Teacher 	| Name 	| Email Address 	|
 |---	|---	|---	|
-| Class 2-1 	| Mdm Rosnah Bte Mustaffa 	| rosnah_mustaffa@schools.gov.sg 	|
-|  	| Mr Chan Wei Min Daniel  	| daniel_chan_wei_min@schools.gov.sg 	|
+| Class 2-1 	| Mdm Rosnah Bte Mustaffa 	| [rosnah_mustaffa@schools.gov.sg](mailto:rosnah_mustaffa@schools.gov.sg) 	|
+|  	| Mr Chan Wei Min Daniel  	| [daniel_chan_wei_min@schools.gov.sg](mailto:daniel_chan_wei_min@schools.gov.sg) 	|
 | <br> 	|  	|  	|
-| Class 2-2 	| Ms Won Jia Min  	| won_jia_min@schools.gov.sg 	|
-|  	| Ms Ng Shu Ting Melissa 	| melissa_ng_shu_ting@schools.gov.sg 	|
+| Class 2-2 	| Ms Won Jia Min  	| [won_jia_min@schools.gov.sg](mailto:won_jia_min@schools.gov.sg) 	|
+|  	| Ms Ng Shu Ting Melissa 	| [melissa_ng_shu_ting@schools.gov.sg](mailto:melissa_ng_shu_ting@schools.gov.sg) 	|
 | <br>	|  	|  	|
-| Class 2-3 	| Mr Chan Whye Leong Rick 	| chan_whye_leong@schools.gov.sg  	|
-|   	| Ms Yap Eng Luan Ruth 	| Yap_Eng_Luan_Ruth@schools.gov.sg 	|
+| Class 2-3 	| Mr Chan Whye Leong Rick 	| [chan_whye_leong@schools.gov.sg](mailto:chan_whye_leong@schools.gov.sg)  	|
+|   	| Ms Yap Eng Luan Ruth 	| [Yap_Eng_Luan_Ruth@schools.gov.sg](mailto:Yap_Eng_Luan_Ruth@schools.gov.sg) 	|
 | <br> 	|  	|  	|
-| Class 2-4 	| Mr Lui Meng Whye 	| lui_meng_whye@schools.gov.sg 	|
-|  	| Mr Chan Fatt Seng Kenneth 	| chan_fatt_seng@schools.gov.sg 	|
+| Class 2-4 	| Mr Lui Meng Whye 	| [lui_meng_whye@schools.gov.sg](mailto:lui_meng_whye@schools.gov.sg) 	|
+|  	| Mr Chan Fatt Seng Kenneth 	| [chan_fatt_seng@schools.gov.sg](mailto:chan_fatt_seng@schools.gov.sg) 	|
 | <br> 	|  	|  	|
-| Class 2-5 	| Miss Audrey Tan Sze Ghee 	| tan_sze_ghee@schools.gov.sg 	|
-|  	| Mr Muhd Hazwan Bin Ismail 	| Muhammad_Hazwan_Ismail@schools.gov.sg 	|
+| Class 2-5 	| Miss Audrey Tan Sze Ghee 	| [tan_sze_ghee@schools.gov.sg](mailto:tan_sze_ghee@schools.gov.sg) 	|
+|  	| Mr Muhd Hazwan Bin Ismail 	| [Muhammad_Hazwan_Ismail@schools.gov.sg](mailto:Muhammad_Hazwan_Ismail@schools.gov.sg) 	|
 | <br> 	|  	|  	|
-| Class 2-6 	| Mr Fong Kai Pew Vincent  	| fong_kai_pew@schools.gov.sg 	|
-|  	| Mdm Latifah Bte Hassan 	| latifah_hassan@schools.gov.sg 	|
+| Class 2-6 	| Mr Fong Kai Pew Vincent  	| [fong_kai_pew@schools.gov.sg](mailto:fong_kai_pew@schools.gov.sg) 	|
+|  	| Mdm Latifah Bte Hassan 	| [latifah_hassan@schools.gov.sg](mailto:latifah_hassan@schools.gov.sg) 	|
 | <br> 	|  	|  	|
-| Class 2-7 	| Ms Tang Ying Jo-Anne 	| tan_ying_jo-anne@schools.gov.sg 	|
-|  	| Mr Pang Yew Cheng  	| pang_yew_cheng@schools.gov.sg 	|
+| Class 2-7 	| Ms Tang Ying Jo-Anne 	| [tan_ying_jo-anne@schools.gov.sg](mailto:tan_ying_jo-anne@schools.gov.sg) 	|
+|  	| Mr Pang Yew Cheng  	| [pang_yew_cheng@schools.gov.sg](mailto:pang_yew_cheng@schools.gov.sg) 	|
 | <br>  	|  	|  	|
 | <br> 	|  	|  	|
-| Class 3-1 	| Mr Lim Kar Keat 	| lim_kar_keat@schools.gov.sg 	|
-|  	| Mdm Fazilah Bte Abd Rahman 	| fazilah_abdul_rahman@schools.gov.sg 	|
+| Class 3-1 	| Mr Lim Kar Keat 	| [lim_kar_keat@schools.gov.sg](mailto:lim_kar_keat@schools.gov.sg) 	|
+|  	| Mdm Fazilah Bte Abd Rahman 	| [fazilah_abdul_rahman@schools.gov.sg](mailto:fazilah_abdul_rahman@schools.gov.sg) 	|
 | <br> 	|  	|  	|
-| Class 3-2 	| Mdm Ivy Ng Yen Hui  	| ng_yen_hui@schools.gov.sg 	|
-|  	| Mr Tan Jia En Andrew 	| tan_jia_en_andrew@schools.gov.sg 	|
+| Class 3-2 	| Mdm Ivy Ng Yen Hui  	| [ng_yen_hui@schools.gov.sg](mailto:ng_yen_hui@schools.gov.sg) 	|
+|  	| Mr Tan Jia En Andrew 	| [tan_jia_en_andrew@schools.gov.sg](mailto:tan_jia_en_andrew@schools.gov.sg) 	|
 | <br> 	|  	|  	|
-| Class 3-3 	| Mdm Lim Yu Ji 	| lim_yu_jia@schools.gov.sg 	|
-|  	| Mr Anthony Raj Joseph 	| anthony_raj_joseph@schools.gov.sg 	|
+| Class 3-3 	| Mdm Lim Yu Ji 	| [lim_yu_jia@schools.gov.sg](mailto:lim_yu_jia@schools.gov.sg) 	|
+|  	| Mr Anthony Raj Joseph 	| [anthony_raj_joseph@schools.gov.sg](mailto:anthony_raj_joseph@schools.gov.sg) 	|
 | <br> 	|  	|  	|
-| Class 3-4 	| Ms Grace Lee 	| lee_wee_chin@schools.gov.sg 	|
-|  	| Mr Lee Chai Pin Yeun Kwong Bertrand  	| lee_chai_pin@schools.gov.sg 	|
+| Class 3-4 	| Ms Grace Lee 	| [lee_wee_chin@schools.gov.sg](mailto:lee_wee_chin@schools.gov.sg) 	|
+|  	| Mr Lee Chai Pin Yeun Kwong Bertrand  	| [lee_chai_pin@schools.gov.sg](mailto:lee_chai_pin@schools.gov.sg) 	|
 | <br>  	|  	|  	|
 | Class 3-5 	| Mdm Sharifah Beevi B Abd Salam 	| sharifah_beevi_abd_salam@schools.gov.sg 	|
 |  	| Miss Chia Huiying, Nicole 	| chia_huiying_nicole@schools.gov.sg 	|
