@@ -21,7 +21,7 @@ description: ""
 | HOD / Maths  	| Mr Puttur Girish Kumar 	| [girish_kumar_puttur@schools.gov.sg](mailto:girish_kumar_puttur@schools.gov.sg) 	|
 | HOD / Eng & Lit 	| Mdm S Premalatha 	| [s_premalatha@schools.gov.sg](mailto:s_premalatha@schools.gov.sg) 	|
 | HOD / Science 	| Mdm Tay Su Ming Fiona 	| [fiona_tay@schools.gov.sg](mailto:fiona_tay@schools.gov.sg) 	|
-| HOD / ICT, CPA, EBS 	| Mr Yip Hoe Yin 	| yip_hoe_yin@schools.gov.sg 	|
+| HOD / ICT, CPA, EBS 	| Mr Yip Hoe Yin 	| [yip_hoe_yin@schools.gov.sg](mailto:yip_hoe_yin@schools.gov.sg) 	|
 | YH / Lower Sec 	| Miss Nur Janna Binte Othman 	| [nur_janna_othman@schools.gov.sg](mailto:nur_janna_othman@schools.gov.sg) 	|
 | YH / Upper Sec 	| Mr Chua Yew Wei  	| [chua_yew_wei@schools.gov.sg](mailto:chua_yew_wei@schools.gov.sg) 	|
 | Asst YH / Sec 4 & 5 	| Ms Shanthini d/o Odayappan (Mrs Raj) 	| [shanthini_odayappan@schools.gov.sg](mailto:shanthini_odayappan@schools.gov.sg) 	|
