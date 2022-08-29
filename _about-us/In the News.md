@@ -13,3 +13,12 @@ Performing first aid and nursing come naturally with stressful situations and fo
 
 <img src="/images/Mr%20Lui%20Meng%20Whye.jpg" 
      style="width:70%">
+
+----------------------------------------------------------------------
+
+### Teaching your child to be the teacher
+
+  
+One of the finalists for the Outstanding Youth in Education Award (OYEA) 2019, and our Senior Teacher for Chemistry, Mr Benjamin Pooi, was featured in School Bag, an education news site by MOE. Click here to find out how Mr Benjamin creates a safe space to encourage students to learn from one another!  
+  
+[https://www.schoolbag.edu.sg/story/teaching-your-child-to-be-the-teacher](https://www.schoolbag.edu.sg/story/teaching-your-child-to-be-the-teacher)
