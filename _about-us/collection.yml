@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - folder-page.md
-      - School Staff/.keep
-      - School Staff/subfolder-page.md
+      - Administrative Information/.keep
+      - Administrative Information/subfolder-page.md
