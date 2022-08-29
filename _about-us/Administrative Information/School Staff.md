@@ -86,11 +86,11 @@ description: ""
 | Class 3-4 	| Ms Grace Lee 	| [lee_wee_chin@schools.gov.sg](mailto:lee_wee_chin@schools.gov.sg) 	|
 |  	| Mr Lee Chai Pin Yeun Kwong Bertrand  	| [lee_chai_pin@schools.gov.sg](mailto:lee_chai_pin@schools.gov.sg) 	|
 | <br>  	|  	|  	|
-| Class 3-5 	| Mdm Sharifah Beevi B Abd Salam 	| sharifah_beevi_abd_salam@schools.gov.sg 	|
-|  	| Miss Chia Huiying, Nicole 	| chia_huiying_nicole@schools.gov.sg 	|
+| Class 3-5 	| Mdm Sharifah Beevi B Abd Salam 	| [sharifah_beevi_abd_salam@schools.gov.sg](mailto:sharifah_beevi_abd_salam@schools.gov.sg) 	|
+|  	| Miss Chia Huiying, Nicole 	| [chia_huiying_nicole@schools.gov.sg](mailto:chia_huiying_nicole@schools.gov.sg) 	|
 | <br> 	|  	|  	|
-| Class 3-6 	| Mr Neal Warren Cooke 	| neal_warren_cooke@schools.gov.sg 	|
-|  	| Ms Lim Ciu Fung 	| lim_ciu_fung@schools.gov.sg 	|
+| Class 3-6 	| Mr Neal Warren Cooke 	| [neal_warren_cooke@schools.gov.sg](mailto:neal_warren_cooke@schools.gov.sg) 	|
+|  	| Ms Lim Ciu Fung 	| [lim_ciu_fung@schools.gov.sg](mailto:lim_ciu_fung@schools.gov.sg) 	|
 | <br>  	|  	|  	|
 | Class 3-7 	| Mr Tang Shao Wei Alan  	| tang_shao_wei_alan@schools.gov.sg 	|
 |  	| Mdm Wong Wei Peng Christine 	| wong_wei_peng@schools.gov.sg 	|
