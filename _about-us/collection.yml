@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Achievements/.keep
-      - In the News.md
       - School Highlights.md
       - Administrative Information/School Organisation.md
       - Administrative Information/.keep
