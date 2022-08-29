@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - In the News.md
       - School Highlights.md
       - Administrative Information/School Organisation.md
       - Administrative Information/.keep
