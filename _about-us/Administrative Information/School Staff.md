@@ -45,3 +45,80 @@ description: ""
 |---	|---	|---	|
 | Senior Teacher, Science 	| Mdm Goi Geok San 	| [goi_geok_san@schools.gov.sg](mailto:goi_geok_san@schools.gov.sg) 	|
 | ST / Chemistry 	| Mr Pooi Ming Shurn Benjamin  	| [pooi_ming_shurn_benjamin@schools.gov.sg](mailto:pooi_ming_shurn_benjamin@schools.gov.sg) 	|
+
+
+| Form Teacher 	| Name 	| Email Address 	|
+|---	|---	|---	|
+| Class 2-1 	| Mdm Rosnah Bte Mustaffa 	| rosnah_mustaffa@schools.gov.sg 	|
+|  	| Mr Chan Wei Min Daniel  	| daniel_chan_wei_min@schools.gov.sg 	|
+| <br> 	|  	|  	|
+| Class 2-2 	| Ms Won Jia Min  	| won_jia_min@schools.gov.sg 	|
+|  	| Ms Ng Shu Ting Melissa 	| melissa_ng_shu_ting@schools.gov.sg 	|
+| <br>	|  	|  	|
+| Class 2-3 	| Mr Chan Whye Leong Rick 	| chan_whye_leong@schools.gov.sg  	|
+|   	| Ms Yap Eng Luan Ruth 	| Yap_Eng_Luan_Ruth@schools.gov.sg 	|
+| <br> 	|  	|  	|
+| Class 2-4 	| Mr Lui Meng Whye 	| lui_meng_whye@schools.gov.sg 	|
+|  	| Mr Chan Fatt Seng Kenneth 	| chan_fatt_seng@schools.gov.sg 	|
+| <br> 	|  	|  	|
+| Class 2-5 	| Miss Audrey Tan Sze Ghee 	| tan_sze_ghee@schools.gov.sg 	|
+|  	| Mr Muhd Hazwan Bin Ismail 	| Muhammad_Hazwan_Ismail@schools.gov.sg 	|
+| <br> 	|  	|  	|
+| Class 2-6 	| Mr Fong Kai Pew Vincent  	| fong_kai_pew@schools.gov.sg 	|
+|  	| Mdm Latifah Bte Hassan 	| latifah_hassan@schools.gov.sg 	|
+| <br> 	|  	|  	|
+| Class 2-7 	| Ms Tang Ying Jo-Anne 	| tan_ying_jo-anne@schools.gov.sg 	|
+|  	| Mr Pang Yew Cheng  	| pang_yew_cheng@schools.gov.sg 	|
+| <br>  	|  	|  	|
+| <br> 	|  	|  	|
+| Class 3-1 	| Mr Lim Kar Keat 	| lim_kar_keat@schools.gov.sg 	|
+|  	| Mdm Fazilah Bte Abd Rahman 	| fazilah_abdul_rahman@schools.gov.sg 	|
+| <br> 	|  	|  	|
+| Class 3-2 	| Mdm Ivy Ng Yen Hui  	| ng_yen_hui@schools.gov.sg 	|
+|  	| Mr Tan Jia En Andrew 	| tan_jia_en_andrew@schools.gov.sg 	|
+| <br> 	|  	|  	|
+| Class 3-3 	| Mdm Lim Yu Ji 	| lim_yu_jia@schools.gov.sg 	|
+|  	| Mr Anthony Raj Joseph 	| anthony_raj_joseph@schools.gov.sg 	|
+| <br> 	|  	|  	|
+| Class 3-4 	| Ms Grace Lee 	| lee_wee_chin@schools.gov.sg 	|
+|  	| Mr Lee Chai Pin Yeun Kwong Bertrand  	| lee_chai_pin@schools.gov.sg 	|
+| <br>  	|  	|  	|
+| Class 3-5 	| Mdm Sharifah Beevi B Abd Salam 	| sharifah_beevi_abd_salam@schools.gov.sg 	|
+|  	| Miss Chia Huiying, Nicole 	| chia_huiying_nicole@schools.gov.sg 	|
+| <br> 	|  	|  	|
+| Class 3-6 	| Mr Neal Warren Cooke 	| neal_warren_cooke@schools.gov.sg 	|
+|  	| Ms Lim Ciu Fung 	| lim_ciu_fung@schools.gov.sg 	|
+| <br>  	|  	|  	|
+| Class 3-7 	| Mr Tang Shao Wei Alan  	| tang_shao_wei_alan@schools.gov.sg 	|
+|  	| Mdm Wong Wei Peng Christine 	| wong_wei_peng@schools.gov.sg 	|
+| <br>  	|   	|   	|
+|  Class 3-8 	| Mdm Ang Kim Leng 	| ang_kim_leng@schools.gov.sg 	|
+|   	| Mrs Cheong-Dieh Ye Woon 	| dieh_ye_woon@schools.gov.sg 	|
+|  <br>	|  	|  	|
+|  <br> 	|   	|   	|
+| Class 4-1 	| Mr Yu Yoong Kheong 	| yu_yoong_kheong@schools.gov.sg 	|
+|  	| Mdm Nurul Izzati Bte Nizamudin 	| nurul_izzati_nizamudin@schools.gov.sg 	|
+| <br> 	|  	|  	|
+| Class 4-2 	| Mdm Normala Bte Alias 	| normala_alias@schools.gov.sg 	|
+|  	| Mdm Hafizah Binte Nordin 	| hafizah_nordin_a@schools.gov.sg 	|
+| <br>  	|   	|   	|
+| Class 4-3 	| Mr Loh Suay Yeow 	| loh_suay_yeow@schools.gov.sg 	|
+|  	| Mr Tan Chin Guan 	| tan_chin_guan@schools.gov.sg 	|
+| <br>   	|   	|   	|
+| Class 4-4 	| Mdm Chin Jen Yew 	| chin_jen_yew@schools.gov.sg 	|
+|  	| Ms Zhang Xuedi 	| zhang_xuedi@schools.gov.sg 	|
+| <br>  	|   	|   	|
+| Class 4-5 	| Ms Lim Shi En Shannon 	| lim_shi_en_shannon@schools.gov.sg 	|
+|  	| Mr. Tee Jie Kai Calvin 	| tee_jia_kai_calvin@schools.gov.sg 	|
+| <br>  	|  	|  	|
+| Class 4-6 	| Miss Gina Hiu Feng Ping 	| gina_hiu_feng_ping@schools.gov.sg 	|
+|  	| Mdm Ong Lay Kwan 	| ong_lay_kwan@schools.gov.sg 	|
+| <br>  	|  	|  	|
+| Class 4-7 	| Mdm Pek Geok Kim Lorraine 	| pek_geok_kim@schools.gov.sg 	|
+|  	| Mr Koothaperumal Saravanaperumal 	| k_saravanaperumal@schools.gov.sg 	|
+| <br> 	|  	|  	|
+| Class 4-8 	| Mdm Liu Yang 	| liu_yang@schools.gov.sg 	|
+|  	| Mr Pooi Ming Shurn Benjamin  	| pooi_ming_shurn_benjamin@schools.gov.sg 	|
+| <br> 	|  	|  	|
+| Class 5-1 	| Mr Chin Koi Yen 	| chin_koi_yen@schools.gov.sg 	|
+|  	| Mdm Uvarani d/o Munusamy 	| uvarani_munusamy@schools.gov.sg 	|
