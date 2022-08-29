@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - folder-page.md
+      - School Highlights.md
       - Administrative Information/School Organisation.md
       - Administrative Information/.keep
       - Administrative Information/School Staff.md
