@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Information/.keep
       - School Achievements/In the News.md
       - School Achievements/.keep
       - School Highlights.md
