@@ -84,3 +84,11 @@ Shirlene also cared for others, in particular, the less privileged. In 2017, as 
 In CCKSS, Shirlene had opportunities to hone her leadership qualities. She served as the Stage Manager of the Choir from 2017 to 2020. As a Student Leader, she displayed a strong ability to relate well with others. She also demonstrated vitality and enthusiasm as she went about her duties and responsibilities, such as in organising the logistics during choir practices. As a leader, she was well-liked and respected amongst her peers. 
 
 Congratulation and well done, Shirlene!
+
+------------------------------------------------------------------------
+
+**SERVE & EXCEL** 
+
+**Lydia Sng Bin Xin**   
+**Clas 4-2**
+
