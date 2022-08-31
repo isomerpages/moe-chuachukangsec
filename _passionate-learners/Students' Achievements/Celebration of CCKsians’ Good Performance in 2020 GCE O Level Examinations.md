@@ -74,6 +74,7 @@ When asked for a quote to sum up his success, Xin Yang replied cheekily, “No m
 
 <img src="/images/Lee%20Le%20Yao.jpg" 
      style="width:25%">
+		 
 Le Yao is not your typical quiet female student. In fact, throughout her four years in CCKSS, she verbalised her thoughts confidently with her schoolmates and teachers. She contributed her ideas and expressed herself clearly during class presentations and group discussions. She will also not hesitate to approach her teachers to clarify any doubts she might have after curriculum hours.  
 
 Le Yao was strong in her Higher Mother Tongue Language and Biology. In 2019, She was the top student for both Higher Mother Tongue and Biology for Sec 3 Express Course. She participated in a few academic and creativity competitions such as the International Biomedical Quiz in 2020, Xin Lei National Writing Competition and National Create Your Own Newspaper Competition organised by ZBschools in 2018 and 2019 respectively. In 2020, she also participated in National Chinese Challenge. All these experiences serve to continually affirm her that she is academically strong and highly creative.
