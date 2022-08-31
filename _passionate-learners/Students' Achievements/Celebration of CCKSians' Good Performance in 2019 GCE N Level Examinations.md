@@ -56,3 +56,5 @@ _Remarkable improvement in their National Exams results compared to their Prelim
 
 **Sec 4NT All-Rounder who exemplifies our school value of ‘Striving to Serve’**   
 1.  Syed Mohd Khairulazizi
+
+### We are proud of our Sec 4NA and 4NT CCKsians!
