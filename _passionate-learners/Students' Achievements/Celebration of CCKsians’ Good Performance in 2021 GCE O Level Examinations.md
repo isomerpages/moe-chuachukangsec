@@ -94,3 +94,20 @@ Wei Liang believed in giving his best to all that he undertook. A dedicated memb
 Wei Liang served in the Prefectorial Board.  He discharged his roles and responsibilities dutifully and could always be counted upon to serve the school in all school activities. He also found time to volunteer at the Bukit Panjang Library. Wei Liang carried himself well, was always respectful and displayed honesty and integrity in the way he interacted with others. He was a befitting recipient of the Edusave Character Award. 
 
 Wei Liang’s humility, his growth mindset and his habit of excellence are attributes we wish all CCKsians to emulate. We wish Wei Liang every success in the future!
+
+------------------------------------------------------------------------
+
+### Grow – Story of Personal Excellence 
+
+**RAY HOA WAI JUN** (Classs 5-1)
+
+<img src="/images/Ray%20Hoa%20Wai%20Jun.png" 
+     style="width:25%">
+
+Ray was teachable. He was a student who showed a lot of growth in his years at Chua Chu Kang Secondary School. Down the final stretch to the national examination, Ray was determined to do better than he did for the Preliminary Examination. One’s current performance is not indicative of what one can achieve in the future. The time and effort he invested paid off and Ray achieved a commendable improvement of 8 grades, for the O-Level Examination. Ray deserved a huge pat on the back. 
+
+Ray took advantage of the opportunities presented to him in CCKSS to push himself beyond his comfort zone. He served in various roles in the Class Committee, from Class Monitor to Welfare Leader and Sports Leader, showing his readiness to seize opportunities that came by his way, as opportunities for growth, and to develop his potential. 
+
+One who was passionate about Sports, you could always spot Ray at the school field or basketball courts, playing hard, sweating it out, and enjoying friendly games and competitions with his friends. He would participate zealously in sporting events. Ray was a strong runner. Consistently for three years, until the Cross-Country race was suspended during the COVID-19 pandemic, Ray was among the Top 10 runners in our annual Cross-Country Race. 
+
+Secondary education is meant to be holistic, nurturing students in body, heart and mind, and Ray was a good example of a student who not only excelled academically but also took the initiative to develop himself holistically. We commend him for embodying a growth mindset and we wish Ray well in his future endeavours!
