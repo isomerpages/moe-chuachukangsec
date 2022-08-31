@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Information/Student Code of Conduct.md
       - School Information/Daily Routines and Procedures.md
       - School Information/School Textbooks & School Uniform.md
       - School Information/.keep
