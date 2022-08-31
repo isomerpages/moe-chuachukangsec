@@ -4,3 +4,6 @@ permalink: /passionate-learners/applied-learning-programme-robotics-n-automation
 description: ""
 third_nav_title: Departments
 ---
+# **Applied Learning Programme: Robotics & Automation**
+
+![](/images/E71E436E-3A38-4F46-B910-C2BF8D859CC1.jpeg)
