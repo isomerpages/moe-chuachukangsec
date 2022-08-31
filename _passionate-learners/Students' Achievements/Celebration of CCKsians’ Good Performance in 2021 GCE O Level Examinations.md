@@ -57,4 +57,4 @@ On top of all these, Karis found time to play an active role in the community. I
 
 Karis’ school experiences had been fruitfully busy, enriching and vibrant, to say the least. “This was how I wanted my school life to be, colourful and multi-faceted, a time I can look back on and say I’ve grown well in those years”, said Karis, who would soon be starting a new chapter in St. Joseph’s Institution pursuing the IB Programme. 
 
-Karis exhibited qualities we want CCKsians to embody. She served, grew and excelled. We wish her success in all her future undertakings. 
+Karis exhibited qualities we want CCKsians to embody. She served, grew and excelled. We wish her success in all her future undertakings.
