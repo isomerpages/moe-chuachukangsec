@@ -69,3 +69,6 @@ _Remarkable improvement in their National Exams performance_ 
 
 **Shirlene Ng Pei Shan**  
 **Class 4-1**
+
+<img src="/images/Shirlene_Ng.jpg" 
+     style="width:25%">
