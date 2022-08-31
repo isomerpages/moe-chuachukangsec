@@ -2,6 +2,7 @@ collections:
   passionate-learners:
     output: true
     order:
+      - Departments/Aesthetics.md
       - Departments/English Language and Literature.md
       - Departments/Humanities.md
       - Departments/Information and Communication Technology.md
