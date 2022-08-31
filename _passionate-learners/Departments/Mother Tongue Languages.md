@@ -36,8 +36,8 @@ Cultural Performance Exposure
 
 ### Programmes and Activities by Languages
 
-|  	| Enrichment Programmes 	| Competitions and Achievements 	|
+ |  	| Enrichment Programmes 	| Competitions and Achievements 	|
 |---	|---	|---	|
-| CHINESE LANGUAGE 	| Writing Skills Course for Higher Chinese students 	| National Newspaper Editorial Contest    - Commendation Award 	|
-| MALAY LANGUAGE 	| Ria 89.7FM DJ experience<br>Learning Journey to Peranakan Museum<br>Malay Short Story Writing Camp by Bedok Community Library 	| '4 Penjuru' (Malay Language and Cultural Competition) - Overall Champions (3 Group Champions & 4 Individual Champions) 	|
-| TAMIL LANGUAGE 	| Drama Workshop<br>Exam Preparation Workshop for 4E5N students<br>Thangameen Immersion Programme 	| Kalakkal Drama Competition - The Best Script Award, Meritorious Award, 3rd Prize<br>Tamil Language and Culture Quiz by Umar Pulavar Tamil Language Centre - 2nd Position 	|
+| CHINESE LANGUAGE 	| ◦ Writing Skills Course for Higher Chinese students 	| ◦ National Newspaper Editorial Contest    - Commendation Award 	|
+| MALAY LANGUAGE 	| ◦ Ria 89.7FM DJ experience<br>◦ Learning Journey to Peranakan Museum<br>◦ Malay Short Story Writing Camp by Bedok Community Library  	| ◦ '4 Penjuru' (Malay Language and Cultural Competition) - Overall Champions (3 Group Champions & 4 Individual Champions) 	|
+| TAMIL LANGUAGE 	| ◦ Drama Workshop<br>◦ Exam Preparation Workshop for 4E5N students<br>◦ Thangameen Immersion Programme 	| ◦ Kalakkal Drama Competition - The Best Script Award, Meritorious Award, 3rd Prize<br>◦ Tamil Language and Culture Quiz by Umar Pulavar Tamil Language Centre - 2nd Position 	|
