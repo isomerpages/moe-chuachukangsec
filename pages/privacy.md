@@ -2,8 +2,7 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-Privacy Statement
-=================
+# **Privacy Statement**
 
 1.  This is the official Chua Chu kang Secondary School website. Thank you for examining our privacy statement.  
 3.  If you are only browsing this website, we do not capture data that allows us to identify you individually.  
