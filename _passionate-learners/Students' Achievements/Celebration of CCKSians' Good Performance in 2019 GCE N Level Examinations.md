@@ -62,3 +62,11 @@ _Remarkable improvement in their National Exams results compared to their Prelim
 ![](/images/2019NLevel-01-1.jpg)
 
 ![](/images/2019NLevel-02-02.jpg)
+
+**Stories of exemplary students who role model our school’s motto of Serve. Grow. Excel** 
+
+**SERVE - CCKSS’ All Rounder**  
+
+
+**Syed Mohd Khairulazizi B S M H**    
+**Sec 4-1 (Sec 4 Normal Technical)**
