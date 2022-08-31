@@ -72,3 +72,15 @@ _Remarkable improvement in their National Exams performance_ 
 
 <img src="/images/Shirlene_Ng.jpg" 
      style="width:25%">
+		 
+Shirlene had a journey of enriching experiences and a string of achievements in Chua Chu Kang Secondary School.  She was a good time manager and persevered to work towards her personal goals. In recognition of her academic excellence, Shirlene attained the Edusave Merit Bursary in 2017 and the Edusave Scholarship in 2019. In 2019, Shirlene was top in standard for the Secondary 3 Normal (Technical) Course. 
+
+Shirlene was strong in her Chinese Language. She was an eloquent speaker who communicated confidently with her teachers and schoolmates. She was able to take different perspectives during class discussions and took time to deliberate over issues and weighed her words carefully before she spoke. In 2019, Shirlene was Top in Basic Chinese for the Secondary 3 Normal Technical Course.
+
+Shirlene loved the arts and exhibited, in particular, a keen interest in singing. She was a dedicated member of the school Choir. She was selected to represent the school in the Singapore Youth Festival (SYF) Arts Presentation. The Choir attained a Certificate of Accomplishment in 2019. Shirlene also represented the school in a public performance at the Keat Hong Community Centre under the PassionArts programme in 2019. 
+
+Shirlene also cared for others, in particular, the less privileged. In 2017, as part of the Choir, she performed at the Bethany Methodist Nursing Home and Ren Ci Hospital to cheer the residents up.  In 2019, Shirlene visited and organised activities for the elderly at the SASCO Senior Citizens' Home with her classmates. She also took part in Values-in-Action (ViA) activities such as painting plank art for the CCK community and collecting old newspapers and clothes for fund-raising.
+
+In CCKSS, Shirlene had opportunities to hone her leadership qualities. She served as the Stage Manager of the Choir from 2017 to 2020. As a Student Leader, she displayed a strong ability to relate well with others. She also demonstrated vitality and enthusiasm as she went about her duties and responsibilities, such as in organising the logistics during choir practices. As a leader, she was well-liked and respected amongst her peers. 
+
+Congratulation and well done, Shirlene!
