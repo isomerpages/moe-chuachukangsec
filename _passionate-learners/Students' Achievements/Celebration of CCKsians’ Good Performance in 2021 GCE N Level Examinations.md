@@ -106,4 +106,10 @@ Nichole represented the school in the Singapore Youth Festival (SYF) Arts Presen
 
 Nichole has a heart for the less fortunate and showed active support for community service activities. She worked with her classmates on various level-wide Values-in-Action (VIA) projects. She also made use of her passion and talent in dance to put up a performance for PCF Childcare Centre in 2019.
 
-Nichole's positive attitude and drive to excel will continue to inspire those around her. 
+Nichole's positive attitude and drive to excel will continue to inspire those around her.
+
+------------------------------------------------------------------------
+
+### EXCEL – Story of Personal Excellence 
+
+**DANISH IRFAN BIN AZMAN** (Class 4-1)
