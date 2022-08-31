@@ -92,3 +92,9 @@ Parents to avoid contacting your child via their mobile phone during school hour
 * Repeated / Accumulated Minor Offences  
     
 For the above mentioned serious offences, parental involvement will be required for the resolution and closure of the case. Consequences that can be enforced by the school include: Detention class, public apology, caning (for boys), corrective work order (CWO), suspension (from class or school) and expulsion.
+
+#### Attire expectations
+
+**Female School Uniform**
+
+(image not loading)
