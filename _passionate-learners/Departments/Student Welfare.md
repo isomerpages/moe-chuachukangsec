@@ -5,12 +5,11 @@ description: ""
 third_nav_title: Departments
 ---
 # **Student Welfare**
-
-|  	|  	|
+|  	|   	|
 |---	|---	|
-| HOD / Student Welfare 	| Mrs Adeline Tan 	|
-| School Counsellor 	| Ms Goh Hui Fang Elaine  	|
-| Teacher 	| Mr Mohammad Taufiq Bin Japah 	|
+| **HOD / Student Welfare** 	| Mrs Adeline Tan 	|
+| **School Counsellor** 	| Ms Goh Hui Fang Elaine 	|
+| **Teacher** 	| Mr Mohammad Taufiq Bin Japah 	|
 
 ### Department Mission  
 
