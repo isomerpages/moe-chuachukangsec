@@ -69,5 +69,19 @@ When asked for a quote to sum up his success, Xin Yang replied cheekily, “No m
 
 **EXCEL – Story of Personal Excellence** 
 
-**Lee Le Yao**
+**Lee Le Yao**    
 **Sec 4-7 (Sec 4 Express)** 
+
+<img src="/images/Lee%20Le%20Yao.jpg" 
+     style="width:25%">
+Le Yao is not your typical quiet female student. In fact, throughout her four years in CCKSS, she verbalised her thoughts confidently with her schoolmates and teachers. She contributed her ideas and expressed herself clearly during class presentations and group discussions. She will also not hesitate to approach her teachers to clarify any doubts she might have after curriculum hours.  
+
+Le Yao was strong in her Higher Mother Tongue Language and Biology. In 2019, She was the top student for both Higher Mother Tongue and Biology for Sec 3 Express Course. She participated in a few academic and creativity competitions such as the International Biomedical Quiz in 2020, Xin Lei National Writing Competition and National Create Your Own Newspaper Competition organised by ZBschools in 2018 and 2019 respectively. In 2020, she also participated in National Chinese Challenge. All these experiences serve to continually affirm her that she is academically strong and highly creative.
+
+Le Yao’s creativity was also unleashed through her active participation in the school's Applied Learning Programme (ALP) in robotics and automation. She was enthusiastic about exploring and learning new things. She was able to work well with others in her group and refine her ideas when given feedback. For completing the Tier 1 - Level 2 ALP Programme, she received the Young Engineer Silver Award by Singapore Polytechnic in 2018.
+
+It is no surprise that Le Yao naturally gravitated towards arguably the most creative CCA in school, the Art Club. As a club member, she was regular in her attendance, participated in the activities diligently. She helped out in the school's 25th anniversary mural drawing in 2018. In 2020, she also participated in a few art competitions such as Live on Design Competition organised by National Organ Transplant Unit, Draw My Stamp Competition organised by Singapore Philatelic Museum and SYF arts. 
+
+Le Yao had a heart for the community and participated actively in various Values-in-Action projects. In 2019, as part of a self-initiated class effort, she helped to coordinate and organise an interaction session with the elderly at the Lions Befrienders Singapore. The elderly enjoyed the programme planned and the visit to Lions Befrienders was a success. In 2020, she also volunteered her time to help out at the Chinese New Year Celebration at the Willing Hearts and United Medicare Centre. 
+
+Le Yao has definitely left a legacy in her CCA which will serve to inspire her juniors.
