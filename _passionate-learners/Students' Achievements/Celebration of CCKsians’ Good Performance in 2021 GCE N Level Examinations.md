@@ -66,8 +66,32 @@ Stories of exemplary students who role model our school’s motto of
 ### SERVE - CCKSS’ All Rounder
 
 
-**TEO WEE CHERNG KYSTON**   
-**(Class 4-3)**
+**TEO WEE CHERNG KYSTON** (Class 4-3)
 
 <img src="/images/TEO%20WEE%20CHERNG%20KYSTON.png" 
+     style="width:25%">
+		 
+Kyston Teo exemplified many of the values we wish every CCKsian to personify. He was an all-rounder and excelled both within and outside the classroom. As a learner, he was self-directed, receptive to feedback, and engaged in reflection and introspection to improve his studies. As a student leader, he was humble and showed in his actions what it meant to serve.
+
+Never shying away from expressing his opinions, Kyston always performed well during presentations and public speaking opportunities. He was able to explore issues from different perspectives during class discussions and value-add to the discussions. He took the time and trouble to deliberate over issues and weighed his words carefully before he spoke. His exemplary attitude towards his studies earned for him an Edusave Scholarship.
+
+Kyston cared for the less fortunate and did his part for the school and wider community, from raising awareness on the importance of sustainable practices to protect our environment to participating in recycling efforts to benefit the community. From 2018 to 2020, he also participated in the Green School @ Southwest initiative, a programme that aimed to promote environment friendly practices. 
+
+Kyston did not allow the pandemic to extinguish his desire to serve others. He showed active support for advocacy activities and continued with this even during the pandemic. As part of a class effort to help the Animal Lovers League animal shelter with their adoption drive, he helped to design brochures and posters for their outreach efforts, and together with other members of his group, saw the project to fruition.
+
+Kyston was a leader, serving as Class Chairman. His form teacher for four years, Mr Neal Cooke, said, “I could always count on Kyston to work with the class on school and class projects. He was a good team leader and motivated the class to always show respect to teachers and each other. His determination to be an all-rounder rubbed off on his classmates too.” 
+
+Kyston carried himself with proper decorum and sought to role model the school values. In recognition of his exemplary character, his humility and his desire to serve and contribute, he received the Edusave Character Award and the school's Students That Achieve - Recognition (S.T.A.R.) Award.
+
+Said Kyston on his achievements, “Despite going through tough times early in my secondary school life when I had little motivation to study, I persevered. The school provided me with multiple avenues to develop as an all-rounded individual through community projects and CCA. I wish all CCKSians will treasure these opportunities.”
+
+We are immensely proud of Kyston, and we wish him well in his future endeavors.
+
+-------------------------------------------------------------------------
+
+### EXCEL – Story of Personal Excellence 
+
+**NICHOLE HO YUXUAN** (Class 4-2)
+
+<img src="/images/NICHOLE%20HO%20YUXUAN.png" 
      style="width:25%">
