@@ -57,3 +57,17 @@ third_nav_title: Students' Achievements
 ![](/images/GCE%20NA%20-%20Level%20-2.jpg)
 
 ![](/images/GCE%20NT%20-%20Level%20-%202.jpg)
+
+Stories of exemplary students who role model our school’s motto of  
+
+### Serve. Grow. Excel
+
+
+### SERVE - CCKSS’ All Rounder
+
+
+**TEO WEE CHERNG KYSTON**   
+**(Class 4-3)**
+
+<img src="/images/TEO%20WEE%20CHERNG%20KYSTON.png" 
+     style="width:25%">
