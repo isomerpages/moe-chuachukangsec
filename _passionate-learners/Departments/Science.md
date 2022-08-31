@@ -34,3 +34,31 @@ Through inquiry-based lessons and a student-centred approach that encourage stud
 | ---	| ---	|
 | Lower Secondary 	| Science Syllabus T<br>Science NA / E 	|
 | Upper Secondary 	| Science Syllabus T<br>Science (Physics / Chemistry) Science (Chemistry / Biology) Physics<br>Chemistry<br>Biology 	|
+
+### ACHIEVEMENTS 2019
+
+* Singapore Junior Chemistry Olympiad – 1 Silver Medal, 1 Bronze Medal and 2 Merit Awards
+* Singapore Junior Physics Olympiad - 7 students received Honorable Mentions
+* IgnITE Skills Challenge – 1 team entered the Finals round and 1 team obtained 2nd position
+
+### Achievements 2018
+
+* Singapore Junior Chemistry Olympiad – 3 students achieved Merit Award
+* Powering Lives Challenge by Ngee Ann Polytechnic – 2nd Runner Up
+* Energy Innovation Challenge - 4 teams selected for Top 20 presentation round, 1 team selected for Top 10 final judging round
+* IgnITE Skills Challenge – 1 team entered the Finals round
+
+### ACTIVITIES IN 2019  
+
+* Mindfest 2019 at Science Centre Singapore
+* Workshops at Science Centre Singapore
+* Learning Journey to Boeing Singapore
+* Learning Journey to Bloodbank@HSA  
+
+### Activities in 2018
+
+* Mindfest 2018 at Science Centre Singapore
+* Workshops at Science Centre Singapore
+* Learning Journey to S.E.A. Aquarium
+* Singapore Junior Biology Olympiad
+* dvanced Elective Module - Food Biotechnology in Human Health and Nutrition (Republic Polytechnic)
