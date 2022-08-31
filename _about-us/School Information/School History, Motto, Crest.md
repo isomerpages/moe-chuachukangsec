@@ -40,3 +40,15 @@ Our students will grow in all areas of their lives. They will develop a passion 
 #### **Excel:** 
 
 Our students will set challenging goals for themselves and strive to realize their own potential. They will put in their best in everything they do.
+
+-------------------------------------------------------------------------
+
+### **School Crest**
+
+|  	|  	|
+|---	|---	|
+| Circular Shape 	| : Signifies the school's commitment to providing an all-round education 	|
+| Book 	| : Signifies the school's emphasis on the passion for learning 	|
+| Balanced Weights 	| : Signifies the balance between intellectual and other domains of development 	|
+| Torch 	| : Represents the CCKS spirit captured in the school motto: Serve, Grow and Excel 	|
+| Green Colour 	| : Represents the growth and vitality of our school 	|
