@@ -52,3 +52,11 @@ _Remarkable improvement in their National Exams results compared to their Prelim
 ### WE ARE PROUD OF OUR SEC 4NA AND 4NT CCKSIANS!
 
 ![](/images/2019%20Olevel%20-%203.jpg)
+
+
+**Stories of exemplary students who role model our school’s motto of Serve. Grow. Excel** 
+
+**SERVE - CCKSS’ All Rounder**
+
+**Lim Hui Yi**   
+**Sec 4-4**
