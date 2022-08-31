@@ -91,4 +91,19 @@ Le Yao has definitely left a legacy in her CCA which will serve to inspire her j
 **EXCEL – Story of Personal Excellence** 
 
 **Aamir Raj M. Kimura Singh**
-**Sec 4-7 (Sec 4 Express)** 
+**Sec 4-7 (Sec 4 Express)**
+
+<img src="/images/Aamir%20Raj.jpg" 
+     style="width:25%">
+
+Aamir is a highly intelligent and dependable student who took great pride in his work. All his teachers agree that he was eager to learn and had great perseverance. During his years in CCKSS, Aamir set challenging goals for himself that he strived to achieve. His assignments were done to the best of his ability and submitted punctually. Aamir had earned the trust and respect of his classmates and peers with the way he treated his studies and his work ethic. 
+
+Aamir was a gracious and caring student. He readily lent a listening ear whenever his peers were in need. Despite his strong academic achievements, he was always humble and showed a willingness to continue to improve. He participated actively in class discussions and was eager to share his valuable input. Due to his helpful and humble nature, many of his classmates consulted him on their work on a regular basis.
+
+Aamir has an analytical mind and the ability to think and reason well. He was excellent in his academics and achieved Top in English Language and History in 2017, and Top in Elementary Mathematics, Chemistry and Combined Humanities (Social Studies, Geography) in 2019. He also achieved the 1st in Standard and the Edusave Scholarship for three consecutive years from 2017 to 2019. Aamir also had a flair for linguistics and achieved the Third in Position for the 2017 Punjabi Language Examination (Khalsa Centre).
+
+It is definitely not all work and no play for Aamir. He was a member of the school’s Football team. He had a strong drive to achieve his goals and took pride in representing the school in the inter-school football tournaments from 2018 to 2020. The school was the First Team Placing in the ‘C’ Division Inter-School West Zone Tournament in 2018 and the Fourth Team Placing in the ‘B’ Division Inter-School West Zone Tournament in 2019. For his active participation and dedication, Aamir achieved an Excellent grade for his co-curricular activities. 
+
+Aamir served as the Vice-Captain of the Football team in 2020. As a student leader, he was dependable and displayed a strong ability to relate well with others. He was able to give clear instructions during training sessions and provided guidance for his team during the games. Furthermore, he was positive and motivated, often demonstrating vitality and enthusiasm as he went about his duties and responsibilities. 
+
+Aamir possessed qualities that will stand him in good stead in the future. He will continue to excel in his studies and be a great asset to any organisation he joins.
