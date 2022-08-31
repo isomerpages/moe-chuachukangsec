@@ -29,3 +29,8 @@ We believe in providing opportunities for our students to develop 21st Century C
 Through inquiry-based lessons and a student-centred approach that encourage students to learn and work independently in teams or individually, students develop scientific process skills such as logical planning and the ability to handle scientific materials and apparatus with confidence. Students also develop critical and inventive thinking skills, and opportunities are given to students to participate in projects and/or competitions where they can improve or apply their knowledge and skills.
 
 #### Department Structure and Subjects Offered
+
+| Level 	| Subjects 	|
+| ---	| ---	|
+| Lower Secondary 	| Science Syllabus T<br>Science NA / E 	|
+| Upper Secondary 	| Science Syllabus T<br>Science (Physics / Chemistry) Science (Chemistry / Biology) Physics<br>Chemistry<br>Biology 	|
