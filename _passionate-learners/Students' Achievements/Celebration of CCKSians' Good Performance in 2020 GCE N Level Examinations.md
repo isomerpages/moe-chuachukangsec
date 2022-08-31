@@ -92,3 +92,15 @@ Congratulation and well done, Shirlene!
 **Lydia Sng Bin Xin**   
 **Clas 4-2**
 
+<img src="/images/Lydia_Sng.jpg" 
+     style="width:25%">
+		 
+Lydia had a whale of a time as a student in Chua Chu Kang Secondary School. In 2019, she participated in the Youth for Causes (YFC) Project. Her team had selected Ren Ci Hospital as their beneficiary and aimed to raise awareness for their cause. She and her team organised street sales in various places around Singapore. The team spent much time deciding the products to sell to raise funds, creating promotional materials to attract patrons and raise awareness, as well as rallying for student volunteers to help out. In recognition of her services to the community, Lydia was the recipient of the Edusave Awards for Achievement, Good Leadership and Service (EAGLES) under the Service category in 2019. 
+  
+Lydia was also the Vice-Chairperson of the school’s largest Co-Curricular Activity: Chinese Orchestra in 2019. As one of the Student Leaders, she was dependable and displayed a strong ability to relate well with others. She was able to give clear instructions during CCA sessions and was often seen encouraging her peers during their rehearsals. This is so important for an activity where practice truly makes perfect. “When you fail to plan, you plan to fail.” Lydia had this mantra in mind when she was one of the main planners for her CCA camp in 2019. She oversaw the camp and ensured that the activities were run smoothly and safely. Her efforts allowed her CCA members to bond and enjoy their experiences in the camp.
+
+In addition, Lydia volunteered as a student ambassador to host exchange students from Japan. Along with her team, she designed activities to foster interactions between these students and the students from her school. Her efforts made these students feel much welcomed. Lydia also had the opportunity to visit Xi'an, China, as part of the school's Trips for International Experience (TIE) programme. She planned and participated in a scintillating performance that highlighted Singapore's culture for the students in Xi'an.
+
+Lydia demonstrated self-motivation and resourcefulness. She was resilient and sought to better herself. She was the recipient of the National Youth Achievement Award (Silver) in 2020. 
+
+Congratulation and well done, Lydia!
