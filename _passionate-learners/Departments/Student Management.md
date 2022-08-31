@@ -42,26 +42,22 @@ The development is via:
 
 SUPPORT – TEACH – DEMONSTRATE – RE-DIRECT
 
-#### Support
+**Support**
 
-School environment that is conducive to good student behaviour
+* School environment that is conducive to good student behaviour
+* Clarity of staff in role of discipline
+* Clear system of obtaining emotional support for staff and students
 
-Clarity of staff in role of discipline
+**Teach**
 
-Clear system of obtaining emotional support for staff and students
+* Explicit teaching of components of good character, leadership skills and SEL
+* Ensure quality of lesson delivery and teaching
+* Clear rules and consequences
 
-#### Teach
+**Demonstrate**
 
-Explicit teaching of components of good character, leadership skills and SEL
+* Providing opportunities for demonstrate and practice of good behaviour
 
-Ensure quality of lesson delivery and teaching
+**Re-direct**
 
-Clear rules and consequences
-
-#### Demonstrate
-
-Providing opportunities for demonstrate and practice of good behaviour
-
-#### Re-direct
-
-Use of Restorative Practices
+* Use of Restorative Practices
