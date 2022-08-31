@@ -137,3 +137,15 @@ Danish exemplifies what it means to excel as a student of CCKSS. He holds true t
 
 <img src="/images/MANASSEH%20PAUL%20CRISPUS.png" 
      style="width:25%">
+		 
+For Manasseh, a disappointing preliminary examination result was the wake-up call. That disappointment made him take a hard look at what he was doing and what he was not doing.
+
+“I wasn’t taking the exams seriously,” he reflected. He realised his teachers had given him all the tools he needed to succeed but he had not made use of them. Manasseh took responsibility for the disappointing result and buckled down to some ‘serious studying’. He dug up the notes his teachers had provided and went through them all over again. He redid assignments given and reviewed what he did not get right before. Acknowledging that he did not learn well on his own, he roped in study partners. “It helps me to study with friends or in a group as it helps me remember. Plus, we can exchange information,” he said. 
+
+He did not let the fact that part one of the GCE N-Level Examination was barely a month away deter him. He believed he could improve if he worked hard enough. He participated actively in class discussions and asked questions to clarify any doubts he had. He was receptive to feedback, listening with an open mind and taking steps to improve himself.
+
+His perseverance paid off. On the day of the release of the N-level results, Manasseh was able to stand proud. The Principal cited him as an example of a student who embodied the school motto of ‘Grow’. 
+
+However, his success was not only the result of ‘last minute work’. It was his attitude that made the difference, a willingness to learn and grow from adversity. This was something that his teachers had observed. His form teacher described Manasseh as a student who had initiative and resourcefulness. He was able to see the different aspects of a situation, understood what was required to address the issue and took the necessary steps to achieve the desired outcomes.
+
+When asked, Manasseh denied he had done anything special, saying others had more impressive results. He may not think his achievement is worth mentioning but what Manasseh did is something we could all aspire to – to grow, to get better.
