@@ -75,3 +75,22 @@ Analytical, and with strong ability to think & reason well, Wilson topped his co
 School was not just all work for Wilson. He enjoyed making music and was an active and a dedicated member of the Chinese Orchestra. Recognised for his leadership qualities, Wilson was appointed Prefect and never failed to render assistance in school events and activities. He gained the respect of the people around him and was the recipient of the Edusave Awards for Achievement, Good Leadership and Service (EAGLES) under the Leadership category.
 
 Wilson’s desire to excel in all that he undertook spoke volume of his strong work ethics, and he was not one who was afraid of hard work. We are proud of Wilson and we believe Wilson would be an asset to any organisation he joins in the future. We wish him all the best!
+
+------------------------------------------------------------------------
+
+### EXCEL – Story of Personal Excellence 
+
+**ANG WEI LIANG** (Classs 4-6)
+
+<img src="/images/ANG%20WEI%20LIANG.png" 
+     style="width:25%">
+		 
+Always humble, always striving to improve – that was Wei Liang as we knew him. He was driven, set challenging goals for himself and always gave it his all to achieve them. He went about his work quietly, but was never one to compromise quality. Wei Liang was a champion who inspired his peers and classmates with his strong work ethics and pursuit of excellence.
+
+In class, he made it a point to clarify his doubts and would pose questions that reflected his engagement. His work spoke of both effort to apply his learning and quality. His many academic accolades over the years are testimony to Wei Liang’s commitment to excel and his stamina. Wei Liang was a recipient of the Edusave Scholarship from 2018 to 2019. He was also Second in Standard in Secondary Two and First in Standard in Secondary Three. Wei Liang was one person who kept going. 
+
+Wei Liang believed in giving his best to all that he undertook. A dedicated member of the St. John Brigade (SJB), Wei Liang’s commitment and enthusiasm were evident throughout his four years in SJB. He was instrumental to the Brigade attaining a 'Gold' in the SJB Corps Achievement Award in 2018 and 2019 and was selected to represent the school in many SJB competitions. He was a patient senior to the younger cadets and worked well with his peers. His dedication to the SJB won him the Chief Commissioner Badge, the highest award given to SJB cadets in secondary schools. 
+
+Wei Liang served in the Prefectorial Board.  He discharged his roles and responsibilities dutifully and could always be counted upon to serve the school in all school activities. He also found time to volunteer at the Bukit Panjang Library. Wei Liang carried himself well, was always respectful and displayed honesty and integrity in the way he interacted with others. He was a befitting recipient of the Edusave Character Award. 
+
+Wei Liang’s humility, his growth mindset and his habit of excellence are attributes we wish all CCKsians to emulate. We wish Wei Liang every success in the future!
