@@ -71,3 +71,7 @@ As captain of the Netball team, Hui Yi demonstrated a strong drive to achieve he
 Hui Yi demonstrates the expectations of ‘Serve’ in the school’s motto with great distinction in her efforts to contribute back to the community.  Aligned with the school's Values-In-Action programme, she, as member of the Netball team, had conducted netball lessons for the Animation Club members in 2017 and netball clinics at Shuqun Primary in 2016 and Fu Hua Primary School in 2018. In 2019, she had also volunteered at Willing Hearts as part of the school's effort to help the less fortunate. 
 
 Hui Yi is an all-rounder who not only excels academically, but inspires others through her exemplary service as a CCKsian.
+
+------------------------------------------------------------------------
+
+**EXCEL – Story of Personal Excellence**
