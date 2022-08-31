@@ -18,3 +18,7 @@ third_nav_title: Students' Achievements
 3.  Lee Le Yao (Class 4-7)
 4.  Lee Xin Yang (Class 4-6)
 5.  Lim Jing Wen, Shanice (Class 4-6)
+
+### We are proud of our 2020 Sec 4&5 CCKsians!
+
+![](/images/2020%20O%20Level%20Results%20Release%20photo.jpg)
