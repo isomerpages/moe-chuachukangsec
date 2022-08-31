@@ -90,3 +90,7 @@ With these qualities, it is no surprise that Randall has done well in the 2019 G
 
 -------------------------------------------------------------------------
 
+**EXCEL – Story of Personal Excellence** 
+
+**Pek Yi Chern**   
+**Sec 4-7**
