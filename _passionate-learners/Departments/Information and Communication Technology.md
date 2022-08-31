@@ -49,3 +49,9 @@ The CPA curriculum emphasises current technological developments and trends as w
 In Secondary 2 and 3, students will engage in media computing projects to create animations and games respectively using Scratch. These projects provide outlets for students' creativity besides reinforcing their learning. The best animation and game are submitted for the annual media computing competition.
 
 **_Achievements for MEC Competition_**
+
+| Year 	| Sec 2 	| Sec 3 	|
+|---	|---	|---	|
+| 2019 	| Bronze Award 	| Gold Award 	|
+| 2018 	| Gold Award 	| Silver Award  	|
+| 2017 	| Gold Award 	| Bronze Award 	|
