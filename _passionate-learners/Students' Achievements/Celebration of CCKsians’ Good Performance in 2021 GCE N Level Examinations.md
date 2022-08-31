@@ -113,3 +113,18 @@ Nichole's positive attitude and drive to excel will continue to inspire those ar
 ### EXCEL – Story of Personal Excellence 
 
 **DANISH IRFAN BIN AZMAN** (Class 4-1)
+
+<img src="/images/DANISH%20IRFAN%20BIN%20AZMAN.jpg" 
+     style="width:25%">
+
+A quiet thinker and a self-directed learner, Danish understood his priorities and had a clear sense of direction, which motivated and spurred him towards excelling in every aspect of his student life in CCKSS. 
+
+Mr Rick Chan, Danish’s Form Teacher for three years, remarked, “Danish is an independent learner who puts much effort to excel in his studies.” When in class, you would often see him paying keen attention to lessons and meticulously scribbling down notes to facilitate his understanding of the content taught. He was consistent in his work and always handed in work of a high standard, much to his teachers’ delight.
+
+Although he was one of the quieter students in class, Danish was not afraid to voice his opinions. He willingly contributed ideas while listening with an open mind. He was receptive to feedback, using the feedback given to reflect on his shortcomings and seek to become a better version of himself.
+
+Danish also sought to excel as a leader in the class. He took advantage of leadership workshops organised by the school, such as the 360 Degree Leadership workshop and the Student Leaders' Forum, to hone his leadership competencies. His teachers could depend on him to lead the class and selected him to be a member of the class committee throughout his four years in CCKSS. 
+
+This attitude of striving for excellence could be seen in his CCA as well. As a dedicated member of the National Police Cadet Corps (NPCC), Danish trained diligently to ensure his unit distinguished itself in the NPCC Unit Overall Proficiency Challenge. His diligence contributed to his unit’s repeated successes in this Challenge, achieving Silver and Gold awards.
+
+Danish exemplifies what it means to excel as a student of CCKSS. He holds true to the CCKSS Student Creed, striving “to excel in work and in play, when the tide is for (him), or against (him)”. We are immensely proud of Danish and we wish him every success!
