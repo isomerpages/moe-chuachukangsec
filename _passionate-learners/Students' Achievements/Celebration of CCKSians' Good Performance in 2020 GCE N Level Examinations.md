@@ -111,3 +111,14 @@ Congratulation and well done, Lydia!
 
 **Kenneth Wong Bin Hui**   
 **Class 4-2**
+
+<img src="/images/Kenneth_Wong.jpg" 
+     style="width:25%">
+
+Kenneth was a demoralised student when he joined in Secondary 1, as he did not perform up to his expectations in the Primary School Leaving Examination. However, he was offered Chinese, English and Mathematics at the N(A) level and discovered a newfound interest in these subjects, which motivated him and boosted his morale. As he became more driven and responsible, Kenneth emerged as one of the top students in the N(T) stream in Secondary 1, and was offered a lateral transfer to the N(A) stream in Secondary 2. 
+
+While Kenneth initially struggled with self-confidence after moving to the N(A) stream, he was determined to excel with support from friends found in his new class. Although some of the new subjects, like the Humanities, were challenging to him, he worked hard to cope with the additional rigour, constantly reaching out to his teachers to clarify his doubts. As a result, he topped the level in Elementary Mathematics, Science, Combined Humanities, and Food and Nutrition in Secondary Three in 2019, and was a recipient of the Edusave Scholarship Award. 
+
+Besides his academic excellence, Kenneth was a student of outstanding character. He was a member of the prefectorial board, where he served the school in numerous school events. As a Peer Support Leader, he helped to ease the transition of his juniors to secondary school during the 2019 Secondary One Orientation Camp. In addition, he and a group of classmates organised a food donation drive in partnership with Fei Yue Community Services to help the elderly affected by the COVID-19 situation. For his contributions, resilience and compassion for the community, Kenneth received the Edusave Character Award in 2020. 
+
+Congratulation and well done, Kenneth!
