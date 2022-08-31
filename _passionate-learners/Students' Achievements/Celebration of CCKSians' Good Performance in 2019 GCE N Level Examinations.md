@@ -108,3 +108,6 @@ As a person, Calvin is warm, helpful and well-liked. He is a filial son and a do
 **“I thank my teachers who taught me when I was in the Normal Technical Course. They were always encouraging and they believed that all of us will define our own successes one day,”** said Calvin. 
 
 Never one who is afraid of hard work and one who embraces life with optimism, it is no surprise that Calvin has done well in this year’s N-Level Examination. We congratulate him on a well-deserved set of results and wish him well in his undertakings in the future.
+
+-------------------------------------------------------------------------
+
