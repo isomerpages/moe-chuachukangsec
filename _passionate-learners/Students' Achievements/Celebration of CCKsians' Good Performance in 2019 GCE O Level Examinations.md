@@ -75,3 +75,6 @@ Hui Yi is an all-rounder who not only excels academically, but inspires others t
 ------------------------------------------------------------------------
 
 **EXCEL – Story of Personal Excellence**
+
+**Randall Lee En**   
+**Sec 4-6**
