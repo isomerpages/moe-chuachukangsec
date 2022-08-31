@@ -44,3 +44,8 @@ Shanice was a dedicated Prefect and served in the Executive Committee of the Pre
 Shanice carried herself with proper decorum and sought to role model the school values. In recognition of her exemplary character, her humility and her desire to serve and contribute, Shanice received the Edusave Character Award in 2019. We are proud of Shanice and we wish her well in her future undertakings.
 
 -------------------------------------------------------------------------
+
+**GROW**
+
+**Lee Xin Yang**  
+**Sec 4-6 (Sec 4 Express)**
