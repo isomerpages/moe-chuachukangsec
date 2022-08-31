@@ -16,8 +16,7 @@ third_nav_title: Departments
 
 Developing students into passionate learners of Mathematics.
 
-#### Subjects Offered
-
+**Subjects Offered**   
 Mathematics   
 Mathematics (Syllabus A)  
 Mathematics (Syllabus T)    
