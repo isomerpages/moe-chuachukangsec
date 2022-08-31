@@ -111,3 +111,7 @@ Never one who is afraid of hard work and one who embraces life with optimism, it
 
 -------------------------------------------------------------------------
 
+**EXCEL – Story of Personal Excellence** 
+
+**Nur Syazwani Bte Rosli**   
+**Sec 4-2 (Sec 4 Normal Academic)**
