@@ -86,3 +86,9 @@ It is no surprise that Le Yao naturally gravitated towards arguably the most cre
 Le Yao had a heart for the community and participated actively in various Values-in-Action projects. In 2019, as part of a self-initiated class effort, she helped to coordinate and organise an interaction session with the elderly at the Lions Befrienders Singapore. The elderly enjoyed the programme planned and the visit to Lions Befrienders was a success. In 2020, she also volunteered her time to help out at the Chinese New Year Celebration at the Willing Hearts and United Medicare Centre. 
 
 Le Yao has definitely left a legacy in her CCA which will serve to inspire her juniors.
+
+-------------------------------------------------------------------------
+**EXCEL – Story of Personal Excellence** 
+
+**Aamir Raj M. Kimura Singh**
+**Sec 4-7 (Sec 4 Express)** 
