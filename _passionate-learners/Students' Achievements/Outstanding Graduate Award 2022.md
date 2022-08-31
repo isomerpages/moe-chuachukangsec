@@ -11,3 +11,5 @@ MUHAMMAD AFIQ ISWANDI ROSLAN, an alumnus of Chua Chu Kang Secondary School, atta
 Afiq is currently undergoing training at Home Team Academy as a Police Officer. 
 
 We believe Afiq will keep up his excellent performance and wish him continued success in his future endeavours!
+
+![](/images/Muhammad%20Afiq%20Iswandi%20Roslan.jpg)
