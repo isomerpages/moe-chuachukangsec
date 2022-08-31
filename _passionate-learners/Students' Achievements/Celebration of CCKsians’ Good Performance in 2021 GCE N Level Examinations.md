@@ -95,3 +95,15 @@ We are immensely proud of Kyston, and we wish him well in his future endeavors.
 
 <img src="/images/NICHOLE%20HO%20YUXUAN.png" 
      style="width:25%">
+		 
+If excellence is not an act, but a habit, then Nichole has this habit down pat. She was a recipient of both the Edusave Scholarship Award and Edusave Awards for Achievement, Good Leadership and Services (EAGLES) in 2021, attesting to her excellence in academic and co-curricular areas.
+
+She was strong in English Language and Humanities and did consistently well for these subjects. As a student, she wrote fluently in English and was also an eloquent speaker. She would express her views and ideas confidently during class presentations and discussions. When in doubt, she would seek clarification and was receptive to feedback from teachers. Nichole’s form teacher, Ms Zhang, observed, “Nichole was a conscientious student and conducted herself with maturity in whatever she did in school.” It was little wonder she was able to manage her time efficiently and keep her focus on attaining her goals.
+
+Nichole was a dedicated member of the Modern Dance Club. Striving for excellence, she would practise diligently to perfect her techniques. Her dedication led to her appointment as Dance Captain of the Modern Dance Club in 2021. As a member of the Executive Committee, she led the club in technique routines. She was able to give clear instructions during training sessions and saw it as her responsibility to coach and motivate her juniors in improving their techniques.
+
+Nichole represented the school in the Singapore Youth Festival (SYF) Arts Presentation in 2019 and 2021. The Modern Dance Club attained the Certificate of Distinction in 2019 and the Certificate of Accomplishment in 2021. 
+
+Nichole has a heart for the less fortunate and showed active support for community service activities. She worked with her classmates on various level-wide Values-in-Action (VIA) projects. She also made use of her passion and talent in dance to put up a performance for PCF Childcare Centre in 2019.
+
+Nichole's positive attitude and drive to excel will continue to inspire those around her. 
