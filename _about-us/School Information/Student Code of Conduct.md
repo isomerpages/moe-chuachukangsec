@@ -95,6 +95,14 @@ For the above mentioned serious offences, parental involvement will be required 
 
 #### Attire expectations
 
-**Female School Uniform**
+**Female School Uniform**    
+(image not loading)
 
+**Lower Sec Male School Uniform**   
+(image not loading)
+
+**Upper Sec Male School Uniform**     
+(image not loading)
+
+**Male/Female PE Attire**    
 (image not loading)
