@@ -71,7 +71,8 @@ _Remarkable improvement in their National Exams results compared to their Prelim
 **Syed Mohd Khairulazizi B S M H**    
 **Sec 4-1 (Sec 4 Normal Technical)**
 
-![](/images/2019NLevel-03.jpg)
+<img src="/images/2019NLevel-03.jpg" 
+     style="width:25%">
 
 Khairulazizi grew up in a single-parent family since he was thirteen. He faced financial hardship due to family circumstances, but with discipline and determination, sought to make ends meet with the pocket money that he received. A sensible young man who understood the difficulties his mother had to go through, he often paid for school-related expenses out of his own pocket money, and when this meant going hungry at times, Khairulazizi wasn’t one to complain. 
 
@@ -83,4 +84,4 @@ A smooth sea never made a good sailor. Khairulazizi was able to rise above his c
 
 When interviewed, this humble young man had this to say: ‘You don’t have to blow your own trumpet and tell others how hard you have worked. Work hard, quietly, and let your own success speak for itself. My mum, my dad and my teachers are really my pillars of strength.” 
 
-Khairulazizi is an inspiration to many. He is a role model who exemplifies our school motto of ‘Serve Grow Excel’. We congratulate him on his strong performance in the N-Level Examination and wish him our best in his future endeavours. 
+Khairulazizi is an inspiration to many. He is a role model who exemplifies our school motto of ‘Serve Grow Excel’. We congratulate him on his strong performance in the N-Level Examination and wish him our best in his future endeavours.
