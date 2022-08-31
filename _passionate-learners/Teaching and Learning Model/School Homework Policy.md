@@ -79,34 +79,23 @@ Homework refers to any learning activity that students are required by the schoo
 
 12.  The subject teacher is responsible for:
 
-(a) Setting appropriate and meaningful homework;
-
-(b) Setting realistic deadlines for submission of homework. At least 2 days to be given for completion of homework and submission to subject teachers;
-
-(c) Communicating clear expectations to students on the purpose and procedures of homework;
-
-(d) Co-ordinating with other teachers of the class on a frequency and quantity of homework to be given;
-
-(e) Checking homework and provide timely feedback to students;
-
-(f) Providing timely intervention and support to students; and
-
+(a) Setting appropriate and meaningful homework;   
+(b) Setting realistic deadlines for submission of homework. At least 2 days to be given for completion of homework and submission to subject teachers;   
+(c) Communicating clear expectations to students on the purpose and procedures of homework;   
+(d) Co-ordinating with other teachers of the class on a frequency and quantity of homework to be given;    
+(e) Checking homework and provide timely feedback to students;   
+(f) Providing timely intervention and support to students; and   
 (g) Engaging parents on homework matters and provide them with information pertaining to students' learning progress.
 
 **Students’ responsibilities**
 
 13.  Students should:
 
-(a) Understand the purpose of homework and what is expected of them;
-
-(b) Keep track of homework instructions and deadlines;
-
-(c) Manage time well to ensure that homework is completed and submitted on time;
-
-(d) Give his/her best effort in completing homework;
-
-(e) Review feedback from teachers on homework submitted; and
-
+(a) Understand the purpose of homework and what is expected of them;   
+(b) Keep track of homework instructions and deadlines;   
+(c) Manage time well to ensure that homework is completed and submitted on time;    
+(d) Give his/her best effort in completing homework;   
+(e) Review feedback from teachers on homework submitted; and   
 (f) Find out the work he/she has missed if he/she is not present in school. Being absent when homework is given is not an excuse for not doing it.
 
 14.  When homework has not been done, appropriate action will be taken by the teacher. This may include corrective measures and counselling. Other consequences include implications on assessment of student conduct and academic performance.
@@ -115,12 +104,8 @@ Homework refers to any learning activity that students are required by the schoo
 
 15.  Parents should: 
 
-(a) Create a home environment conducive for studying;
-
-(b) Supervise and provide support for child's learning and encourage them to meet homework deadlines;
-
-(c) Reinforce good study habits and attitudes;
-
-(d) Be mindful not to overload the child with out-of-school activities; and
-
+(a) Create a home environment conducive for studying;   
+(b) Supervise and provide support for child's learning and encourage them to meet homework deadlines;   
+(c) Reinforce good study habits and attitudes;   
+(d) Be mindful not to overload the child with out-of-school activities; and   
 (e) Work in partnership with teachers to support child's learning and development.
