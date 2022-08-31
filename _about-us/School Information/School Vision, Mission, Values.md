@@ -23,14 +23,11 @@ To nurture students holistically and develop them to be active citizens.
 
 ### School Values
 
-#### Managing Self : 
-
+**Managing Self:**   
 We take pride in ourselves, act with integrity and are responsible.
 
-#### Putting Others Before Self : 
-
+**Putting Others Before Self:**   
 We have empathy and strive to build a caring community through service and teamwork.
 
-#### Striving To Excel : 
-
+**Striving To Excel:**    
 We are resilient and seek continuous improvement and innovation.
