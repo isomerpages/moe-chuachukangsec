@@ -85,3 +85,26 @@ A smooth sea never made a good sailor. Khairulazizi was able to rise above his c
 When interviewed, this humble young man had this to say: ‘You don’t have to blow your own trumpet and tell others how hard you have worked. Work hard, quietly, and let your own success speak for itself. My mum, my dad and my teachers are really my pillars of strength.” 
 
 Khairulazizi is an inspiration to many. He is a role model who exemplifies our school motto of ‘Serve Grow Excel’. We congratulate him on his strong performance in the N-Level Examination and wish him our best in his future endeavours.
+
+-------------------------------------------------------------------------
+
+
+**EXCEL – Story of Personal Excellence** 
+
+**Calvin Ooi Jhia Jhie**     
+**Sec 4-2 (Sec 4 Normal Academic)**
+
+<img src="/images/2019NLevel-04.jpg" 
+     style="width:25%">
+
+Calvin Ooi Jhia Jhie is one resilient, young person. 
+
+Calvin was from the Normal Technical Course. Being the optimistic person that he is, he never felt he was lacking in any way. On the contrary, he set his sight on going to the Normal Academic Course, buckled down to hard work and realised his goal three years later. At the end of Secondary 3, Calvin topped his class and made it to the Normal Academic Course. Despite being new to a more demanding curriculum, Calvin held on to his belief that hard work is key to any kind of success, coped very well, and was top in Science in the Normal Academic Course. 
+
+But it wasn’t all just about work. Calvin knows how to have fun too. Not only was he active in his CCA, the Saint John Brigade, which by the way, has been garnering the Gold Award for the last 15 years, Calvin loves music and has a keen interest in Beatboxing, an art of mimicking drum machines, and, boy, can he really wow the audience when he performs! Calvin was a familiar figure in our very own annual ‘CCKSS Have Talent Competition’ and was unanimously voted by judges and the audience as the best performer, winning first position in the Individual Category for the competition in 2018, and was also first in this year’s competition, in the Group Category.  
+
+As a person, Calvin is warm, helpful and well-liked. He is a filial son and a doting elder brother to his younger brother, who is much younger than him. Teachers and classmates too see determination in this young man and hold him in high regard.  
+
+**“I thank my teachers who taught me when I was in the Normal Technical Course. They were always encouraging and they believed that all of us will define our own successes one day,”** said Calvin. 
+
+Never one who is afraid of hard work and one who embraces life with optimism, it is no surprise that Calvin has done well in this year’s N-Level Examination. We congratulate him on a well-deserved set of results and wish him well in his undertakings in the future.
