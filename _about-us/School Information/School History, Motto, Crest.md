@@ -45,6 +45,8 @@ Our students will set challenging goals for themselves and strive to realize the
 
 ### **School Crest**
 
+(image not loading)
+
 |  	|  	|
 |---	|---	|
 | Circular Shape 	| : Signifies the school's commitment to providing an all-round education 	|
