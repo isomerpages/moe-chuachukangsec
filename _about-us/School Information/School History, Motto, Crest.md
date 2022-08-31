@@ -6,7 +6,7 @@ third_nav_title: School Information
 ---
 # **School History, Motto, Crest**
 
-### School History  
+### **School History**  
 
 The school started in 1992, with a staff of 10 teachers and the founding Principal, Miss Sum Chee Wah. The pioneer batch of 318 students joined the school in 1993, and they were placed in 5 Express and 3 Normal (Academic) classes. Most of the students were from the Choa Chu Kang, Bukit Batok and Bukit Panjang neighbourhood. The school motto, school badge and school song were crafted by the Principal, teachers and students.   
 
