@@ -128,3 +128,12 @@ Danish also sought to excel as a leader in the class. He took advantage of leade
 This attitude of striving for excellence could be seen in his CCA as well. As a dedicated member of the National Police Cadet Corps (NPCC), Danish trained diligently to ensure his unit distinguished itself in the NPCC Unit Overall Proficiency Challenge. His diligence contributed to his unit’s repeated successes in this Challenge, achieving Silver and Gold awards.
 
 Danish exemplifies what it means to excel as a student of CCKSS. He holds true to the CCKSS Student Creed, striving “to excel in work and in play, when the tide is for (him), or against (him)”. We are immensely proud of Danish and we wish him every success!
+
+------------------------------------------------------------------------
+
+### Grow – Story of Personal Excellence
+
+**MANASSEH PAUL CRISPUS** (Class 4-1)
+
+<img src="/images/MANASSEH%20PAUL%20CRISPUS.png" 
+     style="width:25%">
