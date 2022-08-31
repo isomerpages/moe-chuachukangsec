@@ -104,3 +104,10 @@ In addition, Lydia volunteered as a student ambassador to host exchange students
 Lydia demonstrated self-motivation and resourcefulness. She was resilient and sought to better herself. She was the recipient of the National Youth Achievement Award (Silver) in 2020. 
 
 Congratulation and well done, Lydia!
+
+-------------------------------------------------------------------------
+
+**SERVE. GROW. EXCEL**
+
+**Kenneth Wong Bin Hui**   
+**Class 4-2**
