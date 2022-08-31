@@ -58,3 +58,14 @@ _Remarkable improvement in their National Exams performance_ 
 #### Sec 4NT All-Rounder who exemplifies our school motto of ‘Serve’ 
 
 1.  Jaclyn Yeo Jing Xuan (Class 4-1)
+
+![](/images/N_Level_lowRes001.jpg)
+
+![](/images/N_Level_lowRes002.jpg)
+
+**Be inspired by our CCKsians who demonstrated our School Motto of SERVE. GROW. EXCEL.**
+
+**SERVE & EXCEL** 
+
+**Shirlene Ng Pei Shan**  
+**Class 4-1**
