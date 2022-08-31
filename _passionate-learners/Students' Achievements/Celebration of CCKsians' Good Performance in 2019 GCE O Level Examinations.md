@@ -81,3 +81,9 @@ Hui Yi is an all-rounder who not only excels academically, but inspires others t
 
 <img src="/images/Randall.jpg" 
      style="width:25%">
+		 
+Randall is a self-directed learner with strong intellectual curiosity. He sought clarifications whenever in doubt and was receptive to feedback given to help him improve. As a student, he would ask questions relentlessly until his curiosity or queries are satisfied. In 2017, Randall received the Edusave Good Progress Award for making significant academic progress in the last school year. In 2018, he received the Edusave Scholarship and was 1st in Standard for Secondary 3 Express. He was also the top student of his cohort for Physics. In 2019, Randall also represented the school in the Junior Chemistry Olympiad organised by the National University of Singapore and had received a Certificate of Merit for his performance.   
+
+Randall demonstrates drive and discipline in whatever he does. As Chairman of the Infocomm Club (Animation) from 2018 - 2019, he had led the planning of their annual camp to bond and build expertise of the members. He has also led by example in demonstrating creativity in the work done by the club when preparing for competitions.   
+
+With these qualities, it is no surprise that Randall has done well in the 2019 GCE O-Level examinations. We congratulate him on a well-deserved set of results and wish him well in his undertakings in the future.
