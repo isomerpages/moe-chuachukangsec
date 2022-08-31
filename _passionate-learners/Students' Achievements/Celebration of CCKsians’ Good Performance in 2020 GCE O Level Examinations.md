@@ -49,3 +49,18 @@ Shanice carried herself with proper decorum and sought to role model the school 
 
 **Lee Xin Yang**  
 **Sec 4-6 (Sec 4 Express)**
+
+<img src="/images/Lee%20Xin%20Yang.jpg" 
+     style="width:25%">
+
+When Xin Yang was appointed Chairman of the Chinese Orchestra in 2019, he found it formidable at first. “Being the Chairman really pushed me out of my comfort zone. I had to learn to communicate proficiently, and present my message loud and clear.” 
+
+He worked hard at it and succeeded in developing his communication skills. His teacher affirmed that he was able to give clear instructions during training sessions and was often seen coaching his juniors. This experience in leadership was focal to his growth. “It has developed me holistically as a person, able to carry out (my) many responsibilities,” he added.
+
+It is through challenges that we grow and Xin Yang took advantage of the opportunities CCKS provided. He attended an outdoor adventure camp conducted by Outward Bound Singapore (OBS) and went to Xi'an, China, on the school's Trips for International Experience (TIE) programme. He was selected to be the student leader on that trip and saw to the well-being of his group members.
+
+Xin Yang has a keen interest in music. He was an active and dedicated member of the Chinese Orchestra, achieving an Excellent grade for his CCA. He continued to hone his musical skills beyond the school and was awarded the Associated Board of the Royal Schools of Music (ABRSM) Level 2 Certificate in Grade 5 of Music theory as well as in Violin. 
+
+This determination to pursue his passion underlay his success. Undaunted by setbacks during the preliminary examination, he applied the skills and disposition he acquired as a student leader to his studies and had cause to celebrate when he received his O-level result. 
+
+When asked for a quote to sum up his success, Xin Yang replied cheekily, “No mud, no lotus.”
