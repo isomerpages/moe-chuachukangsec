@@ -70,3 +70,17 @@ _Remarkable improvement in their National Exams results compared to their Prelim
 
 **Syed Mohd Khairulazizi B S M H**    
 **Sec 4-1 (Sec 4 Normal Technical)**
+
+![](/images/2019NLevel-03.jpg)
+
+Khairulazizi grew up in a single-parent family since he was thirteen. He faced financial hardship due to family circumstances, but with discipline and determination, sought to make ends meet with the pocket money that he received. A sensible young man who understood the difficulties his mother had to go through, he often paid for school-related expenses out of his own pocket money, and when this meant going hungry at times, Khairulazizi wasn’t one to complain. 
+
+Despite these personal struggles, Khairulazizi demonstrated strong motivation and commitment to achieve success in his studies and CCA as well as being a good role model to his peers.  He was a recipient of the Edusave Character Award in 2016, 2017 and 2019 and the Edusave Scholarship award in 2016, 2017 and 2018, bearing testimony to this young’s man’s effort and strong personal attributes.  
+
+Khairulazizi is an avid sportsman. He was Captain of the school’s Sepak Takraw team and steered his team confidently in many inter-school competitions. The team he led was second runner-up in the 2019 National Sepak Takraw ‘B’ Division Championship. Khairulazizi also represented Singapore in the 2019 ASEAN School Games for Sepak Takraw. 
+
+A smooth sea never made a good sailor. Khairulazizi was able to rise above his circumstances and drew on his resilience to help his classmates stay focused during their preparations for the GCE N-Level Examination through constant encouragement, reminders and personal role modelling. He even called them in the mornings of their examination to make sure that his classmates arrive on time for the exam. 
+
+When interviewed, this humble young man had this to say: ‘You don’t have to blow your own trumpet and tell others how hard you have worked. Work hard, quietly, and let your own success speak for itself. My mum, my dad and my teachers are really my pillars of strength.” 
+
+Khairulazizi is an inspiration to many. He is a role model who exemplifies our school motto of ‘Serve Grow Excel’. We congratulate him on his strong performance in the N-Level Examination and wish him our best in his future endeavours. 
