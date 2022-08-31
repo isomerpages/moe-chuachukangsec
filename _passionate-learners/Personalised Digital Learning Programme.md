@@ -5,7 +5,7 @@ description: ""
 ---
 # **Personalised Digital Learning Programme**
 
-Our school is a Phase 1 school for PDLP that will implement the programme in 2021 with the following intended outcomes: 
+Our school is a Phase 1 school for PDLP that will implement the programme in 2021 with the following intended outcomes:
 
 ### Support the development of digital literacies 
 
@@ -18,3 +18,7 @@ Our school is a Phase 1 school for PDLP that will implement the programme in 202
 ### Enhance Teaching & Learning 
 
 *   The learning environment in PDLP allows teachers and students to harness technology for greater effectiveness in teaching. For example, instructions, activities and feedback for each student could be more tailored and relevant to students’ learning needs.
+
+### Principal's Sharing
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SNanPIwXIbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
