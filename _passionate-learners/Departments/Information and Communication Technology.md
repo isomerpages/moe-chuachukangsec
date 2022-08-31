@@ -47,3 +47,5 @@ Computer Applications (CPA) is a compulsory subject offered to all students in t
 The CPA curriculum emphasises current technological developments and trends as well as core computer skills. Students will have opportunities to use various software such as Microsoft Suite, Inkscape, and Scratch to perform meaningful tasks.
 
 In Secondary 2 and 3, students will engage in media computing projects to create animations and games respectively using Scratch. These projects provide outlets for students' creativity besides reinforcing their learning. The best animation and game are submitted for the annual media computing competition.
+
+**_Achievements for MEC Competition_**
