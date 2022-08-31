@@ -78,3 +78,6 @@ Hui Yi is an all-rounder who not only excels academically, but inspires others t
 
 **Randall Lee En**   
 **Sec 4-6**
+
+<img src="/images/Randall.jpg" 
+     style="width:25%">
