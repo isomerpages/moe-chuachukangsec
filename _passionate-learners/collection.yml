@@ -2,4 +2,5 @@ collections:
   passionate-learners:
     output: true
     order:
+      - Teaching and Learning Model/Four Critical Questions.md
       - Teaching and Learning Model/.keep
