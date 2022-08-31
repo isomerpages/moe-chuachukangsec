@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Principal's Foreword.md
       - School Information/School Vision, Mission, Values.md
       - School Information/School History, Motto, Crest.md
       - School Information/School Song, Students’ Creed.md
