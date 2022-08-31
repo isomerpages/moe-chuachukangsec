@@ -94,3 +94,12 @@ With these qualities, it is no surprise that Randall has done well in the 2019 G
 
 **Pek Yi Chern**   
 **Sec 4-7**
+
+<img src="/images/Pek%20Yi%20Chern.jpg" 
+     style="width:25%">
+
+Yi Chern is a self-directed learner who demonstrates strong analytical thinking and reasoning ability in his academic pursuits when in school.  In 2017, Yi Chern was Top in Science for the Secondary 2 Express. In 2019, Yi Chern represented the school in the Singapore Junior Chemistry Olympiad 2019 and out of 2481 students, he was one of the top 140 and won Silver Award. Yi Chern was also selected to represent the school in the Math Challenge organised by Ngee Ann Polytechnic in 2019 and the team came in second for the competition. 
+
+Yi Chern is also an eloquent speaker who is able to convey his ideas clearly and succinctly. As  Chairman of Robotics Club, he had done the school proud when participating in various robotics competitions from 2016 to 2019. His team won Best Presentation Award in the National Robotics Competition in 2017 and came in third placing in the Institute of Technical Education Robotics Obstacle Challenge Competition in 2019.  
+
+One with drive and discipline and a positive outlook towards life, Yi Chern’s good performance in the 2019’s O-Level Examination has been a wonderful affirmation of his efforts. We congratulate him on a well-deserved set of results and wish him well in his undertakings in the future.
