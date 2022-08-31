@@ -58,3 +58,20 @@ On top of all these, Karis found time to play an active role in the community. I
 Karis’ school experiences had been fruitfully busy, enriching and vibrant, to say the least. “This was how I wanted my school life to be, colourful and multi-faceted, a time I can look back on and say I’ve grown well in those years”, said Karis, who would soon be starting a new chapter in St. Joseph’s Institution pursuing the IB Programme. 
 
 Karis exhibited qualities we want CCKsians to embody. She served, grew and excelled. We wish her success in all her future undertakings.
+
+-------------------------------------------------------------------------
+
+### EXCEL – Story of Personal Excellence 
+
+**WILSON ANG ZI JUN** (Classs 4-8)
+
+<img src="/images/WILSON%20ANG%20ZI%20JUN.png" 
+     style="width:25%">
+
+Wilson held himself to high standards and was never one who was complacent. He was in constant pursuit of excellence, always adopting a learner stance – seeking feedback and improvement – and steadily worked towards his personal goals.
+
+Analytical, and with strong ability to think & reason well, Wilson topped his cohort for Science in 2018, was Top in both Mathematics and Science in 2019 and Top in Chemistry, Humanities (Social Studies & History) and Physics in 2020. Wilson was also a recipient of the Edusave Scholarship from 2018 to 2020. Despite these accolades, Wilson stayed humble with his feet firmly planted on the ground, and never let up on his efforts. 
+
+School was not just all work for Wilson. He enjoyed making music and was an active and a dedicated member of the Chinese Orchestra. Recognised for his leadership qualities, Wilson was appointed Prefect and never failed to render assistance in school events and activities. He gained the respect of the people around him and was the recipient of the Edusave Awards for Achievement, Good Leadership and Service (EAGLES) under the Leadership category.
+
+Wilson’s desire to excel in all that he undertook spoke volume of his strong work ethics, and he was not one who was afraid of hard work. We are proud of Wilson and we believe Wilson would be an asset to any organisation he joins in the future. We wish him all the best!
