@@ -64,3 +64,10 @@ Xin Yang has a keen interest in music. He was an active and dedicated member of 
 This determination to pursue his passion underlay his success. Undaunted by setbacks during the preliminary examination, he applied the skills and disposition he acquired as a student leader to his studies and had cause to celebrate when he received his O-level result. 
 
 When asked for a quote to sum up his success, Xin Yang replied cheekily, “No mud, no lotus.”
+
+------------------------------------------------------------------------
+
+**EXCEL – Story of Personal Excellence** 
+
+**Lee Le Yao**
+**Sec 4-7 (Sec 4 Express)** 
