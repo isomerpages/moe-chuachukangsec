@@ -14,3 +14,9 @@ third_nav_title: Departments
 |---	|---	|
 | Lower Secondary 	| Robotics and Automation lessons 	|
 | Upper Secondary 	| Mobile Robotics 	|
+
+![](/images/ALP.jpg)
+
+![](/images/ALP%204.jpg)
+
+![](/images/ALP%205.jpg)
