@@ -115,3 +115,18 @@ Never one who is afraid of hard work and one who embraces life with optimism, it
 
 **Nur Syazwani Bte Rosli**   
 **Sec 4-2 (Sec 4 Normal Academic)**
+
+<img src="/images/2019NLevel-05.jpg" 
+     style="width:25%">
+
+Right from the start, Syazwani Bte Rosli knew that there was no short cut to success. This is one young lady who knew what she wanted, and strived to excel right from the word ‘Go’. Focused, determined and one who thrived under pressure, Syazwani set clear academic goals for herself and was relentless in the pursuit her goals. Nur Syazwani Bte Rosli is our top student from the Normal Academic Course.
+
+Syazwani speaks well, carries herself with poise and decorum, has a strong sense of duty and is always helpful and humble. You could always turn to her when you need a helping hand and help she would. Syazwani was the recipient of the school's Students That Achieve - Recognition (S.T.A.R.) Award, which gave recognition to students with positive behaviours aligned to the school values. She was also a recipient of the Edusave Character Award, bearing testimony to her strong personal attributes. 
+
+So it is no wonder that Syazwani is well-liked – many of her classmates and CCA mates look up to her. Syazwani was class monitor and Assistant Vice-Captain of the school Floorball team. Yet this level-headed young lady kept her feet firmly planted on the ground. As a student leader and a more seasoned player, she often guided her juniors in the team.
+
+Syazwani is quite the performer too. She loves music. Both Syazwani and Calvin (mentioned above), won first in the Group Category in our ‘CCKSS Have Talent Competition’ this year!
+
+Said Syazwani: ‘I am very thankful for my teachers and classmates who have always been supportive. I had countless opportunities given to me in CCKSS to serve and to lead, and for that I am deeply appreciative.”
+
+Her labour bore sweet fruits today. We wish Syazwani all the best in the future!
