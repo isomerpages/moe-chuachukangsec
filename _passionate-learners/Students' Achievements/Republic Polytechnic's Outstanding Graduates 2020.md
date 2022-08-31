@@ -4,3 +4,6 @@ permalink: /passionate-learners/students-achievements/republic-polytechnics-outs
 description: ""
 third_nav_title: Students' Achievements
 ---
+# **Republic Polytechnic's Outstanding Graduates 2020**
+
+![](/images/Republic%20Polytechnics%20Outstanding%20Graduates%202020.jpg)
