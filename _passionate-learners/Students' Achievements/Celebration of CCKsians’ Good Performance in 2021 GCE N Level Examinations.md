@@ -53,3 +53,7 @@ third_nav_title: Students' Achievements
 
 
 ### We are proud of our 2021 Sec 4 and Sec 5 CCKsians!
+
+![](/images/GCE%20NA%20-%20Level%20-2.jpg)
+
+![](/images/GCE%20NT%20-%20Level%20-%202.jpg)
