@@ -55,3 +55,28 @@ In Secondary 2 and 3, students will engage in media computing projects to create
 | 2019 	| Bronze Award 	| Gold Award 	|
 | 2018 	| Gold Award 	| Silver Award  	|
 | 2017 	| Gold Award 	| Bronze Award 	|
+
+**Elements Of Business Skills (EBS)**
+
+The EBS syllabus is designed as an introduction to business concepts by understanding business activities, focusing on basic marketing and customer relations, in Singapore’s context. Students will have opportunities to acquire foundational business knowledge and develop transferable employability skills in the service industry, namely the Travel and Tourism, Hospitality and Retail industries.  
+
+
+**Mobile Robotics (MR)**
+
+The MR syllabus aims to provide students with the experience of developing their own mobile robots and a foundation to further their studies in mechatronics engineering or related fields. The syllabus covers basic knowledge and skills in electricity, electronics, mechanical design and intelligent control that are relevant to technical courses at post-secondary level. It emphasizes the application and integration of technical knowledge and skills to design and build mobile robots for the performance of specified tasks.  
+
+
+### KEY ICT PROGRAMMES
+
+**STUDENT ICT TRAINING FOCUS**
+
+The school has a structured training programme for all students to develop their skills in ICT which are critical for them in a technocentric society and workplace. This is coupled with values education and media literacy to ensure that our students are critical and civic users of ICT. We promote and support the use of ICT in teaching and learning to enhance the learning experience and deepen understanding. We encourage teachers to harness ICT for cultivating self-directed and collaborative learning in our students.
+
+
+**SCHOOL ICT INFRASTRUCTURE**
+
+To support these goals, we constantly review our existing infrastructure and hardware to ensure that our students’ learning and development are maximised. This also includes exploring new technologies and the potential of incorporating them into teaching and learning. 
+
+**HOME-BASED LEARNING**
+
+We conduct Home-Based Learning (HBL) annually. This year, HBL was planned for all Secondary 1 to 3 students using the Student Learning Space (SLS) in the event of school closure due to haze. We helped teachers to develop ICT teaching resources and packages to be used in the classroom and in the SLS.
