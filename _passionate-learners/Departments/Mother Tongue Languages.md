@@ -26,8 +26,10 @@ TO INSTILL IN EACH INDIVIDUAL THE PRIDE OF USING HIS MOTHER TONGUE LANGUAGE EFFE
 
 #### Department Key Programmes and Activities
 
-Festive Celebrations: Chinese New Year, Hari Raya and Deepavali   
-Mother Tongue Languages Fortnight   
+Festive Celebrations: Chinese New Year, Hari Raya and Deepavali&nbsp;  
+Mother Tongue Languages Fortnight&nbsp;  
 Secondary 1 Language and Cultural Camp   
 Conversational Chinese and Conversational Malay (CCM) for Secondary 1 and 2   
 Cultural Performance Exposure
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThzC39GqW3nGHqPk0LT4lg0tuF-jXXhsvNWZO4Ed9cawhSx-hZ5A2tHy5QdwLhxkGGDhuEziuPehIW/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
