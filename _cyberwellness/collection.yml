@@ -2,4 +2,5 @@ collections:
   cyberwellness:
     output: true
     order:
+      - New Media Literacies.md
       - Cyberwellness.md
