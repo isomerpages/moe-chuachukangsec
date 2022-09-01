@@ -2,6 +2,7 @@ collections:
   compassionate-leaders:
     output: true
     order:
+      - CCA Achievements.md
       - CCE Curriculum/Sexuality Education.md
       - CCE Curriculum/.keep
       - MOE OBS Programme.md
