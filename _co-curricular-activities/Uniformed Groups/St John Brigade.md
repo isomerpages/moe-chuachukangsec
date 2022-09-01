@@ -8,7 +8,7 @@ third_nav_title: Uniformed Groups
 
 |  	|  	|
 |---	|---	|
-| Teachers-in-charge 	| : MDM ASMAHAN AMAN (I/C), MDM PEK GEOK KIM LORRAINE, MR LUI MENG WHYE, MDM KOH KWEE HUA,  	|
+| **Teachers-in-charge** 	| : MDM ASMAHAN AMAN (I/C), MDM PEK GEOK KIM LORRAINE, MR LUI MENG WHYE, MDM KOH KWEE HUA,  	|
 
 The Saint John Brigade (SJB) is an all-rounded CCA which provides cadets with lifetime knowledge and first aid skills, and helps them to build their character through weekly training.   
 
