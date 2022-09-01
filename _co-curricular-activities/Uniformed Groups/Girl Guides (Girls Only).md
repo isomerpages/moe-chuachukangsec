@@ -28,3 +28,5 @@ The Guides have attained the Puan Noor Aishah Gold Award since 2013.
 
 ### ACHIEVEMENTS
 Click [here](https://staging.du7l9z039t2jh.amplifyapp.com/compassionate-leaders/cca-achievements/)
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTHmfmH1U-t9dmbQ7rdjOwL1ETEK6g42nP3Es-TDs_DprKeM5eM-99K0PXaaRcLHJ2QpSyb3eyF8YK8/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
