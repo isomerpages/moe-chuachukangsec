@@ -120,3 +120,65 @@ description: ""
 *   Zonal Annual First Aid and Hone Nursing Competition (Ambulance Cadet Category) 2019: 4th and Participation  
 *   Zonal Annual First Aid and Hone Nursing Competition (Nursing Adult Category) 2019: Participation
 *   Zonal Annual First Aid and Hone Nursing Competition (Nursing Cadet Category) 2019: 3rd and Participation
+
+### Clubs and Societies
+
+**Art & Crafts**
+
+*   Live On Design Competition 2020 & 2021: Participation   
+    
+*   SYF Arts Exhibition 2020 – Certificate of Accomplishment   
+    
+*   Draw My Stamp Story Art Competition 2020: Silver & Participation
+*   SYF 2018 Celebrations (Logo Design Contest): Participation  
+    
+*   SYF Art Exhibition 2019 : 1 Cert of Recognition and 4 Participation  
+      
+ 
+**Environmental Science**
+
+*   Community in Bloom 2021: Gold and Outstanding Educational Garden Award  
+    
+*   Green Schools @ South West CDC 2019: Gold (Sustained)  
+    
+*   Green Schools @ South West CDC 2018: Gold   
+    
+*   South West Eco Skit Competition 2019: 3rd  
+  
+*   National Youth Upcycling Movement (NYUM) 2021:Gold
+*   National Youth Upcycling Movement (NYUM) 2020:Paritcipation
+*   National Youth Upcycling Movement (NYUM) 2018 & 2019: Bronze  
+    
+*   IgnITE Skills Challenge (Vertical Garden) 2019: 2nd   
+    
+*   School Green Awards by Singapore Environment Council 2017: Lotus Award  
+    
+**Infocomm Technology (Media Production)**
+
+*   iBuildSG Club Pinnacle Competition 2021: Participation  
+    
+*   National Young Shutterbugs Competition 2018: Pinnacle Award and Spotlight Award 
+*   'Our School, Our Stories' 2018, 2020 & 2021: Participation
+
+  
+**Robotics**
+
+*   IDE (Innovation, Design and Engineering) Series - IDE Robotics: 2nd
+*   IDE (Innovation, Design and Engineering) Series – IDE Sprint: Participation
+*   IDE (Innovation, Design and Engineering) Series – IDE Virtual Robotics: Participation
+*   ITE Robotics Challenge 2021 (Creative Challenge) : Champion & First Runner-Up  
+    
+*   National Robotics Competition (CoderZ) 2021:  Grand Champion  
+    
+*   National Robotics Competition (CoderZ) 2020:  Grand Champion
+*   National Robotics Competition (World Robotic Olympiad) 2020:  Merit Award  
+    
+*   ITE Robotics Challenge (Creative Challenge) 2020: Merit Award
+*   ITE Robotics Challenge (Tracing Challenge) 2020: Merit Award
+*   National Robotics Competition (Robot Arm Intermediate) 2019: Participation
+*   National Robotics Competition (Robot Arm Sumobot) 2019: 3rd and Participation
+*   National Robotics Programming Competition 2019: Participation
+*   ITE Robotics Challenge (Obstacle Challenge) 2019: Merit Award and Participation
+*   ITE Robotics Challenge (Tracing Challenge) 2019: Participation
+*   ITE Robotics Challenge (Creative Challenge) 2019: Merit and 1st
+*   IgnITE Skills Challenge (RoboMech) 2018: Participation
