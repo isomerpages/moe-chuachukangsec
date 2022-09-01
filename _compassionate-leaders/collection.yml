@@ -2,5 +2,6 @@ collections:
   compassionate-leaders:
     output: true
     order:
+      - CCE Curriculum/.keep
       - MOE OBS Programme.md
       - Information on DSA JC, Poly EAE and ITE EAE 2022.md
