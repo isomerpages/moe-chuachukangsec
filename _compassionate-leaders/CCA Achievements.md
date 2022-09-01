@@ -74,3 +74,49 @@ description: ""
 *   National School Games Wushu Championship C Div Boys (Long Weapon 1st International Spear) 2019: Participation
 *   National School Games Wushu Championship C Div Boys (Quanshu 1st International Changquan and Short Weapon Formlated 5-Duan Sword) 2019: 4th
 *   National School Games Wushu Championship C Div Girls (Group Quanshu, Long Weapon Formulated 5-Duan Cudgel, Quanshu 1st International Changquan and Short Weapon Formulated 5-Duan Sword) 2019: Participation
+
+### Uniformed Groups
+
+**Girl Guides**
+
+*   Puan Noor Aishah Award 2018: Gold  
+*   World Thinking Day Competition (Poster Design): Participation
+*   West Division Day (Overall, Stack the Cups and Trash It) 2018: Participation
+*   West Division Day (Table Football) 2018: 3rd
+*   West Division Day (Reuse Agents) 2018: 2nd
+
+
+**NCC (SEA)**
+
+*   Unit Recognition 2021: Distinction 
+*   National Inter-School Dragon Boat Championship 2019: Participation
+*   Annual Sea Competition (Kayaking Singles and Doubles) 2018: Participation
+*   Best Unit Competition 2018: Distinction
+
+**NPCC**
+
+*   Unit Overall Proficiency Award 2021: Gold  
+    
+*   NPCC Inter-Unit 0.22 Revolver Shooting Competition 2019: Participation
+*   NPCC Inter-Unit Drill Competition 2019: Participation
+*   Unit Overall Proficiency Award 2018: Silver  
+
+**Scouts**
+
+*   Frank Cooper Sands Award (Scout Section) 2020: Gold  
+    
+*   Frank Cooper Sands Award (Scout Section) 2018: Gold
+*   Frank Cooper Sands Award (Venture Scout Section) 2020: Silver  
+    
+*   Frank Cooper Sands Award (Venture Scout Section) 2018: Gold
+*   Sg Canoe Federation's Sg Canoe Marathon 2019: Participation 
+*   Sea Scouts Kayak Rally 2019 & 2021:  Participation
+*   National Patrol Camp 2018: Silver
+
+**SJB**
+
+*   Corps Achievement Award 2018: Gold
+*   Zonal Annual First Aid and Hone Nursing Competition (Ambulance Adult Category) 2019: 2nd
+*   Zonal Annual First Aid and Hone Nursing Competition (Ambulance Cadet Category) 2019: 4th and Participation  
+*   Zonal Annual First Aid and Hone Nursing Competition (Nursing Adult Category) 2019: Participation
+*   Zonal Annual First Aid and Hone Nursing Competition (Nursing Cadet Category) 2019: 3rd and Participation
