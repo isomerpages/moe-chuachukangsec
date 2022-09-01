@@ -1,4 +1,5 @@
 collections:
   compassionate-leaders:
     output: true
-    order: []
+    order:
+      - Information on DSA JC, Poly EAE and ITE EAE 2022.md
