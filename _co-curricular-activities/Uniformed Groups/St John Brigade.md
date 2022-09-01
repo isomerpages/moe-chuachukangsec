@@ -28,6 +28,6 @@ In addition, cadets trained hard and participated in competitions. The SJB has a
 
 ### Achievements
 
-Click&nbsp;[here](https://chuachukangsec.moe.edu.sg/compassionate-leaders/cca-achievements)
+Click&nbsp;[here](https://staging.du7l9z039t2jh.amplifyapp.com/compassionate-leaders/cca-achievements/)
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQiJcOZZJs9-yYxvs3X3DhTXyZtcirJCSS_oxLTBQ0i3-vFhk_yNcoFObxZoK4zr-lNB6lYy82CX8UL/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
