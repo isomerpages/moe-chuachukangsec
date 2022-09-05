@@ -28,3 +28,5 @@ VISION : PARENTS FOR PARENTS FOR STUDENTS
 
 <img src="/images/PSG%20Logo.png" 
      style="width:50%">
+		 
+![](/images/2022%20PSG%20EXCO%20Members.jpg)
