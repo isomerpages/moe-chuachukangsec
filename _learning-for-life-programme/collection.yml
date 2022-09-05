@@ -2,6 +2,7 @@ collections:
   learning-for-life-programme:
     output: true
     order:
+      - Leadership Development Through CCA.md
       - Leadership Course/.keep
       - Leadership Course/Leadership Course.md
       - Leadership Course/The 360 Degree Leader.md
