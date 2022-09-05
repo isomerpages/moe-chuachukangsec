@@ -26,3 +26,5 @@ Each CCA has an organizational structure with clear roles and responsibilities f
 ### Recognition Awards for CCA Leaders
 
 Other than the Edusave Award for Achievement, Good Leadership and Service (EAGLES) and the Edusave Character Award (ECHA), the National Youth Achievement Award (NYAA) programme is also embedded in the programme of all 23 CCAs. Students are recognised for their completion of the Bronze and Silver stages of the NYAA programme and awarded CCA points in the LEAPS 2.0 scheme.
+
+![](/images/Recognition%20Awards%20for%20CCA%20Leaders.png)
