@@ -2,4 +2,5 @@ collections:
   caring-community:
     output: true
     order:
+      - Alumni/.keep
       - Transition through Secondary School.md
