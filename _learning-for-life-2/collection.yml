@@ -2,4 +2,5 @@ collections:
   learning-for-life-2:
     output: true
     order:
+      - Leadership course 11111/leadership course 22.md
       - Leadership course 11111/.keep
