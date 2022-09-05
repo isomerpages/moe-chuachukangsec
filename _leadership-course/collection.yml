@@ -1,4 +1,5 @@
 collections:
   leadership-course:
     output: true
-    order: []
+    order:
+      - Leadership Course 1.md
