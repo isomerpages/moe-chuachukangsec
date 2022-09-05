@@ -20,3 +20,11 @@ VISION : PARENTS FOR PARENTS FOR STUDENTS
 
   
 4.    All parents of our students are members of the PSG. A strong partnership between the school and parents is critical to our students’ holistic development. The PSG has been actively involved in our school events namely NE commemorative days, cultural festivities and even teacher’s day celebration. They had provided invaluable support to both our staff and students.
+
+![](/images/PSG.jpg)
+
+5.     In 2020, the PSG Executive members created the PSG logo to symbolize an anchored partnership between the school and parents with a nurturing heart. The partnership is symbolized by the hand which cradles in supporting every CCKsians’ growth as they strive for excellence. PSG aims to nurture the students heart that inculcates compassion and fosters passion in learning together, in a holistic environment and as a supportive community.
+
+
+<img src="/images/PSG%20Logo.png" 
+     style="width:50%">
