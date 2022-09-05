@@ -6,6 +6,10 @@ third_nav_title: Sports and Games
 ---
 # **Swimming**
 
+|  	|  	|
+|---	|---	|
+| **Teachers-in-charge** 	| : MS LAI LILI (I/C), MR LEE WENG KIN JON 	|
+
 
 CCKSS Swimming Club is the only water sport in the school. The club aims to nurture and instill in its members values of excellence, confidence, teamwork, discipline and sportsmanship.&nbsp;
 
