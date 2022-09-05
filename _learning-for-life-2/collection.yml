@@ -2,5 +2,6 @@ collections:
   learning-for-life-2:
     output: true
     order:
+      - LLP PAGE.md
       - Leadership course 11111/leadership course 22.md
       - Leadership course 11111/.keep
