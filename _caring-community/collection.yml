@@ -2,6 +2,7 @@ collections:
   caring-community:
     output: true
     order:
+      - Parent Support Group.md
       - Alumni/Alumni.md
       - Alumni/Alumni’s Achievements.md
       - Alumni/.keep
