@@ -2,5 +2,6 @@ collections:
   learning-for-life-programme:
     output: true
     order:
+      - Leadership Events/.keep
       - Learning for Life Programme.md
       - Prefectorial Board.md
