@@ -16,3 +16,5 @@ Each CCA has an organizational structure with clear roles and responsibilities f
 | Uniformed Groups 	| Performing Arts Groups 	| Sports & Games Groups 	| Clubs & Societies 	|
 |---	|---	|---	|---	|
 | a. Muster Parades <br>b. UG Camp <br>c. UG Competition (eg intra- school drill competition) d. CIP activity  	| a. Camp <br>b. CIP activity <br>c. Performance (eg. during assembly)  	| a. Camp <br>b. CIP activity <br>c. Sports Carnival (eg. inter- house games)  	| a. Camp <br>b. CIP activity <br>c. Intra-School activity (eg. CABIN games competitions, Library book promotion, InfoComm photo competition, etc) 	|
+
+![](/images/Capture.jpg)
