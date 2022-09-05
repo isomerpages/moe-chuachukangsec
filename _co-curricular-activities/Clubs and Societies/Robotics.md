@@ -23,4 +23,6 @@ Our achievements for 2019 included attaining the Best Design Award and a Merit A
 
 ### ACHIEVEMENTS
 
-Click [here](https://staging.du7l9z039t2jh.amplifyapp.com/compassionate-leaders/cca-achievements/)
+Click&nbsp;[here](https://staging.du7l9z039t2jh.amplifyapp.com/compassionate-leaders/cca-achievements/)
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMuugnPNhIj7-ICLa20swyRagifDP_EN9Z_trxxLXjXNVMch-lB0Cmv95f7hu754DcX2Ahm0TtP4d9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
