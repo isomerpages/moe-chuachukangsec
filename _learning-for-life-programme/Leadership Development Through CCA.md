@@ -18,3 +18,11 @@ Each CCA has an organizational structure with clear roles and responsibilities f
 | a. Muster Parades <br>b. UG Camp <br>c. UG Competition (eg intra- school drill competition) d. CIP activity  	| a. Camp <br>b. CIP activity <br>c. Performance (eg. during assembly)  	| a. Camp <br>b. CIP activity <br>c. Sports Carnival (eg. inter- house games)  	| a. Camp <br>b. CIP activity <br>c. Intra-School activity (eg. CABIN games competitions, Library book promotion, InfoComm photo competition, etc) 	|
 
 ![](/images/Capture.jpg)
+
+#### Selection of CCA Leaders Process
+
+![](/images/CCA%20leadership%20structure.jpg)
+
+### Recognition Awards for CCA Leaders
+
+Other than the Edusave Award for Achievement, Good Leadership and Service (EAGLES) and the Edusave Character Award (ECHA), the National Youth Achievement Award (NYAA) programme is also embedded in the programme of all 23 CCAs. Students are recognised for their completion of the Bronze and Silver stages of the NYAA programme and awarded CCA points in the LEAPS 2.0 scheme.
