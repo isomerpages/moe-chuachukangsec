@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Sports and Games/Floorball (Girls Only).md
       - Sports and Games/Football (Boys Only).md
       - Sports and Games/Netball (Girls Only).md
       - Sports and Games/Sepak Takraw (Boys Only).md
