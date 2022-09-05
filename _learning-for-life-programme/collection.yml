@@ -2,6 +2,7 @@ collections:
   learning-for-life-programme:
     output: true
     order:
+      - Leadership Course/Example Title.md
       - Leadership Course/.keep
       - Learning for Life Programme.md
       - Leadership Events/.keep
