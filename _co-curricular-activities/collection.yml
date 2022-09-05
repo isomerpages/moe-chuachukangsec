@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Sports and Games/Sepak Takraw (Boys Only).md
       - Sports and Games/Swimming.md
       - Sports and Games/Wushu.md
       - Sports and Games/.keep
