@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Learning for Life Programme.md
-      - Learning for Life Programme/Prefectorial Board.md
       - Learning for Life Programme/.keep
       - CCA Achievements.md
       - CCE Curriculum/Sexuality Education.md
