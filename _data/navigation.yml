@@ -7,11 +7,17 @@ links:
   - title: Passionate Learners
     collection: passionate-learners
   - title: Compassionate Leaders
-    collection: compassionate-leaders
-  - title: cca
-    collection: co-curricular-activities
+    url: /compassionate-leaders/learning-for-life-programme/
+    sublinks:
+      - title: Learning for Life Programme
+        url: /compassionate-leaders/learning-for-life-programme/
+      - title: CCA Activities
+        url: /compassionate-leaders/co-curricular-activities/clubs-and-societies/art-n-crafts/
+      - title: CCE Curriculum
+        url: /compassionate-leaders/cce-curriculum/sexuality-education/
+      - title: MOE OBS Programme
+        url: /compassionate-leaders/moe-obs/moe-obs-programme/
+      - title: Information on DSA & EAE
+        url: /compassionate-leaders/education-career-guidance/information-on-dsa-jc-poly-eae-and-ite-eae-2022/
   - title: llp
     collection: learning-for-life-programme
-  - title: Compassionate Leaders
-    url: /permalink
-    sublinks: []
