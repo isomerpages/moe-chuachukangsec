@@ -17,6 +17,6 @@ Throughout 2019, members had the opportunity to learn various forms of art, such
 The club also had a two-day one-night camp, where there were bonding opportunities and development of leadership skills for members. Activities for the camp included hiking, ball games and a movie night. Student Leaders planned and carried out the activities with the teachers’ close guidance.
 
 
-ACHIEVEMENTS  
+### ACHIEVEMENTS  
 
-Click [here](https://chuachukangsec.moe.edu.sg/compassionate-leaders/cca-achievements)
+Click [here](https://staging.du7l9z039t2jh.amplifyapp.com/compassionate-leaders/cca-achievements/)
