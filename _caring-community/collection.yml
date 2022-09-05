@@ -2,5 +2,6 @@ collections:
   caring-community:
     output: true
     order:
+      - Alumni/Alumni’s Achievements.md
       - Alumni/.keep
       - Transition through Secondary School.md
