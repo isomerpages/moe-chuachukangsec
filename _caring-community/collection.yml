@@ -1,4 +1,5 @@
 collections:
   caring-community:
     output: true
-    order: []
+    order:
+      - Transition through Secondary School.md
