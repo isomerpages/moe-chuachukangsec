@@ -2,6 +2,7 @@ collections:
   compassionate-leaders:
     output: true
     order:
+      - Learning for Life Programme/.keep
       - Learning for Life Programme.md
       - CCA Achievements.md
       - CCE Curriculum/Sexuality Education.md
