@@ -2,6 +2,7 @@ collections:
   learning-for-life-programme:
     output: true
     order:
+      - Leadership Course/The 360 Degree Leader.md
       - Leadership Course/Leadership Course.md
       - Leadership Course/.keep
       - Learning for Life Programme.md
