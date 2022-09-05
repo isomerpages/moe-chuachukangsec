@@ -2,10 +2,10 @@ collections:
   learning-for-life-programme:
     output: true
     order:
+      - Learning for Life Programme.md
+      - Leadership Events/.keep
       - Leadership Events/Secondary 1 Orientation.md
       - Leadership Events/Student Leaderdship Forum.md
       - Leadership Events/Prefect Camp.md
       - Leadership Events/Student Leadership Camp.md
-      - Leadership Events/.keep
-      - Learning for Life Programme.md
       - Prefectorial Board.md
