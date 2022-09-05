@@ -1,0 +1,5 @@
+---
+title: Leadership Course 1
+permalink: /compassionate-leaders/learning-for-life-programme/leadership-course/
+description: ""
+---
