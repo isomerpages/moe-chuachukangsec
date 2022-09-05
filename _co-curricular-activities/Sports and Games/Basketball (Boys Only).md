@@ -7,8 +7,9 @@ third_nav_title: Sports and Games
 # **Basketball (Boys Only)**
 
 
-| Teachers-in-charge | :&nbsp;MR LIM CHIEH SERN (I/C), MR LOH SUAY YEOW&nbsp; |
-| --- | --- |
+|  	|  	|
+|---	|---	|
+| **Teachers-in-charge** 	| : MR LIM CHIEH SERN (I/C), MR LOH SUAY YEOW  	|
 
 
 The aims of the Basketball team are to nurture responsible leaders, instill the value of hard work and commitment, and develop sports talent through rigorous training, friendly competitions with other schools, and divisional tournaments organised by the Singapore Schools Sports Council (SSSC).
