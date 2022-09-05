@@ -34,4 +34,4 @@ Wushu members are stepping up on training and aiming for even better achievement
 
 ### Achievements  
 
-Click [here](https://chuachukangsec.moe.edu.sg/compassionate-leaders/cca-achievements)
+Click [here](https://staging.du7l9z039t2jh.amplifyapp.com/compassionate-leaders/cca-achievements/)
