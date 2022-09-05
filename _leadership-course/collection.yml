@@ -1,5 +1,0 @@
-collections:
-  leadership-course:
-    output: true
-    order:
-      - Leadership Course 1.md
