@@ -2,6 +2,7 @@ collections:
   learning-for-life-programme:
     output: true
     order:
+      - Learning for Life Prog 1/Leadership Course.md
       - Learning for Life Prog 1/.keep
       - Learning for Life Programme.md
       - Class Committee.md
