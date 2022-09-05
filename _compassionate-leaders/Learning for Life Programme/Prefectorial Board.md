@@ -15,3 +15,9 @@ The School's Prefectorial Board comprises a body of student leaders elected by t
   
 
 ### 2\. ORGANIZATIONAL STRUCTURE AND APPOINTMENTS OF THE PREFECTORIAL BOARD
+
+![](/images/20200809%20Prefectorial%20Board%2001.jpg)
+
+**Identification, Observation and Appointment Process of Student Leaders**   
+
+Students selected for the higher rungs of leadership positions (e.g. Prefects, CCA Leaders, Class Committee) are put through an observation period before they are officially appointed. During the observation period, such students are given specific tasks or projects where the various leadership behaviours can be observed and assessed by their seniors and the teachers.
