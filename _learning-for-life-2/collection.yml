@@ -2,6 +2,7 @@ collections:
   learning-for-life-2:
     output: true
     order:
+      - Leadership Events/Secondary 1 Orientation.md
       - Leadership Events/Student Leaderdship Forum.md
       - Leadership Events/Prefect Camp.md
       - Leadership Events/Student Leadership Camp.md
