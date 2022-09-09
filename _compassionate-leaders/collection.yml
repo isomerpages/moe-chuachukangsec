@@ -2,9 +2,9 @@ collections:
   compassionate-leaders:
     output: true
     order:
-      - Learning for life111/The 360 Degree Leader.md
-      - Learning for life111/Leadership Course.md
       - Learning for life111/.keep
+      - Learning for life111/Leadership Course.md
+      - Learning for life111/The 360 Degree Leader.md
       - CCA Achievements.md
       - CCE Curriculum/Sexuality Education.md
       - CCE Curriculum/.keep
