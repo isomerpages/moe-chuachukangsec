@@ -2,6 +2,7 @@ collections:
   compassionate-leaders:
     output: true
     order:
+      - Learning for life111/Leadership Development Through CCA.md
       - Learning for life111/Class Committee.md
       - Learning for life111/Learning for Life Programme.md
       - Learning for life111/.keep
