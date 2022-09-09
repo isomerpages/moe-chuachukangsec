@@ -2,9 +2,9 @@ collections:
   learning-for-life-2:
     output: true
     order:
-      - Leadership course 11111/.keep
-      - Leadership course 11111/Leadership Course.md
-      - Leadership course 11111/The 360 Degree Leader.md
+      - Leadership course/.keep
+      - Leadership course/Leadership Course.md
+      - Leadership course/The 360 Degree Leader.md
       - Leadership Events/.keep
       - Leadership Events/Secondary 1 Orientation.md
       - Leadership Events/Student Leaderdship Forum.md
