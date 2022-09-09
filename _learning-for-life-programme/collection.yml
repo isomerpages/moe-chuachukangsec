@@ -2,7 +2,6 @@ collections:
   learning-for-life-programme:
     output: true
     order:
-      - Learning for Life Programme.md
       - Class Committee.md
       - Leadership Development Through CCA.md
       - Leadership Course/.keep
