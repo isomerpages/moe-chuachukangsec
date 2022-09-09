@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Leadership Events/.keep
-      - Leadership Events/Secondary 1 Orientation.md
       - Prefectorial Board.md
