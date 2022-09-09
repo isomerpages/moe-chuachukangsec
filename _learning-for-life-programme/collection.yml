@@ -1,5 +1,5 @@
 collections:
-  learning-for-life-2:
+  learning-for-life-programme:
     output: true
     order:
       - Leadership course/.keep
