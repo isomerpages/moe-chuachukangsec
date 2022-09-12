@@ -2,6 +2,7 @@ collections:
   caring-community:
     output: true
     order:
+      - National Education/Cultural Activities.md
       - National Education/International Friendship Day.md
       - National Education/Total Defence Day.md
       - National Education/.keep
