@@ -4,5 +4,4 @@ collections:
     order:
       - Students.md
       - Parents.md
-      - Alumni.md
       - Calendar.md
