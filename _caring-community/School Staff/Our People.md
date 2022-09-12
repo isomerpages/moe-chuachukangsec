@@ -35,3 +35,11 @@ third_nav_title: School Staff
 | SH / Food and Consumer Education 	|  	| Mdm Ernawati Shaffie Bte Othman 	|  	| [ernawati_shaffie_othman@schools.gov.sg](mailto:ernawati_shaffie_othman@schools.gov.sg) 	|
 | SH / PE 	|  	| Mr Jonathan Ram PS 	|  	| [jonathan_ram_ps@schools.gov.sg](mailto:jonathan_ram_ps@schools.gov.sg) 	|
 | SH / ML 	|  	| Mdm Irdawaty Binte Mohd 	|  	| [irdawaty_mohd@schools.gov.sg](mailto:irdawaty_mohd@schools.gov.sg) 	|
+
+
+
+
+| Senior Teacher 	|   	| Name 	|   	| Email Address 	|
+|---	|---	|---	|---	|---	|
+| Senior Teacher, Science 	|  	| Mdm Goi Geok San 	|  	| [goi_geok_san@schools.gov.sg](mailto:goi_geok_san@schools.gov.sg) 	|
+| ST / Chemistry 	|  	| Mr Pooi Ming Shurn Benjamin  	|  	| [pooi_ming_shurn_benjamin@schools.gov.sg](mailto:pooi_ming_shurn_benjamin@schools.gov.sg) 	|
