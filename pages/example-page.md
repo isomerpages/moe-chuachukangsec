@@ -33,4 +33,4 @@ Others:
     
 *   [Singapore Student Learning Space](https://learning.moe.edu.sg/)  
     
-*   [Step-by-step guide to Travel Declaration and Update of Particulars on Parents Gateway mobile app](https://chuachukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u422/Parents/Travel%20Declaration%20Guide/Parents%20Guide%20for%20PG%20Travel%20Declaration%20Update%20Particulars%20-%208%20May%2019.pdf)
+*   [Step-by-step guide to Travel Declaration and Update of Particulars on Parents Gateway mobile app](/files/Parents%20Guide%20for%20PG%20Travel%20Declaration%20Update%20Particulars%20-%208%20May%2019.pdf)
