@@ -22,6 +22,15 @@ Click [**here**](https://chuachukangsec-moe-edu-sg-admin.cwp.sg/parents/school-
 
 Click [here](https://chuachukangsec-moe-edu-sg-admin.cwp.sg/students/afternoon-timetable) for more information. - login in portal required
 
+**4. Chua Chu Kang Secondary School DSA Application 2022**
+
+Information on 2022 Direct School Admission to Chua Chu Kang Secondary School  (For admission to Secondary One in 2023)
+
+Click **[here](https://chuachukangsec-moe-edu-sg-admin.cwp.sg/announcement/chua-chu-kang-secondary-school-direct-school-admission-application-2022)** for more information. 
+
+**5. Class Timetable**    
+
+Click [here](https://chuachukangsec-moe-edu-sg-admin.cwp.sg/students/class-timetable) for more information. - login in portal required
 
 **6. Exam Timetable**
 
