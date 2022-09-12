@@ -2,4 +2,6 @@ collections:
   announcements:
     output: true
     order:
+      - Chua Chu Kang Secondary School Direct School Admission Application
+        2022.md
       - Announcements.md
