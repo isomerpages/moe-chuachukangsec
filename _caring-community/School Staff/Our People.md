@@ -29,7 +29,7 @@ third_nav_title: School Staff
 | LH / English 	|  	| Miss Sim Mei Hui Theresa 	|  	| [v](mailto:sim_mei_hui_theresa@schools.gov.sg) 	|
 | LH / Student Management 	|  	| Mdm Tan Cheng Gek Christine 	|  	| [tan_cheng_gek_christine@schools.gov.sg](mailto:tan_cheng_gek_christine@schools.gov.sg) 	|
 | LT / EBS 	|  	| Miss Tengku Merduati Bte Tengku Mohamed 	|  	| [tengku_merduati_tengku_m@schools.gov.sg](mailto:tengku_merduati_tengku_m@schools.gov.sg) 	|
-| SSD 	|  	| Mr Hong Heng Boo Charles 	|  	| [hong_heng_boo_charles@schools.gov.sg]mailto:hong_heng_boo_charles@schools.gov.sg) 	|
+| SSD 	|  	| Mr Hong Heng Boo Charles 	|  	| [hong_heng_boo_charles@schools.gov.sg](mailto:hong_heng_boo_charles@schools.gov.sg) 	|
 | SH / Geography  	|  	| Mr Chen Yingtong 	|  	| [chen_ying_tong@schools.gov.sg](mailto:chen_ying_tong@schools.gov.sg) 	|
 | SH / CCE    	|   	| Mr  Mr Azhar B Mohammed Noh 	|   	| [azhar_b_mohammed_noh@schools.gov.sg](mailto:azhar_b_mohammed_noh@schools.gov.sg) 	|
 | SH / Food and Consumer Education 	|  	| Mdm Ernawati Shaffie Bte Othman 	|  	| [ernawati_shaffie_othman@schools.gov.sg](mailto:ernawati_shaffie_othman@schools.gov.sg) 	|
