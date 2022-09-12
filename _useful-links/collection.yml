@@ -2,6 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Alumni.md
-      - Parents.md
       - Students.md
+      - Parents.md
+      - Alumni.md
