@@ -2,13 +2,13 @@ collections:
   compassionate-leaders:
     output: true
     order:
-      - Learning for life111/.keep
-      - Learning for life111/Learning for Life Programme.md
-      - Learning for life111/Class Committee.md
-      - Learning for life111/Leadership Development Through CCA.md
-      - Learning for life111/Leadership Course.md
-      - Learning for life111/Leadership Events.md
-      - Learning for life111/Prefectorial Board.md
+      - Learning for life Programme/.keep
+      - Learning for life Programme/Learning for Life Programme.md
+      - Learning for life Programme/Class Committee.md
+      - Learning for life Programme/Leadership Development Through CCA.md
+      - Learning for life Programme/Leadership Course.md
+      - Learning for life Programme/Leadership Events.md
+      - Learning for life Programme/Prefectorial Board.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Clubs and Societies.md
       - Co Curricular Activities/Performing Arts.md
