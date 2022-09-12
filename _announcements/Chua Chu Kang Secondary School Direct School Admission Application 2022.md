@@ -28,5 +28,29 @@ We would like to invite students with an interest or aptitude in the talent area
 | Hockey 	| Sports and Games (Girls) 	|
 | Modern Dance 	| Performing Arts (Girls & Boys) 	|
 |  Community Youth Leadership  	| Leadership and Uniformed Groups (Girls & Boys)  	|
-| STEM   	| Science, Technology, Engineering, Mathematics (Girls & Boys)  	|
+| STEM   	| Science, Technology, Engineering, Mathematics (Girls & Boys)  	|Eligibility Criteria
 
+Selection for admission to the school via DSA-Secondary is based on the following:
+a.    Hockey
+CCA Involvement – Participation, Representation & Achievements
+Physical Fitness - Latest NAPFA Test Results
+b.    Modern Dance
+CCA Involvement – Participation, Representation & Achievements
+Or relevant experience or qualification in Dance.
+c.    Community Youth Leadership
+Students must have assumed leadership role in the primary school in either CCA, Class or Committees.
+Active participation in a school or community project or work.
+d.    Science, Technology, Engineering, Maths
+       Robotics for Sustainable Development
+
+Passion in Robotics
+Aptitude in Science and Mathematics
+Experience in Robotics/Electronics/Programming (e.g. CCA records, certificates from any training organisations or institutions, relevant portfolio) 
+Achievements in relevant competitions related to Robotics/Electronics/Programming, if any
+OR 
+Passion in Sustainable Development
+Aptitude in Science
+Participation, Representation & Achievements in Sustainability Projects/Programmes
+
+2.    Applicants should also possess the positive character traits and good conduct in school.
+3.    Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
