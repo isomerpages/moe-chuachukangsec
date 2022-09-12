@@ -18,6 +18,11 @@ We encourage parents to read our School-Home Link so that they can be kept updat
   
 Click [**here**](https://chuachukangsec-moe-edu-sg-admin.cwp.sg/parents/school-home-link) for more information. - login portal required
 
+**3. Afternoon Timetable**
+
+Click [here](https://chuachukangsec-moe-edu-sg-admin.cwp.sg/students/afternoon-timetable) for more information. - login in portal required
+
+
 **6. Exam Timetable**
 
 Click [here](https://chuachukangsec-moe-edu-sg-admin.cwp.sg/students/exam-timetable) for more information. - login in portal required
