@@ -1,12 +1,14 @@
 logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: About Us
     collection: about-us
   - title: Passionate Learners
     collection: passionate-learners
   - title: Compassionate Leaders
     collection: compassionate-leaders
+  - title: CCAs
+    collection: co-curricular-activities
   - title: Caring Community
     collection: caring-community
+  - title: Contact Us
+    url: /contact-us/
