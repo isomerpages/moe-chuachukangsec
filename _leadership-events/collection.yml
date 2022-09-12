@@ -1,0 +1,4 @@
+collections:
+  leadership-events:
+    output: true
+    order: []
