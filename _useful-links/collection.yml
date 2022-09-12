@@ -2,7 +2,7 @@ collections:
   useful-links:
     output: true
     order:
-      - Calendar.md
       - Students.md
       - Parents.md
       - Alumni.md
+      - Calendar.md
