@@ -21,13 +21,13 @@ Education and Career Guidance:
 
 Others:  
 
-*   [School Based Helpline](https://chuachukangsec-moe-edu-sg-admin.cwp.sg/students/school-based-helpline)  - login portal required?
+*   [School Based Helpline](https://chuachukangsec-moe-edu-sg-admin.cwp.sg/students/school-based-helpline)  - login portal required
     
 *   [Student Device Information Kit](https://chuachukangsec-moe-edu-sg-admin.cwp.sg/students/student-device-information-kit)  - login portal required
     
 *   [Parent-Handbook (I) 1 to 1 Learning](/files/Parent-Handbook-I-on-1_1-Learning.pdf)
 *   [Parent Handbook (II) On Learning With a Personal Learning Device](https://chuachukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u422/Useful%20Links/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf) - file exceeds 5MB
-*   [West Zone Secondary School Stories 2021](https://chuachukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u422/Useful%20Links/West%20Zone%20Stories/WE%20STories%20%202021S2.pdf)  
+*   [West Zone Secondary School Stories 2021](https://chuachukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u422/Useful%20Links/West%20Zone%20Stories/WE%20STories%20%202021S2.pdf)  - file exceeds 5MB
     
 *   [Schoolbag: The education news site](https://www.schoolbag.sg/)  
     
