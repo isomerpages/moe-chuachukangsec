@@ -99,7 +99,7 @@ third_nav_title: School Staff
 | Class 4-1 	|  	| Mr Yu Yoong Kheong 	|  	| [yu_yoong_kheong@schools.gov.sg](mailto:yu_yoong_kheong@schools.gov.sg) 	|
 |  	|  	| Mdm Nurul Izzati Bte Nizamudin 	|  	| [nurul_izzati_nizamudin@schools.gov.sg](mailto:nurul_izzati_nizamudin@schools.gov.sg) 	|
 |  	|  	|  	|  	|  	|
-| Class 4-2 	|  	| Mdm Normala Bte Alias 	|  	| [normala_alias@schools.gov.sg](mailoto:normala_alias@schools.gov.sg) 	|
+| Class 4-2 	|  	| Mdm Normala Bte Alias 	|  	| [normala_alias@schools.gov.sg](mailto:normala_alias@schools.gov.sg) 	|
 |  	|  	| Mdm Hafizah Binte Nordin 	|  	| [hafizah_nordin_a@schools.gov.sg](mailto:hafizah_nordin_a@schools.gov.sg) 	|
 |  	|  	|  	|  	|  	|
 |   	|   	|   	|   	|   	|
@@ -124,3 +124,16 @@ third_nav_title: School Staff
 |  	|  	|  	|  	|  	|
 | Class 5-1 	|  	| Mr Chin Koi Yen 	|  	| [chin_koi_yen@schools.gov.sg](mailto:chin_koi_yen@schools.gov.sg) 	|
 |  	|  	| Mdm Uvarani d/o Munusamy 	|  	| [uvarani_munusamy@schools.gov.sg](mailto:uvarani_munusamy@schools.gov.sg) 	|
+
+
+
+
+
+| Non-Form Teacher 	|   	| Name 	|   	| Email Address 	|
+|---	|---	|---	|---	|---	|
+|  	|  	| Mdm Asmahan Binti Aman  	|  	| [asmahan_aman@schools.gov.sg](mailto:asmahan_aman@schools.gov.sg) 	|
+|  	|  	| Mr Lim Chieh Sern Jason 	|  	| [lim_chieh_sern@schools.gov.sg](mailto:lim_chieh_sern@schools.gov.sg) 	|
+|  	|  	| Mdm Sim Ching Tee Carene 	|  	| [sim_ching_tee_carene@schools.gov.sg](mailto:sim_ching_tee_carene@schools.gov.sg) 	|
+|  	|  	| Mdm Yasmeen Aysha  	|  	| [yasmeen_aysha@schools.gov.sg](mailto:yasmeen_aysha@schools.gov.sg) 	|
+|  	|  	| Ms Tan Kee Sing 	|  	| [tan_kee_sing@schools.gov.sg](mailto:tan_kee_sing@schools.gov.sg) 	|
+|  	|  	| Mdm Tay Hui Yi Esther 	|  	| [tay_hui_yi_esther@schools.gov.sg](mailto:tay_hui_yi_esther@schools.gov.sg) 	|
