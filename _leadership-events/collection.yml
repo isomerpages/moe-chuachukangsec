@@ -2,4 +2,5 @@ collections:
   leadership-events:
     output: true
     order:
+      - Prefect Camp.md
       - Student Leadership Camp.md
