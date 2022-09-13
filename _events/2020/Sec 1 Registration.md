@@ -8,7 +8,7 @@ third_nav_title: "2020"
 
 **Welcome all parents/guardian to Secondary 1 E-registration (2021 intake)!**
 
-### 1\. Secondary 1 E-Registration Form (Compulsory)
+## 1\. Secondary 1 E-Registration Form (Compulsory)
 
 Congratulations on your posting to Chua Chu Kang Secondary School! 
 
@@ -45,3 +45,5 @@ Please contact the following staff if you have any queries about the Sec 1 regis
 | Ms Oh Chew Hiang<br>(HMTL Exemption)  	| HOD <br>(Mother Tongue)  	| Mother Tongue Matters <br>Subject Based Banding 	|  [oh_chew_hiang@moe.edu.sg](mailto:oh_chew_hiang@moe.edu.sg) 	|
 |  Mdm Khatijah 	| Subject Head (Mother Tongue)  	| Mother Tongue Matters<br>(3rd Language, Hindi)  	|  [khatijah_mohamed_yatim@moe.edu.sg](mailto:khatijah_mohamed_yatim@moe.edu.sg) 	|
 | Mrs Adeline Tan 	| HOD (Student Welfare) 	| Student Wellbeing<br>Special Educational Needs 	| [lee_mui_hoon_a@moe.edu.sg](mailto:lee_mui_hoon_a@moe.edu.sg) 	|
+
+## 2\. Sale of Uniform and Books
