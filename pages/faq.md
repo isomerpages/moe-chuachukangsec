@@ -216,137 +216,70 @@ Student are encouraged to apply their learning through their CCAs and community 
 *   We constantly encourage and motivate our students to give their best and to maximise their potential.
 *   We are also mindful that a good study environment is essential for teaching and learning to take place. Our teachers too are mindful of this and work towards cultivating a strong learning culture here in CCKSS.
 
-  
-
 18. Are mobile phones allowed in the school?
-
-  
 
 *   Mobile phones are NOT allowed to be used during curriculum time unless the teacher has made provisions for the purpose of teaching & learning only. 
 *   Mobile phones can only be used before and after school at the canteen only.
 
-  
-
-  
-
-**TEACHERS**
-
-  
+##### TEACHERS
 
 19. How are the teaching staff like?
 
-  
-
 *   Our teachers are caring and committed to bring out the best in our students.  We believe in our students’ abilities and work closely with them to help them realise their full potential. There is also a strong culture of learning, sharing and collaboration among our teachers and this translates into better teaching and learning practices for our students.
 
-  
-
-**COMMUNICATION CHANNELS WITH PARENTS**
+##### COMMUNICATION CHANNELS WITH PARENTS
 
 20. How can parents be kept informed of school events and activities? What are some communication channels between parents and the school?
 
-  
-
-*   Parents can be kept informed of school events and activities via a few channels. They are the:
+Parents can be kept informed of school events and activities via a few channels. They are the:
 
 *   Parents Gateway
 *   School-Home Link (SHL) – a bi-monthly school newsletter
 *   School website ([www.chuachukangsec.moe.edu.sg](http://www.chuachukangsec.moe.edu.sg/))
 
-  
+Parents are welcome to call the school’s General Office (Tel: 67655228) should they have any queries.
 
-*   Parents are welcome to call the school’s General Office (Tel: 67655228) should they have any queries.
 
-  
-
-  
-
-**SCHOOL MERGER**
+##### SCHOOL MERGER
 
 **_Chua Chu Kang Secondary and Teck Whye Secondary will merge in 2023. The merged school will be located at Teck Whye Secondary School. Chua Chu Kang Secondary will not be participating in DSA-Sec and Sec 1 Posting from 2021 onwards._** 
 
-  
-
 21. Why are some schools with healthy enrolment merged? 
 
-  
-
-*   MOE’s priorities in planning schools are to **provide quality education**, meet demand for school places at both **national and local levels**, and ensure accessibility based on **proximity to housing developments** and **public transport**. 
-
-  
+*   MOE’s priorities in planning schools are to **provide quality education**, meet demand for school places at both **national and local levels**, and ensure accessibility based on **proximity to housing developments** and **public transport**.  
 
 *   Schools are identified for mergers based on factors such as 
 
-  
-
 *   **sufficient enrolment** to ensure critical mass for a wide range of educational programmes and co-curricular activities, 
-
-  
 
 *   the **geographical proximity** of the schools to be merged and 
 
-  
-
 *   the **infrastructure capacity to support the merged school.**
-
-  
-
-  
 
 22. What are the considerations MOE has when deciding to merge schools, as opposed to relocating them to areas with higher demand? 
 
-  
-
 *   MOE will continue to review each case, taking into account factors such as the **impact of relocation on students’ educational experience**, and whether our **plans for building** of a new school campus in a new growth area have been firmed up or are still being finalised. But since there is **overall a steady drop in our birth rates nationally**, the **norm would still be for most school mergers to be merging into one** of the existing sites, rather than to merge into a new school site in a new growth area. 
 
-  
-
-  
 
 23. How does MOE decide on the location of the merged school? 
-
-  
 
 *   The sites for the merged schools are chosen based on **overall geographical coverage** of primary and secondary schools, **accessibility to transport**, and the **quality of infrastructure**, such as the **age of the school buildings and facilities**.   
     
 
-  
-
-  
-
 24. Will Teck Whye Secondary’s campus be able to accommodate the combined enrolment of the merged school? 
-
-  
 
 *   MOE will ensure that the students enrolled will have sufficient spaces to learn in. The physical infrastructure of schools is an important aspect of the overall learning environment as learning spaces and facilities support curriculum delivery. 
 *   MOE will continue to work with the schools to ensure that they have the requisite infrastructure and resources to effectively deliver their curriculum.
 
-  
-
-  
-
 25. What will be the names of the merged schools and what are some of the key considerations when MOE names schools? 
-
-  
 
 *   In naming the merged schools, MOE will consider a range of factors, including the schools’ history and heritage, enrolments, as well as stakeholders’ interests and sentiments of all schools involved. The names of the merged schools will be announced at a later date. 
 
-  
-
-  
-
 26. Will there be a new set of uniform and new school crests for the merged schools? 
-
-  
 
 *   School leaders will consider the **histories of the merging schools**, the **sentiments of its stakeholders** and the **impact of such changes on its students**, **both past and present**, when making such decisions. Even when merged schools decide to forge a new school identity by changing its uniform and/or school crest, **they do not need to implement the changes immediately. Students who require financial assistance to purchase new uniform etc. may approach the school.**
 
-  
-
-  
 
 27. We understand that CCKSS will not be taking in any Sec 1s in 2022, how can interested students join CCKSS? 
-
-  
 
 *   Interested Sec 1 students can consider choosing Teck Whye Secondary in 2022 and enjoy the best of both schools’ programmes, resources and expertise when both schools merge in 2023.
