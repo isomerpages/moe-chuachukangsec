@@ -139,3 +139,7 @@ If your child is unwell or has flu-like symptoms on 04 January, please call the 
 | Reporting venue 	|  	| Classroom 	|  	|
 | Reporting Time 	|  	| 7.35am 	|  	|
 |  Dismissal Time 	|  2.00pm 	| 4.00pm  	| 5.30pm  	|
+
+**\* Sec 1 students will be informed of their form class on the first day of school, Monday, 4 Jan 2021, and receive their class timetable.**
+
+Parents who are onboard Parent Gateway will receive a notification of the assigned form class by 30 December 2020.
