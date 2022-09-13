@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: https://google.com
+          url: /announcements/
         - title: Events
           description: Important highlight B is equally important
           url: https://gmail.com
