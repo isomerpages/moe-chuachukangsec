@@ -18,3 +18,6 @@ Based on students posted to Sec 1 in 2021:
 | ---	| ---	| ---	|---	|
 | T-score<br><br>(Source: 2020 Secondary 1 Information Booklet) 	| 216 - 236 	| 173 - 193 	| 132 - 159 	|
 | Achievement Level (AL)<br><br>(Source: 2021 Secondary 1 Information Booklet) 	| 12 - 19 	| 21 - 24 	| 25 - 27 	|
+
+**Remarks**  
+Meeting the indicative cut-off point (COP) does not guarantee admission to the school. The current year’s PSLE Score ranges may vary, depending on the demand pattern and cohort size.
