@@ -21,3 +21,11 @@ Based on students posted to Sec 1 in 2021:
 
 **Remarks**  
 Meeting the indicative cut-off point (COP) does not guarantee admission to the school. The current year’s PSLE Score ranges may vary, depending on the demand pattern and cohort size.
+
+2. How is Chua Chu Kang Secondary School’s academic performance?  
+We are doing well vis-à-vis comparable schools:
+
+*   Our students perform well in national examinations with most of the subjects exceeding national averages.
+*   97% of our 4E students are eligible for JC/Poly. 
+*   Close to 74% of 4NA students are eligible for DPP.
+*   100% of our 4NT pupils are eligible for ITE.
