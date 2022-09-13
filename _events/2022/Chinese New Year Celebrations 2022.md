@@ -41,3 +41,5 @@ Soon, beautiful music emanated from the Foyer. It was the Chinese Orchestra sere
 To evoke the CNY vibe, our Parents Support Group (PSG) formed a virtual choir singing CNY songs. Following the PSG segment, the winners of the CNY class decoration competition and handicraft competition were announced. Class 2/2,  2/4, 3/3, 3/7, 4/4, and 4/8 won the Class Decoration Competition while Irdina Qaisara (2/2), Jean Capuno (2/6), Lim Tze Hyeng (3/5), James Teo (3/8), Mandy (4/5) and  Xie Jiayi (4/6) won the Handicraft Competition. Thunderous applause and loud cheers could be heard reverberating throughout the school. It was a proud moment for the students.  
   
 The day ended on a high note with teachers giving out red packets filled with chocolate coins to students from their form class.  The CNY Concert Organising Committee had certainly outdone themselves. This was a celebration that will forever be etched in our minds!
+
+![](/images/CNY2022%20-%2011.jpg)
