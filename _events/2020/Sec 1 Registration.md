@@ -131,3 +131,11 @@ Female student with long hair ties her hair neatly, with fringes below the eyebr
 *   thermometer
 
 If your child is unwell or has flu-like symptoms on 04 January, please call the school at 6765 5228 to inform that he/she is unwell.
+
+##### Orientation Programme (4 – 6 Jan 2021)
+
+|  	| 4 Jan (Mon) 	| 5 Jan (Tue) 	| 6 Jan (Wed) 	|
+|:---:	|:---:	|:---:	|---	|
+| Reporting venue 	|  	| Classroom 	|  	|
+| Reporting Time 	|  	| 7.35am 	|  	|
+|  Dismissal Time 	|  2.00pm 	| 4.00pm  	| 5.30pm  	|
