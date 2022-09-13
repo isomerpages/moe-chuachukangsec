@@ -32,3 +32,11 @@ Recipient of The Lee Kuan Yew Award for All-Round Excellence
 ### Vibrant CCAs
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8PpsWiQ9Jiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### CCKSS & TWSS Merger
+
+- merged with 'CCKSS & TWSS Merger' page - [original site](https://chuachukangsec-moe-edu-sg-admin.cwp.sg/events/2022/e-open-house/cckss-n-twss-merger)
+
+Teck Whye Secondary School and Chua Chu Kang Secondary School will merge in 2023. Chua Chu Kang Secondary School will not be taking in Secondary 1 students from 2022. The merged school will be located at the current site of Teck Whye Secondary School. 
+
+Both schools are working together to bring about a richer, more vibrant school experience for our students!
