@@ -52,8 +52,6 @@ In view of Safe Management Measures, we strongly encourage you to **purchase yo
 
 Kindly show email confirmation of the appointment to the Security Guards before entering the school during the appointment timeslot to collect books.
 
-  
-
 ### **Pacific Bookstores Pte Ltd (Tel: 6559 2269)**   
 
 Starting from 23rd December 2020, the school textbooks can be purchased online at [www.pacificbookstores.com](http://www.pacificbookstores.com/) and payment can be made through cash or credit card.
@@ -66,3 +64,41 @@ Please do not purchase the books first if
 |  	|  	|
 |---	|---	|
 | 1. Your child/ward is not offered a Higher Mother Tongue Language (HMTL) by MOE but would like to study the subject.<br><br>Please note that your child/ward will be informed of the application process by his/her MTL teacher during the first week of school. 	| 2. You have not decided whether to accept or reject the Subject Based Banding (SBB) offer. You may continue to purchase the books once you have come to a decision to accept or reject the offer.  	|
+
+The textbook lists for the various streams can be downloaded below.  
+  
+[CCKSS Sec 1 NT Booklist.pdf](/files/CCKSS%20Sec%201%20NT%20Booklist.pdf)   
+[CCKSS Sec 1 NA Booklist.pdf](/files/CCKSS%20Sec%201%20NA%20Booklist.pdf)   
+[](/files/CCKSS%20Sec%201%20Exp%20Booklist.pdf) 
+
+### Intrend Uniforms (Tel: 6741 0930)
+
+The school textbooks can be purchased online at [https://www.intrenduniforms.com/uniforms/school/chua-chu-kang-secondary-school](https://www.intrenduniforms.com/uniforms/school/chua-chu-kang-secondary-school) (delivery fees is applicable for home delivery or you may choose to self-collect at the school). Kindly note that payment can be made through cash, Nets or PAYNOW.  
+
+Students must purchase their PE T-shirts according to the Houses they are assigned to. You will receive a message via Parent Gateway on the House colour they are assigned to on 22 December, after 2pm. 
+
+Parents who are not onboard Parent Gateway will receive a WhatsApp message to inform you of your child’s house colour. 
+
+Parents may choose to purchase 
+
+* 2 shirts
+* 2 bermudas (boys) OR 2 skirts (girls)
+* 2 house T-shirt 
+* 2 PE shorts 
+
+Please note that the skirt must be knee length. 
+
+You may refer to the attached for more information. 
+
+  
+[Uniform Pamphlet for Chua Chu Kang 2020.pdf](/files/Uniform%20Pamphlet%20for%20Chua%20Chu%20Kang%202020.pdf)   
+[Size Chart for School Uniform and PE Attire Chua Chu Kang Secondary School.pdf](/files/Size%20Chart%20for%20School%20Uniform%20and%20PE%20Attire%20Chua%20Chu%20Kang%20Secondary%20School.pdf)   
+  
+
+### Financial Assistance
+
+Applied and Approved
+
+For students who have received MOE-FAS approval letter from other school/former Primary School, we will contact you for an appointment to collect the FAS Redemption Vouchers for books, uniforms, shoes and socks. Due to Covid-19 Safety Management Measures, please expect a longer waiting time and students should only be accompanied by **one parent/guardian**. 
+
+For students who wish to apply, kindly refer to FAQ Financial Assistance.
