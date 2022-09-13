@@ -24,5 +24,6 @@ In the live broadcast segment, we were treated to performances by both students 
 ![](/images/CNY21-06.jpg)
 
 <img src="/images/CNY21-05.jpg" 
-     style="width:50%"> 
-
+     style="width:50%">
+		 
+(Insert photo gallery) - 0/9 uploaded
