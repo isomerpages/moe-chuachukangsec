@@ -52,7 +52,7 @@ In view of Safe Management Measures, we strongly encourage you to **purchase yo
 
 Kindly show email confirmation of the appointment to the Security Guards before entering the school during the appointment timeslot to collect books.
 
-### **Pacific Bookstores Pte Ltd (Tel: 6559 2269)**   
+**Pacific Bookstores Pte Ltd (Tel: 6559 2269)**   
 
 Starting from 23rd December 2020, the school textbooks can be purchased online at [www.pacificbookstores.com](http://www.pacificbookstores.com/) and payment can be made through cash or credit card.
 
