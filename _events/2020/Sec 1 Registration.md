@@ -143,3 +143,7 @@ If your child is unwell or has flu-like symptoms on 04 January, please call the 
 **\* Sec 1 students will be informed of their form class on the first day of school, Monday, 4 Jan 2021, and receive their class timetable.**
 
 Parents who are onboard Parent Gateway will receive a notification of the assigned form class by 30 December 2020.
+
+## FAQ
+
+For more information, click here.
