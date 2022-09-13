@@ -2,5 +2,6 @@ collections:
   events:
     output: true
     order:
+      - 2022/e Open House.md
       - 2022/Chinese New Year Celebrations 2022.md
       - 2022/.keep
