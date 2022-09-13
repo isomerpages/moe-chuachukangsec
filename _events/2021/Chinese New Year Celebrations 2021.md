@@ -20,3 +20,9 @@ The classroom decoration competition saw the corridors reflecting vibrant red an
 ![](/images/CNY21-04.jpg)
 
 In the live broadcast segment, we were treated to performances by both students and teachers. It also included what is now a staple in our CNY celebrations – a breath-taking performance of power, agility and grace by students from the Wushu CCA. The live broadcast was followed by an escape room challenge. Excited students from all classes put on their thinking caps to solve puzzles and breakout from a virtual escape room. The celebrations ended with the traditional gifting of mandarin oranges from the Class Chairperson to the teachers.
+
+![](/images/CNY21-06.jpg)
+
+<img src="/images/CNY21-05.jpg" 
+     style="width:50%"> 
+
