@@ -14,3 +14,5 @@ Chen Jia Yi of Sec 2/5 said the 3R’s Waste to Gems programme taught her how ev
 Take a look at how students turn old t-shirts into useful coasters.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fp494HjcqLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![](/images/Green.jpg)
