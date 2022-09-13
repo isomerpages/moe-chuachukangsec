@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2020/.keep
       - 2021/Chinese New Year Celebrations 2021.md
       - 2021/School wide 3 Day Orientation Programme.md
       - 2021/.keep
