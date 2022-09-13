@@ -29,3 +29,8 @@ We are doing well vis-à-vis comparable schools:
 *   97% of our 4E students are eligible for JC/Poly. 
 *   Close to 74% of 4NA students are eligible for DPP.
 *   100% of our 4NT pupils are eligible for ITE.
+
+
+##### School Hours
+
+3. What is the school start and end time?
