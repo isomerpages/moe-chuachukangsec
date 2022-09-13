@@ -11,3 +11,12 @@ Welcome to our e-Open House 2021!
 ### Principal's Message 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ko7_kToXV-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### The CCKSS Experience 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/otI-UCFSPVo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### CCKSians in Action
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7VsY8VXkKuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
