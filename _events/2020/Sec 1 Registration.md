@@ -31,7 +31,7 @@ The 2021 school year will start on **Monday, Jan 4**. Click on the link ‘Firs
 ##### Step 5: Personalised Digital Learning Programme (PDLP) 
 
 
-### Support 
+##### Support 
 
 We have a strong team of teachers and administrative staff supporting the growth of every child in our school.
 
