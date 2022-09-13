@@ -27,3 +27,8 @@ Welcome to our e-Open House 2021!
 Recipient of The Lee Kuan Yew Award for All-Round Excellence 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6XfazMH5yo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Vibrant CCAs
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8PpsWiQ9Jiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
