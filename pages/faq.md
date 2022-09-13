@@ -40,3 +40,8 @@ We are doing well vis-à-vis comparable schools:
 *   The bell rings at 7.42am for morning flag-raising.  We encourage our students to be punctual for school and to come earlier at about 7.30am to quiet themselves by reading and to prepare to start the school day.
 
 **Tentative School End Time subjected to time table changes**
+
+| Monday 	| Tuesday 	| Wednesday 	| Thursday 	| Friday 	|
+|:---:	|:---:	|:---:	|:---:	|:---:	|
+| End of Lesson:<br>3pm 	| End of Lesson:<br>3 / 3.30pm 	| End of Lesson: <br>1.30 pm 	| End of Lesson: <br>3 / 3.30pm 	| End of Lesson: <br>1pm 	|
+|  	| Afternoon Lessons<br>(Remedial / Enrichment): <br>4 / 4.30pm<br><br><br><br><br> 	| Mass Reading:<br>2 - 2.30pm<br><br>CCA: <br>2.45 - 5.30pm<br><br><br><br> 	| Afternoon Lessons<br>(Remedial / Enrichment):<br>4 / 4.30pm<br><br><br><br><br> 	| CL MassReading: <br>1 - 1.30pm<br><br>CCA (Alternate): <br>2.15 - 5.30pm<br><br>Blended Learning Day (Alternate)<br>- Home Based Learning  	|
