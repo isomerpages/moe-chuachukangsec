@@ -129,3 +129,5 @@ Female student with long hair ties her hair neatly, with fringes below the eyebr
 *   water bottle
 *   mask 
 *   thermometer
+
+If your child is unwell or has flu-like symptoms on 04 January, please call the school at 6765 5228 to inform that he/she is unwell.
