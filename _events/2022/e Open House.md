@@ -43,4 +43,9 @@ Both schools are working together to bring about a richer, more vibrant school e
 
 ### In The News 
 
-Click [here](https://staging.du7l9z039t2jh.amplifyapp.com/about-us/school-achievements/in-the-news/) for more information
+Click [here](https://staging.du7l9z039t2jh.amplifyapp.com/about-us/school-achievements/in-the-news/) for more information.
+
+
+### FAQ
+
+Click here for more information
