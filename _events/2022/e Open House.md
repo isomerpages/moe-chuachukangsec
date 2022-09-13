@@ -48,4 +48,4 @@ Click [here](https://staging.du7l9z039t2jh.amplifyapp.com/about-us/school-achiev
 
 ### FAQ
 
-Click here for more information
+Click [here](/faq/) for more information
