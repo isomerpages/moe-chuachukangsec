@@ -19,3 +19,17 @@ As they enter the final year in CCKSS, the Secondary Four and Five students took
 At the end of the three days, the students were ready to start the year on the right note. 
 
 “Through the workshops during our orientation, I learned the importance of time management and how to properly schedule my timetable. I find it easier to get tasks done in time without procrastination! It was definitely a fruitful three days we went through which better prepared us to start the year.” (Sua Jia Wen, 3/6)
+
+![](/images/levelcamp_(lowRes)002.jpg)
+
+![](/images/levelcamp_(lowRes)003.jpg)
+
+![](/images/levelcamp_(lowRes)004.jpg)
+
+![](/images/levelcamp_(lowRes)005.jpg)
+
+![](/images/levelcamp_(lowRes)006.jpg)
+
+![](/images/levelcamp_(lowRes)007.jpg)
+
+![](/images/levelcamp_(lowRes)008.jpg)
