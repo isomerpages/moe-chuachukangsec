@@ -71,7 +71,7 @@ The textbook lists for the various streams can be downloaded below.
 [CCKSS Sec 1 NA Booklist.pdf](/files/CCKSS%20Sec%201%20NA%20Booklist.pdf)   
 [](/files/CCKSS%20Sec%201%20Exp%20Booklist.pdf) 
 
-### Intrend Uniforms (Tel: 6741 0930)
+##### Intrend Uniforms (Tel: 6741 0930)
 
 The school textbooks can be purchased online at [https://www.intrenduniforms.com/uniforms/school/chua-chu-kang-secondary-school](https://www.intrenduniforms.com/uniforms/school/chua-chu-kang-secondary-school) (delivery fees is applicable for home delivery or you may choose to self-collect at the school). Kindly note that payment can be made through cash, Nets or PAYNOW.  
 
@@ -95,10 +95,37 @@ You may refer to the attached for more information. 
 [Size Chart for School Uniform and PE Attire Chua Chu Kang Secondary School.pdf](/files/Size%20Chart%20for%20School%20Uniform%20and%20PE%20Attire%20Chua%20Chu%20Kang%20Secondary%20School.pdf)   
   
 
-### Financial Assistance
+##### Financial Assistance
 
 Applied and Approved
 
 For students who have received MOE-FAS approval letter from other school/former Primary School, we will contact you for an appointment to collect the FAS Redemption Vouchers for books, uniforms, shoes and socks. Due to Covid-19 Safety Management Measures, please expect a longer waiting time and students should only be accompanied by **one parent/guardian**. 
 
 For students who wish to apply, kindly refer to FAQ Financial Assistance.
+
+## 3\. Principal's Address
+
+![](/images/Welcome%20to%20CCKSS.jpg)
+
+## 4\. First Day of School
+
+Students are to assemble at the classroom for the flag-raising ceremony by 7.35 am. Assembly starts at 7.45 am. Students will be dismissed at 2.00 pm.  
+
+Students should practice good personal grooming. 
+
+Male students should wear his hair short and neat. He does not keep a beard, moustache or long sideburns 
+
+and does not dye his hair. He also keeps his fingernails clean and short. 
+
+Female student with long hair ties her hair neatly, with fringes below the eyebrow pinned up neatly, and using only dark coloured hair accessories. Cosmetics, nail polish or coloured contacts lenses are not allowed. 
+
+**Given the ongoing Covid 19 situation please note the following arrangements. **
+
+1\.  Please note parents are not allowed to come into CCKSS to minimize intermingling and the school gate will be kept closed at all times except for authorized vehicles.    
+2\.  We seek your cooperation to drop off your child after the school gate at the drop off point. We also seek your assistance in not stopping to drop off your child before the traffic lights which are just before the school and not to make U-turns for the safety of other road users.           
+3\.  Students who have not purchased their school uniform may come in their primary school uniform on the first day. Students who have purchased their uniforms are to report in full school uniform.              
+4\.  There is no need to bring any books on the first day of school. However, students are required to bring along   
+*   writing materials
+*   water bottle
+*   mask 
+*   thermometer
