@@ -135,7 +135,7 @@ If your child is unwell or has flu-like symptoms on 04 January, please call the 
 ##### Orientation Programme (4 – 6 Jan 2021)
 
 |  	| 4 Jan (Mon) 	| 5 Jan (Tue) 	| 6 Jan (Wed) 	|
-|:---:	|:---:	|:---:	|---	|
+|:---:	|:---:	|:---:	|:---:	|
 | Reporting venue 	|  	| Classroom 	|  	|
 | Reporting Time 	|  	| 7.35am 	|  	|
 |  Dismissal Time 	|  2.00pm 	| 4.00pm  	| 5.30pm  	|
