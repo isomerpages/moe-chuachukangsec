@@ -12,3 +12,8 @@ third_nav_title: "2021"
 ![](/images/CNY21-02.jpg)
 
 CCKSS celebrated Chinese New Year on 11th February 2021. In what is becoming the norm, the celebration was a mix of live and recorded performances broadcasted live for everyone’s enjoyment in the classrooms. This did not mean that students simply sat through the performances, as they were actively engaged in a variety of tasks and competitions.
+
+![](/images/CNY21-03.jpg)
+
+The classroom decoration competition saw the corridors reflecting vibrant red and gold after the students’ hard work. Students continued showcasing their creativity in a handicraft competition, making small oxen craftwork representing the Chinese Zodiac for the new year.
+
