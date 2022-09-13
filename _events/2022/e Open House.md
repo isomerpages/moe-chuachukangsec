@@ -40,3 +40,7 @@ Recipient of The Lee Kuan Yew Award for All-Round Excellence
 Teck Whye Secondary School and Chua Chu Kang Secondary School will merge in 2023. Chua Chu Kang Secondary School will not be taking in Secondary 1 students from 2022. The merged school will be located at the current site of Teck Whye Secondary School. 
 
 Both schools are working together to bring about a richer, more vibrant school experience for our students!
+
+### In The News 
+
+Click [here](https://staging.du7l9z039t2jh.amplifyapp.com/about-us/school-achievements/in-the-news/) for more information
