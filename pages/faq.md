@@ -34,3 +34,9 @@ We are doing well vis-à-vis comparable schools:
 ##### School Hours
 
 3. What is the school start and end time?
+
+**School Start Time**
+
+*   The bell rings at 7.42am for morning flag-raising.  We encourage our students to be punctual for school and to come earlier at about 7.30am to quiet themselves by reading and to prepare to start the school day.
+
+**Tentative School End Time subjected to time table changes**
