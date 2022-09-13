@@ -43,3 +43,5 @@ To evoke the CNY vibe, our Parents Support Group (PSG) formed a virtual choir si
 The day ended on a high note with teachers giving out red packets filled with chocolate coins to students from their form class.  The CNY Concert Organising Committee had certainly outdone themselves. This was a celebration that will forever be etched in our minds!
 
 ![](/images/CNY2022%20-%2011.jpg)
+
+(insert photo gallery) - 0/8 uploaded
