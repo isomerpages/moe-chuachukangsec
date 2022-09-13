@@ -41,7 +41,23 @@ We are doing well vis-à-vis comparable schools:
 
 **Tentative School End Time subjected to time table changes**
 
+**Secondary 2:**
+
 | Monday 	| Tuesday 	| Wednesday 	| Thursday 	| Friday 	|
 |---	|---	|---	|---	|---	|
 | End of Lesson:<br>3pm 	| End of Lesson:<br>3 / 3.30pm 	| End of Lesson: <br>1.30 pm 	| End of Lesson: <br>3 / 3.30pm 	| End of Lesson: <br>1pm 	|
 |  	| Afternoon Lessons<br>(Remedial / Enrichment): <br>4 / 4.30pm<br><br><br><br><br> 	| Mass Reading:<br>2 - 2.30pm<br><br>CCA: <br>2.45 - 5.30pm<br><br><br><br> 	| Afternoon Lessons<br>(Remedial / Enrichment):<br>4 / 4.30pm<br><br><br><br><br> 	| CL MassReading: <br>1 - 1.30pm<br><br>CCA (Alternate): <br>2.15 - 5.30pm<br><br>Blended Learning Day (Alternate)<br>- Home Based Learning  	|
+
+**Upper Secondary**
+
+*   End times are different depending on courses and subject combinations. 
+*   The latest end time on non-CCA days is 4.30pm.
+
+
+##### Afternoon Lessons
+
+4. Are there lessons in the afternoon?
+
+*   Yes, there are usually consultation, supplementary or other enrichment lessons on Monday, Tuesday and Thursday afternoons. 
+*   The schedule for afternoon lessons will be issued to the students and placed on the class noticeboard. A copy of the afternoon lesson schedule will also be made available on the school website.
+*   Upper Secondary may have extended curriculum up to 3.30pm or 4.30pm on Tuesdays and Thursdays, depending on their subject combination.
