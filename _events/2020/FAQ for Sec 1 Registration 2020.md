@@ -39,3 +39,26 @@ For students who wish to apply for Financial Assistance, please refer to MOE-FAS
 [FAS\_Annex A.pdf](/files/FAS_Annex%20A.pdf)   
 
 [MOE FAS Application Form.pdf](/files/MOE%20FAS%20Application%20Form.pdf)
+
+
+### FAQ MTL Matters
+
+##### SECTION 1: SECOND LANGUAGE
+
+Under MOE’s bilingual policy, all students must offer English and an official MTL. 
+
+Learning difficulty in MTL is not a valid reason to apply for MTL exemption. MTL exemption should only be considered as a last resort for students under exceptional circumstances as highlighted below:
+
+**a) Mid-stream Entry**
+
+The student enters our school system mid-stream after prolonged absence from our school system and with no or weak prior learning of any of our MTLs or languages that can be offered as MTL-in-lieu. Applications are evaluated on a case-by-case basis and several factors will be taken into consideration holistically, including:
+
+a. Duration and location(s) of the student’s stay overseas   
+b. Prior language learning   
+c. MTL curriculum and assessment demands 
+
+**b) Special Educational Needs**
+
+The student has certified Special Educational Needs (SEN) and shows severe difficulty in coping with his overall learning.
+
+If you would like to apply for MTL exemption based on Point a) or b) above, please leave a message in the question segment of the registration form for our Head of Department for MTL to get in touch with you.
