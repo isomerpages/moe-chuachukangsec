@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2017/Graduation Ceremony 2017.md
       - 2017/Deepavali 2017.md
       - 2017/Cross Country 2017.md
       - 2017/Chinese New Year Celebrations 2017.md
