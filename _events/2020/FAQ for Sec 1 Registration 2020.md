@@ -171,3 +171,84 @@ The results of the appeals will only be made known to applicants on 4 January 20
 
 
 ### **FAQ Personalised Digital Learning Programme (PDLP) for Parents**
+
+**Q1. How much does my child have to pay for the device?**
+
+MOE will use bulk tenders to keep the Personal Learning Devices (PLDs) affordable. MOE has also provided a one-off Edusave top-up of $200 in April 2020 to all eligible Singaporean students in primary and secondary schools, including those in Special Education (SPED) schools, to help them purchase the devices selected by the school.
+
+This is on top of the annual Edusave contribution of $290 for secondary students. Students who do not have sufficient funds in their Edusave will need to bear some out of-pocket expenses for the device, but we do not expect this to be a big amount. 
+
+For students on financial assistance, MOE will provide further subsidies so that their out-of-pocket expenses is zero. This is to ensure that no student is denied the opportunity to benefit from the programme. 
+
+Students may approach the school if they require financial assistance. More details will be shared in January 2021.  
+
+**Q2. Can my child not purchase the device?**
+
+Every student is required to have a device for teaching and learning purposes and is encouraged to purchase one through the school via MOE’s bulk tender. Students are encouraged to use the device model prescribed by the school, as the uniformity of systems and software would ensure a smooth learning experience for everyone. The device purchased through the school will come with the necessary warranty and insurance as well.
+
+Students who do not wish to purchase a device because they already have their own devices will have to check with the school to ascertain whether the specifications of their existing devices meet the schools’ requirements. These existing devices must also be installed with a Device Management Application (DMA) software to manage the student’s access and usage. Only school’s installed DMA software learning device can be used in school.
+
+
+**Q3. My child loaned a device from the school for Home-Based Learning (HBL). Can he/she continue to use the loaned device instead of purchasing a new one?**
+
+Students are encouraged to use the device model prescribed by the school under the PLD initiative, as the uniformity of systems and software would ensure a smooth learning experience for them. The devices will be used both in and out of class. In class, the devices will be used to support learning of the curriculum subjects independently or collaboratively. Beyond the classroom, students will be able to use the device for home-based learning.
+
+Devices purchased under the PLD initiative belong to the students, and they can continue to use the devices after graduation. For students who are receiving financial assistance, they will be provided additional subsidies such that their out-of-pocket expenses for the device will be zero.
+
+**Q4. What type of device will be purchased?**
+
+Lenovo Chromebook 500e 2nd Gen (Convertible)
+
+**Q5. What is included in the purchase of the device?**
+
+The Chromebook will come with a Power Adaptor/Charger and a Carrier bag. The devices will also come with either the base device bundle with 1-year insurance and 1-year warranty, or the enhanced device bundle with 3-year insurance and a 3-year warranty. More details will be shared in January 2021.
+
+
+**Q6. What happens if the device is spoilt?**
+
+Your child should bring the device to our school’s ICT Helpdesk for a check. If the device has to be sent for repair, the ICT Helpdesk will loan your child a school’s device so that his/her learning will not be interrupted.
+
+**Q7. What happens if the device is stolen/lost?**
+
+
+The devices will come with either the base device bundle with 1-year insurance and 1-year warranty, which allows for one repair or one replacement, or the enhanced device bundle with 3-year insurance and 3-year warranty, which allows for two repairs or one replacement.
+
+The insurance coverage is only applicable to situations of damage and loss even though the student has taken the necessary precautions to safeguard the device.
+
+If the replacement of device is not/no longer covered by the insurance, the replacement device will have to be paid for by the parents/student. Schools can facilitate the purchase of a replacement device and students’ Edusave funds can be used if available. MOE will provide subsidies to minimise the out-of-pocket expense
+
+for lower-income students who need to replace their devices which are no longer covered by insurance. 
+
+  
+
+**Q8. When will my child be receiving the device?**
+
+Your child will receive his/her devices by March 2021. More details will be shared in early January 2021.  
+
+**Q9. What happens to the device after my child graduates?**
+
+The school will uninstall the Device Management Application (DMA) from the devices upon students’ graduation, and students will have full control and personal ownership over their devices afterwards. If the student’s device needs to be installed with DMA in JC/MI, it can be reinstated.
+
+**Q10. How will the device be used by my child?**
+
+The devices will be used to complement classroom teaching by promoting active learning and greater personalisation of students’ schooling experience. Students can make use of digital tools such as calendaring and note-taking applications to enhance their personal productivity. They will also have more opportunities to connect, discuss and collaborate with their peers through digital platforms such as the Singapore Student Learning Space (SLS).
+
+The device can also be used beyond the classroom for home-based and self-directed learning, so that students can benefit from a seamless learning experience in school and outside of school.
+
+**Q11. How are schools helping my child to manage the use of the device?**  
+
+All devices under the initiative will have a Device Management Application (DMA) installed. The DMA is a suite of software installed in the device to enable the school and parents to manage and monitor device usage by students.
+
+The DMA would restrict the type of applications and websites accessible by students and limit the students’ screen time. For example, inappropriate websites with adult or extremist content, as well as gaming and gambling websites or applications, will all be restricted. Schools will have the discretion to decide on the applications and websites to enable or disable.
+
+The DMA would allow the school to remotely download appropriate teaching and learning applications, as well as security patches, into every student’s device. In addition, the DMA comes with classroom management capabilities to assist teachers in actively monitoring and controlling the students’ screens during lesson time, for better student management and effective teaching.
+
+In addition, through CCE lessons, students will be taught how to embrace the convenience of technology while maintaining a balanced lifestyle between online and offline activities, and to be a safe and responsible user of technology.
+
+**Q12. How is MOE helping my child to manage possible cyber risks?**
+
+As part of the school’s Cyber Wellness education, students learn how to take responsibility for their online well-being, and how to be positive role models to others in creating safe and kind online communities. The revised CCE 2021 will also feature cyber wellness education more strongly, with updated authentic scenarios used, to better equip students to navigate online spaces safely and help develop a more supportive cyber environment.
+
+**Q13. How is the school training my child to manage their device?**
+
+To develop good and responsible device usage habits in our students, they will be trained by the school on Safe Management of device routines as well as teaching and learning routines in 2021. The school will also be purchasing individual lockers where all students will be briefed to keep their device in the lockers when not in use. Students would have to purchase their own number locks to be used for subsequent years. More info will be shared with parents in 2021.
