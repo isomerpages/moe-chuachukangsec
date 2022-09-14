@@ -168,3 +168,6 @@ c. Physical disabilities (e.g. using wheelchair, crutches).
 These students should first report to the secondary school that they were posted to on the next working day after the release of posting results, and apply for a transfer there. All applications must be accompanied with the relevant supporting documents. 
 
 The results of the appeals will only be made known to applicants on 4 January 2020. Applicants should continue to attend lessons at their posted school while waiting for the results of the appeal. They may check the outcome of their appeals with the secondary school that they were posted to.
+
+
+### **FAQ Personalised Digital Learning Programme (PDLP) for Parents**
