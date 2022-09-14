@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2018/25KM Challenge.md
       - 2018/Sec 1 Orientation 2018.md
       - 2018/School wide Values in Action (VIA).md
       - 2018/Cross Country 2018.md
