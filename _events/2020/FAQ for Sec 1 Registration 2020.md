@@ -110,3 +110,26 @@ Our school offers HMTL to students who are competent in their MTL.  The objectiv
 3\.  A student who obtains at least a grade of D7 in HMTL at the GCE ‘O’ Level Examination will be considered to have satisfied the MTL requirement for admission to the National University of Singapore, Nanyang Technological University and Singapore Management University. As such, he/she can be exempted from taking H1 MTL in JC/MI.
 
 Note: <sup>1</sup> If a student uses HMT as his/her L1, he/she is not allowed to use MT in the computation of  R5/R4, as MOE only allows students to use ONE MT grade at any one time, and not both. If he/she uses EL as his L1, he/she can choose either the HMT or MT grade for the computation of R5/R4, whichever is better.
+
+##### Application Process for HMTL:
+
+**A)      For students offered HMTL by MOE** 
+
+Students identified by MOE to offer HMTL at secondary level will receive a notification via Parents Gateway. They are to indicate in the online form if they would like to opt in for HMTL at secondary level by the given deadline. 
+
+**B)      For students NOT offered HMTL by MOE** 
+
+All students will be briefed by his/her MTL teacher during the first MTL lesson on the syllabus differences between MTL and HMTL. Students who do not meet MOE’s criteria but wish to offer HMTL may get an application form from their MTL teachers during the first MTL lesson. Applicants will have to go through a selection process based on the following:
+
+1\.  A proficiency test that will be administered during the 3rd / 4th lesson. The test comprises questions on grammar and a section on writing. No preparation is required.
+
+2\.  HMTL lessons in January.  During this period, students will be assessed on their 
+
+*   aptitude in the language (assessed through daily assignments, class participation), and 
+*   attitude in HMTL class.
+
+3\.  The results of the final selection for HMTL will be announced to students by 1 February.
+
+
+**Important:**    
+**Please DO NOT purchase any MTL books if your child / ward is applying for HMTL. You may do so after the release of the selection results.**
