@@ -18,6 +18,8 @@ Magical night with our Silver Jubilee Musical - Aladdin!
 
 ![](/images/Musical_004.jpg)
 
+(uploaded 5 out of 10)
+
 **Musical Programme e-brochure:**
 
 [CCKSS Musical Aladdin Programme.pdf](/files/CCKSS%20Musical%20Aladdin%20Programme.pdf)
