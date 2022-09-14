@@ -23,3 +23,5 @@ Parents will receive a notification via Parent Gateway to accept or reject the o
 Do purchase the books once you have confirmed whether to accept or reject the offer. 
 
 You may refer to the FAQ document below for more information.
+
+[FAQ Subject Based Banding NT NA students.pdf](/files/FAQ%20Subject%20Based%20Banding%20NT%20NA%20students.pdf)
