@@ -16,15 +16,9 @@ sections:
           description: ""
           url: /announcements/
         - title: Events
-          description: Important highlight B is equally important
-          url: https://gmail.com
+          description: ""
+          url: /events/2022/chinese-new-year-celebrations-2022/
         - title: Useful Links
           description: ""
           url: /useful-links/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
