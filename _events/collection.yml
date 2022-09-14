@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2017/Values in Action (ViA).md
       - 2017/Sports Day 2017.md
       - 2017/Prefect Investiture 2017.md
       - 2017/Speech Day 2017.md
