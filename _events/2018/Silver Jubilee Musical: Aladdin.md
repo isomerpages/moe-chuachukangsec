@@ -25,4 +25,4 @@ Magical night with our Silver Jubilee Musical - Aladdin!
 [CCKSS Musical Aladdin Programme.pdf](/files/CCKSS%20Musical%20Aladdin%20Programme.pdf)
 
 
-#### Appreciation Night
+### Appreciation Dinner
