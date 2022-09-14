@@ -38,4 +38,4 @@ Click [here](https://staging.du7l9z039t2jh.amplifyapp.com/about-us/school-achiev
 
 ### FAQ
 
-For more information, click here
+For more information, click [here](/events/2020/faqs-for-e-open-house/).
