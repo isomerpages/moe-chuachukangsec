@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2018/.keep
       - 2019/Chinese New Year Celebrations 2019.md
       - 2019/Sports Day 2019.md
       - 2019/School wide Values in Action (VIA).md
