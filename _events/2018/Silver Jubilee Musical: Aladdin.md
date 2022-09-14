@@ -8,3 +8,16 @@ third_nav_title: "2018"
 
 Magical night with our Silver Jubilee Musical - Aladdin!
 
+![](/images/(COVER)%20Musical%20Programme%20Brochure.jpg)
+
+![](/images/Musical_001.jpg)
+
+![](/images/Musical_002.jpg)
+
+![](/images/Musical_003.jpg)
+
+![](/images/Musical_004.jpg)
+
+**Musical Programme e-brochure:**
+
+[CCKSS Musical Aladdin Programme.pdf](/files/CCKSS%20Musical%20Aladdin%20Programme.pdf)
