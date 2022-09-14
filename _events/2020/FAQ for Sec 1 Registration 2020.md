@@ -25,3 +25,13 @@ Do purchase the books once you have confirmed whether to accept or reject the of
 You may refer to the FAQ document below for more information.
 
 [FAQ Subject Based Banding NT NA students.pdf](/files/FAQ%20Subject%20Based%20Banding%20NT%20NA%20students.pdf)
+
+
+### FAQ Financial Assistance
+
+Applied and Approved
+
+For students who have received MOE-FAS approval letter from other school/former Primary School, we will contact you for an appointment to collect the FAS Redemption Vouchers for books, uniforms, shoes and socks. Alternatively, you may make an appointment to collect the Vouchers on 23 December 2020 [here](https://www.picktime.com/cckssappt2020). Due to Covid-19 Safety Management Measures, please expect a longer waiting time and 
+Applying (Please do not buy books, uniforms, socks and shoes before the outcome of your application)
+
+For students who wish to apply for Financial Assistance, please refer to MOE-FAS application form, Annex A, make an appointment to come to the school on 23 December 2020 [here](https://www.picktime.com/cckssappt2020). Please bring along the application form and required documents listed to the school’s General Office on your appointment date. Upon submission of ALL required documents, you will be informed of the outcome within a week.
