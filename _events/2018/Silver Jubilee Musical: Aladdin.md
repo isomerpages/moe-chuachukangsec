@@ -26,3 +26,17 @@ Magical night with our Silver Jubilee Musical - Aladdin!
 
 
 ### Appreciation Dinner
+
+![](/images/Musical_Dinner_001.jpg)
+
+![](/images/Musical_Dinner_002.jpg)
+
+![](/images/Musical_Dinner_003.jpg)
+
+![](/images/Musical_Dinner_004.jpg)
+
+![](/images/Musical_Dinner_005.jpg)
+
+![](/images/Musical_Dinner_006.jpg)
+
+![](/images/Musical_Dinner_007.jpg)
