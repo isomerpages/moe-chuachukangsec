@@ -133,3 +133,16 @@ All students will be briefed by his/her MTL teacher during the first MTL lesson 
 
 **Important:**    
 **Please DO NOT purchase any MTL books if your child / ward is applying for HMTL. You may do so after the release of the selection results.**
+
+
+## FAQ Appeal to CCKSS
+
+Primary 6 students who have just received their secondary school posting in 2020 may submit this [Online Appeal Form](https://form.gov.sg/5f86ae9e55bfe6001112a9e3) to appeal for transfer to Chua Chu Kang Secondary School. Their PSLE score should meet the school’s cut-off point of the posting year. 
+
+Transfer will be subject to available vacancies and the school’s admission criteria.
+
+The deadline for the submission of appeals is on **28 December 2020, 12pm**. 
+
+Late submission will not be allowed.
+
+The application is deemed to be unsuccessful if you do not hear from the school by **4 January 2021**.
