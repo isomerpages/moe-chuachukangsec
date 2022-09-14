@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2020/E open House.md
       - 2020/.keep
       - 2020/Sec 1 Registration.md
       - 2020/FAQ for Sec 1 Registration 2020.md
