@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2020/National Day and Speech Day.md
       - 2020/Post Exam Activities (Artwork).md
       - 2020/.keep
       - 2020/E open House.md
