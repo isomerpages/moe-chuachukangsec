@@ -6,7 +6,7 @@ third_nav_title: "2020"
 ---
 # **FAQ for Sec 1 Registration 2020**
 
-### FAQ Subject Based Banding (NT/NA students)
+### **FAQ Subject Based Banding (NT/NA students)**
 
 Sec 1 students posted to the N(A) and N(T) courses may be offered EL/ Math/ Science/ MTL at a higher level, based on their PSLE subject grades.
 
@@ -27,7 +27,7 @@ You may refer to the FAQ document below for more information.
 [FAQ Subject Based Banding NT NA students.pdf](/files/FAQ%20Subject%20Based%20Banding%20NT%20NA%20students.pdf)
 
 
-### FAQ Financial Assistance
+### **FAQ Financial Assistance**
 
 Applied and Approved
 
@@ -41,7 +41,7 @@ For students who wish to apply for Financial Assistance, please refer to MOE-FAS
 [MOE FAS Application Form.pdf](/files/MOE%20FAS%20Application%20Form.pdf)
 
 
-### FAQ MTL Matters
+### **FAQ MTL Matters**
 
 #### SECTION 1: SECOND LANGUAGE
 
@@ -135,7 +135,7 @@ All students will be briefed by his/her MTL teacher during the first MTL lesson 
 **Please DO NOT purchase any MTL books if your child / ward is applying for HMTL. You may do so after the release of the selection results.**
 
 
-## FAQ Appeal to CCKSS
+### **FAQ Appeal to CCKSS**
 
 Primary 6 students who have just received their secondary school posting in 2020 may submit this [Online Appeal Form](https://form.gov.sg/5f86ae9e55bfe6001112a9e3) to appeal for transfer to Chua Chu Kang Secondary School. Their PSLE score should meet the school’s cut-off point of the posting year. 
 
@@ -146,3 +146,25 @@ The deadline for the submission of appeals is on **28 December 2020, 12pm**. 
 Late submission will not be allowed.
 
 The application is deemed to be unsuccessful if you do not hear from the school by **4 January 2021**.
+
+
+### **FAQ Medical Appeal Exercise (MAE)**
+
+The MAE is reserved for students who request for a school transfer due to serious medical conditions or severe physical impairments. 
+
+Parents submit their appeal personally in CCKSS before **23 Dec 2020, 12pm**. Please click on the [link](https://forms.gle/faoYmzdB9EmwinJi6) to book an appointment. Please note that the link will be activated from 22 December onwards. 
+
+Kindly show email confirmation of the appointment to the Security Guards before entering the school during the appointment timeslot. 
+
+MOE will consider appeals for transfer after the S1 Posting Exercise. Such transfers are subject to availability of vacancies and will only be considered for students with:
+
+a. Serious medical conditions (e.g. chronic heart conditions, kidney problems);
+
+b. Dyslexia and Autistic Spectrum Disorder; and
+
+c. Physical disabilities (e.g. using wheelchair, crutches).
+
+
+These students should first report to the secondary school that they were posted to on the next working day after the release of posting results, and apply for a transfer there. All applications must be accompanied with the relevant supporting documents. 
+
+The results of the appeals will only be made known to applicants on 4 January 2020. Applicants should continue to attend lessons at their posted school while waiting for the results of the appeal. They may check the outcome of their appeals with the secondary school that they were posted to.
