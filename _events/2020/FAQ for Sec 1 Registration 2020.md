@@ -35,3 +35,7 @@ For students who have received MOE-FAS approval letter from other school/former 
 Applying (Please do not buy books, uniforms, socks and shoes before the outcome of your application)
 
 For students who wish to apply for Financial Assistance, please refer to MOE-FAS application form, Annex A, make an appointment to come to the school on 23 December 2020 [here](https://www.picktime.com/cckssappt2020). Please bring along the application form and required documents listed to the school’s General Office on your appointment date. Upon submission of ALL required documents, you will be informed of the outcome within a week.
+
+[FAS\_Annex A.pdf](/files/FAS_Annex%20A.pdf)   
+
+[MOE FAS Application Form.pdf](/files/MOE%20FAS%20Application%20Form.pdf)
