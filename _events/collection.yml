@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2018/Home Coming Dinner.md
       - 2018/Open House.md
       - 2018/.keep
       - 2019/Chinese New Year Celebrations 2019.md
