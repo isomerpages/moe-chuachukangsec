@@ -31,4 +31,11 @@ Recipient of the Lee Kwan Yew Award for All-Round Excellence
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6XfazMH5yo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 
+
+### CCKSS In The News! 
+
+Click [here](https://staging.du7l9z039t2jh.amplifyapp.com/about-us/school-achievements/in-the-news/) for more information.
+
+### FAQ
+
+For more information, click here
