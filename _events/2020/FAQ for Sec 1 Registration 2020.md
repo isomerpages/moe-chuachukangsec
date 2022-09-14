@@ -108,3 +108,5 @@ Our school offers HMTL to students who are competent in their MTL.  The objectiv
 2\.  Priority for admission to a JC/MI will be given to a student with English and HMTL who scores the same number of points as one with English and MTL.
 
 3\.  A student who obtains at least a grade of D7 in HMTL at the GCE ‘O’ Level Examination will be considered to have satisfied the MTL requirement for admission to the National University of Singapore, Nanyang Technological University and Singapore Management University. As such, he/she can be exempted from taking H1 MTL in JC/MI.
+
+Note: <sup>1</sup> If a student uses HMT as his/her L1, he/she is not allowed to use MT in the computation of  R5/R4, as MOE only allows students to use ONE MT grade at any one time, and not both. If he/she uses EL as his L1, he/she can choose either the HMT or MT grade for the computation of R5/R4, whichever is better.
