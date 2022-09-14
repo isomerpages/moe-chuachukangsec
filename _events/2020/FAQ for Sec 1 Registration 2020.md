@@ -17,3 +17,9 @@ PSLE Eligibility criteria for offering higher level subjects:
 | N(A) 	| A*, A 	| - 	| Express 	|
 | N(T) 	| A* , A 	| - 	| Express / N(A)  	|
 | N(T) 	|  B, C 	| 1  	|  N(A) 	|
+
+Parents will receive a notification via Parent Gateway to accept or reject the offer to take the subject at a higher level. Parents not onboard Parent Gateway will need to check your email for the notification. 
+
+Do purchase the books once you have confirmed whether to accept or reject the offer. 
+
+You may refer to the FAQ document below for more information.
