@@ -73,7 +73,7 @@ The courses will be conducted in Terms 2 and 3. More details will be announced l
 
 ------------------------------------------------------------------------
 
-#### NON-TAMIL INDIAN LANGAUGES (NTIL)
+#### SECTION 3: NON-TAMIL INDIAN LANGAUGES (NTIL)
 
 Students who have obtained approval to study Bengali, Gujarati, Hindi, Punjabi or Urdu at the primary level are not required to re-apply. They are required to continue to study the approved NTIL at secondary and pre-university levels.
 
@@ -83,7 +83,7 @@ If you would like to explore the possibility of having Hindi lessons for your ch
 
 ------------------------------------------------------------------------
 
-#### MTL-IN-LIEU (ASIAN LANGUAGES/FOREIGN LANGUAGES)
+#### SECTION 4: MTL-IN-LIEU (ASIAN LANGUAGES/FOREIGN LANGUAGES)
 
 If your child’s approved MTL in-lieu at primary level was an Asian Language (AsL) / Foreign Language (FL), he/she must continue to study the subject at the secondary level.
 
@@ -94,3 +94,17 @@ You would have been informed of the implications of offering AsL/FL as MTL-in-li
 * Students are required to provide documentation (e.g. marked assignment, result slip, payment receipt) to the school to show that they are learning AsL/FL regularly.
 * Students are required to take the AsL/FL papers at the GCE ‘O’ Level and the Arabic or FL papers at the GCE A-Level (H1) examinations.
 * Students are required to fulfil the MTL requirement by attaining the minimum AsL/FL grade for admission into a junior college or centralised institute (D7 or above for GCE ‘O’ Level), or a local publicly-funded undergraduate programme (S grade or above for GCE ‘A’ Level H1).
+
+-------------------------------------------------------------------------
+
+#### SECTION 5: HIGHER MOTHER TONGUE LANGUAGE AS FIRST LANGUAGE
+
+Our school offers HMTL to students who are competent in their MTL.  The objective of the HMTL course is to develop students’ fluency in all the four language skills and to help them gain a good understanding of Chinese/Malay/Indian history and culture.
+
+**Incentives of Offering HMTL:**
+
+1\.  A student who passes both English and HMTL at the GCE ‘O’ Level Examination and who qualifies for admission to a Junior College (JC) or to Millennia Institute (MI) will be given two bonus points in his/her application to the JC/MI of his/her choice.<sup>1</sup>  
+
+2\.  Priority for admission to a JC/MI will be given to a student with English and HMTL who scores the same number of points as one with English and MTL.
+
+3\.  A student who obtains at least a grade of D7 in HMTL at the GCE ‘O’ Level Examination will be considered to have satisfied the MTL requirement for admission to the National University of Singapore, Nanyang Technological University and Singapore Management University. As such, he/she can be exempted from taking H1 MTL in JC/MI.
