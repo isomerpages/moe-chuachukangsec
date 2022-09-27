@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Testing/.keep
       - Students.md
       - Parents.md
       - Calendar.md
