@@ -2,7 +2,7 @@
 layout: homepage
 title: Chua Chu Kang Secondary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/2023 Design/Logo/CCKSS Logo.png
 permalink: /
 notification: ""
 sections:
@@ -22,3 +22,4 @@ sections:
           url: /useful-links/
       background: /images/Homepage Banner/HomePage Banner v5.gif
 ---
+
