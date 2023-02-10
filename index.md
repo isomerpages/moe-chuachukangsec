@@ -20,6 +20,5 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
-      background: /images/Homepage Banner/HomePage Banner v5.gif
+      background: /images/2023 Design/Homepage Banner/HomePage Banner v5.gif
 ---
-
