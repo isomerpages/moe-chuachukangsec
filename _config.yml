@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.du7l9z039t2jh.amplifyapp.com
 prod: https://master.du7l9z039t2jh.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/2023 Design/Logo/CCKSS Logo.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
