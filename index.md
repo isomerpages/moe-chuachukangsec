@@ -21,4 +21,12 @@ sections:
           description: ""
           url: /useful-links/
       background: /images/2023 Design/Homepage Banner/HomePage Banner v5.gif
+  - resources:
+      title: Announcement
+      button: Click here for more post
+  - infopic:
+      title: LEARNING IN CCKSS
+      description: description
+      button: Button Text
+      alt: Image alt text
 ---
