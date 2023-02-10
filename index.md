@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Chua Chu Kang Secondary School
-      background: /images/Homepage Banner/ckss.gif
+      background: /images/Homepage Banner/HomePage Banner v4.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
