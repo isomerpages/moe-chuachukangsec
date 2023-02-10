@@ -1,9 +1,9 @@
 title: Chua Chu Kang Secondary School
 url: https://chuachukangsec.moe.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/2023 Design/Logo/favicon-32x32.png
 colors:
-  primary-color: "#0b3e26"
-  secondary-color: "#91b926"
+  primary-color: "#00abc4"
+  secondary-color: "#27c3f3"
   media-colors:
     - title: media-color-one
       color: "#49759a"
