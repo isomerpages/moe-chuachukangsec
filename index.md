@@ -11,10 +11,10 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Announcements
+        - title: Parents
           description: ""
           url: /announcements/
-        - title: Events
+        - title: Students
           description: ""
           url: /events/2022/chinese-new-year-celebrations-2022/
         - title: Useful Links
