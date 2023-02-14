@@ -13,10 +13,10 @@ sections:
       key_highlights:
         - title: Parents
           description: ""
-          url: /announcements/
+          url: /Parents/
         - title: Students
           description: ""
-          url: /events/2022/chinese-new-year-celebrations-2022/
+          url: /Students/
         - title: Useful Links
           description: ""
           url: /useful-links/
