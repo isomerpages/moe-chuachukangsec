@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: Chua Chu Kang Secondary School
 locations:
   - address:
-      - 3 Teck Whye Crescent
+      - 31 Teck Whye Crescent
       - Singapore 688845
       - ""
     operating_hours:
@@ -18,8 +18,19 @@ locations:
       - days: CCK Bus Interchange
         time: ""
         description: 190, 975, 985
-    maps_link: https://goo.gl/maps/hBFmgZzgynPkMmss8
-    title: Address
+    maps_link: https://goo.gl/maps/ZVFxDNCCqK8CR6Qu7
+    title: Campus 1 Address
+  - address:
+      - "3 Teck Whye Crescent "
+      - Singapore 688845
+      - ""
+    title: Campus 2
+    operating_hours:
+      - days: Mon - Fri
+        time: 6am - 7pm
+        description: |
+          Closed on Weekends & Public Holidays
+    maps_link: https://goo.gl/maps/H6tMLJxpguaZXFiq8
 contacts:
   - content:
       - phone: +65 6765 5228
