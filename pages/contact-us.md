@@ -39,15 +39,25 @@ locations:
     title: Campus 2 Address
 contacts:
   - content:
-      - phone: +65 6765 5228
+      - phone: +65 6769 1386
       - email: ""
       - other: ""
-    title: Telephone
+    title: "Campus 1 Telephone "
   - content:
       - phone: +65 6763 6807
       - email: ""
       - other: ""
-    title: Fax
+    title: Campus 1 Fax
+  - content:
+      - phone: +65 6765 5228
+      - email: ""
+      - other: ""
+    title: Campus 2 Telephone
+  - content:
+      - phone: +65 6763 6807
+      - email: ""
+      - other: ""
+    title: Campus 2 Fax
   - content:
       - phone: ""
       - email: CCKSS@moe.edu.sg
