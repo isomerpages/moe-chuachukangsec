@@ -24,10 +24,4 @@ sections:
   - resources:
       title: Announcement
       button: Click here for more post
-  - infopic:
-      title: LEARNING IN CCKSS
-      description: description
-      alt: Confident Leader
-      image: /images/2023 Design/Homepage Banner/Confident_leaders.jpg
-      subtitle: Infopic Test
 ---
