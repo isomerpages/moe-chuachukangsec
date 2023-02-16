@@ -1,5 +1,4 @@
 collections:
   the-co-curriculum-at-cckss:
     output: true
-    order:
-      - Co Curricular Activities/.keep
+    order: []
