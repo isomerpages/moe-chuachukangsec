@@ -2,5 +2,4 @@ collections:
   the-co-curriculum-at-cckss:
     output: true
     order:
-      - Co Curricular Activities/Co Curricular Activities.md
       - Co Curricular Activities/.keep
