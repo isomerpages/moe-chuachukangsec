@@ -1,4 +1,5 @@
 collections:
   the-co-curriculum-at-cckss:
     output: true
-    order: []
+    order:
+      - CCE Curriculum/.keep
