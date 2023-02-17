@@ -2,6 +2,7 @@ collections:
   learning-for-life-programme:
     output: true
     order:
+      - Prefectorial Board.md
       - Class Committee.md
       - Leadership Development Through CCA.md
       - Leadership course/.keep
