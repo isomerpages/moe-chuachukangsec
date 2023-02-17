@@ -2,5 +2,6 @@ collections:
   the-co-curriculum-at-cckss:
     output: true
     order:
+      - CCE Curriculum/New Media Literacies.md
       - CCE Curriculum/Cyberwellness.md
       - CCE Curriculum/.keep
