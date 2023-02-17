@@ -2,6 +2,7 @@ collections:
   learning-for-life-programme:
     output: true
     order:
+      - Leadership Events/Student Leaderdship Forum.md
       - Leadership Events/Secondary 1 Orientation.md
       - Leadership Events/.keep
       - Leadership Development Through CCA.md
