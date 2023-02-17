@@ -2,6 +2,7 @@ collections:
   hide-page:
     output: true
     order:
+      - School Textbooks & School Uniform.md
       - Daily Routines and Procedures.md
       - Student Code of Conduct.md
       - School Song, Students’ Creed.md
