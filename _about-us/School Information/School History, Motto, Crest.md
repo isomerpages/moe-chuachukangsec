@@ -4,7 +4,7 @@ permalink: /about-us/school-information/school-history-motto-crest/
 description: ""
 third_nav_title: School Information
 ---
-# **School History, Motto, Crest**
+<!--# **School History, Motto, Crest**
 
 ### **School History**  
 
@@ -53,4 +53,5 @@ Our students will set challenging goals for themselves and strive to realize the
 | Book 	| : Signifies the school's emphasis on the passion for learning 	|
 | Balanced Weights 	| : Signifies the balance between intellectual and other domains of development 	|
 | Torch 	| : Represents the CCKS spirit captured in the school motto: Serve, Grow and Excel 	|
-| Green Colour 	| : Represents the growth and vitality of our school 	|
+| Green Colour 	| : Represents the growth and vitality of our school 	|-->
+Coming Soon
