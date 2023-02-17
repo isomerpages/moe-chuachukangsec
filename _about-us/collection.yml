@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Principal's Foreword.md
-      - School Textbooks & School Uniform.md
       - School History/.keep
       - School History/School History.md
       - School History/Chua Chu Kang Secondary School.md
@@ -15,6 +14,7 @@ collections:
       - School Information/Student Code of Conduct.md
       - School Information/Daily Routines and Procedures.md
       - School Information/School Textbooks & School Uniform.md
+      - School Textbooks & School Uniform.md
       - School Achievements/.keep
       - School Achievements/In the News.md
       - School Highlights.md
