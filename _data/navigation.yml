@@ -8,3 +8,6 @@ links:
     collection: compassionate-leaders
   - title: Caring Community in CCKSS
     collection: caring-community
+  - title: Test SubMenu Function
+    url: /permalink
+    sublinks: []
