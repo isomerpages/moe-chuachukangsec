@@ -2,5 +2,6 @@ collections:
   hide-page:
     output: true
     order:
+      - School Song, Students’ Creed.md
       - School History, Motto, Crest.md
       - School Vision, Mission, Values.md
