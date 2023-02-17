@@ -4,7 +4,7 @@ permalink: /about-us/school-information/school-vision-mission-values/
 description: ""
 third_nav_title: School Information
 ---
-# **School Vision, Mission, Values**
+<!-- # **School Vision, Mission, Values**
 
 ### School Vision
 
@@ -31,3 +31,6 @@ We have empathy and strive to build a caring community through service and teamw
 
 **Striving To Excel:**    
 We are resilient and seek continuous improvement and innovation.
+
+-->
+Coming Soon..
