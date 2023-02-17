@@ -1,4 +1,5 @@
 collections:
   hide-page:
     output: true
-    order: []
+    order:
+      - School Vision, Mission, Values.md
