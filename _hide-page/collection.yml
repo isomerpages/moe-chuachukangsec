@@ -2,4 +2,5 @@ collections:
   hide-page:
     output: true
     order:
+      - School History, Motto, Crest.md
       - School Vision, Mission, Values.md
