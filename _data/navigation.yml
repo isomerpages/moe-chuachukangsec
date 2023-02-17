@@ -4,11 +4,9 @@ links:
     collection: about-us
   - title: Learning in CCKSS
     collection: passionate-learners
-  - title: The Co-Curriculum at CCKSS
-    collection: compassionate-leaders
   - title: Caring Community in CCKSS
     collection: caring-community
-  - title: Test2 SubMenu Function
+  - title: The Co-Curriculum at CCKSS
     url: /learning-for-life-programme/permalink/
     sublinks:
       - title: Co-Curricular Activities
