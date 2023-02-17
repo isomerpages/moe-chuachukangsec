@@ -1,4 +1,5 @@
 collections:
   learning-in-cckss:
     output: true
-    order: []
+    order:
+      - "Applied Learning Programme: Technology in Sustainability.md"
