@@ -9,9 +9,15 @@ links:
   - title: Caring Community in CCKSS
     collection: caring-community
   - title: Test2 SubMenu Function
-    url: /permalink
+    url: /learning-for-life-programme/permalink/
     sublinks:
       - title: Co-Curricular Activities
         url: /cca/Clubs-and-Societies/permalink/
       - title: Learning For Life Programme
         url: /learning-for-life-programme/permalink/
+      - title: Character and Citizenship Education (CCE)
+        url: /the-co-curriculum-at-cckss/CCE-Curriculum/permalink/
+      - title: MOE OBS
+        url: /the-co-curriculum-at-cckss/MOE-OBS/permalink/
+      - title: Education Career Guidance
+        url: /the-co-curriculum-at-cckss/Education-Career-Guidance/permalink/
