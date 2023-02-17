@@ -2,5 +2,5 @@ collections:
   the-co-curriculum-at-cckss:
     output: true
     order:
-      - CCE Curriculum/Character and Citizenship Education (CCE).md
+      - CCE Curriculum/Cyberwellness.md
       - CCE Curriculum/.keep
