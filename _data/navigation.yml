@@ -4,8 +4,6 @@ links:
     collection: about-us
   - title: Learning in CCKSS
     collection: passionate-learners
-  - title: Caring Community in CCKSS
-    collection: caring-community
   - title: The Co-Curriculum at CCKSS
     url: /learning-for-life-programme/permalink/
     sublinks:
@@ -19,3 +17,5 @@ links:
         url: /the-co-curriculum-at-cckss/MOE-OBS/permalink/
       - title: Education Career Guidance
         url: /the-co-curriculum-at-cckss/Education-Career-Guidance/permalink/
+  - title: Caring Community in CCKSS
+    collection: caring-community
