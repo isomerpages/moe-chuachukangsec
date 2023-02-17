@@ -10,4 +10,8 @@ links:
     collection: caring-community
   - title: Test SubMenu Function
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Co-Curricular Activities
+        url: https://staging.du7l9z039t2jh.amplifyapp.com/cca/Clubs-and-Societies/permalink/
+      - title: Learning For Life Programme
+        url: https://staging.du7l9z039t2jh.amplifyapp.com//learning-for-life-programme/permalink/
