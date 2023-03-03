@@ -33,4 +33,10 @@ sections:
       url: /events/2019/racial-harmony-day-2019/
       image: /images/Cultural Activities 02.jpg
       alt: Image alt text
+  - infopic:
+      title: Chinese new year
+      subtitle: Events
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
