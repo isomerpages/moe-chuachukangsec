@@ -25,4 +25,12 @@ sections:
       title: Highlights
       button: Click here for more post
       subtitle: STAY UP TO DATE WITH US
+  - infopic:
+      title: Racial Harmony Day
+      subtitle: Events
+      description: Infopic description
+      button: Read More
+      url: /Events
+      image: /images/Cultural Activities 02.jpg
+      alt: Image alt text
 ---
