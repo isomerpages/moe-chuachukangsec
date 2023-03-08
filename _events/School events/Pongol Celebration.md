@@ -14,5 +14,3 @@ Learn more about Pongal [Here](https://www.visitsingapore.com/festivals-events-s
 
 
 <iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS2xw0s3RcmFvmqRAIQ1izhZTrzLebpQNTLn7DwdvXv6uzZj0yOTS64fd1iYlK3Pg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-
