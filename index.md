@@ -26,6 +26,14 @@ sections:
       button: Click here for more post
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Chinese New Year Celebration
+      subtitle: School Events
+      button: Read more
+      url: /events/School-events/permalink/
+      image: /images/Events/School Events/20230120 Chinese New Year/2023 CNY
+        Thumbnail.jpg
+      alt: Chinese New Year Celebration
+  - infopic:
       title: Racial Harmony Day
       subtitle: NE Events
       description: Racial Harmony Day description
@@ -34,17 +42,11 @@ sections:
       image: /images/Cultural Activities 02.jpg
       alt: Image alt text
   - infopic:
-      title: IP Program
-      subtitle: IP Programs
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infopic:
-      title: Chinese New Year Celebration
+      title: Pongol Celebration
       subtitle: School Events
-      button: Read more
-      url: /events/School-events/permalink/
-      image: /images/Events/School Events/20230120 Chinese New Year/2023 CNY
-        Thumbnail.jpg
-      alt: Chinese New Year Celebration
+      description: Pongol Celebration
+      button: Read More
+      alt: Image alt text
+      url: /events/School-events/Pongol-Celebration
+      image: /images/Events/School Events/20230130 Pongol Celebration/Pongol Thumb.jpg
 ---
