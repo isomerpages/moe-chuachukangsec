@@ -82,5 +82,4 @@ Through 2021 and in 2022, we readied ourselves for school merger. Mdm Ong called
 
 Every ending marks a new beginning. 2022 was a year like no other. We looked back with pride and nostalgia, yet embraced uncertain but exciting times to come. Under Mdm Ong’s leadership, and with the labour of the entire CCKSS community, our Speech Day, Assemblage Art Installation, Sports Fiesta and Homecoming were events memorable and well-cherished by all staff and students. 
 
-As this 30-year chapter of Chua Chu Kang Secondary School closes, and a new one of Chua Chu Kang Secondary School (德惠中学) begins, we thank Mdm Adel Ong for her faithful stewardship of the school. 
-
+As this 30-year chapter of Chua Chu Kang Secondary School closes, and a new one of Chua Chu Kang Secondary School (德惠中学) begins, we thank Mdm Adel Ong for her faithful stewardship of the school.
