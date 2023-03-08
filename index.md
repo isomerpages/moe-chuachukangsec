@@ -34,6 +34,14 @@ sections:
         Thumbnail.jpg
       alt: Chinese New Year Celebration
   - infopic:
+      title: Pongol Celebration
+      subtitle: School Events
+      description: Pongol Celebration
+      button: Read More
+      alt: Image alt text
+      url: /events/School-events/Pongol-Celebration
+      image: /images/Events/School Events/20230130 Pongol Celebration/Pongol Thumb.jpg
+  - infopic:
       title: Racial Harmony Day
       subtitle: NE Events
       description: Racial Harmony Day description
@@ -42,11 +50,10 @@ sections:
       image: /images/Cultural Activities 02.jpg
       alt: Image alt text
   - infopic:
-      title: Pongol Celebration
-      subtitle: School Events
-      description: Pongol Celebration
-      button: Read More
+      title: Coming Soon
+      subtitle: IP programs
+      description: Coming Soon
+      button: Read more
+      url: /events/IP-programs/permalink
       alt: Image alt text
-      url: /events/School-events/Pongol-Celebration
-      image: /images/Events/School Events/20230130 Pongol Celebration/Pongol Thumb.jpg
 ---
