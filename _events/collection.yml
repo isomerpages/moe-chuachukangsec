@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - IP programs/.keep
       - School events/Pongol Celebration.md
       - School events/Chinese New Year Celebration.md
       - School events/.keep
