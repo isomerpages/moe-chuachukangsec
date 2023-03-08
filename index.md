@@ -56,4 +56,9 @@ sections:
       button: Read more
       url: /events/IP-programs/permalink
       alt: Image alt text
+  - infopic:
+      title: Coming Soon
+      subtitle: Miscellaneous
+      description: Coming Soon
+      alt: Image alt text
 ---
