@@ -27,15 +27,15 @@ sections:
       subtitle: STAY UP TO DATE WITH US
   - infopic:
       title: Racial Harmony Day
-      subtitle: Events
-      description: Infopic description
+      subtitle: NE Events
+      description: Racial Harmony Day description
       button: Read More
       url: /events/2019/racial-harmony-day-2019/
       image: /images/Cultural Activities 02.jpg
       alt: Image alt text
   - infopic:
-      title: Chinese new year
-      subtitle: Events
+      title: IP Program
+      subtitle: IP Programs
       description: Infopic description
       button: Button Text
       alt: Image alt text
