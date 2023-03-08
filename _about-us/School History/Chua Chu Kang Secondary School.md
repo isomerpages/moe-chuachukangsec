@@ -6,6 +6,19 @@ third_nav_title: School History
 ---
 Chua Chu Kang Secondary School was founded in 1992. Residents held fond memories of their farming days in the old Chua Chu Kang area, so the school took the name to reflect the ties that bind.
 
+
+| Column 1 ![](/images/About%20Us/School%20History/CCKSS/Picture16.jpg)| Column 2![](/images/About%20Us/School%20History/CCKSS/Picture17.jpg) | |
+| -------- | -------- | -------- 
+| | Text     | Text     |
+
+
+
+
+
+
+
+
+
 Founding Principal, Miss Sum Chee Wah, and 14 teachers welcomed the pioneer batch of students in 1993.  Faith that CCKsians will stand tall anchored the school as we embarked on providing vibrant formative experiences for our charges.  
 
 The school Motto ‘Serve, Grow, Excel’ is a timeless beacon for all CCKsians. It encapsulates the staff’s shared ideals – every CCKsian will seek to Serve others before themselves, Grow in character, and Excel in all they undertake. The Students’ Creed ‘I am a CCKsian’ is a poetic call to character, for CCKsians to distinguish themselves no matter the tide.
