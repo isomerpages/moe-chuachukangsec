@@ -7,8 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Chua Chu Kang Secondary School
-      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: Parents
