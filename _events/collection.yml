@@ -2,4 +2,5 @@ collections:
   events:
     output: true
     order:
+      - School events/Chinese New Year Celebration.md
       - School events/.keep
