@@ -7,7 +7,7 @@ third_nav_title: School History
 Chua Chu Kang Secondary School was founded in 1992. Residents held fond memories of their farming days in the old Chua Chu Kang area, so the school took the name to reflect the ties that bind.
 
 
-| Column 1 ![](/images/About%20Us/School%20History/CCKSS/Picture16.jpg)| Column 2![](/images/About%20Us/School%20History/CCKSS/Picture17.jpg) | |
+|  ![](/images/About%20Us/School%20History/CCKSS/Picture16.jpg)| ![](/images/About%20Us/School%20History/CCKSS/Picture17.jpg) | |
 | -------- | -------- | -------- 
 | |      |      |
 
