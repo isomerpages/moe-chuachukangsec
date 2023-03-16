@@ -6,16 +6,29 @@ third_nav_title: School Achievements
 ---
 # **In the News**
 
-### Keputusan GCE 'N': Adik hidap barah jadi sumber kekuatan; kehilangan ayah sebelum peperiksaan
+### Nasihat arwah ayah bantu kuatkan semangat hingga berjaya
+[https://www.beritaharian.sg/setempat/nasihat-arwah-ayah-bantu-kuatkan-semangat-hingga-berjaya](https://www.beritaharian.sg/setempat/nasihat-arwah-ayah-bantu-kuatkan-semangat-hingga-berjaya)
+<img src="images/About%20Us/In%20The%20News/Inthenews01.jpg" 
+     style="width:100%" >
 
-  
+
+
+---------------------------------------
+
+### Dapat ganjaran ketepi masa untuk pelajaran walau minat pelbagai
+[https://www.beritaharian.sg/setempat/dapat-ganjaran-ketepi-masa-untuk-pelajaran-walau-minat-pelbagai](https://www.beritaharian.sg/setempat/dapat-ganjaran-ketepi-masa-untuk-pelajaran-walau-minat-pelbagai)
+
+<img src="images/About%20Us/In%20The%20News/Inthenews02.jpg" 
+     style="width:100%" >
+
+-----------------------
+
+### Keputusan GCE 'N': Adik hidap barah jadi sumber kekuatan; kehilangan ayah sebelum peperiksaan
 
 [https://berita.mediacorp.sg/singapura/keputusan-gce-n-adik-hidap-barah-jadi-sumber-kekuatan-kehilangan-ayah-sebelum-peperiksaan-717306](https://berita.mediacorp.sg/singapura/keputusan-gce-n-adik-hidap-barah-jadi-sumber-kekuatan-kehilangan-ayah-sebelum-peperiksaan-717306)
 
 <a href="https://berita.mediacorp.sg/singapura/keputusan-gce-n-adik-hidap-barah-jadi-sumber-kekuatan-kehilangan-ayah-sebelum-peperiksaan-717306"><img src="images/About%20Us/In%20The%20News/Inthenews03.jpg" 
      style="width:100%" >
-
-
 
 -------------------------------------------
 
