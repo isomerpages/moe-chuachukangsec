@@ -28,3 +28,5 @@ description: ""
 
 **Operating hour: 3pm-8pm (weekdays), 10am-4pm (weekends)
 <br>Closed every Tuesday and public holidays**
+
+![](/images/About%20Us/School%20Uniform.png)
