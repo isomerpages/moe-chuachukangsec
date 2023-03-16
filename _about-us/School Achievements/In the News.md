@@ -28,7 +28,9 @@ third_nav_title: School Achievements
 
 [https://berita.mediacorp.sg/singapura/keputusan-gce-n-adik-hidap-barah-jadi-sumber-kekuatan-kehilangan-ayah-sebelum-peperiksaan-717306](https://berita.mediacorp.sg/singapura/keputusan-gce-n-adik-hidap-barah-jadi-sumber-kekuatan-kehilangan-ayah-sebelum-peperiksaan-717306)
 
-<a href="https://berita.mediacorp.sg/singapura/keputusan-gce-n-adik-hidap-barah-jadi-sumber-kekuatan-kehilangan-ayah-sebelum-peperiksaan-717306"><img src="images/About%20Us/In%20The%20News/Inthenews03.jpg" 
+<a href="https://berita.mediacorp.sg/singapura/keputusan-gce-n-adik-hidap-barah-jadi-sumber-kekuatan-kehilangan-ayah-sebelum-peperiksaan-717306">
+
+	<img src="images/About%20Us/In%20The%20News/Inthenews03.jpg" 
      style="width:100%" >
 
 -------------------------------------------
