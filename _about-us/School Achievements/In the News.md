@@ -5,12 +5,26 @@ description: ""
 third_nav_title: School Achievements
 ---
 # **In the News**
+
+### Keputusan GCE 'N': Adik hidap barah jadi sumber kekuatan; kehilangan ayah sebelum peperiksaan
+
+  
+
+[https://berita.mediacorp.sg/singapura/keputusan-gce-n-adik-hidap-barah-jadi-sumber-kekuatan-kehilangan-ayah-sebelum-peperiksaan-717306](https://berita.mediacorp.sg/singapura/keputusan-gce-n-adik-hidap-barah-jadi-sumber-kekuatan-kehilangan-ayah-sebelum-peperiksaan-717306)
+
+<a href="https://berita.mediacorp.sg/singapura/keputusan-gce-n-adik-hidap-barah-jadi-sumber-kekuatan-kehilangan-ayah-sebelum-peperiksaan-717306"><img src="images/About%20Us/In%20The%20News/Inthenews03.jpg" 
+     style="width:100%" >
+
+
+
+-------------------------------------------
+
 ### Secondary School Open House
 
 [https://www.8world.com/so-young/secondary-school-open-house-1975561](https://www.8world.com/so-young/secondary-school-open-house-1975561)
 
-
-
+<img src="images/About%20Us/In%20The%20News/Inthenews04.jpg" 
+     style="width:100%">
 
 
 
