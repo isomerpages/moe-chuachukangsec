@@ -5,13 +5,24 @@ description: ""
 third_nav_title: School Achievements
 ---
 # **In the News**
+### Secondary School Open House
+
+[https://www.8world.com/so-young/secondary-school-open-house-1975561](https://www.8world.com/so-young/secondary-school-open-house-1975561)
+
+
+
+
+
+
+------------------------------------------------
+
 
 ### Recipient of MOE Most Inspiring Tamil Teacher (MITT) Award 2022 – Mr Anthony Raj Joseph
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kW_o9LVGAfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-
+-----------------------------------------
 
 
 ### Teaching your child to be the teacher
