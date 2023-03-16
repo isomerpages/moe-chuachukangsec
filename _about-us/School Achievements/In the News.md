@@ -8,6 +8,7 @@ third_nav_title: School Achievements
 
 ### Nasihat arwah ayah bantu kuatkan semangat hingga berjaya
 [https://www.beritaharian.sg/setempat/nasihat-arwah-ayah-bantu-kuatkan-semangat-hingga-berjaya](https://www.beritaharian.sg/setempat/nasihat-arwah-ayah-bantu-kuatkan-semangat-hingga-berjaya)
+
 <img src="images/About%20Us/In%20The%20News/Inthenews01.jpg" 
      style="width:100%" >
 
