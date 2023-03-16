@@ -4,7 +4,6 @@ permalink: /about-us/School-History/Chua-Chu-Kang-Secondary-School/
 description: ""
 third_nav_title: School History
 ---
-
 OUR HERITAGE
 ------------
 |  ![](/images/About%20Us/School%20History/CCKSS/Picture16.jpg)| ![](/images/About%20Us/School%20History/CCKSS/Picture17.jpg) | |
