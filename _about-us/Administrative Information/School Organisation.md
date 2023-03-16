@@ -140,7 +140,7 @@ To be updated
 | Class 2-2	| Mdm Rosnah Bte Mustaffa 	| [rosnah_mustaffa@schools.gov.sg](mailto:rosnah_mustaffa@schools.gov.sg) 	|
 |  	| Mr Chan Wei Min Daniel  	| [daniel_chan_wei_min@schools.gov.sg](mailto:daniel_chan_wei_min@schools.gov.sg) 	|
 | <br> 	|  	|  	|
-| 1A1	| Mr Lin Jie Hui	| lin_jiehui@schools.gov.sg	|
+| 1A1 	| Mr Lin Jie Hui	| [lin_jiehui@schools.gov.sg](mailto:lin_jiehui@schools.gov.sg) |
 | 	| Mdm Shakila d/o Maheswaran	| shakila_maheswaran@schools.gov.sg	|
 |<br>	| 	| 	|
 | 1A2	| Ms Low Hui Xin Annabel	| low_hui_xin_annabel@schools.gov.sg	|
@@ -273,6 +273,3 @@ To be updated
 | 5A	| Mdm Pua Lee Too	| pua_lee_too@schools.gov.sg	|
 | 	| Ms Elodie Sng	| sng_qian_jin_elodie@schools.gov.sg	|
 |<br>	| 	| 	|
-
-
-
