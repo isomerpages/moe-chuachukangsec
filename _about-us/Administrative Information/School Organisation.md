@@ -7,36 +7,49 @@ third_nav_title: Administrative Information
 <!-- -->
 # **School Organisation**
 
-|  	|  	|
-|---	|---	|
-| **Principal** 	| Mdm Ong Liang Fung Adel 	|
-| **Vice-Principal** 	| Mdm Hartati Bte Osman 	|
-| **Vice-Principal (Administration)** 	| Mr Steven Ang King Hor 	|
-| **HOD / Aesthetics** 	| Mr Low Chee Keong David  	|
-| **HOD / English & Literature** 	| Mdm S Premalatha  	|
-| **HOD / Humanities** 	| Mdm Ibaidah Bte Ibrahim  	|
-| **HOD / Info & Comm Tech, CPA, EBS** 	| Mr Yip Hoe Yin  	|
-| **HOD / Mathematics** 	| Mr Puttur Girish Kumar  	|
-| **HOD / Mother Tongue** 	| Ms Oh Chew Hiang  	|
-| **HOD / PE & CCA** 	| Mr Lim Keum Ray  	|
-| **HOD / School Staff Developer** 	| Mr Hong Heng Boo Charles  	|
-| **HOD / Science** 	| Mdm Tay Su Ming Fiona 	|
-| **HOD / Student Welfare** 	| Mdm Lee Mui Hoon Adeline  	|
-| **Lead Teacher / EBS** 	| Ms Tengku Merduati Tengku Mohamed 	|
-| **Year Head / Upper Sec** 	| Mr Chua Yew Wei 	|
-| **Year Head / Lower Sec** 	| Ms Nur Janna Bte Othman 	|
-| **Assistant Year Head** 	| Mdm Shanthini d/o Odayappan   	|
-| **Level Head / Student Management** 	| Ms Tan Cheng Gek 	|
-| **Subject Head / Mathematics** 	| Mrs Ramesh Santhi 	|
-| **Subject Head / EL** 	| Ms Sim Mei Hui Theresa  	|
-| **Subject Head / CCE** 	| Mr Azhar B Mohammed Noh 	|
-| **Subject Head / FCE** 	| Mdm Ernawati Shaffie Bte Othman  	|
-| **Subject Head / Geography** 	| Mr Chen Yingtong  	|
-| **Subject Head / Malay** 	| Mdm Mdm Irdawaty Binte Mohd 	|
-| **Senior Teacher / Physics** 	| Mdm Goi Geok San 	|
-| **Subject Head / PE** 	| Mr Johnathan Ram PS  	|
-| **Administration Manager** 	| Mdm Goh Huilin Nelly  	|
-| **Operations Manager** 	| Mr Khoo Boo Leong Peter  	|
+| Key Personnel 	| Name 	| Email Address 	|
+|---	|---	|---	|
+| Principal	| Mr Timothy Cheng	| [Timothy_cheng@schools.gov.sg](mailto:Timothy_cheng@schools.gov.sg)	|
+| Vice Principal (Acad)	| Mdm Jane Lee	| [Lee_ee_lei_jane@schools.gov.sg](mailto:Lee_ee_lei_jane@schools.gov.sg)	|
+| Vice Principal (Acad)	| Mdm Hartati Bte Osman	| [Hartati_Osman@schools.gov.sg](mailto:Hartati_Osman@schools.gov.sg)	|
+| Vice Principal (Admin)	| Mr Ang King Hor	| [Ang_King_Hor@schools.gov.sg](mailto:Ang_King_Hor@schools.gov.sg)	|
+| HOD (Character & Citizenship Education)	| Ms Ong Yun Ping	| [Ong_yun_ping@schools.gov.sg](mailto:Ong_yun_ping@schools.gov.sg)	|
+| HOD (Craft & Technology / Applied Learning)	| Mdm Tay Su Ming	| [Fiona_tay@schools.gov.sg](mailto:Fiona_tay@schools.gov.sg)	|
+| HOD (English)	| Mdm Azwiza Bte Ahmad	| [Azwiza_ahmad@schools.gov.sg ](mailto:Azwiza_ahmad@schools.gov.sg )	|
+| HOD (Humanities)	| Mdm Ibaidah Binte Ibrahim	| [Ibaidah_ibrahim@schools.gov.sg](mailto:Ibaidah_ibrahim@schools.gov.sg)	|
+| HOD (ICT) (Covering)	| Mr Chen Yingtong	| [Chen_ying_tong@schools.gov.sg](mailto:Chen_ying_tong@schools.gov.sg)	|
+| HOD (Mathematics)	| Mr Puttur Girish Kumar	| [Girish_kumar_puttur@schools.gov.sg](mailto:Girish_kumar_puttur@schools.gov.sg)	|
+| HOD (Mother Tongue Languages) 	| Mdm Tan Yoke Hong	| [Tan_yoke_hong@schools.gov.sg](mailto:Tan_yoke_hong@schools.gov.sg)	|
+| HOD (PE & Co-Curricular Activities)	| Mr Lim Keum Ray 	| [Lim_keum_ray@schools.gov.sg ](mailto:Lim_keum_ray@schools.gov.sg )	|
+| HOD (Science) 	| Mr Njoo Kiat Guan Alwin	| [Njoo_kiat_guan_alwin@schools.gov.sg](mailto:Njoo_kiat_guan_alwin@schools.gov.sg)	|
+| HOD (Student Management) 	| Mr Chua Yew Wei 	| [Chua_yew_wei@schools.gov.sg](mailto:Chua_yew_wei@schools.gov.sg)	|
+| School Staff Developer 	| Mr Hong Heng Boo Charles	| [Hong_heng_boo_charles@schools.gov.sg](mailto:Hong_heng_boo_charles@schools.gov.sg)	|
+| Year Head 	| Mr Aidil Sharil Bin Solikin 	| [Aidil_sharil_solikin@schools.gov.sg ](mailto:Aidil_sharil_solikin@schools.gov.sg )	|
+| Year Head 	| Mr Ho Wing Hong	| [Ho_wing_hong@schools.gov.sg](mailto:Ho_wing_hong@schools.gov.sg)	|
+| Year Head  	| Ms Nur Janna Binte Othman	| [Nur_janna_othman@schools.gov.sg](mailto:Nur_janna_othman@schools.gov.sg)	|
+| Asst YH 	| Mdm Shanthini d/o Odayappan	| [Shanthini_odayappan@schools.gov.sg](mailto:Shanthini_odayappan@schools.gov.sg)	|
+| Asst YH  (Covering)	| Ms Yasmeen Aysha	| [Yasmeen_aysha@schools.gov.sg](mailto:Yasmeen_aysha@schools.gov.sg)	|
+| Level Head (English) 	| Ms Sim Mei Hui Theresa	| [Sim_mei_hui_theresa@schools.gov.sg](mailto:Sim_mei_hui_theresa@schools.gov.sg)	|
+| Level Head (Mathematics)	| Mdm Santhi d/o Krishnasamy	| [Santhi_krishnasamy@schools.gov.sg](mailto:Santhi_krishnasamy@schools.gov.sg)	|
+| Level Head (Science)	| Mr Goh Yue Han Christopher	| [Goh_yue_han_christopher@schools.gov.sg](mailto:Goh_yue_han_christopher@schools.gov.sg)	|
+| Subject Head (Character & Citizenship Education) 	| Mdm Ernawati Shaffie Bte Othman	| [Ernawati_shaffie_othman@schools.gov.sg](mailto:Ernawati_shaffie_othman@schools.gov.sg)	|
+| Subject Head (Craft & Technology) 	| Ms Sheu Cifang	| [Sheu_cifang@schools.gov.sg](mailto:Sheu_cifang@schools.gov.sg)	|
+| Subject Head (Educational Technology)	| Ms Theophilia Yong Yeun Foon	| [Theophilia_yong@schools.gov.sg](mailto:Theophilia_yong@schools.gov.sg)	|
+| Subject Head (Mother Tongue Languages)	| Ms Irdawaty Binte Mohd	| [Irdawaty_mohd@schools.gov.sg](mailto:Irdawaty_mohd@schools.gov.sg)	|
+| Subject Head (Physical Education)	| Mr Jonathan Ram PS	| [Jonathan_ram_ps@schools.gov.sg](mailto:Jonathan_ram_ps@schools.gov.sg)	|
+| Subject Head (Social Studies) 	| Ms Sng Qian Jin Elodie	| [Sng_qian_jin_elodie@schools.gov.sg ](mailto:Sng_qian_jin_elodie@schools.gov.sg )	|
+| Subject Head (Student Management) 	| Mr Kumaravel S/O Thangavel	| [Kumaravel_thangavel@schools.gov.sg](mailto:Kumaravel_thangavel@schools.gov.sg)	|
+| Subject Head (Student Well-being) 	|  Mr Ong Teck Meng Victor	| [Ong_teck_meng_victor@schools.gov.sg](mailto:Ong_teck_meng_victor@schools.gov.sg)	|
+| Administration Manager	| Mdm Goh Huilin Nelly	| [Goh_nelly@schools.gov.sg](mailto:Goh_nelly@schools.gov.sg)	|
+| Administration Manager	| Mr Wong Hong Wai	| [Wong_hong_wai@schools.gov.sg](mailto:Wong_hong_wai@schools.gov.sg)	|
+| Operations Manager	| Mr Khoo Boo Leong Peter	| [Khoo_boo_leong_peter@schools.gov.sg](mailto:Khoo_boo_leong_peter@schools.gov.sg)	|
+
+
+
+
+
+
+
 
 
 
