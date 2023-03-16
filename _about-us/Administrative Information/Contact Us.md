@@ -12,7 +12,8 @@ third_nav_title: Administrative Information
 <br>Nearest MRT Station	: Choa Chu Kang 
 <br>Buses Nearby	: 975, 985, 982E, 190
 
-<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3329.9183649080815!2d103.75261078598734!3d1.381785787859246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1195f4fe9a7b%3A0x75e844fc6b86adaa!2sTeck%20Whye%20Secondary%20School!5e0!3m2!1sen!2ssg!4v1678951875543!5m2!1sen!2ssg"></iframe>
+<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1994.3278929652663!2d103.75297841744381!3d1.3831667000000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da11b9585aebf9%3A0x44af88dc82b0b591!2sChua%20Chu%20Kang%20Secondary%20School!5e0!3m2!1sen!2ssg!4v1678952231947!5m2!1sen!2ssg"></iframe>
+
 <br><br><br>
 
 
@@ -24,4 +25,4 @@ third_nav_title: Administrative Information
 <br>Nearest MRT Station	: Choa Chu Kang 
 <br>Choa Chu Kang Bus Interchange	: 975, 985, 982E, 190
 
-<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.655253874009!2d103.74706022084793!3d1.383483195763659!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da11c005049413%3A0xbc04881e7e1ca060!2sChua%20Chu%20Kang%20Secondary%20School!5e0!3m2!1sen!2ssg!4v1678951914074!5m2!1sen!2ssg"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.655253874009!2d103.74706022084793!3d1.383483195763659!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da11c005049413%3A0xbc04881e7e1ca060!2sChua%20Chu%20Kang%20Secondary%20School!5e0!3m2!1sen!2ssg!4v1678951914074!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
