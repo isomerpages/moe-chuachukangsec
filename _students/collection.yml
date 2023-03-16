@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Timetable/.keep
-      - Class Timetable.md
       - WA Schedule.md
