@@ -6,11 +6,11 @@ colors:
   secondary-color: "#27c3f3"
   media-colors:
     - title: media-color-one
-      color: "#72b5f0"
-    - title: media-color-two
       color: "#279dbb"
+    - title: media-color-two
+      color: "#05e4f9"
     - title: media-color-three
-      color: "#19deed"
+      color: "#279dbb"
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
