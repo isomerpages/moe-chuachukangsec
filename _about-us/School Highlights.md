@@ -5,4 +5,22 @@ description: ""
 ---
 # **School Highlights** 
 
-[2021 Choa Chu Kang Secondary School WESTories Brochure.pdf](/files/2021%20Choa%20Chu%20Kang%20Secondary%20School%20WESTories%20Brochure.pdf)
+
+### 30th Anniversary School Magazine
+
+[2022 School Magazine](https://heyzine.com/flip-book/b3d47a1b8e.html)
+
+![](/images/About%20Us/School%20Magazine%20Cover%20Page.jpg)
+
+
+
+
+
+
+--------------------------
+
+### WE STories 2022 Flipbook
+
+[WE STories2022](https://online.fliphtml5.com/obrr/qkde/)
+
+![](/images/About%20Us/2022%20WeSTories%20cover.jpg)
