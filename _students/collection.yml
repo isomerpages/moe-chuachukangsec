@@ -2,5 +2,6 @@ collections:
   students:
     output: true
     order:
+      - Timetable/Class Timetable.md
       - Timetable/.keep
       - WA Schedule.md
