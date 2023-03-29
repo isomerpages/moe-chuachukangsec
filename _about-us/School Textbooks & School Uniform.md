@@ -5,11 +5,11 @@ description: ""
 ---
 # School Bookshop<br>
 **<u>Pacific Bookstores Pte Ltd</u>**
-<br><u>**Campus 1 at 31 Teck Whye Crescent Singapore 688848**</u>
+<br><u>Campus 1 at 31 Teck Whye Crescent Singapore 688848</u>
 <br>Operating Hours:
 <br>8:30 am – 3 pm (Monday to Friday, closed during school holidays and Public Holidays)
 
-<u>**Campus 2 at 3 Teck Whye Crescent Singapore 688845**</u>
+<u>Campus 2 at 3 Teck Whye Crescent Singapore 688845</u>
 <br>Operating Hours:
 <br>8:30 am – 3 pm (Every Wednesday, closed during school holidays and Public Holidays)
 <br><br>**Website: https://www.pacificbookstores.com**
