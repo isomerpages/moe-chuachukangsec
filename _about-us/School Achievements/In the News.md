@@ -9,6 +9,7 @@ third_nav_title: School Achievements
 ### Nasihat arwah ayah bantu kuatkan semangat hingga berjaya
 [https://www.beritaharian.sg/setempat/nasihat-arwah-ayah-bantu-kuatkan-semangat-hingga-berjaya](https://www.beritaharian.sg/setempat/nasihat-arwah-ayah-bantu-kuatkan-semangat-hingga-berjaya)
 
+![](/images/About%20Us/In%20The%20News/Inthenews01.jpg)
 <img src="images/About%20Us/In%20The%20News/Inthenews01.jpg" 
      style="width:90%" >
 
@@ -18,6 +19,8 @@ third_nav_title: School Achievements
 
 ### Dapat ganjaran ketepi masa untuk pelajaran walau minat pelbagai
 [https://www.beritaharian.sg/setempat/dapat-ganjaran-ketepi-masa-untuk-pelajaran-walau-minat-pelbagai](https://www.beritaharian.sg/setempat/dapat-ganjaran-ketepi-masa-untuk-pelajaran-walau-minat-pelbagai)
+
+![](/images/About%20Us/In%20The%20News/Inthenews02.jpg)
 
 <img src="images/About%20Us/In%20The%20News/Inthenews02.jpg" 
      style="width:90%" >
@@ -30,6 +33,8 @@ third_nav_title: School Achievements
 
 <a href="https://berita.mediacorp.sg/singapura/keputusan-gce-n-adik-hidap-barah-jadi-sumber-kekuatan-kehilangan-ayah-sebelum-peperiksaan-717306">
 
+![](/images/About%20Us/In%20The%20News/Inthenews03.jpg)	
+	
 <img src="images/About%20Us/In%20The%20News/Inthenews03.jpg" 
      style="width:90%" >
 
@@ -39,6 +44,8 @@ third_nav_title: School Achievements
 
 [https://www.8world.com/so-young/secondary-school-open-house-1975561](https://www.8world.com/so-young/secondary-school-open-house-1975561)
 
+![](/images/About%20Us/In%20The%20News/Inthenews04.jpg)	
+	
 <img src="images/About%20Us/In%20The%20News/Inthenews04.jpg" 
      style="width:90%">
 
