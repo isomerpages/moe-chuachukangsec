@@ -25,4 +25,4 @@ third_nav_title: Departments
 |  	Miss	|  	Tan Sze Ghee	|  	Teacher	|  
 |  	Mr	|  	Tee Jie Kai Calvin	|  	Teacher	|  
 |  	Miss	|  	Wong Hui San, Trina	|  	Teacher	|  
-|  	Miss	|  	Yasmeen Aysha	|  	Teacher	|  
+|  	Miss	|  	Yasmeen Aysha	|  	Teacher	|
