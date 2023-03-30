@@ -42,3 +42,24 @@ At CHUA CHU KANG Secondary School, the following Sexuality Education lessons wil
 
 #### Secondary 1
 
+![](/images/The%20Co%20Curriculum%20At%20Cckss/CCE/Sec1_SeD.jpg)
+
+#### Secondary 2
+![](/images/The%20Co%20Curriculum%20At%20Cckss/CCE/Sec2_SeD.jpg)
+
+#### Secondary 3
+![](/images/The%20Co%20Curriculum%20At%20Cckss/CCE/Sec3_SeD.jpg)
+
+#### Secondary 4
+![](/images/The%20Co%20Curriculum%20At%20Cckss/CCE/Sec4_SeD.jpg)
+
+#### eTeens Programme: 
+
+8.	eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
+<br><br>
+9.	Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+
+At Chua Chu Kang Secondary School, the eTeens programme will be implemented as follows in 2023:
+
+
+
