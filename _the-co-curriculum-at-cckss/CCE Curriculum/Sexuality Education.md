@@ -61,5 +61,10 @@ At CHUA CHU KANG Secondary School, the following Sexuality Education lessons wil
 
 At Chua Chu Kang Secondary School, the eTeens programme will be implemented as follows in 2023:
 
-
-
+|  Topics/Lessons		| Programme Learning Objectives 	| Time Period(e.g. Term 3 Week 9) 	|			
+|---	|---	|---	|			
+|  	Mass Talk by HPB appointed vendor
+* 	|  Awareness of the different STIs and HIV/AIDS
+* Modes of transmission
+* Modes of protection, specifically on how the condom is used
+* Consequences and impact of STIs/HIV	|  	Head of Department (Humanities)	|  
