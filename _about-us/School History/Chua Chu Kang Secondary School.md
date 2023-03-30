@@ -6,43 +6,27 @@ third_nav_title: School History
 ---
 OUR HERITAGE
 ------------
-|  ![](/images/About%20Us/School%20History/CCKSS/Picture16.jpg)| ![](/images/About%20Us/School%20History/CCKSS/Picture17.jpg) |
-| -------- | -------- |
-
+![](/images/About%20Us/School%20History/CCKSS/CCKSS_history_01.jpg)
 
 
 Chua Chu Kang Secondary School was founded in 1992. Residents held fond memories of their farming days in the old Chua Chu Kang area, so the school took the name to reflect the ties that bind.
 
-
-
-|  ![](/images/About%20Us/School%20History/CCKSS/Picture18.jpg)| ![](/images/About%20Us/School%20History/CCKSS/Picture19.jpg) |
-| -------- | -------- |
+![](/images/About%20Us/School%20History/CCKSS/CCKSS_history_02.jpg)
 
 
 Founding Principal, Miss Sum Chee Wah, and 14 teachers welcomed the pioneer batch of students in 1993.  Faith that CCKsians will stand tall anchored the school as we embarked on providing vibrant formative experiences for our charges.  
 
 The school Motto ‘Serve, Grow, Excel’ is a timeless beacon for all CCKsians. It encapsulates the staff’s shared ideals – every CCKsian will seek to Serve others before themselves, Grow in character, and Excel in all they undertake. The Students’ Creed ‘I am a CCKsian’ is a poetic call to character, for CCKsians to distinguish themselves no matter the tide.
 
-|  ![](/images/About%20Us/School%20History/CCKSS/Picture20.jpg)| ![](/images/About%20Us/School%20History/CCKSS/Picture21.jpg) |
-| -------- | -------- |
-
-
-
-
-
+![](/images/About%20Us/School%20History/CCKSS/CCKSS_history_03.jpg)
 
 On 8 April 1995, the school was officially opened by then Member of Parliament for Chua Chu Kang, Associate Professor Low Seow Chay. The first batch of CCKsians sat for the GCE O-Level and N-Level Examinations in 1996. Through the years, the school has grown from strength to strength, with accolades that bear testament to our unstinting belief in our students, and their will to soar.
 
-|  ![](/images/About%20Us/School%20History/CCKSS/Picture22.jpg)| ![](/images/About%20Us/School%20History/CCKSS/Picture23.jpg) |
-| -------- | -------- |
-
+![](/images/About%20Us/School%20History/CCKSS/CCKSS_history_04.jpg)
 
 
 Standing at the cusp of a very different new world and steered by our vision, the school established its strengths in Robotics & Automation and in Community Youth Leadership.
-
-|  ![](/images/About%20Us/School%20History/CCKSS/Picture24.jpg)| ![](/images/About%20Us/School%20History/CCKSS/Picture25.png) |
-| -------- | -------- |
-
+![](/images/About%20Us/School%20History/CCKSS/CCKSS_history_05.jpg)
 
 
 Under the helm of six Principals over three decades, Chua Chu Kang Secondary School has stayed true to its vision and mission. The merger of Chua Chu Kang Secondary School and Teck Whye Secondary School in 2023 holds great promise. As one school, we continue to chart the future of Chua Chu Kang Secondary School (德惠中学) and hold in stewardship the ideals of education.
