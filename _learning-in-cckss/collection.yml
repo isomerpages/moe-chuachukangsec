@@ -2,6 +2,7 @@ collections:
   learning-in-cckss:
     output: true
     order:
+      - Personalised Digital Learning Programme.md
       - "Applied Learning Programme: Technology in Sustainability.md"
       - Departments/.keep
       - Departments/Craft and Technology.md
