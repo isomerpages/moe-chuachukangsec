@@ -27,8 +27,8 @@ third_nav_title: Departments
 |  	Mdm	|  	Mohanavalli Mrs Balasuppramaniam Mohanavalli	|  	Teacher	|  
 |  	Miss	|  	Nurul Izzah Binte Mohamad Rashid	|  	Teacher	|  
 |  	Mr	|  	Pang Yew Cheng	|  	Teacher	|  
-|  	Mr	|  	Rahmat Bin Hassan		Teacher	|  
-|  	Miss	|  	Tan Taw Ying		Teacher	|  
-|  	Mr	|  	Tang Shao Wei Alan		Teacher	|  
-|  	Miss	|  	Wang Ping		Teacher	|  
-|  	Mdm	|  	Wong Wun Chyen		Teacher	|  
+|  	Mr	|  	Rahmat Bin Hassan	|	Teacher	|  
+|  	Miss	|  	Tan Taw Ying	|	Teacher	|  
+|  	Mr	|  	Tang Shao Wei Alan	|	Teacher	|  
+|  	Miss	|  	Wang Ping	|	Teacher	|  
+|  	Mdm	|  	Wong Wun Chyen	|	Teacher	|
