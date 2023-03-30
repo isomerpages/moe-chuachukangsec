@@ -25,7 +25,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 ##### OVERVIEW OF CHUA CHU KANG SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2023
 
-4.	Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click here for more information on the scope of Sexuality Education in the school curriculum.
+4.	Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
 5.	The subjects that incorporate topics on sexuality include: 
 a.	Science 
@@ -38,4 +38,7 @@ b.	Character and Citizenship Education (CCE)
 
 7.	Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. 
 <br>
+At CHUA CHU KANG Secondary School, the following Sexuality Education lessons will be taught in 2023:
+
+#### Secondary 1
 
