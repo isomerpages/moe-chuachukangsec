@@ -26,4 +26,4 @@ third_nav_title: Departments
 |  	Mdm	|  	Uvarani d/o Munusamy	|  	Teacher	|  
 |  	Miss	|  	Yap Eng Luan Ruth	|  	Teacher	|  
 |  	Miss	|  	Zhang Xuedi	|  	Teacher	|  
-|  	Miss	|  	Foo Mei Ling	|  	FAJT	|  
+|  	Miss	|  	Foo Mei Ling	|  	FAJT	|
