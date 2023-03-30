@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - "Applied Learning Programme: Technology in Sustainability.md"
+      - Departments/English.md
       - Departments/Craft and Technology.md
       - Departments/.keep
       - Students Achievements/.keep
