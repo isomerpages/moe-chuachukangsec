@@ -10,13 +10,7 @@ Teck Whye Secondary School
 ### Our Initial Years (1966 – 1979)
 
 
-
-| ![](/images/About%20Us/School%20History/TWSS/TWSS%20Photo%201.png)|![](/images/About%20Us/School%20History/TWSS/TWSS%20Photo%202.png) | ![](/images/About%20Us/School%20History/TWSS/TWSS%20Photo%203.png) |![](/images/About%20Us/School%20History/TWSS/TWSS%20Photo%204.jpg)|
-| -------- | -------- | -------- | -------- |
-
-
-
-
+![](/images/About%20Us/School%20History/CCKSS/TWSS_history_01.jpg)
 
 
 
@@ -37,8 +31,9 @@ In addition, the school strongly believed in bringing out its students’ greate
 
 
 ### Our Transformative Years (2002 – 2016) 
-| ![](/images/About%20Us/School%20History/TWSS/TWSS%20Photo%205.jpg)|![](/images/About%20Us/School%20History/TWSS/TWSS%20Photo%206.jpg) | ![](/images/About%20Us/School%20History/TWSS/TWSS%20Photo%207.jpg) |![](/images/About%20Us/School%20History/TWSS/TWSS%20Photo%208.jpg)|
-| -------- | -------- | -------- | -------- |
+
+![](/images/About%20Us/School%20History/CCKSS/TWSS_history_01.jpg)
+
 
 With the advent of the “Thinking Schools Learning Nation” ability-driven education model to help Singapore transition towards a knowledge-based economy in 1997, there was greater flexibility and choice offered to students. Streams were no longer rigid barriers and schools were given the flexibility to offer options that matched student interests. Schools were strongly encouraged to take ownership of the curriculum and co-curricular activities to better respond to student talents and abilities and to customise their programmes to meet student aptitudes and skills.
 
@@ -51,6 +46,3 @@ In 2011, the Student-Centric Values-Driven Education initiative was launched to 
 Niche areas were also built up to attract talent to the school and students were exposed to learning platforms that developed them holistically and inculcated lifelong learning.  To ensure that students would develop deep values, even stronger community bonds were built through the introduction of a community-based Values in Action programme where students partnered the community to reach out to residents in need.
 
 With the seeds planted by pioneering educators and the flowers lovingly cared for by subsequent generations, Teck Whye will continue to bloom with pride for many years to come.
-
-
-
