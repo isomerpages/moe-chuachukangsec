@@ -27,7 +27,7 @@ sections:
       title: Chinese New Year Celebration
       subtitle: School Events
       button: Read more
-      url: /events/School-events/permalink/
+      url: /events/school-events/chinese-new-year-celebration
       image: /images/Events/School Events/20230120 Chinese New Year/2023 CNY
         Thumbnail.jpg
       alt: Chinese New Year Celebration
