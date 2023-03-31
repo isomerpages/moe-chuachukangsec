@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Education Career Guidance.md
-      - Education Career Guidance/Education Career Guidance.md
-      - Education Career Guidance/.keep
       - MOE OBS/MOE OBS Programme.md
       - MOE OBS/.keep
       - CCE Curriculum/.keep
