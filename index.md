@@ -37,7 +37,7 @@ sections:
       description: Pongol Celebration
       button: Read More
       alt: Image alt text
-      url: /events/school-events/pongol-celebration
+      url: /events/school-events/pongol-celebration/
       image: /images/Events/School Events/20230130 Pongol Celebration/Pongol Thumb.jpg
   - infopic:
       title: Racial Harmony Day
