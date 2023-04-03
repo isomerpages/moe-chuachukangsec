@@ -32,7 +32,7 @@ In addition, the school strongly believed in bringing out its students’ greate
 
 ### Our Transformative Years (2002 – 2016) 
 
-![](/images/About%20Us/School%20History/CCKSS/TWSS_history_01.jpg)
+![](/images/About%20Us/School%20History/CCKSS/TWSS_history_02.jpg)
 
 
 With the advent of the “Thinking Schools Learning Nation” ability-driven education model to help Singapore transition towards a knowledge-based economy in 1997, there was greater flexibility and choice offered to students. Streams were no longer rigid barriers and schools were given the flexibility to offer options that matched student interests. Schools were strongly encouraged to take ownership of the curriculum and co-curricular activities to better respond to student talents and abilities and to customise their programmes to meet student aptitudes and skills.
