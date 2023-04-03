@@ -11,3 +11,5 @@ It was also very heartwarming to see our colleagues from other races borrowing t
 Today’s celebration also marked the end of an exciting suite of activities organised for the CCKSSians and students from the school’s Tamil Centre. During the month of January, Secondary 1 to 5 students participated in a learning journey to Little India, painted pongal ponts, learnt to play traditional games and instruments and even learnt the art of making the Pongal overflow! From the happy faces, it looks like a good harvest is in store! 
 
 Learn more about Pongal [Here](https://www.visitsingapore.com/festivals-events-singapore/cultural-festivals/pongal/).
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS2xw0s3RcmFvmqRAIQ1izhZTrzLebpQNTLn7DwdvXv6uzZj0yOTS64fd1iYlK3Pg/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
