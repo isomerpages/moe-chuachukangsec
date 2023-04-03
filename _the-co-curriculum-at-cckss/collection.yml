@@ -2,6 +2,7 @@ collections:
   the-co-curriculum-at-cckss:
     output: true
     order:
+      - Learning for Life Programme/Prefectorial Board.md
       - Learning for Life Programme/Leadership Development Through CCA.md
       - Learning for Life Programme/Class Committee.md
       - Learning for Life Programme/Learning for Life Programme.md
