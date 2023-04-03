@@ -2,6 +2,7 @@ collections:
   the-co-curriculum-at-cckss:
     output: true
     order:
+      - Learning for Life Programme/Learning for Life Programme.md
       - Learning for Life Programme/.keep
       - Education Career Guidance.md
       - MOE OBS/MOE OBS Programme.md
