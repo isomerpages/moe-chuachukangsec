@@ -5,17 +5,17 @@ links:
   - title: Learning in CCKSS
     collection: learning-in-cckss
   - title: The Co-Curriculum at CCKSS
-    url: /learning-for-life-programme/permalink/
+    url: /the-co-curriculum-at-cckss/learning-for-life-programme/learning-for-life-programme/
     sublinks:
-      - title: Co-Curricular Activities
-        url: /cca/clubs-and-societies/permalink/
       - title: Learning For Life Programme
-        url: /learning-for-life-programme/permalink/
+        url: /the-co-curriculum-at-cckss/learning-for-life-programme/learning-for-life-programme/
+      - title: Co-Curricular Activities
+        url: /cca/clubs-and-societies/permalink/    
       - title: Character and Citizenship Education (CCE)
         url: /the-co-curriculum-at-cckss/cce-curriculum/permalink/
       - title: MOE OBS
         url: /the-co-curriculum-at-cckss/moe-obs/permalink/
       - title: Education Career Guidance
-        url: /the-co-curriculum-at-cckss/education-career-guidance/permalink/
+        url: /the-co-curriculum-at-cckss/cce-curriculum/cyberwellness/
   - title: Caring Community in CCKSS
     collection: caring-community
