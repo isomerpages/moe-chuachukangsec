@@ -24,4 +24,3 @@ Choir members have opportunities to develop their skills in various areas such a
 * Choir Talentime
 * Concerts held at the school’s, creative space, Vivace
 * Performing Arts Concerts
-
