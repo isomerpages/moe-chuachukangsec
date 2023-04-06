@@ -15,11 +15,3 @@ In CCKSS, International Friendship Day provides students the opportunity to e
 *   infusing students with a global outlook that makes them open to working well with people of different cultures, both within Singapore and in the world at large;
 *   helping students understand how the successful integration of Singaporeans and new immigrants will contribute towards Singapore’s continued success as an economy, society and nation;
 *   guiding, challenging and correcting students’ misconceptions and/or stereotypes of new immigrants and providing a platform for them to express acceptance of foreign cultures and norms.
-
-![](/images/IFD%2001.jpg)
-
-![](/images/IFD%2002.jpg)
-
-![](/images/IFD%2003.jpg)
-
-![](/images/IFD%2004.jpg)
