@@ -19,7 +19,7 @@ Thank you for visiting Chua Chu Kang Secondary School website. By accessing and 
 
 **Privacy Policy**
 
-*   Click here to review the [Web Site Privacy Statement](https://chuachukangsec.moe.edu.sg/other/privacy-statement).
+*   Click here to review the [Web Site Privacy Statement](/privacy/).
 
 **Restrictions on Use of Materials**
 
