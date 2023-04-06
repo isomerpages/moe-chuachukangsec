@@ -2,6 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Timetable/School based Helpline.md
-      - Timetable/Class Timetable.md
       - Timetable/.keep
+      - Timetable/Class Timetable.md
+      - Timetable/School based Helpline.md
