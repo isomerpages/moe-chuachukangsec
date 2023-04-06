@@ -11,13 +11,13 @@ sections:
       key_highlights:
         - title: Parents
           description: ""
-          url: /Parents/
+          url: /parents/school-home-link/
         - title: Students
           description: ""
-          url: /Students/
+          url: /students/class-timetable/
         - title: Useful Links
           description: ""
-          url: /useful-links/
+          url: /useful-links/useful-links
       background: /images/2023 Design/Homepage Banner/HomePage Banner v5.gif
   - resources:
       title: Announcement
