@@ -16,8 +16,8 @@ third_nav_title: Clubs and Societies
 
 The Infocomm Technology (Media Production) Club comprises a team of dedicated members who are responsible for providing media support and seek to constantly deliver high standards in terms of audio and visual aid so that the school population has enjoyable experiences during school events like Chinese New Year Celebration, Speech Day, National Day Celebration, and Teachers’ Day Celebration. Members also take beautiful shots of staff and students at school-wide events to immortalise these memorable experiences.
 
-Achievements
+**Achievements**
 <br>Coming Soon
 
-Announcement 
+**Announcement** 
 <br>Coming Soon
