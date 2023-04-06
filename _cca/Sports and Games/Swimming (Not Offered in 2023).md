@@ -17,8 +17,3 @@ This year, students participated in competitions such as the Inter-Schools Swimm
 
 Other than competitions, students engaged in Values-in-Action activities, to volunteer their time and services. These activities take the form of helping to do timekeeping in swimming events held by various organisations.
 
-**Achievements**
-<br>Coming Soon
-
-**Announcement** 
-<br>Coming Soon
