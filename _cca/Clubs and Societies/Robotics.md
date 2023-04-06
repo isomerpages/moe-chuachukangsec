@@ -16,8 +16,8 @@ third_nav_title: Clubs and Societies
 
 The mission of the Robotics Club is encapsulated in the motto, ‘Create. Command. Conquer’. We create solutions. We command our own lives and do not let laziness, complacency and bad habits creep in. We conquer the inner and outer obstacles in our lives and emerge victorious. Every club member is instilled with a positive attitude towards learning. Members participate in various competitions such as the IDE Robotics Competition and National Robotics Challenge to showcase application of their learning.
 
-Achievements
+**Achievements**
 <br>Coming Soon
 
-Announcement 
+**Announcement** 
 <br>Coming Soon
