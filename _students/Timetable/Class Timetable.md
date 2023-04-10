@@ -4,14 +4,22 @@ permalink: /students/class-timetable/
 description: Class Timetable
 third_nav_title: Timetable
 ---
-[2023 Sem 1 Sec 1 Timetable Odd Week](/files/Students/Timetable/2023%20Sem%201%20Timetable%20Sec%201%20Odd%20Week.pdf)<br>
-[2023 Sem 1 Sec 2 Timetable Odd Week](/files/Students/Timetable/2023%20Sem%201%20Timetable%20Sec%202%20Odd%20Week.pdf)<br>
-[2023 Sem 1 Sec 3 Timetable Odd Week](/files/Students/Timetable/2023%20Sem%201%20Timetable%20Sec%203%20Odd%20Week.pdf)<br>
-[2023 Sem 1 Sec 4n5 Timetable Campus 1 Odd Week](/files/Students/Timetable/2023%20Sem%201%20Timetable%20Sec%2045%20Campus%201%20Odd%20Week.pdf)<br>
-[2023 Sem 1 Sec 4n5 Timetable Campus 2 Odd Week](/files/Students/Timetable/2023%20Sem%201%20Timetable%20Sec%2045%20Campus%202%20Odd%20Week.pdf)<br>
 
-[2023 Sem 1 Timetable Sec 1 Even Week wef 6 Feb](/files/Students/Timetable/2023%20Sem%201%20Timetable%20Sec%201%20Even%20Week%20wef%206%20Feb.pdf)<br>
-[2023 Sem 1 Timetable Sec 2 Even Week wef 6 Feb.pdf](/files/Students/Timetable/2023%20Sem%201%20Timetable%20Sec%202%20Even%20Week%20wef%206%20Feb.pdf)<br>
-[2023 Sem 1 Timetable Sec 3 Even Week wef 6 Feb.pdf](/files/Students/Timetable/2023%20Sem%201%20Timetable%20Sec%203%20Even%20Week%20wef%206%20Feb.pdf)<br>
-[2023 Sem 1 Timetable Sec 4n5 Campus 1 Even Week wef 6 Feb.pdf](/files/Students/Timetable/2023%20Sem%201%20Timetable%20Sec%204n5%20Campus%201%20Even%20Week%20wef%206%20Feb.pdf)<br>
-[2023 Sem 1 Timetable Sec 4n5 Campus2 Even Week wef 6 Feb.pdf](/files/Students/Timetable/2023%20Sem%201%20Timetable%20Sec%204n5%20Campus%202%20Even%20Week%20wef%206%20Feb.pdf)<br>
+[](/files/Students/Timetable/2023_Term2_Timetable_Sec1_Even_Week.pdf)
+[](/files/Students/Timetable/2023_Term2_Timetable_Sec1_Odd_Week.pdf)
+[](/files/Students/Timetable/2023_Term2_Timetable_Sec4n5_Campus1_Even_Week.pdf)
+[](/files/Students/Timetable/2023_Term2_Timetable_Sec4&amp;5_Campus1_Odd_Week.pdf)
+
+
+
+[2023 Term 2 Sec 1 Timetable Odd Week](/files/Students/Timetable/2023_Term2_Timetable_Sec1_Odd_Week.pdf)<br>
+[2023 Term 2 Sec 2 Timetable Odd Week](/files/Students/Timetable/2023_Term2_Timetable_Sec2_Odd_Week.pdf)<br>
+[2023 Term 2 Sec 3 Timetable Odd Week](/files/Students/Timetable/2023_Term2_Timetable_Sec3_Odd_Week.pdf)<br>
+[2023 Term 2 Sec 4n5 Timetable Campus 1 Odd Week](/files/Students/Timetable/2023_Term2_Timetable_Sec4&amp;5_Campus1_Odd_Week.pdf)<br>
+[2023 Term 2 Sec 4n5 Timetable Campus 2 Odd Week](/files/Students/Timetable/2023_Term2_Timetable_Sec4&amp;5_Campus2_Odd_Week.pdf)<br>
+
+[2023 Term 2 Sec 1 Timetable Even Week](/files/Students/Timetable/2023_Term2_Timetable_Sec1_Even_Week.pdf)<br>
+[2023 Term 2 Sec 2 Timetable Even Week](/files/Students/Timetable/2023_Term2_Timetable_Sec2_Even_Week.pdf)<br>
+[2023 Term 2 Sec 3 Timetable Even Week](/files/Students/Timetable/2023_Term2_Timetable_Sec3_Even_Week.pdf)<br>
+[2023 Term 2 Sec 4n5 Timetable Campus 1 Even Week](/files/Students/Timetable/2023_Term2_Timetable_Sec4n5_Campus1_Even_Week.pdf)<br>
+[2023 Term 2 Sec 4n5 Timetable Campus2 Even Week](/files/Students/Timetable/2023_Term2_Timetable_Sec4n5_Campus2_Even_Week.pdf)<br>
