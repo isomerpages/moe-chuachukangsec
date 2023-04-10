@@ -8,7 +8,6 @@ description: ""
 To support you in keeping your child safe online, you may refer to these resources:
 
 *   (http://go.gov.sg/moe-cyber-wellness)[go.gov.sg/moe-cyber-wellness](http://go.gov.sg/moe-cyber-wellness)
-*   [go.gov.sg/better-internet-sg](http://go.gov.sg/better-internet-sg)
 *   [sure.nlb.gov.sg/](http://sure.nlb.gov.sg/)
 *   [](http://go.gov.sg/moe-cyber-wellness)[help123.sg](http://help123.sg/)
 
@@ -24,7 +23,7 @@ Others:
 *   [School Based Helpline](/students/timetable/school-based-helpline/)        
 *   [Parent-Handbook (I) 1 to 1 Learning](/files/Parent-Handbook-I-on-1_1-Learning.pdf)
    
-*   [Schoolbag: The education news site](https://www.schoolbag.sg/)  
+*   [Schoolbag: The education news site](https://www.schoolbag.edu.sg/)  
     
 *   [Singapore Student Learning Space](https://learning.moe.edu.sg/)  
     
