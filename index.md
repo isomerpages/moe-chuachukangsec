@@ -39,24 +39,4 @@ sections:
       alt: Image alt text
       url: /events/school-events/pongol-celebration/
       image: /images/Events/School Events/20230130 Pongol Celebration/Pongol Thumb.jpg
-  - infopic:
-      title: Racial Harmony Day
-      subtitle: NE Events
-      description: Racial Harmony Day description
-      button: Read More
-      url: /events/2019/racial-harmony-day-2019/
-      image: /images/Cultural Activities 02.jpg
-      alt: Image alt text
-  - infopic:
-      title: Coming Soon
-      subtitle: IP programs
-      description: Coming Soon
-      button: Read more
-      url: /events/IP-programs/permalink
-      alt: Image alt text
-  - infopic:
-      title: Coming Soon
-      subtitle: Miscellaneous
-      description: Coming Soon
-      alt: Image alt text
 ---
