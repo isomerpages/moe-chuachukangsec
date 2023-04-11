@@ -6,12 +6,18 @@ description: ""
 <!-- -->
 # **School Organisation**
 
-| Key Personnel 	| Name 	| Email Address 	|
+### **School Leaders**
+
+| School Leaders  	| Name 	| Email Address 	|
 |---	|---	|---	|
 | Principal	| Mr Timothy Cheng	| [Timothy_cheng@schools.gov.sg](mailto:Timothy_cheng@schools.gov.sg)	|
 | Vice Principal (Acad)	| Mdm Jane Lee	| [Lee_ee_lei_jane@schools.gov.sg](mailto:Lee_ee_lei_jane@schools.gov.sg)	|
 | Vice Principal (Acad)	| Mdm Hartati Bte Osman	| [Hartati_Osman@schools.gov.sg](mailto:Hartati_Osman@schools.gov.sg)	|
 | Vice Principal (Admin)	| Mr Ang King Hor	| [Ang_King_Hor@schools.gov.sg](mailto:Ang_King_Hor@schools.gov.sg)	|
+
+### **Key Personnel**
+| Key Personnel 	| Name 	| Email Address 	|
+|---	|---	|---	|
 | HOD (Character &amp; Citizenship Education)	| Ms Ong Yun Ping	| [Ong_yun_ping@schools.gov.sg](mailto:Ong_yun_ping@schools.gov.sg)	|
 | HOD (Craft &amp; Technology / Applied Learning)	| Mdm Tay Su Ming	| [Fiona_tay@schools.gov.sg](mailto:Fiona_tay@schools.gov.sg)	|
 | HOD (English)	| Mdm Azwiza Bte Ahmad	| [Azwiza_ahmad@schools.gov.sg&nbsp;](mailto:Azwiza_ahmad@schools.gov.sg&nbsp;)	|
