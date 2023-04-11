@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
-      - School Organisation.md
       - Principal's Foreword.md
       - School History/.keep
       - School History/History.md
@@ -13,4 +11,6 @@ collections:
       - School Achievements/.keep
       - School Achievements/In the News.md
       - School Highlights.md
+      - School Organisation.md
+      - Contact Us.md
       - Administrative Information/.keep
