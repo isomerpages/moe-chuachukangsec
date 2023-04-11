@@ -18,7 +18,7 @@ sections:
       background: /images/2023 Design/Homepage Banner/HomePage Banner v5.gif
   - resources:
       title: Announcement
-      button: Click here for more post
+      button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
       title: Chinese New Year Celebration
