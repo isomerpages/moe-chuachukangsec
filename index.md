@@ -9,9 +9,6 @@ sections:
   - hero:
       url: /contact-us/
       key_highlights:
-        - title: Parents
-          description: ""
-          url: /parents/school-home-link/
         - title: Students
           description: ""
           url: /students/class-timetable/
