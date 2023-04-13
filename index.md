@@ -1,32 +1,39 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Chua Chu Kang Secondary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/2023 Design/Logo/CCKSS Logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      url: /contact-us/
+      key_highlights:
+        - title: Students
+          description: ""
+          url: /students/class-timetable/
+        - title: Useful Links
+          description: ""
+          url: /useful-links/useful-links
+      background: /images/2023 Design/Homepage Banner/HomePage Banner v5.gif
+  - resources:
+      title: Announcement
+      button: Click here for more
+      subtitle: STAY UP TO DATE WITH US
+  - infopic:
+      title: Chinese New Year Celebration
+      subtitle: School Events
+      button: Read more
+      url: /events/school-events/chinese-new-year-celebration/
+      image: /images/Events/School Events/20230120 Chinese New Year/2023 CNY
+        Thumbnail.jpg
+      alt: Chinese New Year Celebration
+  - infopic:
+      title: Pongol Celebration
+      subtitle: School Events
+      description: Pongol Celebration
+      button: Read More
+      alt: Image alt text
+      url: /events/school-events/pongol-celebration/
+      image: /images/Events/School Events/20230130 Pongol Celebration/Pongol Thumb.jpg
 ---
-

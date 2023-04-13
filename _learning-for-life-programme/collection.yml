@@ -1,0 +1,13 @@
+collections:
+  learning-for-life-programme:
+    output: true
+    order:
+      - Class Committee.md
+      - Leadership Development Through CCA.md
+      - Leadership course/.keep
+      - Leadership Events/.keep
+      - Leadership Events/Student Leadership Camp.md
+      - Leadership Events/Prefect Camp.md
+      - Leadership Events/Student Leaderdship Forum.md
+      - Leadership Events/Secondary 1 Orientation.md
+      - Prefectorial Board.md

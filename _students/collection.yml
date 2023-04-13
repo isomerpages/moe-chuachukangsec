@@ -1,0 +1,7 @@
+collections:
+  students:
+    output: true
+    order:
+      - Timetable/.keep
+      - Timetable/Class Timetable.md
+      - Timetable/School based Helpline.md

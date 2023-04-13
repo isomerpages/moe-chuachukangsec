@@ -1,0 +1,15 @@
+collections:
+  compassionate-leaders:
+    output: true
+    order:
+      - CCA/.keep
+      - Learning for life Programme/.keep
+      - Learning for life Programme/Learning for Life Programme.md
+      - Learning for life Programme/Leadership Course.md
+      - Learning for life Programme/Leadership Events.md
+      - CCA Achievements.md
+      - CCE Curriculum/Cyberwellness.md
+      - CCE Curriculum/.keep
+      - CCE Curriculum/Sexuality Education.md
+      - MOE OBS Programme.md
+      - Information on DSA JC, Poly EAE and ITE EAE 2022.md
