@@ -2,4 +2,5 @@ collections:
   parents:
     output: true
     order:
+      - Direct School Admission/Direct School Admission Application 2023.md
       - Direct School Admission/.keep
