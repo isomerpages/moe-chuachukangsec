@@ -2,6 +2,7 @@ collections:
   hide-page:
     output: true
     order:
+      - School Home link.md
       - Alumni(old).md
       - Staff Achievements.md
       - Our People.md
