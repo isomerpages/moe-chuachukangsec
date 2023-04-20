@@ -29,11 +29,11 @@ sections:
         Thumbnail.jpg
       alt: Chinese New Year Celebration
   - infopic:
-      title: Pongol Celebration
+      title: Pongal Celebration
       subtitle: School Events
-      description: Pongol Celebration
+      description: Pongal Celebration
       button: Read More
       alt: Image alt text
-      url: /events/school-events/pongol-celebration/
+      url: /events/school-events/pongal-celebration/
       image: /images/Events/School Events/20230130 Pongol Celebration/Pongol Thumb.jpg
 ---
