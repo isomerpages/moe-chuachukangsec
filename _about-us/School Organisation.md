@@ -16,6 +16,7 @@ description: ""
 | Vice Principal (Admin)	| Mr Ang King Hor	| [Ang_King_Hor@schools.gov.sg](mailto:Ang_King_Hor@schools.gov.sg)	|
 
 ### **Key Personnel**
+
 | Key Personnel 	| Name 	| Email Address 	|
 |---	|---	|---	|
 | HOD (Character &amp; Citizenship Education)	| Ms Ong Yun Ping	| [Ong_yun_ping@schools.gov.sg](mailto:Ong_yun_ping@schools.gov.sg)	|
