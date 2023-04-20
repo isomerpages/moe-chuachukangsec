@@ -16,6 +16,7 @@ description: ""
 | Vice Principal (Admin)	| Mr Ang King Hor	| [Ang_King_Hor@schools.gov.sg](mailto:Ang_King_Hor@schools.gov.sg)	|
 
 ### **Key Personnel**
+
 | Key Personnel 	| Name 	| Email Address 	|
 |---	|---	|---	|
 | HOD (Character &amp; Citizenship Education)	| Ms Ong Yun Ping	| [Ong_yun_ping@schools.gov.sg](mailto:Ong_yun_ping@schools.gov.sg)	|
@@ -48,6 +49,10 @@ description: ""
 | Administration Manager	| Mdm Goh Huilin Nelly	| [Goh_nelly@schools.gov.sg](mailto:Goh_nelly@schools.gov.sg)	|
 | Administration Manager	| Mr&nbsp;Wong Hong Wai	| [Wong_hong_wai@schools.gov.sg](mailto:Wong_hong_wai@schools.gov.sg)	|
 | Operations Manager	| Mr Khoo Boo Leong Peter	| [Khoo_boo_leong_peter@schools.gov.sg](mailto:Khoo_boo_leong_peter@schools.gov.sg)	|
+
+
+
+
 
 
 

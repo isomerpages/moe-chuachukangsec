@@ -1,6 +1,6 @@
 ---
-title: Pongol Celebration
-permalink: /events/school-events/pongol-celebration/
+title: Pongal Celebration
+permalink: /events/school-events/pongal-celebration/
 description: ""
 third_nav_title: School events
 ---
