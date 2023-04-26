@@ -6,10 +6,11 @@ third_nav_title: Uniformed Groups
 ---
 |  	|  	|  	|			
 |---	|---	|---	|			
-|  	Teachers-in-charge 	|  	s Yap Eng Luan Ruth (I/C)	|  		|  
+|  	Teachers-in-charge 	|  	Ms Yap Eng Luan Ruth (I/C)	|  		|  
 |  		|  	Mr Pang Yew Cheng	|  		|  
 |  		|  	Mdm Melissa Ng	|  		|  
 |  		|  	Mr Tee Jie Kai Calvin	|  		|  
+|  		|  	Ms Zoe	|  		|  
 
 
 ##### Vision
