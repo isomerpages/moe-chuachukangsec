@@ -7,8 +7,7 @@ third_nav_title: Sports and Games
 |  	|  	|  	|			
 |---	|---	|---	|			
 |  	Teachers-in-charge 	|  	Mr Rick Chan (I/C)	|  		|  
-|  		|  	Mdm Wong Hui San	|  		|  
-|  		|  	Trina (2I/C)	|  		|  
+|  		|  	Mdm Wong Hui San, Trina (2I/C)	|  		|  
 |  		|  	Mr Andrew Tan	|  		|  
 |  		|  	Mr Daniel Chan Wei Min	|  		|  
 |  		|  	Ms Tan Taw Ying	|  		|  
