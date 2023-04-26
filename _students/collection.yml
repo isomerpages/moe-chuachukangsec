@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Timetable/June Holidays IP Schedule 2023.md
       - Timetable/WA Student Schedule.md
       - Timetable/.keep
       - Timetable/Class Timetable.md
