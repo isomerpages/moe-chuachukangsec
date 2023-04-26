@@ -20,4 +20,3 @@ It was overall a fun time spent doing things outside the normal curriculum.
 We want MORE!!!!!!!   
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR31kt5gNYvZyxOBSAPyD-swQc4tvr5Y3C4gGUC6ThhUwPwCKmSaps7A3pn8sP-eg/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
-
