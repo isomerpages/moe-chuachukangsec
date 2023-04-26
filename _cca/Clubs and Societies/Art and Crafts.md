@@ -7,7 +7,7 @@ third_nav_title: Clubs and Societies
 |  	|  	|  	|			
 |---	|---	|---	|			
 |  	Teachers-in-charge 	|  	Mdm Grace Lee Wee Chin (I/C)	|  		|  
-|  		|  	Ms Sheu Cifang Ada	|  		|  
+|  		|  	Mr Neal Warren Cooke 	|  		|  
 |  		|  	Ms Theresa Sim	|  		|  
 
 
