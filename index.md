@@ -36,4 +36,11 @@ sections:
       alt: Image alt text
       url: /events/school-events/pongal-celebration/
       image: /images/Events/School Events/20230130 Pongol Celebration/Pongol Thumb.jpg
+  - infopic:
+      title: Discovery Week
+      button: Read More
+      url: /events/school-events/discovery-week/
+      image: /images/Events/School Events/Discovery Week/sec 1 photo 5 - rafting is
+        fun in the sun.jpeg
+      alt: Image alt text
 ---
