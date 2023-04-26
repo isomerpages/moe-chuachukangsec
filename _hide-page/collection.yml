@@ -2,6 +2,7 @@ collections:
   hide-page:
     output: true
     order:
+      - Outstanding Graduate Award 2022.md
       - School Home link.md
       - Alumni(old).md
       - Staff Achievements.md
