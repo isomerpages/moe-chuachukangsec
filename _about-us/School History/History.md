@@ -8,5 +8,5 @@ Chua Chu Kang Secondary School and Teck Whye Secondary School merged in 2023 to 
 
 Click the following links to appreciate the rich heritage and histories of both schools:   
 
-[Chua Chu kang Secondary school(pre 2023)](/about-us/School-History/Chua-Chu-Kang-Secondary-School/)<br>
+[Chua Chu kang Secondary school (pre 2023)](/about-us/School-History/Chua-Chu-Kang-Secondary-School/)<br>
 [Teck Whye Secondary school](/about-us/School-History/Teck-Whye-Secondary-School/)
