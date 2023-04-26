@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - IP programs/Coming Soon.md
       - IP programs/.keep
       - School events/Discovery Week.md
       - School events/Pongal Celebration.md
