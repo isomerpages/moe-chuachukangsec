@@ -2,6 +2,7 @@ collections:
   hide-page:
     output: true
     order:
+      - Republic Polytechnic's Outstanding Graduates 2020.md
       - Celebration of CCKSians' Good Performance in 2019 GCE N Level
         Examinations.md
       - Celebration of CCKsians' Good Performance in 2019 GCE O Level
