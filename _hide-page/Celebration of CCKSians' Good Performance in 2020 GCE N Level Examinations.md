@@ -2,22 +2,20 @@
 title: Celebration of CCKSians' Good Performance in 2020 GCE N Level Examinations
 permalink: /passionate-learners/students-achievements/celebration-of-performance-in-2020-gce-n-level/
 description: ""
-third_nav_title: Students Achievements
 ---
-
 # **Celebration of CCKSians' Good Performance in 2020 GCE N-Level Examinations**
 
-###  Congratulations to our Sec 4NA and 4NT students who have performed well in their 2020 GCE N-Level Examinations. 
+###  Congratulations to our Sec 4NA and 4NT students who have performed well in their 2020 GCE N-Level Examinations.&nbsp;
 
   
 
-### Cohort Performance@ a Glance 
+### Cohort Performance@ a Glance&nbsp;
 
 *   High Percentage of 85.1% of 4(NA) students who are eligible for Promotion to Sec 5 N(A)
-*   100% of  Sec 4 Normal (Technical) is eligible for ITE
+*   100% of&nbsp; Sec 4 Normal (Technical) is eligible for ITE
 
 
-#### Sec 4NA CCKsians who exemplify our school motto of ‘Excel’   
+#### Sec 4NA CCKsians who exemplify our school motto of ‘Excel’&nbsp;  
 _(ELMAB3 – 6 to 10 points)_
 
 1.  Sng Bin Xin, Lydia (Class 4-2)
@@ -31,32 +29,32 @@ _(ELMAB3 – 6 to 10 points)_
 
   
 
-#### Sec 4NT CCKsians who exemplify our school motto of ‘Grow’   
+#### Sec 4NT CCKsians who exemplify our school motto of ‘Grow’&nbsp;  
 _(EMB1 4 – 6 pts)_
 
 1.  Shirlene Ng Pei Shan (Class 4-1)
 2.  Chia Yew Hong (Class 4-1)
 3.  Nur Hidayat Bin Sham Saimon (Class 4-1)
 
-#### Sec 4NA CCKsians who exemplify our school motto of ‘Grow’.   
-_Remarkable improvement in their National Exams performance_ 
+#### Sec 4NA CCKsians who exemplify our school motto of ‘Grow’.&nbsp;  
+_Remarkable improvement in their National Exams performance_&nbsp;
 
 1.  Ahmad Shah Redha Bin Rhyme (Class 4-3)  
     
 
-#### Sec 4NT CCKsians who exemplify our school motto of ‘Grow’   
-_Remarkable improvement in their National Exams performance_ 
+#### Sec 4NT CCKsians who exemplify our school motto of ‘Grow’&nbsp;  
+_Remarkable improvement in their National Exams performance_&nbsp;
 
 1.  Muhammad Ibrahim Bin Mustafa (Class 4-1)
 2.  Muammar Ikhtiar Bin Masjamil (Class 4-1)
 
   
-#### Sec 4NA All-Rounder who exemplifies our school motto of ‘Serve’ 
+#### Sec 4NA All-Rounder who exemplifies our school motto of ‘Serve’&nbsp;
 
 1.  Sng Bin Xin, Lydia (Class 4-2)
 
 
-#### Sec 4NT All-Rounder who exemplifies our school motto of ‘Serve’ 
+#### Sec 4NT All-Rounder who exemplifies our school motto of ‘Serve’&nbsp;
 
 1.  Jaclyn Yeo Jing Xuan (Class 4-1)
 
@@ -66,13 +64,12 @@ _Remarkable improvement in their National Exams performance_ 
 
 **Be inspired by our CCKsians who demonstrated our School Motto of SERVE. GROW. EXCEL.**
 
-**SERVE & EXCEL** 
+**SERVE &amp; EXCEL**&nbsp;
 
 **Shirlene Ng Pei Shan**  
 **Class 4-1**
 
-<img src="/images/Shirlene_Ng.jpg" 
-     style="width:25%">
+<img src="/images/Shirlene_Ng.jpg" style="width:25%">
 		 
 Shirlene had a journey of enriching experiences and a string of achievements in Chua Chu Kang Secondary School.  She was a good time manager and persevered to work towards her personal goals. In recognition of her academic excellence, Shirlene attained the Edusave Merit Bursary in 2017 and the Edusave Scholarship in 2019. In 2019, Shirlene was top in standard for the Secondary 3 Normal (Technical) Course. 
 
@@ -88,13 +85,12 @@ Congratulation and well done, Shirlene!
 
 ------------------------------------------------------------------------
 
-**SERVE & EXCEL** 
+**SERVE &amp; EXCEL**&nbsp;
 
-**Lydia Sng Bin Xin**   
+**Lydia Sng Bin Xin**&nbsp;  
 **Clas 4-2**
 
-<img src="/images/Lydia_Sng.jpg" 
-     style="width:25%">
+<img src="/images/Lydia_Sng.jpg" style="width:25%">
 		 
 Lydia had a whale of a time as a student in Chua Chu Kang Secondary School. In 2019, she participated in the Youth for Causes (YFC) Project. Her team had selected Ren Ci Hospital as their beneficiary and aimed to raise awareness for their cause. She and her team organised street sales in various places around Singapore. The team spent much time deciding the products to sell to raise funds, creating promotional materials to attract patrons and raise awareness, as well as rallying for student volunteers to help out. In recognition of her services to the community, Lydia was the recipient of the Edusave Awards for Achievement, Good Leadership and Service (EAGLES) under the Service category in 2019. 
   
@@ -113,8 +109,7 @@ Congratulation and well done, Lydia!
 **Kenneth Wong Bin Hui**   
 **Class 4-2**
 
-<img src="/images/Kenneth_Wong.jpg" 
-     style="width:25%">
+<img src="/images/Kenneth_Wong.jpg" style="width:25%">
 
 Kenneth was a demoralised student when he joined in Secondary 1, as he did not perform up to his expectations in the Primary School Leaving Examination. However, he was offered Chinese, English and Mathematics at the N(A) level and discovered a newfound interest in these subjects, which motivated him and boosted his morale. As he became more driven and responsible, Kenneth emerged as one of the top students in the N(T) stream in Secondary 1, and was offered a lateral transfer to the N(A) stream in Secondary 2. 
 

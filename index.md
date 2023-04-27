@@ -21,19 +21,23 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Discovery Week
+      button: Read More
+      url: /events/school-events/discovery-week/
+      image: /images/Events/School Events/Discovery Week/sec 1 photo 5 - rafting is
+        fun in the sun.jpeg
+      alt: Image alt text
+  - infopic:
+      title: Pongal Celebration
+      button: Read More
+      alt: Image alt text
+      url: /events/school-events/pongal-celebration/
+      image: /images/Events/School Events/20230130 Pongol Celebration/Pongol Thumb.jpg
+  - infopic:
       title: Chinese New Year Celebration
-      subtitle: School Events
       button: Read more
       url: /events/school-events/chinese-new-year-celebration/
       image: /images/Events/School Events/20230120 Chinese New Year/2023 CNY
         Thumbnail.jpg
       alt: Chinese New Year Celebration
-  - infopic:
-      title: Pongal Celebration
-      subtitle: School Events
-      description: Pongal Celebration
-      button: Read More
-      alt: Image alt text
-      url: /events/school-events/pongal-celebration/
-      image: /images/Events/School Events/20230130 Pongol Celebration/Pongol Thumb.jpg
 ---

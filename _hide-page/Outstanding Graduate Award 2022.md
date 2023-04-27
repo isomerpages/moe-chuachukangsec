@@ -2,9 +2,7 @@
 title: Outstanding Graduate Award 2022
 permalink: /passionate-learners/students-achievements/outstanding-graduate-award-2022/
 description: ""
-third_nav_title: Students Achievements
 ---
-
 # **Outstanding Graduate Award 2022**
 
 MUHAMMAD AFIQ ISWANDI ROSLAN, an alumnus of Chua Chu Kang Secondary School, attained a Nitec in Rapid Transit Technology, and was conferred the Outstanding Graduate Award 2022 at the ITE College West Graduation Ceremony earlier this year. 

@@ -2,30 +2,28 @@
 title: Celebration of CCKsians’ Good Performance in 2021 GCE N Level Examinations
 permalink: /passionate-learners/students-achievements/celebration-of-performance-in-2021-gce-n-level/
 description: ""
-third_nav_title: Students Achievements
 ---
-
 # **Celebration of CCKsians’ Good Performance in 2021 GCE N-Level Examinations**
 
   
 
-### Congratulations and applause to our Sec 4 (Normal Academic) and Normal (Technical) students who have performed well in their 2021 GCE N-Level Examinations.    
+### Congratulations and applause to our Sec 4 (Normal Academic) and Normal (Technical) students who have performed well in their 2021 GCE N-Level Examinations.&nbsp;&nbsp;  
 
-**Sec 4 Normal (Technical) CCKsians who exemplify our school value of ‘Striving to Excel’** 
+**Sec 4 Normal (Technical) CCKsians who exemplify our school value of ‘Striving to Excel’**&nbsp;
 
-1.      DANISH IRFAN BIN AZMAN
-2.      SOH HUI LING
-3.      RENE NIA RIZQA BINTE NOOR AZMAN
+1.  &nbsp; &nbsp; DANISH IRFAN BIN AZMAN
+2.  &nbsp; &nbsp; SOH HUI LING
+3.  &nbsp; &nbsp; RENE NIA RIZQA BINTE NOOR AZMAN
 
-**Sec 4 Normal (Technical) CCKsians who exemplifies our school value of ‘Striving to Grow’**    
+**Sec 4 Normal (Technical) CCKsians who exemplifies our school value of ‘Striving to Grow’**&nbsp;&nbsp;&nbsp; 
 
 1. MANASSEH PAUL CRISPUS
 
-**All-Rounder CCKsian who exemplifies our school value of ‘Striving to Serve’**   
+**All-Rounder CCKsian who exemplifies our school value of ‘Striving to Serve’**&nbsp;  
 
 1. TIARA AMIRA BINTE RAMLI
 
-**Sec 4 Normal (Academic) CCKsians who exemplify our school value of ‘Striving to Excel’**   
+**Sec 4 Normal (Academic) CCKsians who exemplify our school value of ‘Striving to Excel’**&nbsp;  
   
 1. NICHOLE HO YUXUAN (Class 4-2)
 
@@ -42,13 +40,13 @@ third_nav_title: Students Achievements
 7. WONG KAI XUAN, VANESSA (Class 4-3)
 
 
-**Sec 4 Normal (Academic) CCKsians who exemplify our school value of ‘Striving to Excel’**    
+**Sec 4 Normal (Academic) CCKsians who exemplify our school value of ‘Striving to Excel’**&nbsp;&nbsp;  
   
 
 1. TEO JIA LOONG JEFFERSEN (Class 4-3)
 
 
-**All-Rounder CCKsian who exemplifies our school value of ‘Striving to Serve’**   
+**All-Rounder CCKsian who exemplifies our school value of ‘Striving to Serve’**&nbsp;  
 
 1. TEO WEE CHERNG KYSTON (Class 4-2)
 
@@ -67,20 +65,19 @@ Stories of exemplary students who role model our school’s motto of
 ### SERVE - CCKSS’ All Rounder
 
 
-**TEO WEE CHERNG KYSTON** (Class 4-3)
+**TEO WEE CHERNG KYSTON**&nbsp;(Class 4-3)
 
-<img src="/images/TEO%20WEE%20CHERNG%20KYSTON.png" 
-     style="width:25%">
+<img src="/images/TEO%20WEE%20CHERNG%20KYSTON.png" style="width:25%">
 		 
 Kyston Teo exemplified many of the values we wish every CCKsian to personify. He was an all-rounder and excelled both within and outside the classroom. As a learner, he was self-directed, receptive to feedback, and engaged in reflection and introspection to improve his studies. As a student leader, he was humble and showed in his actions what it meant to serve.
 
 Never shying away from expressing his opinions, Kyston always performed well during presentations and public speaking opportunities. He was able to explore issues from different perspectives during class discussions and value-add to the discussions. He took the time and trouble to deliberate over issues and weighed his words carefully before he spoke. His exemplary attitude towards his studies earned for him an Edusave Scholarship.
 
-Kyston cared for the less fortunate and did his part for the school and wider community, from raising awareness on the importance of sustainable practices to protect our environment to participating in recycling efforts to benefit the community. From 2018 to 2020, he also participated in the Green School @ Southwest initiative, a programme that aimed to promote environment friendly practices. 
+Kyston cared for the less fortunate and did his part for the school and wider community, from raising awareness on the importance of sustainable practices to protect our environment to participating in recycling efforts to benefit the community. From 2018 to 2020, he also participated in the Green School @ Southwest initiative, a programme that aimed to promote environment friendly practices.&nbsp;
 
 Kyston did not allow the pandemic to extinguish his desire to serve others. He showed active support for advocacy activities and continued with this even during the pandemic. As part of a class effort to help the Animal Lovers League animal shelter with their adoption drive, he helped to design brochures and posters for their outreach efforts, and together with other members of his group, saw the project to fruition.
 
-Kyston was a leader, serving as Class Chairman. His form teacher for four years, Mr Neal Cooke, said, “I could always count on Kyston to work with the class on school and class projects. He was a good team leader and motivated the class to always show respect to teachers and each other. His determination to be an all-rounder rubbed off on his classmates too.” 
+Kyston was a leader, serving as Class Chairman. His form teacher for four years, Mr Neal Cooke, said, “I could always count on Kyston to work with the class on school and class projects. He was a good team leader and motivated the class to always show respect to teachers and each other. His determination to be an all-rounder rubbed off on his classmates too.”&nbsp;
 
 Kyston carried himself with proper decorum and sought to role model the school values. In recognition of his exemplary character, his humility and his desire to serve and contribute, he received the Edusave Character Award and the school's Students That Achieve - Recognition (S.T.A.R.) Award.
 
@@ -90,12 +87,11 @@ We are immensely proud of Kyston, and we wish him well in his future endeavors.
 
 -------------------------------------------------------------------------
 
-### EXCEL – Story of Personal Excellence 
+### EXCEL – Story of Personal Excellence&nbsp;
 
-**NICHOLE HO YUXUAN** (Class 4-2)
+**NICHOLE HO YUXUAN**&nbsp;(Class 4-2)
 
-<img src="/images/NICHOLE%20HO%20YUXUAN.png" 
-     style="width:25%">
+<img src="/images/NICHOLE%20HO%20YUXUAN.png" style="width:25%">
 		 
 If excellence is not an act, but a habit, then Nichole has this habit down pat. She was a recipient of both the Edusave Scholarship Award and Edusave Awards for Achievement, Good Leadership and Services (EAGLES) in 2021, attesting to her excellence in academic and co-curricular areas.
 
@@ -111,20 +107,19 @@ Nichole's positive attitude and drive to excel will continue to inspire those ar
 
 ------------------------------------------------------------------------
 
-### EXCEL – Story of Personal Excellence 
+### EXCEL – Story of Personal Excellence&nbsp;
 
-**DANISH IRFAN BIN AZMAN** (Class 4-1)
+**DANISH IRFAN BIN AZMAN**&nbsp;(Class 4-1)
 
-<img src="/images/DANISH%20IRFAN%20BIN%20AZMAN.jpg" 
-     style="width:25%">
+<img src="/images/DANISH%20IRFAN%20BIN%20AZMAN.jpg" style="width:25%">
 
-A quiet thinker and a self-directed learner, Danish understood his priorities and had a clear sense of direction, which motivated and spurred him towards excelling in every aspect of his student life in CCKSS. 
+A quiet thinker and a self-directed learner, Danish understood his priorities and had a clear sense of direction, which motivated and spurred him towards excelling in every aspect of his student life in CCKSS.&nbsp;
 
 Mr Rick Chan, Danish’s Form Teacher for three years, remarked, “Danish is an independent learner who puts much effort to excel in his studies.” When in class, you would often see him paying keen attention to lessons and meticulously scribbling down notes to facilitate his understanding of the content taught. He was consistent in his work and always handed in work of a high standard, much to his teachers’ delight.
 
 Although he was one of the quieter students in class, Danish was not afraid to voice his opinions. He willingly contributed ideas while listening with an open mind. He was receptive to feedback, using the feedback given to reflect on his shortcomings and seek to become a better version of himself.
 
-Danish also sought to excel as a leader in the class. He took advantage of leadership workshops organised by the school, such as the 360 Degree Leadership workshop and the Student Leaders' Forum, to hone his leadership competencies. His teachers could depend on him to lead the class and selected him to be a member of the class committee throughout his four years in CCKSS. 
+Danish also sought to excel as a leader in the class. He took advantage of leadership workshops organised by the school, such as the 360 Degree Leadership workshop and the Student Leaders' Forum, to hone his leadership competencies. His teachers could depend on him to lead the class and selected him to be a member of the class committee throughout his four years in CCKSS.&nbsp;
 
 This attitude of striving for excellence could be seen in his CCA as well. As a dedicated member of the National Police Cadet Corps (NPCC), Danish trained diligently to ensure his unit distinguished itself in the NPCC Unit Overall Proficiency Challenge. His diligence contributed to his unit’s repeated successes in this Challenge, achieving Silver and Gold awards.
 
@@ -134,10 +129,9 @@ Danish exemplifies what it means to excel as a student of CCKSS. He holds true t
 
 ### Grow – Story of Personal Excellence
 
-**MANASSEH PAUL CRISPUS** (Class 4-1)
+**MANASSEH PAUL CRISPUS**&nbsp;(Class 4-1)
 
-<img src="/images/MANASSEH%20PAUL%20CRISPUS.png" 
-     style="width:25%">
+<img src="/images/MANASSEH%20PAUL%20CRISPUS.png" style="width:25%">
 		 
 For Manasseh, a disappointing preliminary examination result was the wake-up call. That disappointment made him take a hard look at what he was doing and what he was not doing.
 

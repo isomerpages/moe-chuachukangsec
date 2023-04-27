@@ -2,23 +2,21 @@
 title: Celebration of CCKsians’ Good Performance in 2021 GCE O Level Examinations
 permalink: /passionate-learners/students-achievements/celebration-of-performance-in-2021-gce-o-level/
 description: ""
-third_nav_title: Students Achievements
 ---
-
 # **Celebration of CCKsians’ Good Performance in 2021 GCE O-Level Examinations**
 
-### Congratulations and applause to our Sec 4 Express and 5 NA students who have performed well in their 2021 GCE O-Level Examinations. 
+### Congratulations and applause to our Sec 4 Express and 5 NA students who have&nbsp;performed well in their 2021 GCE O-Level Examinations.&nbsp;
 
-**Sec 4 Express CCKsians who exemplify our school value of ‘Striving to Excel’** 
+**Sec 4 Express CCKsians who exemplify our school value of ‘Striving to Excel’**&nbsp;
 
-1.  Chin Jing Ying  (Class 4-6) 
+1.  Chin Jing Ying&nbsp; (Class 4-6)&nbsp;
 2.  LIM XING JI (Class 48)  
     
 3.  ANG WEI LIANG (Class 46)
 4.  JEVON MOK QI XU (Class 46)
 5.  NICODEMUS TSI (Class 46)
 
-**Sec 4 Express and 5 Normal Academic CCKsians who exemplifies our school value of ‘Striving to Grow’**  
+**Sec 4 Express and 5 Normal Academic CCKsians who exemplifies our school value of ‘Striving to Grow’**&nbsp;&nbsp;
 
 1. KHOR QI HANG (Class 47)
 
@@ -28,9 +26,9 @@ third_nav_title: Students Achievements
 
 4. KOH JAANON KEEVE (Class 51)
 
-**All-Rounder CCKsian who exemplifies our school value of ‘Striving to Serve’**   
+**All-Rounder CCKsian who exemplifies our school value of ‘Striving to Serve’**&nbsp;  
 
-1. CHUA CHEE WOON KARIS  (Class 47)  
+1. CHUA CHEE WOON KARIS&nbsp; (Class 47)  
 
 
 ### We are proud of our 2021 Sec 4 and Sec 5 CCKsians!
@@ -43,10 +41,9 @@ Stories of exemplary students who role model our school’s motto of
 
 ### SERVE - CCKSS’ All Rounder
 
-**CHUA CHEE WOON KARIS**  (Class 4-7)
+**CHUA CHEE WOON KARIS**&nbsp;&nbsp;(Class 4-7)
 
-<img src="/images/CHUA%20CHEE%20WOON%20KARIS%20%20Class%2047.png" 
-     style="width:25%">
+<img src="/images/CHUA%20CHEE%20WOON%20KARIS%20%20Class%2047.png" style="width:25%">
 
 Karis was someone who knew her direction in life. She was highly motivated and consistently worked towards her goals.  She was prepared for lessons, contributed actively to class discussions, asked questions when in doubt, and was on task – attributes of a self-directed learner. With good study habits and strong work ethics, it was thus no surprise that Karis did well in the national examination.
 
@@ -62,16 +59,15 @@ Karis exhibited qualities we want CCKsians to embody. She served, grew and excel
 
 -------------------------------------------------------------------------
 
-### EXCEL – Story of Personal Excellence 
+### EXCEL – Story of Personal Excellence&nbsp;
 
-**WILSON ANG ZI JUN** (Classs 4-8)
+**WILSON ANG ZI JUN**&nbsp;(Classs&nbsp;4-8)
 
-<img src="/images/WILSON%20ANG%20ZI%20JUN.png" 
-     style="width:25%">
+<img src="/images/WILSON%20ANG%20ZI%20JUN.png" style="width:25%">
 
 Wilson held himself to high standards and was never one who was complacent. He was in constant pursuit of excellence, always adopting a learner stance – seeking feedback and improvement – and steadily worked towards his personal goals.
 
-Analytical, and with strong ability to think & reason well, Wilson topped his cohort for Science in 2018, was Top in both Mathematics and Science in 2019 and Top in Chemistry, Humanities (Social Studies & History) and Physics in 2020. Wilson was also a recipient of the Edusave Scholarship from 2018 to 2020. Despite these accolades, Wilson stayed humble with his feet firmly planted on the ground, and never let up on his efforts. 
+Analytical, and with strong ability to think &amp; reason well, Wilson topped his cohort for Science in 2018, was Top in both Mathematics and Science in 2019 and Top in Chemistry, Humanities (Social Studies &amp; History) and Physics in 2020. Wilson was also a recipient of the Edusave Scholarship from 2018 to 2020. Despite these accolades, Wilson stayed humble with his feet firmly planted on the ground, and never let up on his efforts. 
 
 School was not just all work for Wilson. He enjoyed making music and was an active and a dedicated member of the Chinese Orchestra. Recognised for his leadership qualities, Wilson was appointed Prefect and never failed to render assistance in school events and activities. He gained the respect of the people around him and was the recipient of the Edusave Awards for Achievement, Good Leadership and Service (EAGLES) under the Leadership category.
 
@@ -79,12 +75,11 @@ Wilson’s desire to excel in all that he undertook spoke volume of his strong w
 
 ------------------------------------------------------------------------
 
-### EXCEL – Story of Personal Excellence 
+### EXCEL – Story of Personal Excellence&nbsp;
 
-**ANG WEI LIANG** (Classs 4-6)
+**ANG WEI LIANG**&nbsp;(Classs&nbsp;4-6)
 
-<img src="/images/ANG%20WEI%20LIANG.png" 
-     style="width:25%">
+<img src="/images/ANG%20WEI%20LIANG.png" style="width:25%">
 		 
 Always humble, always striving to improve – that was Wei Liang as we knew him. He was driven, set challenging goals for himself and always gave it his all to achieve them. He went about his work quietly, but was never one to compromise quality. Wei Liang was a champion who inspired his peers and classmates with his strong work ethics and pursuit of excellence.
 
@@ -98,12 +93,11 @@ Wei Liang’s humility, his growth mindset and his habit of excellence are attri
 
 ------------------------------------------------------------------------
 
-### Grow – Story of Personal Excellence 
+### Grow – Story of Personal Excellence&nbsp;
 
-**RAY HOA WAI JUN** (Classs 5-1)
+**RAY HOA WAI JUN**&nbsp;(Classs&nbsp;5-1)
 
-<img src="/images/Ray%20Hoa%20Wai%20Jun.png" 
-     style="width:25%">
+<img src="/images/Ray%20Hoa%20Wai%20Jun.png" style="width:25%">
 
 Ray was teachable. He was a student who showed a lot of growth in his years at Chua Chu Kang Secondary School. Down the final stretch to the national examination, Ray was determined to do better than he did for the Preliminary Examination. One’s current performance is not indicative of what one can achieve in the future. The time and effort he invested paid off and Ray achieved a commendable improvement of 8 grades, for the O-Level Examination. Ray deserved a huge pat on the back. 
 

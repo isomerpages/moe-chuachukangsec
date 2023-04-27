@@ -2,25 +2,23 @@
 title: Celebration of CCKsians’ Good Performance in 2020 GCE O Level Examinations
 permalink: /passionate-learners/students-achievements/celebration-of-performance-in-2020-gce-o-level/
 description: ""
-third_nav_title: Students Achievements
 ---
+# **Celebration of CCKsians’ Good Performance in 2020 GCE O-Level Examinations**&nbsp;
 
-# **Celebration of CCKsians’ Good Performance in 2020 GCE O-Level Examinations** 
+### Congratulations and applause to our Sec 4 Express and 5 NA students who have&nbsp;performed well in their&nbsp;
 
-### Congratulations and applause to our Sec 4 Express and 5 NA students who have performed well in their 
-
-### 2020 GCE O-Level Examinations 
+### 2020 GCE O-Level Examinations&nbsp;
 
 
-**CCKsians who exemplify our school motto of ‘Serve Grow Excel’**  
+**CCKsians who exemplify our school motto of ‘Serve Grow Excel’**&nbsp;&nbsp;
 
-1.  Chin Jing Ying  (Class 4-6)
+1.  Chin Jing Ying&nbsp; (Class 4-6)
 2.  Aamir Raj M (Class 4-7)
 3.  Lee Le Yao (Class 4-7)
 4.  Lee Xin Yang (Class 4-6)
 5.  Lim Jing Wen, Shanice (Class 4-6)
 
-### We are proud of our 2020 Sec 4&5 CCKsians!
+### We are proud of our 2020 Sec 4&amp;5 CCKsians!
 
 ![](/images/2020%20O%20Level%20Results%20Release%20photo.jpg)
 
@@ -31,8 +29,7 @@ third_nav_title: Students Achievements
 **Lim Jing Wen, Shanice**   
 **Sec 4-6 (Sec 4 Express)**
 
-<img src="/images/lim%20jing%20wen%20Shanice.jpg" 
-     style="width:25%">
+<img src="/images/lim%20jing%20wen%20Shanice.jpg" style="width:25%">
 		 
 Shanice Lim exemplified many of the values we wish every CCKsian to embody. As a learner, she was self-directed, receptive to feedback, and engaged in reflection and introspection to improve her studies. As a student leader, she was humble and showed in her actions what it meant to serve. 
 
@@ -51,8 +48,7 @@ Shanice carried herself with proper decorum and sought to role model the school 
 **Lee Xin Yang**  
 **Sec 4-6 (Sec 4 Express)**
 
-<img src="/images/Lee%20Xin%20Yang.jpg" 
-     style="width:25%">
+<img src="/images/Lee%20Xin%20Yang.jpg" style="width:25%">
 
 When Xin Yang was appointed Chairman of the Chinese Orchestra in 2019, he found it formidable at first. “Being the Chairman really pushed me out of my comfort zone. I had to learn to communicate proficiently, and present my message loud and clear.” 
 
@@ -73,8 +69,7 @@ When asked for a quote to sum up his success, Xin Yang replied cheekily, “No m
 **Lee Le Yao**    
 **Sec 4-7 (Sec 4 Express)** 
 
-<img src="/images/Lee%20Le%20Yao.jpg" 
-     style="width:25%">
+<img src="/images/Lee%20Le%20Yao.jpg" style="width:25%">
 		 
 Le Yao is not your typical quiet female student. In fact, throughout her four years in CCKSS, she verbalised her thoughts confidently with her schoolmates and teachers. She contributed her ideas and expressed herself clearly during class presentations and group discussions. She will also not hesitate to approach her teachers to clarify any doubts she might have after curriculum hours.  
 
@@ -94,8 +89,7 @@ Le Yao has definitely left a legacy in her CCA which will serve to inspire her j
 **Aamir Raj M. Kimura Singh**
 **Sec 4-7 (Sec 4 Express)**
 
-<img src="/images/Aamir%20Raj.jpg" 
-     style="width:25%">
+<img src="/images/Aamir%20Raj.jpg" style="width:25%">
 
 Aamir is a highly intelligent and dependable student who took great pride in his work. All his teachers agree that he was eager to learn and had great perseverance. During his years in CCKSS, Aamir set challenging goals for himself that he strived to achieve. His assignments were done to the best of his ability and submitted punctually. Aamir had earned the trust and respect of his classmates and peers with the way he treated his studies and his work ethic. 
 

@@ -6,8 +6,8 @@ third_nav_title: Sports and Games
 ---
 |  	|  	|  	|			
 |---	|---	|---	|			
-|  	Teachers-in-charge (Hockey)	|  	Mr Cyrus Tan Kwang Yonk (I/C)	|  		|  
-|  		|  	Mr Lee Meng Teck (2I/C)	|  		|  
+|  	Teachers-in-charge (Hockey)	|  	Mr Cyrus Tan Kwang Yonk (OI/C)	|  		|  
+|  		|  	Mr Lee Meng Teck (Boys I/C)	|  		|  
 |  		|  	Mdm Idayu Somdi	|  		|  
 |  		|  	Mdm Masayu Aziza Masagos Ahmad	|  		|  
 |  		|  	Ms Klara Tan Hui Wen	|  		|  

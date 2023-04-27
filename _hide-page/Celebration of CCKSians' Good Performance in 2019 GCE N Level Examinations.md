@@ -2,21 +2,19 @@
 title: Celebration of CCKSians' Good Performance in 2019 GCE N Level Examinations
 permalink: /passionate-learners/students-achievements/celebration-of-performance-in-2019-gce-n-level/
 description: ""
-third_nav_title: Students Achievements
 ---
-
 # **Celebration of CCKSians' Good Performance in 2019 GCE N-Level Examinations**
 
-Congratulations and applause to our Sec 4NA and 4NT students who have performed well in their 2019 GCE N-Level Examinations. 
+Congratulations and applause to our Sec 4NA and 4NT students who have&nbsp;performed well in their 2019 GCE N-Level Examinations.&nbsp;
 
-**Cohort Performance@ a Glance** 
+**Cohort Performance@ a Glance**&nbsp;
 
-*   84.6% eligible for promotion to Sec 5 N(A)
+*   84.6%&nbsp;eligible for promotion to Sec 5 N(A)
 
 _(National Average is 76.6%)_   
-*   100% of  Sec 4 Normal (Technical) is eligible for ITE
+*   100%&nbsp;of&nbsp; Sec 4 Normal (Technical) is eligible for ITE
 
-**Sec 4NA CCKsians who exemplify our school value of ‘Striving to Excel’** 
+**Sec 4NA CCKsians who exemplify our school value of ‘Striving to Excel’**&nbsp;
 
 (ELMAB3 – 5 to 10 points)
 
@@ -27,7 +25,7 @@ _(National Average is 76.6%)_
 5.  Samuel Tan (Class 43)
 6.  Sean Phua Boen (Class 43)
 
-**Sec 4NT CCKsians who exemplify our school value of ‘Striving to Excel’** 
+**Sec 4NT CCKsians who exemplify our school value of ‘Striving to Excel’**&nbsp;
 
 (EMB1 3 – 5 pts)
 
@@ -39,20 +37,20 @@ _(National Average is 76.6%)_
 6.  Deevaashini D/O Srikumar (Class 41)
 7.  Ong Zi Rong (Class 41)
 
-**Sec 4NA CCKsians who exemplify our school value of ‘Striving to Grow’.**    
+**Sec 4NA CCKsians who exemplify our school value of ‘Striving to Grow’.**&nbsp;   
 _Remarkable improvement in their National Exams results compared to their Prelims._
 
 1.  Muhammad Ryo Azfar (Class 42)
 2.  Tai Jia Xin Alice (Class 42)
 3.  Tan Ye Kai, Kevin (Class 42)
 
-**Sec 4NT CCKsians who exemplify our school value of ‘Striving to Grow’**    
+**Sec 4NT CCKsians who exemplify our school value of ‘Striving to Grow’**&nbsp;   
 _Remarkable improvement in their National Exams results compared to their Prelims._
 
 1.  Muhammad Nurhakeem B Hairis S (Class 41)
 2.  Rezky Ruhzaime B Juraime (Class 41)
 
-**Sec 4NA All-Rounder who exemplifies our school value of ‘Striving to Serve’**   
+**Sec 4NA All-Rounder who exemplifies our school value of ‘Striving to Serve’**&nbsp;  
 1.  Nur Syazwani Bte Rosli
 
 **Sec 4NT All-Rounder who exemplifies our school value of ‘Striving to Serve’**   
@@ -64,7 +62,7 @@ _Remarkable improvement in their National Exams results compared to their Prelim
 
 ![](/images/2019NLevel-02-02.jpg)
 
-**Stories of exemplary students who role model our school’s motto of Serve. Grow. Excel** 
+**Stories of exemplary students who role model our school’s motto of Serve. Grow. Excel**&nbsp;
 
 **SERVE - CCKSS’ All Rounder**  
 
@@ -72,8 +70,7 @@ _Remarkable improvement in their National Exams results compared to their Prelim
 **Syed Mohd Khairulazizi B S M H**    
 **Sec 4-1 (Sec 4 Normal Technical)**
 
-<img src="/images/2019NLevel-03.jpg" 
-     style="width:25%">
+<img src="/images/2019NLevel-03.jpg" style="width:25%">
 
 Khairulazizi grew up in a single-parent family since he was thirteen. He faced financial hardship due to family circumstances, but with discipline and determination, sought to make ends meet with the pocket money that he received. A sensible young man who understood the difficulties his mother had to go through, he often paid for school-related expenses out of his own pocket money, and when this meant going hungry at times, Khairulazizi wasn’t one to complain. 
 
@@ -90,35 +87,33 @@ Khairulazizi is an inspiration to many. He is a role model who exemplifies our s
 -------------------------------------------------------------------------
 
 
-**EXCEL – Story of Personal Excellence** 
+**EXCEL – Story of Personal Excellence**&nbsp;
 
-**Calvin Ooi Jhia Jhie**     
+**Calvin Ooi Jhia Jhie**&nbsp;    
 **Sec 4-2 (Sec 4 Normal Academic)**
 
-<img src="/images/2019NLevel-04.jpg" 
-     style="width:25%">
+<img src="/images/2019NLevel-04.jpg" style="width:25%">
 
-Calvin Ooi Jhia Jhie is one resilient, young person. 
+Calvin Ooi Jhia Jhie is one resilient, young person.&nbsp;
 
-Calvin was from the Normal Technical Course. Being the optimistic person that he is, he never felt he was lacking in any way. On the contrary, he set his sight on going to the Normal Academic Course, buckled down to hard work and realised his goal three years later. At the end of Secondary 3, Calvin topped his class and made it to the Normal Academic Course. Despite being new to a more demanding curriculum, Calvin held on to his belief that hard work is key to any kind of success, coped very well, and was top in Science in the Normal Academic Course. 
+Calvin was from the Normal Technical Course. Being the optimistic person that he is, he never felt he was lacking in any way. On the contrary, he set his sight on going to the Normal Academic Course, buckled down to hard work and realised his goal three years later. At the end of Secondary 3, Calvin topped his class and made it to the Normal Academic Course. Despite being new to a more demanding curriculum, Calvin held on to his belief that hard work is key to any kind of success, coped very well, and was top in Science in the Normal Academic Course.&nbsp;
 
-But it wasn’t all just about work. Calvin knows how to have fun too. Not only was he active in his CCA, the Saint John Brigade, which by the way, has been garnering the Gold Award for the last 15 years, Calvin loves music and has a keen interest in Beatboxing, an art of mimicking drum machines, and, boy, can he really wow the audience when he performs! Calvin was a familiar figure in our very own annual ‘CCKSS Have Talent Competition’ and was unanimously voted by judges and the audience as the best performer, winning first position in the Individual Category for the competition in 2018, and was also first in this year’s competition, in the Group Category.  
+But it wasn’t all just about work. Calvin knows how to have fun too. Not only was he active in his CCA, the Saint John Brigade, which by the way, has been garnering the Gold Award for the last 15 years, Calvin loves music and has a keen interest in Beatboxing, an art of mimicking drum machines, and, boy, can he really wow the audience when he performs! Calvin was a familiar figure in our very own annual ‘CCKSS Have Talent Competition’ and was unanimously voted by judges and the audience as the best performer, winning first position in the Individual Category for the competition in 2018, and was also first in this year’s competition, in the Group Category.&nbsp;&nbsp;
 
-As a person, Calvin is warm, helpful and well-liked. He is a filial son and a doting elder brother to his younger brother, who is much younger than him. Teachers and classmates too see determination in this young man and hold him in high regard.  
+As a person, Calvin is warm, helpful and well-liked. He is a filial son and a doting elder brother to his younger brother, who is much younger than him. Teachers and classmates too see determination in this young man and hold him in high regard.&nbsp; 
 
-**“I thank my teachers who taught me when I was in the Normal Technical Course. They were always encouraging and they believed that all of us will define our own successes one day,”** said Calvin. 
+**“I thank my teachers who taught me when I was in the Normal Technical Course. They were always encouraging and they believed that all of us will define our own successes one day,”**&nbsp;said Calvin.&nbsp;
 
 Never one who is afraid of hard work and one who embraces life with optimism, it is no surprise that Calvin has done well in this year’s N-Level Examination. We congratulate him on a well-deserved set of results and wish him well in his undertakings in the future.
 
 -------------------------------------------------------------------------
 
-**EXCEL – Story of Personal Excellence** 
+**EXCEL – Story of Personal Excellence**&nbsp;
 
 **Nur Syazwani Bte Rosli**   
 **Sec 4-2 (Sec 4 Normal Academic)**
 
-<img src="/images/2019NLevel-05.jpg" 
-     style="width:25%">
+<img src="/images/2019NLevel-05.jpg" style="width:25%">
 
 Right from the start, Syazwani Bte Rosli knew that there was no short cut to success. This is one young lady who knew what she wanted, and strived to excel right from the word ‘Go’. Focused, determined and one who thrived under pressure, Syazwani set clear academic goals for herself and was relentless in the pursuit her goals. Nur Syazwani Bte Rosli is our top student from the Normal Academic Course.
 
