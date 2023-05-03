@@ -58,7 +58,7 @@ Shortlisted applicants will be notified and scheduled to attend interviews and s
 
 All applicants will be informed of the outcome of their application by 12 – 14 September 2023. The school’s decision on the offer is final.
 
-
+###### Application Selection Schedule
 
 |Dates  	| Actions   	|	|			
 |---	|---	| ---	|			
@@ -67,4 +67,11 @@ All applicants will be informed of the outcome of their application by 12 – 14
 |26 Jun – 11 Sep 2023 | School conducts skills assessment and interview for short-listed candidates. |  |
 | 12 – 14 Sep 2023 | School informs candidates of the results. | |
 
+###### Selection Process
+Shortlisted applicants will be invited to attend an interview between 26 June 2023 and 11 Sept 2023. 
 
+Applicants will be notified by post or email latest on the outcome of their application.
+
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the CCA or activities related to the respective talent areas allocated throughout their four years in Chua Chu Kang Secondary School.
+
+For further enquiries on the ** DSA ** Exercise, please contact Mr Lim Keum Ray at 6769 1386 or via email to [cckss@moe.edu.sg](cckss@moe.edu.sg).
