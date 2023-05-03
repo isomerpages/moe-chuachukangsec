@@ -51,10 +51,12 @@ For more information on DSA-Sec, please refer to the MOE website at [https://www
 * Participation, Representation &amp; Achievements in Sustainability Projects/Programmes  
 
 2. Applicants should also possess the positive character traits and good conduct in school. 
+
 3. Meeting all the criteria does not guarantee the student will be shortlisted/given an offer
 
 
-###### Application and Selection Procedures
+
+**Application and Selection Procedures**
 
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](www.moe.gov.sg/dsa-sec).
 
@@ -62,7 +64,7 @@ Shortlisted applicants will be notified and scheduled to attend interviews and s
 
 All applicants will be informed of the outcome of their application by 12 – 14 September 2023. The school’s decision on the offer is final.
 
-###### Application Selection Schedule
+**Application Selection Schedule**
 
 |Dates  	| Actions   	|	|			
 |---	|---	| ---	|			
@@ -71,7 +73,8 @@ All applicants will be informed of the outcome of their application by 12 – 14
 |26 Jun – 11 Sep 2023 | School conducts skills assessment and interview for short-listed candidates. |  |
 | 12 – 14 Sep 2023 | School informs candidates of the results. | |
 
-###### Selection Process
+**Selection Process**
+
 Shortlisted applicants will be invited to attend an interview between 26 June 2023 and 11 Sept 2023. 
 
 Applicants will be notified by post or email latest on the outcome of their application.
