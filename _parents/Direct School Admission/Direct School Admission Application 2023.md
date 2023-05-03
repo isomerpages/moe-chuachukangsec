@@ -21,7 +21,7 @@ For more information on DSA-Sec, please refer to the MOE website at [https://www
 
 ##### DSA Eligibility Criteria
 
-1. Selection for admission to the school via DSA-Secondary is based on the following:
+1) Selection for admission to the school via DSA-Secondary is based on the following:
 
 * **Hockey**
 	* CCA Involvement – Participation, Representation &amp; Achievements 
@@ -43,16 +43,16 @@ For more information on DSA-Sec, please refer to the MOE website at [https://www
 * Aptitude in Science and Mathematics<br>
 * Experience in Robotics/Electronics/Programming (e.g. CCA records, certificates from any training organisations or institutions, relevant portfolio)<br>
 * Achievements in relevant competitions related to Robotics/Electronics/Programming, if any 
-<br>
+
 	OR
-<br>
+	
 	Passion in Sustainable Development
 * Aptitude in Science 
 * Participation, Representation &amp; Achievements in Sustainability Projects/Programmes  
 
 
-2. Applicants should also possess the positive character traits and good conduct in school.
-3. Meeting all the criteria does not guarantee the student will be shortlisted/given an offer 
+2) Applicants should also possess the positive character traits and good conduct in school.
+3) Meeting all the criteria does not guarantee the student will be shortlisted/given an offer 
 
 
 
