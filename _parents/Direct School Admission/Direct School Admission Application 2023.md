@@ -54,8 +54,7 @@ For more information on DSA-Sec, please refer to the MOE website at [https://www
 3. Meeting all the criteria does not guarantee the student will be shortlisted/given an offer
 
 
-<br>
-Application and Selection Procedures
+###### Application and Selection Procedures
 
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](www.moe.gov.sg/dsa-sec).
 
