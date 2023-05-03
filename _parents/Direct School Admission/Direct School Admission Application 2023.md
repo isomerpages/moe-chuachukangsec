@@ -22,13 +22,17 @@ For more information on DSA-Sec, please refer to the MOE website at [https://www
 ##### DSA Eligibility Criteria
 
 1. Selection for admission to the school via DSA-Secondary is based on the following:
+
 * **Hockey**
 	* CCA Involvement – Participation, Representation &amp; Achievements 
 	* Physical Fitness - Latest NAPFA Test Results
+
 * **Modern Dance**
 	* CCA Involvement – Participation, Representation &amp; Achievements
 	* Or relevant experience or qualification in Dance.
+
 * **Community Youth Leadership** 
+
 	* Students must have assumed leadership role in the primary school in either CCA, Class or Committees.
 	* Active participation in a school or community project or work.
 	
