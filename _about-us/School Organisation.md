@@ -46,6 +46,18 @@ description: ""
 | Subject Head (Social Studies)&nbsp;	| Ms Sng Qian Jin Elodie	| [Sng_qian_jin_elodie@schools.gov.sg&nbsp;](mailto:Sng_qian_jin_elodie@schools.gov.sg&nbsp;)	|
 | Subject Head (Student Management)&nbsp;	| Mr Kumaravel S/O Thangavel	| [Kumaravel_thangavel@schools.gov.sg](mailto:Kumaravel_thangavel@schools.gov.sg)	|
 | Subject Head (Student Well-being)&nbsp;	| &nbsp;Mr Ong Teck Meng Victor	| [Ong_teck_meng_victor@schools.gov.sg](mailto:Ong_teck_meng_victor@schools.gov.sg)	|
+| Lead Teacher (Art)	| Dr Koh Bee Kim	| [koh_bee_kim@schools.gov.sg](mailto:koh_bee_kim@schools.gov.sg)	|
+| Lead Teacher (Educational Support)	| Ms Tengku Merduati Bte Tengku M	| [tengku_merduati_tengku_m@schools.gov.sg](mailto:tengku_merduati_tengku_m@schools.gov.sg)	|
+| Senior Teacher (Chemistry)	| Mr Pooi Ming Shurn, Benjamin	| [pooi_ming_shurn_benjamin@schools.gov.sg](mailto:pooi_ming_shurn_benjamin@schools.gov.sg)	|
+| Senior Teacher (Chinese Language)	| Mdm Zhao Huiyuan	| [zhao_huiyuan@schools.gov.sg](mailto:zhao_huiyuan@schools.gov.sg)	|
+| Senior Teacher (Design and Technology)	| Mr Loh Kwong Hong Jordan	| [loh_kwong_hong@schools.gov.sg](mailto:loh_kwong_hong@schools.gov.sg)	|
+| Senior Teacher (History)	| Mr Chan Joo Seng Melvin	| [chan_joo_seng_melvin@schools.gov.sg](mailto:chan_joo_seng_melvin@schools.gov.sg)	|
+| Senior Teacher (Malay Language)	| Mdm Nur Fadelinah Bte Yusof	| [nur_fadelinah_yusof@schools.gov.sg](mailto:nur_fadelinah_yusof@schools.gov.sg)	|
+| Senior Teacher (Mathematics)	| Mdm Katru Mary Jinni Rani	| [katru_mary_jinni_rani@schools.gov.sg](mailto:katru_mary_jinni_rani@schools.gov.sg)	|
+| Senior Teacher (Mathematics)	| Mr Liew Wei Yang	| [liew_wei_yang@schools.gov.sg](mailto:liew_wei_yang@schools.gov.sg)	|
+| Senior Teacher (Physics)	| Mdm Goi Geok San	| [goi_geok_san@schools.gov.sg](mailto:goi_geok_san@schools.gov.sg)	|
+| Senior Teacher (Social Studies)	| Mdm Vena Chan	| [chan_gek_chu_vena@schools.gov.sg](mailto:chan_gek_chu_vena@schools.gov.sg)	|
+| Senior Teacher (Tamil Languages)	| Dr Sasikumar Ponnalagu	| [ponnalagu_sasikumar@schools.gov.sg](mailto:ponnalagu_sasikumar@schools.gov.sg)	|
 | Administration Manager	| Mdm Goh Huilin Nelly	| [Goh_nelly@schools.gov.sg](mailto:Goh_nelly@schools.gov.sg)	|
 | Administration Manager	| Mr&nbsp;Wong Hong Wai	| [Wong_hong_wai@schools.gov.sg](mailto:Wong_hong_wai@schools.gov.sg)	|
 | Operations Manager	| Mr Khoo Boo Leong Peter	| [Khoo_boo_leong_peter@schools.gov.sg](mailto:Khoo_boo_leong_peter@schools.gov.sg)	|
