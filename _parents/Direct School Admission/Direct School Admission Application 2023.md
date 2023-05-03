@@ -40,12 +40,12 @@ For more information on DSA-Sec, please refer to the MOE website at [https://www
 	Technology in Sustainability**
 
 	Passion in Robotics / Electronics / Programming
-* Aptitude in Science and Mathematics
-* Experience in Robotics/Electronics/Programming (e.g. CCA records, certificates from any training organisations or institutions, relevant portfolio)
+* Aptitude in Science and Mathematics<br>
+* Experience in Robotics/Electronics/Programming (e.g. CCA records, certificates from any training organisations or institutions, relevant portfolio)<br>
 * Achievements in relevant competitions related to Robotics/Electronics/Programming, if any 
-
+<br>
 	OR
-
+<br>
 	Passion in Sustainable Development
 * Aptitude in Science 
 * Participation, Representation &amp; Achievements in Sustainability Projects/Programmes  
