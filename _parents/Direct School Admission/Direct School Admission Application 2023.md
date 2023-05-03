@@ -17,3 +17,47 @@ We would like to invite students with an interest or aptitude in the talent area
 
 The selection criteria and process for the talent areas will be updated from early-May. 
 For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+
+
+##### DSA Eligibility Criteria
+
+1. Selection for admission to the school via DSA-Secondary is based on the following:
+* **Hockey**
+	* CCA Involvement – Participation, Representation &amp; Achievements 
+	* Physical Fitness - Latest NAPFA Test Results
+* **Modern Dance**
+	* CCA Involvement – Participation, Representation &amp; Achievements
+	* Or relevant experience or qualification in Dance.
+* **Community Youth Leadership** 
+	* Students must have assumed leadership role in the primary school in either CCA, Class or Committees.
+	* Active participation in a school or community project or work.
+* **Science, Technology, Engineering, Maths <br>
+	Technology in Sustainability**
+
+	Passion in Robotics / Electronics / Programming
+* Aptitude in Science and Mathematics
+* Experience in Robotics/Electronics/Programming (e.g. CCA records, certificates from any training organisations or institutions, relevant portfolio)
+* Achievements in relevant competitions related to Robotics/Electronics/Programming, if any 
+
+	OR
+
+	Passion in Sustainable Development
+* Aptitude in Science 
+* Participation, Representation &amp; Achievements in Sustainability Projects/Programmes  
+
+2. Applicants should also possess the positive character traits and good conduct in school. 
+3. Meeting all the criteria does not guarantee the student will be shortlisted/given an offer
+
+
+Application and Selection Procedures  
+
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec.
+
+Shortlisted applicants will be notified and scheduled to attend interviews and skills assessment. Shortlisted applicants should attend the interviews and skills assessment only if they are feeling well.
+
+All applicants will be informed of the outcome of their application by 12 – 14 September 2023. The school’s decision on the offer is final.
+
+
+
+
+
