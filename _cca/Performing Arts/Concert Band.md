@@ -4,7 +4,6 @@ permalink: /cca/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 | Teachers in charge 	| Name 	| Email Address 	|
 |---	|---	|---	|
 | Overall Teacher in charge	| Lim Ciu Fung 	| [lim_ciu_fung@schools.gov.sg](mailto:lim_ciu_fung@schools.gov.sg)	|
@@ -19,8 +18,6 @@ third_nav_title: Performing Arts
 The concert band is one of the Visual and Performing Arts (VPA) CCA in the school. The objective of the concert band is to provide opportunities for students to develop a lifelong passion for the arts. Through the activities and events during CCA, students will develop 21st Century Competencies, social emotional competencies and values. 
  
 Chua Chu Kang Secondary Concert Band aims to provide a platform for like-minded individuals to make music together and establish lifelong friendships. Students attend music theory lessons and learn a musical instrument from our dedicated music instructor, Mr Kenneth Lun. 
-
-The Concert Band caters to students who would like to learn to play a musical instrument in school. Through rigorous training sessions, the band members refine their skills under dedicated music instructors. The band takes part in the bi-annual Singapore Youth Festival Central Judging and performs for school events such as the National Day Parade to develop students’ confidence and leadership skills.  
 
 **Key Programmes and Achievements in 2022- 2023**
 * SYF 2023
