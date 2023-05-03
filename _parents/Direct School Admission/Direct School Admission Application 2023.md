@@ -50,9 +50,9 @@ For more information on DSA-Sec, please refer to the MOE website at [https://www
 * Aptitude in Science 
 * Participation, Representation &amp; Achievements in Sustainability Projects/Programmes  
 
-2. Applicants should also possess the positive character traits and good conduct in school. <br>
 
-3.  Meeting all the criteria does not guarantee the student will be shortlisted/given an offer 
+2. Applicants should also possess the positive character traits and good conduct in school.
+3. Meeting all the criteria does not guarantee the student will be shortlisted/given an offer 
 
 
 
