@@ -74,4 +74,4 @@ Applicants will be notified by post or email latest on the outcome of their appl
 
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the CCA or activities related to the respective talent areas allocated throughout their four years in Chua Chu Kang Secondary School.
 
-For further enquiries on the ** DSA ** Exercise, please contact **Mr Lim Keum Ray** at 6769 1386 or via email to [cckss@moe.edu.sg](cckss@moe.edu.sg).
+For further enquiries on the **DSA** Exercise, please contact **Mr Lim Keum Ray** at 6769 1386 or via email to [cckss@moe.edu.sg](cckss@moe.edu.sg).
