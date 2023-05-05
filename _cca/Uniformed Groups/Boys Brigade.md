@@ -11,7 +11,7 @@ third_nav_title: Uniformed Groups
 
 **About us**
 
-**Motto: “Sure & Steadfast”**
+**Motto: “Sure &amp; Steadfast”**
 
 Started in 2002, the 77th Boys’ Brigade company’s mission is to nurture our Boys, based on the BB Object, in having good habits of Obedience, Reverence, Discipline, Self-Respect. 
 
@@ -47,7 +47,7 @@ Under the close collaboration between Chua Chu Kang Secondary School and Bukit P
 * Boys’ Brigade Share-a-Gift (VIA)
 
 
-**Fun & Games**
+**Fun &amp; Games**
 
 * Laser Tag
 * Sword Tag
@@ -77,3 +77,7 @@ Under the close collaboration between Chua Chu Kang Secondary School and Bukit P
 |Training days	| Time	| Venue	|
 |---	|---	|---	|
 | Saturdays	| 9.00am - 12.00pm	| Chua Chua Kang Sec |
+
+
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRMlw6tb3yi1ZcPYG7DcQ-nEpPcKllm7yPASPT2eNkTdhc_tC4L7LRFbqDDYE-luw/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
