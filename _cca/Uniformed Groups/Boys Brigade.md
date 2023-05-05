@@ -70,12 +70,10 @@ Under the close collaboration between Chua Chu Kang Secondary School and Bukit P
 * BB Adventure Re:ignite 2022 (Gold Honours Roll)
 * Represented school to participate in Homelessness Learning Forum 2022: Youth Edition
 
-**Announcements**
+**Announcement** 
 
+* Training Days and hours
 
-
-
-**Training**
-
-
-
+|Training days	| Time	| Venue	|
+|---	|---	|---	|
+| Saturdays	| 9.00am - 12.00pm	| Chua Chua Kang Sec |
