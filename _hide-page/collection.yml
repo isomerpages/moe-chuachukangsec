@@ -2,6 +2,7 @@ collections:
   hide-page:
     output: true
     order:
+      - Chinese Orchestra (Not Offered in 2023).md
       - Choir (Not Offered in 2023).md
       - Celebration of CCKsians’ Good Performance in 2021 GCE O Level
         Examinations.md
