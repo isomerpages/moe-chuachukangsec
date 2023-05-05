@@ -33,7 +33,7 @@ In Basketball CCA, students are put through rigorous training on and off the cou
 * National School Games Singapore C Division 2022
 
 
-**(b)	Secondary 3 Values in Action Project **
+**(b)	Secondary 3 Values in Action Project**
 
 * Beneficiary: Bethany Nursing Home
 
