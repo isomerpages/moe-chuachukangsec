@@ -2,6 +2,7 @@ collections:
   hide-page:
     output: true
     order:
+      - Swimming (Not Offered in 2023).md
       - Sepak Takraw (Not Offered in 2023).md
       - Chinese Orchestra (Not Offered in 2023).md
       - Choir (Not Offered in 2023).md
