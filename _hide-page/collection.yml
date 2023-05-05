@@ -2,6 +2,7 @@ collections:
   hide-page:
     output: true
     order:
+      - Choir (Not Offered in 2023).md
       - Celebration of CCKsians’ Good Performance in 2021 GCE O Level
         Examinations.md
       - Celebration of CCKsians’ Good Performance in 2021 GCE N Level
