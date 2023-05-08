@@ -2,7 +2,6 @@
 title: Swimming (Not Offered in 2023)
 permalink: /cca/sports-and-games/swimming/
 description: ""
-third_nav_title: Sports and Games
 ---
 |  	|  	|  	|			
 |---	|---	|---	|			
@@ -16,4 +15,3 @@ Members learn the four competitive strokes from trained, experienced coaches, an
 This year, students participated in competitions such as the Inter-Schools Swimming Championships, the ActiveSG, 27th Super Sprint Series and 3rd Madwave Swim Challenge 2019. 
 
 Other than competitions, students engaged in Values-in-Action activities, to volunteer their time and services. These activities take the form of helping to do timekeeping in swimming events held by various organisations.
-
