@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - School events/The History Times.md
       - School events/The Founders National Museum Exhibition.md
       - School events/Hari Raya Celebrations.md
       - School events/Discovery Week.md
