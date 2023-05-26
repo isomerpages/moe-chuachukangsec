@@ -31,4 +31,4 @@ Above: Screenshots of the presentation slides by the students for the 14th April
 
 
 ![](/images/Events/School%20Events/The%20history%20times/HistoryTimesPhoto05.jpg)
-Above: Screenshots of CCKSians in action during the KBNLC International Session on 14th April 2023. The team presented at National Institute of Education (Singapore) to on-site and online participants. Participants include teachers and researchers from Singapore, China (inclusive of Hong Kong), Canada and USA. 
+Above: Screenshots of CCKSians in action during the KBNLC International Session on 14th April 2023. The team presented at National Institute of Education (Singapore) to on-site and online participants. Participants include teachers and researchers from Singapore, China (inclusive of Hong Kong), Canada and USA.
