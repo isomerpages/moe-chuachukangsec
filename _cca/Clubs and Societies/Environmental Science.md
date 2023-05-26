@@ -47,7 +47,7 @@ Environmental Science Club members are given opportunities to attend Do-It-Yours
 
 |Training days	| Time	| Venue	|
 |---	|---	|---	|
-| Wednesdays	| 3.00 - 5.30pm	| CCKSS Campus 2	|
-| Fridays (odd weeks)	| 2.15 - 5.30pm	| CCKSS Campus 2	|
+| Wednesdays	| 3.00pm - 5.30pm	| CCKSS Campus 2	|
+| Fridays (odd weeks)	| 2.15pm - 5.30pm	| CCKSS Campus 2	|
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbKTtdYZo4G7VHerrUyHzf9ITuS5IXGRGN8yGgVg1WDnkce5Ja4PrgDDxC9STzUA/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>

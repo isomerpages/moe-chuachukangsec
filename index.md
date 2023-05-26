@@ -24,6 +24,25 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: "The History Times: Living in the Interwar Period"
+      button: Read More
+      url: /events/school-events/the-history-times/
+      image: /images/Events/School Events/The history times/historytimesphotothumb.jpg
+      alt: Image alt text
+  - infopic:
+      title: "Semangat yang Baru: Forging a New Singapore Spirit"
+      button: Read More
+      url: /events/school-events/founders-national-museum-exhibition/
+      image: /images/Events/School Events/Forging a New Singapore Spirit/founder
+        memorial.jpg
+      alt: Image alt text
+  - infopic:
+      title: Hari Raya Celebrations
+      button: Read More
+      url: /events/school-events/hari-raya-celebrations
+      image: /images/Events/School Events/Hari Raya Celebrations/raya_thumb.jpg
+      alt: Image alt text
+  - infopic:
       title: Discovery Week
       button: Read More
       url: /events/school-events/discovery-week/
