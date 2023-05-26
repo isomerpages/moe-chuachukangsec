@@ -4,8 +4,8 @@ permalink: /events/school-events/the-history-times/
 description: ""
 third_nav_title: School events
 ---
-#### The History Times: Living in the Interwar Period
-#### 
+#### The History Times: Living in the Interwar Period #### 
+
 **Presentation by CCKSians to the Knowledge Building International Community**
 
 Historians are curators who capture, connect and construct stories of the past. Over the past year, students from Clementi Town Secondary School and Chua Chu Kang Secondary School came together to build knowledge on the big idea of the Interwar Period. After engaging in a series of collaborative activities and rigorous performance tasks, the students then worked together in conceptualizing, designing, and creating a set of history newsletters related to the theme. 
