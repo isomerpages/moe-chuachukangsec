@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - School events/Hari Raya Celebrations.md
       - School events/Discovery Week.md
       - School events/Pongal Celebration.md
       - School events/Chinese New Year Celebration.md
