@@ -58,4 +58,10 @@ sections:
       image: /images/Events/School Events/20230120 Chinese New Year/2023 CNY
         Thumbnail.jpg
       alt: Chinese New Year Celebration
+  - infopic:
+      title: "The History Times: Living in the Interwar Period"
+      button: Read More
+      url: /events/school-events/the-history-times/
+      image: /images/Events/School Events/The history times/historytimesphotothumb.jpg
+      alt: Image alt text
 ---
