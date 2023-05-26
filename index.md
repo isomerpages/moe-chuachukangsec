@@ -49,4 +49,13 @@ sections:
       image: /images/Events/School Events/20230120 Chinese New Year/2023 CNY
         Thumbnail.jpg
       alt: Chinese New Year Celebration
+  - infopic:
+      title: "Semangat yang Baru: Forging a New Singapore Spirit"
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Read More
+      url: /events/school-events/founders-national-museum-exhibition/
+      image: /images/Events/School Events/Forging a New Singapore Spirit/founder
+        memorial.jpg
+      alt: Image alt text
 ---
