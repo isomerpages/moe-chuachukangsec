@@ -43,4 +43,10 @@ sections:
       image: /images/Events/School Events/20230120 Chinese New Year/2023 CNY
         Thumbnail.jpg
       alt: Chinese New Year Celebration
+  - infopic:
+      title: Hari Raya Celebrations
+      button: Read More
+      url: /events/school-events/hari-raya-celebrations
+      image: /images/Events/School Events/Hari Raya Celebrations/raya_thumb.jpg
+      alt: Image alt text
 ---
