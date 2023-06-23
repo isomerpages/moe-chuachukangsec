@@ -1,7 +1,7 @@
 ---
 title: Timetable
-permalink: /students/timetable/wa-student-schedule/
-date: 2023-04-19
+permalink: /students/class-timetable/
+date: 2023-06-23
 layout: post
 description: ""
 image: ""
