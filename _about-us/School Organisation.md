@@ -23,7 +23,7 @@ description: ""
 | HOD (Craft &amp; Technology / Applied Learning)	| Mdm Tay Su Ming	| [Fiona_tay@schools.gov.sg](mailto:Fiona_tay@schools.gov.sg)	|
 | HOD (English)	| Mdm Azwiza Bte Ahmad	| [Azwiza_ahmad@schools.gov.sg&nbsp;](mailto:Azwiza_ahmad@schools.gov.sg&nbsp;)	|
 | HOD (Humanities)	| Mdm Ibaidah Binte Ibrahim	| [Ibaidah_ibrahim@schools.gov.sg](mailto:Ibaidah_ibrahim@schools.gov.sg)	|
-| HOD (ICT)&nbsp;(Covering)	| Mr Chen Yingtong	| [Chen_ying_tong@schools.gov.sg](mailto:Chen_ying_tong@schools.gov.sg)	|
+| HOD (ICT)&nbsp;	| Mr Chen Yingtong	| [Chen_ying_tong@schools.gov.sg](mailto:Chen_ying_tong@schools.gov.sg)	|
 | HOD (Mathematics)	| Mr&nbsp;Puttur Girish Kumar	| [Girish_kumar_puttur@schools.gov.sg](mailto:Girish_kumar_puttur@schools.gov.sg)	|
 | HOD (Mother Tongue Languages)&nbsp;	| Mdm Tan Yoke Hong	| [Tan_yoke_hong@schools.gov.sg](mailto:Tan_yoke_hong@schools.gov.sg)	|
 | HOD (PE &amp; Co-Curricular Activities)	| Mr Lim Keum Ray&nbsp;	| [Lim_keum_ray@schools.gov.sg&nbsp;](mailto:Lim_keum_ray@schools.gov.sg&nbsp;)	|
