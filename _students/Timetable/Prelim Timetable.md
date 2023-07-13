@@ -4,12 +4,4 @@ permalink: /students/timetable/prelim-timetable/
 description: ""
 third_nav_title: Timetable
 ---
-[Sec 1 WA2 Schedule](/files/Students/Timetable/Sec%201_WA2.pdf)
-
-[Sec 2 WA2 Schedule](/files/Students/Timetable/Sec%202_WA2.pdf)
-
-[Sec 3 WA2 Schedule](/files/Students/Timetable/Sec%203_WA2.pdf)
-
-[Sec 4-5 Campus 1 WA2 Schedule](/files/Students/Timetable/Sec%204-5_CAMPUS%201_WA2.pdf)
-
-[Sec 4-5 Campus 2 WA2 Schedule](/files/Students/Timetable/Sec%204-5_CAMPUS%202_WA2.pdf)
+[4NT Prelim Timetable 12 Jul 2023](/files/Students/Timetable/Prelim%20Timetable/4nt%20prelim%20timetable%2012%20jul%202023.pdf)
