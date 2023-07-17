@@ -2,5 +2,4 @@ collections:
   others:
     output: true
     order:
-      - Students.md
       - Parents.md
