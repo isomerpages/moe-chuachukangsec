@@ -35,6 +35,7 @@ description: ""
 | Year Head&nbsp;&nbsp;	| Ms Nur Janna Binte Othman	| [Nur_janna_othman@schools.gov.sg](mailto:Nur_janna_othman@schools.gov.sg)	|
 | Asst YH&nbsp;	| Mdm Shanthini d/o Odayappan	| [Shanthini_odayappan@schools.gov.sg](mailto:Shanthini_odayappan@schools.gov.sg)	|
 | Asst YH&nbsp;&nbsp;(Covering)	| Ms Yasmeen Aysha	| [Yasmeen_aysha@schools.gov.sg](mailto:Yasmeen_aysha@schools.gov.sg)	|
+| Asst YH&nbsp;&nbsp;(Covering)	| Mdm Idayu Bte Somdi	| [Idayu_Somdi@schools.gov.sg](mailto:Idayu_Somdi@schools.gov.sg)	|
 | Level Head (English)&nbsp;	| Ms Sim Mei Hui Theresa	| [Sim_mei_hui_theresa@schools.gov.sg](mailto:Sim_mei_hui_theresa@schools.gov.sg)	|
 | Level Head (Mathematics)	| Mdm Santhi d/o Krishnasamy	| [Santhi_krishnasamy@schools.gov.sg](mailto:Santhi_krishnasamy@schools.gov.sg)	|
 | Level Head (Science)	| Mr Goh Yue Han Christopher	| [Goh_yue_han_christopher@schools.gov.sg](mailto:Goh_yue_han_christopher@schools.gov.sg)	|
