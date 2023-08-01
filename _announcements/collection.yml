@@ -2,4 +2,4 @@ collections:
   announcements:
     output: true
     order:
-      - No CCA on 2 August 2023.md
+      - CCA Announcement.md
