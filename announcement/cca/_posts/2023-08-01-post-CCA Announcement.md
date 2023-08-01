@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+No CCA on 2 August 2023
