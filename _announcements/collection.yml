@@ -2,8 +2,4 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements.md
-      - Green School Award.md
-      - Parents Gateway.md
-      - Chua Chu Kang Secondary School Direct School Admission Application
-        2022.md
+      - CCA Announcement.md
