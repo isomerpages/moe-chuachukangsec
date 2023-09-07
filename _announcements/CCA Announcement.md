@@ -3,4 +3,4 @@ title: CCA Announcement
 permalink: /announcements/cca-announcement/
 description: ""
 ---
-No CCA on 2 August 2023
+CCA stand down on 25 Aug till further notice
