@@ -4,16 +4,35 @@ permalink: /students/class-timetable/
 description: Class Timetable
 third_nav_title: Timetable
 ---
-[2023_Term_3_Sec1(Odd Week)](/files/Students/Timetable/Term%203/2023_Term_3_Sec1(Odd%20Week).pdf)
+[2023_Term_4_Sec1(Odd Week)](/files/Students/Timetable/Term%204/2023%20Term%204%20Sec%201%20(Odd).pdf)
 
-[2023_Term3_Sec 2(Odd Week)updated_25Jun](/files/Students/Timetable/Term%203/2023_term3_sec%202(odd%20week)updated_25jun.pdf)
+[2023_Term_4_Sec2(Odd Week)](/files/Students/Timetable/Term%204/2023%20Term%204%20Sec%202%20(Odd).pdf)
 
-[2023_Term_3_ Sec3(Odd Week)](/files/Students/Timetable/Term%203/2023_Term_3_%20Sec3(Odd%20Week).pdf)
+[2023_Term_4_Sec3(Odd Week)](/files/Students/Timetable/Term%204/2023%20Term%204%20Sec%203%20(Odd).pdf)
 
-[2023_Term_3_Sec_4n5_Campus1(Odd Week)](/files/Students/Timetable/Term%203/2023_Term_3_Sec_4n5_Campus1(Odd%20Week).pdf)
+[2023_Term_4_Sec1(Even Week)](/files/Students/Timetable/Term%204/2023%20Term%204%20Sec%201%20(Even).pdf)
 
-[2023_Term_3_Sec_4n5_Campus2(Odd Week)](/files/Students/Timetable/Term%203/2023_Term_3_Sec_4n5_Campus2(Odd%20Week).pdf)
+[2023_Term_4_Sec2(Even Week)](/files/Students/Timetable/Term%204/2023%20Term%204%20Sec%202%20(Even).pdf)
 
----------
+[2023_Term_4_Sec3(Even Week)](/files/Students/Timetable/Term%204/2023%20Term%204%20Sec%203%20(Even).pdf)
 
-[2023_Term3_Classes(Even Week)](/files/Students/Timetable/Term%203/2023_term3_classes(even%20week).pdf)
+[2023_Term_4_Sec4E5N Campus 1(Odd Week)](/files/Students/Timetable/Term%204/2023%20Term%204%20Sec%204E5N%20Campus%201%20(Odd).pdf)
+
+[2023_Term_4_Sec4E5N Campus 2(Odd Week)](/files/Students/Timetable/Term%204/2023%20Term%204%20Sec%204E5N%20Campus%202%20(Odd).pdf)
+
+[2023_Term_4_Sec4E5N Campus 1(Even Week)](/files/Students/Timetable/Term%204/2023%20Term%204%20Sec%204E5N%20Campus%201%20(Even).pdf)
+
+[2023_Term_4_Sec4E5N Campus 2(Even Week)](/files/Students/Timetable/Term%204/2023%20Term%204%20Sec%204E5N%20Campus%202%20(Even).pdf)
+
+[2023 Term 4 Sec 4-1](/files/Students/Timetable/Term%204/2023%20Term%204%20Sec_4-1.pdf)
+
+[2023 Term 4 Sec 4-2](/files/Students/Timetable/Term%204/2023%20Term%204%20Sec_4-2.pdf)
+
+[2023 Term 4 Sec 4-3](/files/Students/Timetable/Term%204/2023%20Term%204%20Sec_4-3.pdf)
+
+[2023 Term 4 Sec 4-D](/files/Students/Timetable/Term%204/2023%20Term%204%20Sec_4D.pdf)
+
+[2023 Term 4 Sec 4-E](/files/Students/Timetable/Term%204/2023%20Term%204%20Sec_4E.pdf)
+
+[2023 Term 4 Sec 4-F](/files/Students/Timetable/Term%204/2023%20Term%204%20Sec_4F.pdf)
+
