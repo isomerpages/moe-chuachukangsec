@@ -20,9 +20,9 @@ third_nav_title: Timetable
 
 [2023_Term_4_Sec4E5N Campus 2(Odd Week)](/files/Students/Timetable/Term%204/2023%20Term%204%20Sec%204E5N%20Campus%202%20(Odd).pdf)
 
-[2023_Term_4_Sec4E5N Campus 1(Even Week)](/files/Students/Timetable/Term%204/2023%20Term%204%20Sec%204E5N%20Campus%201%20(Even).pdf)
+[2023_Term_4_Sec4E5N Campus 1(even Week) v14_Sept](/files/Students/Timetable/Term%204/2023%20term%204%20sec%204e5n%20campus%201%20(even)%20v14_sep.pdf)
 
-[2023_Term_4_Sec4E5N Campus 2(Even Week)](/files/Students/Timetable/Term%204/2023%20Term%204%20Sec%204E5N%20Campus%202%20(Even).pdf)
+[2023_Term_4_Sec4E5N Campus 2(even Week) v14_Sept](/files/Students/Timetable/Term%204/2023%20term%204%20sec%204e5n%20campus%202%20(even)%20v14_sep.pdf)
 
 [2023 Term 4 Sec 4-1](/files/Students/Timetable/Term%204/2023%20Term%204%20Sec_4-1.pdf)
 
