@@ -6,14 +6,28 @@ third_nav_title: School Achievements
 ---
 # **In the News**
 
+
+### 'The ideas never stop coming until the bell rings’: How one teacher makes History this riveting
+
+![](/images/About%20Us/In%20The%20News/mr-melvin-chan_2.jpg)
+Mr Melvin Chan Joo Seng, Senior Teacher (History) at Chua Chu Kang Secondary School, is an ardent practitioner of the Knowledge Building technique, which taps on the power of collectives to co-create knowledge. The result? No silent corners in his classroom. Mr Chan is a President's Award for Teachers 2023 recipient. 
+
+[https://www.schoolbag.edu.sg/story/the-ideas-never-stop-coming-until-the-bell-rings-how-one-teacher-makes-history-this-riveting](https://www.schoolbag.edu.sg/story/the-ideas-never-stop-coming-until-the-bell-rings-how-one-teacher-makes-history-this-riveting)
+
+![](/images/About%20Us/In%20The%20News/presidents%20award%20for%20teacher%202023.jpeg)
+
+
+
+
+
+
+
+
+
 ### Nasihat arwah ayah bantu kuatkan semangat hingga berjaya
 [https://www.beritaharian.sg/setempat/nasihat-arwah-ayah-bantu-kuatkan-semangat-hingga-berjaya](https://www.beritaharian.sg/setempat/nasihat-arwah-ayah-bantu-kuatkan-semangat-hingga-berjaya)
 
 ![](/images/About%20Us/In%20The%20News/Inthenews01.jpg)
-<img src="images/About%20Us/In%20The%20News/Inthenews01.jpg" 
-     style="width:90%" >
-
-
 
 ---------------------------------------
 
@@ -22,8 +36,6 @@ third_nav_title: School Achievements
 
 ![](/images/About%20Us/In%20The%20News/Inthenews02.jpg)
 
-<img src="images/About%20Us/In%20The%20News/Inthenews02.jpg" 
-     style="width:90%" >
 
 -----------------------
 
@@ -35,8 +47,6 @@ third_nav_title: School Achievements
 
 ![](/images/About%20Us/In%20The%20News/Inthenews03.jpg)	
 	
-<img src="images/About%20Us/In%20The%20News/Inthenews03.jpg" 
-     style="width:90%" >
 
 -------------------------------------------
 
@@ -46,8 +56,6 @@ third_nav_title: School Achievements
 
 ![](/images/About%20Us/In%20The%20News/Inthenews04.jpg)	
 	
-<img src="images/About%20Us/In%20The%20News/Inthenews04.jpg" 
-     style="width:90%">
 
 
 
@@ -56,7 +64,7 @@ third_nav_title: School Achievements
 
 ### Recipient of MOE Most Inspiring Tamil Teacher (MITT) Award 2022 – Mr Anthony Raj Joseph
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kW_o9LVGAfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kW_o9LVGAfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 
 -----------------------------------------
@@ -68,8 +76,7 @@ Performing first aid and nursing come naturally with stressful situations and fo
   
 [https://www.schoolbag.edu.sg/story/my-st-john-brigade-s-teacher-helped-me-find-my-passion](https://www.schoolbag.edu.sg/story/my-st-john-brigade-s-teacher-helped-me-find-my-passion)
 
-<img src="/images/Mr%20Lui%20Meng%20Whye.jpg" 
-     style="width:70%">
+<img src="/images/Mr%20Lui%20Meng%20Whye.jpg" style="width:70%">
 
 ----------------------------------------------------------------------
 
@@ -80,8 +87,7 @@ One of the finalists for the Outstanding Youth in Education Award (OYEA) 2019, a
   
 [https://www.schoolbag.edu.sg/story/teaching-your-child-to-be-the-teacher](https://www.schoolbag.edu.sg/story/teaching-your-child-to-be-the-teacher)
 
-<img src="/images/Teaching%20Your%20Child%20to%20Be%20the%20Teacher.jpg" 
-     style="width:70%">
+<img src="/images/Teaching%20Your%20Child%20to%20Be%20the%20Teacher.jpg" style="width:70%">
 
 ----------------------------------------------------------------------
 
@@ -94,8 +100,7 @@ Read about how our Chemistry teachers, Mdm Rosnah and Mr Benjamin Pooi adopt a p
 [https://www.schoolbag.edu.sg/story/first-person-an-experiment-in-blended-learning](https://www.schoolbag.edu.sg/story/first-person-an-experiment-in-blended-learning)
 
 
-<img src="/images/First%20Person%20An%20Experiment%20in%20Blended%20Learning.jpg" 
-     style="width:70%">
+<img src="/images/First%20Person%20An%20Experiment%20in%20Blended%20Learning.jpg" style="width:70%">
 		 
 ---------------------------------------------------------------------
 
@@ -121,4 +126,4 @@ Mr Jonathan Ram, our Subject Head for PE and CCAs was interviewed by Straits Tim
 
 And Lianhe Zaobao carried the news about our class-based CCAs too! Read more here!
 
-![](/images/Class-based%20CCAs,%20LHZB%2011%20Aug%202020.jpeg)
+![](/images/Class-based%20CCAs,%20LHZB%2011%20Aug%202020.jpeg)</a>
