@@ -24,6 +24,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: "'The ideas never stop coming until the bell rings’"
+      id: infopic
+      description: How one teacher makes History this riveting
+      button: Read more
+      url: /about-us/school-achievements/in-the-news/
+      image: /images/About Us/In The News/presidents award for teacher 2023.jpeg
+      alt: Image alt text
+  - infopic:
       title: "The History Times: Living in the Interwar Period"
       button: Read More
       url: /events/school-events/the-history-times/
