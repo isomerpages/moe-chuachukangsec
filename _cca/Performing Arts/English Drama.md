@@ -20,7 +20,7 @@ The English Drama is one of the Visual and Performing Arts (VPA) CCA in the scho
 Chua Chu Kang Secondary Concert Band aims to provide a platform for like-minded individuals to make music together and establish lifelong friendships. Students attend theatre production theory lessons and learn characterisation from our dedicated drama instructor, Mr Fadhil. 
 
 
-**Key Programmes and Achievements in 2022- 2023**
+**Key Programmes and Achievements**
 * SYF 2023
 
 
