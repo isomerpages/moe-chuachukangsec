@@ -34,6 +34,7 @@ Overall, Badminton CCA is a great way for students to develop their badminton sk
 **Announcement** 
 
 * Training Days and hours
+
 |Training days	| Time	| 	|
 |---	|---	|---	|
 | Wednesdays	| 3.00 - 5.30pm	|	|
