@@ -79,6 +79,3 @@ Training Activities:
 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTeaMzoBZhCdD_tWR2WyefPmKPLsasys89-oolX1UM2-qwHHYa6SRnAAmQU46mmdQ/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
-
-
-
