@@ -34,10 +34,10 @@ Overall, Badminton CCA is a great way for students to develop their badminton sk
 **Announcement** 
 
 * Training Days and hours
-|Training days	| Time	|
-|---	|---	|
-| Wednesdays	| 3.00 - 5.30pm	|
-| Fridays (odd weeks)	| 2.30 - 5.00pm	|
+|Training days	| Time	| 	|
+|---	|---	|---	|
+| Wednesdays	| 3.00 - 5.30pm	|	|
+| Fridays (odd weeks)	| 2.30 - 5.00pm	|	|
 
 
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQZqnZggdr_aTrOOrEgKyRpfaUwyEYkptJvOncXMNv6jUTfEft260ZQu0jVwZpkPA/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
