@@ -18,7 +18,7 @@ The sport of Netball aims to nurture a spirit of resilience and teamwork in its 
 
 
 **Key Programmes and Achievements in 2022-2023**
-B and C Division West Zone Netball Competition 2023
+* B and C Division West Zone Netball Competition 2023
 
 
 **Announcement** 
@@ -31,4 +31,3 @@ B and C Division West Zone Netball Competition 2023
 | Odd Friday	| 2.15pm - 5.30pm	|	|
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT56iYvm27Hcp8cQskS4_5ssdq0ke8eWRg4lSEJD9tF4hMVQFbcYCdlZYMZJyXhyQ/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
-
