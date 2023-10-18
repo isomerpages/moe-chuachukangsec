@@ -16,6 +16,6 @@ These platforms provide valuable experience for student leaders to enact what th
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQu6euUn0T8xTk3QU7ISMkjk85OrJ-VffyqWpF08V1GxwZFvOlKpQoOsMIEGB6FgQ/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
 
-<br><br>
+<br>
 
 <iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTfdkqWagmO9PB3HTulcy5xuTMte8HDebuZjEt8welm3NsFXFKMJ3KP2bxjzIHFgg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
