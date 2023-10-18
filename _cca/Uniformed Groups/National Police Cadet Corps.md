@@ -21,15 +21,12 @@ To become the best youth organisation in Singapore, one that actively helps to m
 Mission
 To develop our members to be active citizens and community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe.
 
-### NPCC Core Values
+###### NPCC Core Values
 
-###### R - Resilience
-
-###### I - Integrity
-
-###### S - Service
-
-###### E - Excellence
+* R - Resilience
+* I - Integrity
+* S - Service
+* E - Excellence
 
 
 
