@@ -32,7 +32,7 @@ To develop our members to be active citizens and community leaders, by working i
 
 **Key Programmes and Achievements**
 
-###### Secondary 1
+**Secondary 1**
 
 * Swearing-In Ceremony
 * Police Heritage Centre Visit
@@ -40,7 +40,7 @@ To develop our members to be active citizens and community leaders, by working i
 * Year-End Unit camp
 * Campcraft skills
 
-###### Secondary 2
+**Secondary 2**
 * Basic Law course
 * 1 Star Kayaking
 * Adventure Training Camp in Pulau Ubin
@@ -51,7 +51,7 @@ To develop our members to be active citizens and community leaders, by working i
 * Inter-unit E-Crime Scene Investigation competition
 * Leadership and Mentoring Skills Course (Theory)
 
-###### Secondary 3
+**Secondary 3**
 * Home Team Gallery Visit
 * Cybercrime Prevention Course
 * .22 Classification Shoot
@@ -64,7 +64,7 @@ To develop our members to be active citizens and community leaders, by working i
 * Campcraft skills
 * Homefront Security Course (HFS) course
 
-###### Achievements 
+**Achievements **
 
 Unit Overall Proficiency Award
 
