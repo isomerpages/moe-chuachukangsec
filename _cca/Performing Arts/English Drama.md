@@ -30,8 +30,8 @@ Chua Chu Kang Secondary Concert Band aims to provide a platform for like-minded 
 
 |Training days	| Time	| Venue	|
 |---	|---	|---	|
-| Every Wednesday	| 3.00 - 5.30pm	| Chua Chua Kang Sec F21 Room	|
-| Odd Friday	| 2.15 - 5.30pm	|	|
+| Wednesday	| 1500 to 1730 | Chua Chua Kang Sec F21 Room	|
+| Fridays (odd weeks)	| 1415 to 1730	|	|
 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTp9wixxxFwoH_zgusc7JWz-W99oNeKiHxpyl5hvpyo2gKwXtUir3gH5sx1vByaaQ/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
