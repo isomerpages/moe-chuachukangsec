@@ -27,7 +27,7 @@ The sport of Netball aims to nurture a spirit of resilience and teamwork in its 
 
 |Training days	| Time	| Venue	|
 |---	|---	|---	|
-| Every Wednesday	| 3.00pm - 5.30pm	| Netball Court	|
-| Odd Friday	| 2.15pm - 5.30pm	|	|
+| Wednesday	| 1500 to 1730	| Netball Court	|
+| Fridays (odd weeks)	| 1415 to 1730 |	|
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT56iYvm27Hcp8cQskS4_5ssdq0ke8eWRg4lSEJD9tF4hMVQFbcYCdlZYMZJyXhyQ/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
