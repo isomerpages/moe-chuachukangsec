@@ -33,7 +33,7 @@ Chua Chu Kang Guitar Ensemble aims to provide our students an experience in lear
 
 |Training days	| Time	| Venue	|
 |---	|---	|---	|
-| Every Wednesday	| 3.00pm - 5.30pm	| Guitar Studio	|
-| Odd Week Friday	| 2.15pm - 5.30pm	|	|
+| Wednesday	| 1500 to 1730 | Guitar Studio	|
+| Fridays (odd weeks)	| 1415 to 1730 |	|
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTGyr4cmF8PqC5Um-zZCJ1prHiwr594_naVpxcSEvrblVHHMQWRr3WaWDqn1k2Xpg/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
