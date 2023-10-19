@@ -84,7 +84,7 @@ Other Achievements
 
 |Training days	| Time	| Venue	|
 |---	|---	|---	|
-| Every Wednesday	| 3.00pm - 5.30pm	| Sec 1 Classroom (Level 3)	|
-| Odd Friday	| 2.30pm - 5.30pm	|	|
+| Wednesday	| 1500 to 1730 | Sec 1 Classroom (Level 3)	|
+| Fridays (odd weeks)	| 1430 to 1730	|	|
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKUrd5L-rRJzsV6T0ZYL98nppazVj6CmC9EE7RGwydfq3UvBdP99F5Ao-_a-87HA/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
