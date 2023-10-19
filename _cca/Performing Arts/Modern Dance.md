@@ -64,8 +64,8 @@ This is where dancers learn, grow and excel as one troop building perseverance a
 
 |Training days	| Time	| Venue	|
 |---	|---	|---	|
-| Every Wednesday	| 3.00pm - 5.30pm	| Music Room and AVA Room	|
-| Odd Friday	| 2.15pm - 5.30pm	|	|
+| Wednesday	| 1500 to 1730 | Music Room and AVA Room	|
+| Fridays (odd weeks)	| 1415 to 1730	|	|
 
 ** *Additional Training will be conducted during competition / performance periods
 
