@@ -48,8 +48,8 @@ The mission of the Robotics Club is encapsulated in the motto, ‘Create. Comman
 
 |Training days	| Time	| Venue	|
 |---	|---	|---	|
-| Wednesdays	| 3.00pm - 5.30pm	| Learning Studio	|
-| Fridays (odd weeks)	| 2.30pm - 5.30pm	| Library	|
+| Wednesdays	| 1500 to 1730	| Learning Studio	|
+| Fridays (odd weeks)	| 1430 to 1730	| Library	|
 
 
 
