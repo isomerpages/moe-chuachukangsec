@@ -85,8 +85,7 @@ The NCC’s mission is to develop resourceful, responsible, resilient, loyal lea
 
 |Training days	| Time	| Venue	|
 |---	|---	|---	|
-| Wednesday | 3.00pm - 5.30pm	| Area above NCC Room (Level 3) |
-| Friday(Odd Weeks only)	| 9.00am - 12.00pm	| Area above NCC Room (Level 3) |
+| Wednesday | 1500 to 1730 | Area above NCC Room (Level 3) |
+| Friday(Odd Weeks only)	| 1430 to 1730 |  |
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vStKUhGBUbkvoOVCjeUnGOZ1_88_2Xiae4g0uG0XlwWS0cbrmsxMRhgBvTzjper_w/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
-
