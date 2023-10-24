@@ -20,7 +20,7 @@ During the competition seasons, the girls juggle between their studies and their
 The girls are not only confined to floorball but in fact utilise the opportunity of VIA to develop empathy and the capacity to serve others.
 
 **Mascot**
-Shasha is a strong and courageous tiger with a ferocious disposition. 
+* Shasha is a strong and courageous tiger with a ferocious disposition. 
 
 **Our Objectives**
 * To develop interest and talents in floorball
