@@ -30,7 +30,7 @@ Chua Chu Kang Secondary Concert Band aims to provide a platform for like-minded 
 
 |Training days	| Time	| Venue	|
 |---	|---	|---	|
-| Wednesday	| 1500 to 1730 | Chua Chua Kang Sec F21 Room	|
+| Wednesday	| 1500 to 1730 | F21 Classroom	|
 | Fridays (odd weeks)	| 1415 to 1730	|	|
 
 
