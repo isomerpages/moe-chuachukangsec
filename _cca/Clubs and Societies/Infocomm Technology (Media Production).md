@@ -29,3 +29,5 @@ The Infocomm Technology (Media Production) Club is a safe haven for avid fans of
 |---	|---	|---	|
 | Wednesday	| 1500 to 1730 | Computer Lab 3	|
 | Fridays (odd weeks)	| 1415 to 1730	|	|
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQhumU2NfHSDEDCJjwmAL2P60tNSb1HAdgD1sW7z-0GiI7qTxXnjYUGrayaL9CyLQ/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
