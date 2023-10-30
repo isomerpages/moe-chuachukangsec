@@ -49,7 +49,7 @@ The mission of the Robotics Club is encapsulated in the motto, ‘Create. Comman
 |Training days	| Time	| Venue	|
 |---	|---	|---	|
 | Wednesdays	| 1500 to 1730	| Learning Studio	|
-| Fridays (odd weeks)	| 1430 to 1730	| Library	|
+| Fridays (odd weeks)	| 1430 to 1730	| 	|
 
 
 
