@@ -66,7 +66,7 @@ Puan Nooraishah Award (PNA)
 
 |Training days	| Time	| Venue	|
 |---	|---	|---	|
-| Wednesdays	| 3.00 - 5.30pm	| 3A &amp; 3B Classrooms for indoor activities 	|
-| Fridays (odd weeks)	| 2.15 - 5.30pm	| 3A &amp; 3B Classrooms for indoor activities	|
+| Wednesdays	| 1500 to 1730 | 3A &amp; 3B Classrooms for indoor activities 	|
+| Fridays (odd weeks)	| 1415 to 1730 | 3A &amp; 3B Classrooms for indoor activities	|
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQPNmcd1ytP2KRhpaVxezxJL41o098HJVg9EoV-DRAdIADPg_33oFI8ptS2g9teng/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>

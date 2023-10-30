@@ -29,8 +29,8 @@ Chua Chu Kang Secondary Concert Band aims to provide a platform for like-minded 
 
 |Training days	| Time	| Venue	|
 |---	|---	|---	|
-| Every Wed	| 3.00 - 5.30pm	| Chua Chua Kang Sec CD shelter	|
-| Odd Fri	| 2.15 - 5.30pm	|	|
+| Wednesday	| 1500 to 1730	| Chua Chua Kang Sec CD shelter	|
+| Fridays (odd weeks)	| 1415 to 1730	|	|
 
 <br>
 

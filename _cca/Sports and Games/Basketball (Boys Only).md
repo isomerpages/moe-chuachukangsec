@@ -50,8 +50,8 @@ In Basketball CCA, students are put through rigorous training on and off the cou
 
 |Training days	| Time	| Venue	|
 |---	|---	|---	|
-| Wednesdays	| 3.00 - 5.30pm	| CCKSS ISH Level 1	|
-| Fridays (odd weeks)	| 2.00 - 5.00pm	| CCKSS ISH Level 1	|
+| Wednesdays	| 1500 to 1730 | ISH Level 1	|
+| Fridays (odd weeks)	| 1400 to 1500	| ISH Level 1	|
 
 
 
