@@ -35,7 +35,7 @@ With a shared sense of value and identity, we look forward to creating a stronge
 
 |Training days	| Time	| Venue	|
 |---	|---	|---	|
-| Wednesday	|  | 	|
+| Wednesday	|  | Chua Chua Kang Secondary School 	|
 | Fridays (odd weeks)	| 	|	|
 
 
