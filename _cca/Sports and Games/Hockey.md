@@ -41,7 +41,7 @@ All these achievements have been made possible by a team of dedicated teachers w
 
 |Training days	| Time	| Venue	|
 |---	|---	|---	|
-| Wednesday	| 1430 to 1730 | 	|
+| Wednesday	| 1430 to 1730 | Chua Chua Kang Secondary School	|
 | Fridays (odd weeks)	| 1430 to 1730	|	|
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS8baARIObk-PoxyX_pwLqYpg86kSJudXApSI6KvevhabcL96PS0AzrqDrIbfTwHA/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
