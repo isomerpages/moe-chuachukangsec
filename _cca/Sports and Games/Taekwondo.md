@@ -27,7 +27,7 @@ Students will get the opportunity to participate in matches and competitions all
 
 |Training days	| Time	| Venue	|
 |---	|---	|---	|
-| Wednesday	| 1500 to 1730 | 	|
+| Wednesday	| 1500 to 1730 | Chua Chua Kang Secondary School 	|
 | Fridays (odd weeks)	| 1415 to 1730	|	|
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRULT4xRo4wO7HErkFGbeFxQyYAiUYxSkvHCCSRJWJezHjTZ0TwnAKtWUDbNegcsw/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
