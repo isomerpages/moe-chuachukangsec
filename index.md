@@ -24,6 +24,13 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Discovery Week 2
+      id: infopic
+      button: Read More
+      url: /events/school-events/discovery-week-2/
+      image: /images/Events/School Events/Discovery Week 2/ready! set! aim!.jpeg
+      alt: Image alt text
+  - infopic:
       title: "'The ideas never stop coming until the bell rings’"
       id: infopic
       description: How one teacher makes History this riveting
