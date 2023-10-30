@@ -26,7 +26,7 @@ The CCKSS Condor Sea Scout Group endeavours to holistically nurture boys across 
 
 |Training days	| Time	| Venue	|
 |---	|---	|---	|
-| Wednesday	|  | 	|
+| Wednesday	|  | Chua Chua Kang Secondary School	|
 | Fridays (odd weeks)	| |	|
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQifUBDX5RQk-dE7fWJZ9fx5SotvDZFt7lIV-Hf1INh6C7H2PjlCkvnADYeGoLD7w/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
