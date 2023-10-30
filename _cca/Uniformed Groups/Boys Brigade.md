@@ -76,7 +76,7 @@ Under the close collaboration between Chua Chu Kang Secondary School and Bukit P
 
 |Training days	| Time	| Venue	|
 |---	|---	|---	|
-| Saturdays	| 0900 to 1200	| Chua Chua Kang Sec |
+| Saturdays	| 0900 to 1200	| Chua Chua Kang Secondary School |
 
 
 
