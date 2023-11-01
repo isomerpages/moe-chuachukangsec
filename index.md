@@ -29,6 +29,8 @@ sections:
       button: Read More
       url: /events/school-events/cross-country/
       alt: Image alt text
+      image: /images/Events/School Events/2023/Cross Country/(cross country) enjoying
+        the fresh air, sunshine and nice scenery.jpg
   - infopic:
       title: Discovery Week 2
       id: infopic
