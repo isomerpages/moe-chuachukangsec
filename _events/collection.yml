@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - School events/Cross Country.md
       - School events/Discovery Week 2.md
       - School events/The History Times.md
       - School events/The Founders National Museum Exhibition.md
