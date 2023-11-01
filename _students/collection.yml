@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - 2024 Booklists.md
+      - 2024 Sec 2 to Sec 4 Booklist.md
       - Timetable/End Of Year Exam Timetable.md
       - Timetable/WA Schedule.md
       - Timetable/June Holidays IP Schedule 2023.md
