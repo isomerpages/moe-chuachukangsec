@@ -24,6 +24,12 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Cross Country
+      id: infopic
+      button: Read More
+      url: /events/school-events/cross-country/
+      alt: Image alt text
+  - infopic:
       title: Discovery Week 2
       id: infopic
       button: Read More
