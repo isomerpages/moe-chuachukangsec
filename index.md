@@ -24,6 +24,12 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Open House
+      subtitle: 18 Nov 2023
+      id: infopic
+      image: /images/Events/School Events/2023/2023 open house .JPG
+      alt: Image alt text
+  - infopic:
       title: National Day
       id: infopic
       button: Read More
