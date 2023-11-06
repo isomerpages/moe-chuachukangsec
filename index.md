@@ -24,6 +24,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Speech Day
+      id: infopic
+      button: Read More
+      url: /events/school-events/2023-speech-day/
+      image: /images/Events/School Events/2023/20230804 speech day guitar ensemble
+        performance.JPG
+      alt: Image alt text
+  - infopic:
       title: Racial Harmony Day – Be Inspired! Be Involved!
       id: infopic
       button: Read More
