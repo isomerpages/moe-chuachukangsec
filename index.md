@@ -24,6 +24,13 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Learning Journey to Silicon Labs
+      id: infopic
+      button: Read More
+      url: /events/school-events/learning-journey-silicon-labs/
+      image: /images/Events/School Events/2023/20230714 silicon labs.jpg
+      alt: Image alt text
+  - infopic:
       title: Cross Country
       id: infopic
       button: Read More
