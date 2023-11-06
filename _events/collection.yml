@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - School events/Deepavali Concert.md
       - School events/National Day.md
       - School events/Speech Day.md
       - School events/Racial Harmony Day.md
