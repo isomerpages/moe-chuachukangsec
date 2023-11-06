@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - School events/Speech Day.md
       - School events/Racial Harmony Day.md
       - School events/Learning Journey to Silicon Labs.md
       - School events/Cross Country.md
