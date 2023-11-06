@@ -24,6 +24,13 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: National Day
+      id: infopic
+      button: Read More
+      url: /events/school-events/2023-national-day/
+      image: /images/Events/School Events/2023/well done uniformed groups!.JPG
+      alt: Image alt text
+  - infopic:
       title: Speech Day
       id: infopic
       button: Read More
