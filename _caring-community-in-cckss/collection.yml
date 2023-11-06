@@ -2,7 +2,6 @@ collections:
   caring-community-in-cckss:
     output: true
     order:
-      - School Advisory Committee.md
       - National Education/National Education Messages.md
       - National Education/National Day.md
       - National Education/Cultural Activities.md
