@@ -24,6 +24,13 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Racial Harmony Day – Be Inspired! Be Involved!
+      id: infopic
+      button: Read More
+      url: /events/school-events/2023-racial-harmony-day/
+      image: /images/Events/School Events/2023/20230728 rhd.jfif
+      alt: Image alt text
+  - infopic:
       title: Learning Journey to Silicon Labs
       id: infopic
       button: Read More
