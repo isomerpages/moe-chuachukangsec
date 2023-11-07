@@ -4,13 +4,11 @@ permalink: /learning-in-cckss/departments/craft-and-technology/
 description: ""
 third_nav_title: Departments
 ---
-
 |  	|  	|  |
 |---	|---	|---	|
 |  	Mdm	|  	Tay Su Ming	|  	HOD (Craft & Technology / Applied Learning)	|  
 |  	Mdm	|  	Koh Bee Kim 	|  	Lead Teacher (Art) 	|  
 |  	Mr	|  	Loh Kwong Hong	|  	Senior Teacher (Design and Technology)	|  
-|  	Miss	|  	Sheu Cifang	|  	Subject Head (Craft and Technology)	|  
 |  	Mdm	|  	Ernawati Shaffie Bte Othman	|  	Subject Head (Character & Citizenship Education)	|  
 |  	Mr	|  	Azhar B Mohammed Noh	|  	Teacher	|  
 |  	Miss	|  	Catherine D/O Rajindran	|  	Teacher	|  

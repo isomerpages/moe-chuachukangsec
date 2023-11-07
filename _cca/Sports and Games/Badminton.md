@@ -35,9 +35,9 @@ Overall, Badminton CCA is a great way for students to develop their badminton sk
 
 * Training Days and hours
 
-|Training days	| Time	| 	|
+|Training days	| Time	| Venue	|
 |---	|---	|---	|
-| Wednesdays	| 1500 to 1730 |	|
+| Wednesdays	| 1500 to 1730 | Chua Chua Kang Secondary School	|
 | Fridays (odd weeks)	| 1430 to 1700	|	|
 
 

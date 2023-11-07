@@ -24,6 +24,56 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Open House
+      subtitle: 18 Nov 2023
+      id: infopic
+      image: /images/Events/School Events/2023/2023 open house .JPG
+      alt: Image alt text
+  - infopic:
+      title: National Day
+      id: infopic
+      button: Read More
+      url: /events/school-events/2023-national-day/
+      image: /images/Events/School Events/2023/well done uniformed groups!.JPG
+      alt: Image alt text
+  - infopic:
+      title: Speech Day
+      id: infopic
+      button: Read More
+      url: /events/school-events/2023-speech-day/
+      image: /images/Events/School Events/2023/20230804 speech day guitar ensemble
+        performance.JPG
+      alt: Image alt text
+  - infopic:
+      title: Racial Harmony Day – Be Inspired! Be Involved!
+      id: infopic
+      button: Read More
+      url: /events/school-events/2023-racial-harmony-day/
+      image: /images/Events/School Events/2023/20230728 rhd.jfif
+      alt: Image alt text
+  - infopic:
+      title: Learning Journey to Silicon Labs
+      id: infopic
+      button: Read More
+      url: /events/school-events/learning-journey-silicon-labs/
+      image: /images/Events/School Events/2023/20230714 silicon labs.jpg
+      alt: Image alt text
+  - infopic:
+      title: Cross Country
+      id: infopic
+      button: Read More
+      url: /events/school-events/cross-country/
+      alt: Image alt text
+      image: /images/Events/School Events/2023/20230524 cross country enjoying the
+        fresh air, sunshine and nice scenery.jpg
+  - infopic:
+      title: Discovery Week 2
+      id: infopic
+      button: Read More
+      url: /events/school-events/discovery-week-2/
+      image: /images/Events/School Events/Discovery Week 2/ready! set! aim!.jpeg
+      alt: Image alt text
+  - infopic:
       title: "'The ideas never stop coming until the bell rings’"
       id: infopic
       description: How one teacher makes History this riveting
@@ -37,37 +87,4 @@ sections:
       url: /events/school-events/the-history-times/
       image: /images/Events/School Events/The history times/historytimesphotothumb.jpg
       alt: Image alt text
-  - infopic:
-      title: "Semangat yang Baru: Forging a New Singapore Spirit"
-      button: Read More
-      url: /events/school-events/founders-national-museum-exhibition/
-      image: /images/Events/School Events/Forging a New Singapore Spirit/founder
-        memorial.jpg
-      alt: Image alt text
-  - infopic:
-      title: Hari Raya Celebrations
-      button: Read More
-      url: /events/school-events/hari-raya-celebrations
-      image: /images/Events/School Events/Hari Raya Celebrations/raya_thumb.jpg
-      alt: Image alt text
-  - infopic:
-      title: Discovery Week
-      button: Read More
-      url: /events/school-events/discovery-week/
-      image: /images/Events/School Events/Discovery Week/sec 1 photo 5 - rafting is
-        fun in the sun.jpeg
-      alt: Image alt text
-  - infopic:
-      title: Pongal Celebration
-      button: Read More
-      alt: Image alt text
-      url: /events/school-events/pongal-celebration/
-      image: /images/Events/School Events/20230130 Pongol Celebration/Pongol Thumb.jpg
-  - infopic:
-      title: Chinese New Year Celebration
-      button: Read more
-      url: /events/school-events/chinese-new-year-celebration/
-      image: /images/Events/School Events/20230120 Chinese New Year/2023 CNY
-        Thumbnail.jpg
-      alt: Chinese New Year Celebration
 ---

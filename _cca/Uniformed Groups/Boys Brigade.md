@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 ---
 | Key Personnel 	| Name 	| Email Address 	|
 |---	|---	|---	|
-| Overall Teacher in charge	| LTA Lin Jiehui 	| [lin_Jiehui@schools.gov.sg](mailto:lin_Jiehui@schools.gov.sg)	|
+| Overall Teacher in charge	| Lin Jiehui 	| [lin_Jiehui@schools.gov.sg](mailto:lin_Jiehui@schools.gov.sg)	|
 | Teachers in charge	| Mr Lim Kar Keat 	| [Lim_Kar_Keat@schools.gov.sg](mailto:Lim_Kar_Keat@schools.gov.sg)	|
 
 **About us**
@@ -76,7 +76,7 @@ Under the close collaboration between Chua Chu Kang Secondary School and Bukit P
 
 |Training days	| Time	| Venue	|
 |---	|---	|---	|
-| Saturdays	| 0900 to 1200	| Chua Chua Kang Sec |
+| Saturdays	| 0900 to 1200	| Chua Chua Kang Secondary School |
 
 
 

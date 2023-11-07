@@ -46,7 +46,7 @@ Once they have built confidence and competence in their skills, they have opport
 
 |Training days	| Time	| Venue	|
 |---	|---	|---	|
-| Wednesday	| 1500 to 1730 | |
+| Wednesday	| 1500 to 1730 | Chua Chua Kang Secondary School |
 | Fridays (odd weeks)	| 1430 to 1730	|	|
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGbu-iwUURzk1XUhePOvy6VdeSbuNCs40qtqRlac_J-Kn9p0i2p_PD3_tVDdbdyw/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
