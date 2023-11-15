@@ -116,5 +116,83 @@ We have 21 CCAs in total.
 * Alternate Fridays:		1400 to 1730
 
 
+**9.	SPECIAL PROGRAMMES**
+
+**9.1 What special programmes are offered?**
+
+**Academic**
+**Applied Learning Programme (ALP): Technology in Sustainability Programme (TSP)**
+
+* The study of the role of Technology in Sustainability enables our students to gain practical understanding of this domain, and to design technological solutions to real world sustainability challenges. The programme also aims to develop 21st Century Competencies such as critical and inventive thinking skills. 
+* Under this programme, students challenge themselves to come up with creative and innovative solutions as they learn ways to promote sustainability and explore technological solutions to sustainability challenges. The school also partners the Singapore Science Centre and industrial partners such as Silicon Labs for extended learning opportunities for students who exhibit a keen interest in this area. 
+
+**Orchid Hybridisation Programme (Biology)**
+* The Orchid Hybridisation Programme is a series of workshops where students learn about the physiology and anatomy of an orchid plant and the process of orchid hybridisation. This provides a unique real-world context for learning relevant topics in the Pure Biology and Science (Biology) syllabi. In recent years, the school has expanded its programme and developed the Design and Research Space for Orchid Hybridisation where students can carry out the hybridisation process under laboratory conditions and try their hands at creating new orchid hybrids.
+
+**Immersive Classroom (Virtual Reality)**
+* To make lessons more engaging, Virtual Reality is employed to allow students to be immersed in various environments, helping them connect with the content and issues in various subjects for example, in English, the Humanities, as well as hone skills, for example, in Physical Education and Art. Students are able to go on virtual ‘field trips’ and ‘visit’ cities in other parts of the world. 
+* As part of their subject projects, students are taught how to take photos and redesign them using CoSpaces Edu, a computer application that allows students to do simple 3D-modelling and animation with basic coding and explore them in VR. This allows them to hone their ICT and presentation skills and enhances the interactivity of the lessons, allowing greater connection and collaboration. 
+
+**Co-Curricular**
+**Learning for Life Programme (LLP): Community Youth Leadership**
+* Our LLP is Community Youth Leadership. The aim of the programme is to develop our students with the necessary life-skills to be responsible and contributing citizens of the future. A CCKSian makes a consistent effort to develop his/her personal attributes such as self-reliance, perseverance, and a sense of responsibility to self, society, and nation. 
+* All CCKSians attend courses based on the Student Leadership Challenge with a specific focus for each level.  In addition, training is customised for specific student leader groups such as the Student Councillors, Class Committee and CCA Leaders.
+* CCKSians are encouraged to apply their learning through their CCAs and community service where they will work in teams to serve others, and to demonstrate their leadership potential. Adopting the Design Thinking Framework for Values-in-Action programme enables students to develop empathy for others &amp; create solutions to meet their needs. CCKSians are also given opportunities to initiate service- learning projects in school and in the community. 
+* To expose students to the needs of the global community, CCKSians will also attend the Global Connect Overseas Programme which include cultural immersion and community service.
+
+**10.	TRANSPORTATION &amp; TRAFFIC**
+
+**10.1 What is the traffic condition like outside school in the morning?**
+
+* We are situated along a belt of schools. The schools along this belt have staggered start times and as such traffic is not a major problem.
+* We do strongly encourage students to start their journey to school earlier, so that they arrive at school punctually and are in a better frame of mind for the school day ahead.
+
+**10.2 Where can I drop my child off in the morning if I am driving?**
+
+* Parents can drop their child off along at the designated drop off point inside the school, after the school gate.
+
+**11.	GENERAL DISCIPLINE AND SCHOOL TONE**
+
+**11.1 How is the discipline of the students in school like?**
+
+* The school discipline tone is positive, with established systems and strong support from the Student Development Team.
+* Year Heads are appointed to oversee the well-being and holistic development of the students in their respective levels with support from the Student Management Committee.
+
+**11.2 Is the environment in the school conducive for studying?**
+
+* We constantly encourage and motivate our students to give their best and to maximize their potential.
+* We are also mindful that a good study environment is essential for teaching and learning to take place. Our teachers too are mindful of this and work towards cultivating a strong learning culture here in CCKSS.
+* Conducive study spaces can be found in the library and students may make use of study tables and chairs located outside the Computer Labs.
+
+**11.3 Are handphones allowed in the school?**
+
+* Students learn well when there is order, discipline and minimal distraction. It is important that all CCKSians learn to be responsible and discerning users of technology. We would strongly advise parents, if they wish their children to bring a mobile phone to school, to purchase for your child only a simple mobile phone for communication purposes. This is to minimize distraction and replacement costs in the case of loss or damage.  
+* In addition to the CCE and Cyber Wellness curriculum, our school has in place the following rules and policies to ensure responsible use of mobile devices in school.
+* Students will keep their mobile phones/electronic devices in assigned lockers at the start of the day. Mobile phones/electronic devices can only be used after the end of the curriculum hours. 
+* Should parents need to contact their child, or in the case of an emergency, they may call the school office. For non-emergency cases, they should SMS their child and leave a message for him/her to return a call as soon as he/she reads the message after school dismissal.
+
+**12.	TEACHERS**
+
+**12.1 How are the teaching staff like?**
+
+* Our teachers are caring and committed to bring out the best in our students.  We believe in our students’ abilities and work closely with them to help them realise their full potential. 
+* There is also a strong culture of learning, sharing and collaboration among our teachers and this translates into better teaching and learning practices for our students.
+
+**13.	COMMUNICATION CHANNELS WITH PARENTS**
+
+**13.1 How can parents be kept informed of school events and activities?**
+
+* Parents can be kept informed of school events and activities via the school website or receive messages on Parents Gateway.
+
+**13.2 What are some communication channels between parents and the school?**
+* Parents are welcome to call the school’s General Office (Tel: 67691386) should they have any queries.
+
+**13.3 Is there a Parent Support Group (PSG)?**
+
+* Yes, there is a Parent Support Group which parents may consider joining. CCKSS PSG provides a network for parents to share best practices in supporting their children’s passion in learning, support the school programmes and be equipped by attending relatable workshops pertaining to parenting. 
+
+
+
+
 
 
