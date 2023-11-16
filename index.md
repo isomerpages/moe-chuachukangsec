@@ -29,6 +29,8 @@ sections:
       id: infopic
       image: /images/Events/School Events/2023/2023 open house .JPG
       alt: Image alt text
+      url: /events/school-events/2023-open-house/
+      button: Read More
   - infopic:
       title: National Day
       id: infopic
