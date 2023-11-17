@@ -121,6 +121,7 @@ We have 21 CCAs in total.
 **9.1 What special programmes are offered?**
 
 **Academic**
+
 **Applied Learning Programme (ALP): Technology in Sustainability Programme (TSP)**
 
 * The study of the role of Technology in Sustainability enables our students to gain practical understanding of this domain, and to design technological solutions to real world sustainability challenges. The programme also aims to develop 21st Century Competencies such as critical and inventive thinking skills. 
@@ -134,6 +135,7 @@ We have 21 CCAs in total.
 * As part of their subject projects, students are taught how to take photos and redesign them using CoSpaces Edu, a computer application that allows students to do simple 3D-modelling and animation with basic coding and explore them in VR. This allows them to hone their ICT and presentation skills and enhances the interactivity of the lessons, allowing greater connection and collaboration. 
 
 **Co-Curricular**
+
 **Learning for Life Programme (LLP): Community Youth Leadership**
 * Our LLP is Community Youth Leadership. The aim of the programme is to develop our students with the necessary life-skills to be responsible and contributing citizens of the future. A CCKSian makes a consistent effort to develop his/her personal attributes such as self-reliance, perseverance, and a sense of responsibility to self, society, and nation. 
 * All CCKSians attend courses based on the Student Leadership Challenge with a specific focus for each level.  In addition, training is customised for specific student leader groups such as the Student Councillors, Class Committee and CCA Leaders.
@@ -189,10 +191,4 @@ We have 21 CCAs in total.
 
 **13.3 Is there a Parent Support Group (PSG)?**
 
-* Yes, there is a Parent Support Group which parents may consider joining. CCKSS PSG provides a network for parents to share best practices in supporting their children’s passion in learning, support the school programmes and be equipped by attending relatable workshops pertaining to parenting. 
-
-
-
-
-
-
+* Yes, there is a Parent Support Group which parents may consider joining. CCKSS PSG provides a network for parents to share best practices in supporting their children’s passion in learning, support the school programmes and be equipped by attending relatable workshops pertaining to parenting.
