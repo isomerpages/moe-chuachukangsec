@@ -33,7 +33,7 @@ We have a strong team of teachers and administrative staff supporting the growth
 
 Please contact the following staff if you have any queries about the Sec 1 registration process.
 
-| Name	| Appointment	| Areas of Interest	| Email Address 	|
+| Name	| Appointment	| Areas of Interest	| Email Address	|
 | -------- | --------	| --------	| --------	|
 | Mdm Yasmeen Aysha	| Assistant Year Head (Covering) – Sec 1	| Secondary 1 Orientation Academic matters	| [yasmeen_aysha@schools.gov.sg](mailto:yasmeen_aysha@schools.gov.sg)	|
 | Mdm Goh Huilin Nelly	| Administration Manager | Admin matters including
@@ -43,4 +43,19 @@ Financial assistance scheme	| [goh_nelly@schools.gov.sg](mailto:goh_nelly@school
 Purchase of uniforms and books
 Financial assistance scheme | [wong_hong_wai@schools.gov.sg](mailto:wong_hong_wai@schools.gov.sg)	|
 | School email	| General enquiries	For all other matters	| [CCKSS@moe.edu.sg](mailto:CCKSS@moe.edu.sg)	|
-|	|	|	|	|
+
+Test table 2 
+
+| Name	| Appointment	| Areas of Interest	| Email Address	|
+| -------- | --------	| --------	| --------	|
+| Mdm Yasmeen Aysha	| Assistant Year Head (Covering) – Sec 1	| Secondary 1 Orientation Academic matters	| [yasmeen_aysha@schools.gov.sg](mailto:yasmeen_aysha@schools.gov.sg)	|
+
+Test table 3
+
+| Mdm Goh Huilin Nelly	| Administration Manager | Admin matters including
+Purchase of uniforms and books
+Financial assistance scheme	| [goh_nelly@schools.gov.sg](mailto:goh_nelly@schools.gov.sg)	|
+| Mr Alan Wong	| Administration Manager | Admin matters including
+Purchase of uniforms and books
+Financial assistance scheme | [wong_hong_wai@schools.gov.sg](mailto:wong_hong_wai@schools.gov.sg)	|
+| School email	| General enquiries	For all other matters	| [CCKSS@moe.edu.sg](mailto:CCKSS@moe.edu.sg)	|
