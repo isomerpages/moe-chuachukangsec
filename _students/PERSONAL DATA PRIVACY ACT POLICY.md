@@ -4,6 +4,32 @@ permalink: /students/pdpa-policy/
 variant: markdown
 description: ""
 ---
+##### PERSONAL DATA PRIVACY ACT POLICY OF CHUA CHU KANG SECONDARY SCHOOL 
+
+Photographs or video images of you or your legal guardians may be taken during school activities and events such as classroom lessons, CCA, school camps, or school concerts, as well as students’ works and reflections. The school may use and publish such photographs or video recordings in school publications, the school’s website, feature walls, social media channels, or other communication channels. 
+
+Withdrawal of consent for the collection, use and/or disclosure of personal data in CCKSS’ possession can made in person at the CCKSS General Office, by telephone or by email at [CCKSS@moe.edu.sg](mailto:CCKSS@moe.edu.sg)
+
+
+##### GENERAL ROUTINES FOR CHROMEBOOK FOR PERSONALISED DIGITAL LEARNING PROGRAMME (PDLP)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | Categories	| Area of Focus	| Pre-Lesson	| During Lesson	| Post-Lesson	|
 |---	|---	|---	|---	|---	|
 | Access	| Hardware	| Chromebook is fully charged. <br> Stylus is present.<br>  Earphones are kept in bag. <br> Check that device and buttons are working.	| Chromebook to be placed on table at all times. <br> Keep the lid closed when Chromebook is not in use.	| Secure device in locker when not in use. <br> Keep your stylus in the stylus slot. <br> Close and ensure chromebook is inside your bag to bring home.	|
