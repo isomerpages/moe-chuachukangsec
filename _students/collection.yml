@@ -2,12 +2,12 @@ collections:
   students:
     output: true
     order:
-      - PERSONAL DATA PRIVACY ACT POLICY.md
-      - 2024 Sec 2 to Sec 4 Booklist.md
+      - Timetable/.keep
       - Timetable/End Of Year Exam Timetable.md
       - Timetable/WA Schedule.md
       - Timetable/June Holidays IP Schedule 2023.md
       - Timetable/Prelim Timetable.md
-      - Timetable/.keep
       - Timetable/Class Timetable.md
       - Timetable/School based Helpline.md
+      - 2024 Sec 2 to Sec 4 Booklist.md
+      - PERSONAL DATA PRIVACY ACT POLICY.md
