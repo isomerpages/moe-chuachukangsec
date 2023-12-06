@@ -12,14 +12,7 @@ Withdrawal of consent for the collection, use and/or disclosure of personal data
 
 
 ##### GENERAL ROUTINES FOR CHROMEBOOK FOR PERSONALISED DIGITAL LEARNING PROGRAMME (PDLP)
-
-
-
-
-
-
-
-
+![](/images/Students/How_Should_I_use_my_device.jpg)
 
 
 
