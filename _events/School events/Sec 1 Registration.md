@@ -53,9 +53,5 @@ Test table 2
 Test table 3
 
 | Mdm Goh Huilin Nelly	| Administration Manager | Admin matters including
-Purchase of uniforms and books
-Financial assistance scheme	| [goh_nelly@schools.gov.sg](mailto:goh_nelly@schools.gov.sg)	|
-| Mr Alan Wong	| Administration Manager | Admin matters including
-Purchase of uniforms and books
-Financial assistance scheme | [wong_hong_wai@schools.gov.sg](mailto:wong_hong_wai@schools.gov.sg)	|
-| School email	| General enquiries	For all other matters	| [CCKSS@moe.edu.sg](mailto:CCKSS@moe.edu.sg)	|
+Purchase of uniforms and books Financial assistance scheme	| [goh_nelly@schools.gov.sg](mailto:goh_nelly@schools.gov.sg)	| | Mr Alan Wong	| Administration Manager | Admin matters including
+Purchase of uniforms and books Financial assistance scheme | [wong_hong_wai@schools.gov.sg](mailto:wong_hong_wai@schools.gov.sg)	| | School email	| General enquiries	For all other matters	| [CCKSS@moe.edu.sg](mailto:CCKSS@moe.edu.sg)	|
