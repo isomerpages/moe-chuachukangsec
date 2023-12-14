@@ -2,19 +2,6 @@ collections:
   events-archive:
     output: true
     order:
-      - 2018/Chinese New Year Celebrations 2018.md
-      - 2018/Sports Day 2018.md
-      - 2018/25KM Challenge.md
-      - 2018/Sec 1 Orientation 2018.md
-      - 2018/School wide Values in Action (VIA).md
-      - 2018/Cross Country 2018.md
-      - "2018/Silver Jubilee Musical: Aladdin.md"
-      - 2018/Speech Day 2018.md
-      - 2018/Teachers’ Day.md
-      - 2018/Racial Harmony Day.md
-      - 2018/Home Coming Dinner.md
-      - 2018/Open House.md
-      - 2018/.keep
       - 2019/Chinese New Year Celebrations 2019.md
       - 2019/Sports Day 2019.md
       - 2019/School wide Values in Action (VIA).md
