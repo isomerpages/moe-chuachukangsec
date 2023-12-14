@@ -2,7 +2,6 @@ collections:
   events-archive:
     output: true
     order:
-      - 2017/Speech Day 2017.md
       - 2017/Teachers' Day 2017.md
       - 2017/Graduation Ceremony 2017.md
       - 2017/Deepavali 2017.md
