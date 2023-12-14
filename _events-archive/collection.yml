@@ -2,7 +2,6 @@ collections:
   events-archive:
     output: true
     order:
-      - 2017/Cross Country 2017.md
       - 2017/Chinese New Year Celebrations 2017.md
       - 2017/.keep
       - 2018/Chinese New Year Celebrations 2018.md
