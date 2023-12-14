@@ -2,29 +2,6 @@
 title: Useful Links
 permalink: /useful-links/useful-links/
 description: ""
+variant: tiptap
 ---
-# **Useful Links**
-
-To support you in keeping your child safe online, you may refer to these resources:
-
-*   (http://go.gov.sg/moe-cyber-wellness)[go.gov.sg/moe-cyber-wellness](http://go.gov.sg/moe-cyber-wellness)
-*   [sure.nlb.gov.sg/](http://sure.nlb.gov.sg/)
-*   [](http://go.gov.sg/moe-cyber-wellness)[help123.sg](http://help123.sg/)
-
-Education and Career Guidance:  
-
-*   [MySkills Future Portal](https://www.myskillsfuture.gov.sg/content/student/en/myskillsfuture-for-students.html)
-*   Upcoming ECG Events by post-secondary institutions:  [https://www.myskillsfuture.gov.sg/content/student/en/secondary/education-guide/events.html](https://www.myskillsfuture.gov.sg/content/student/en/secondary/education-guide/events.html)
-
-  
-
-Others:  
-
-*   [School Based Helpline](/students/timetable/school-based-helpline/)        
-*   [Parent-Handbook (I) 1 to 1 Learning](/files/Parent-Handbook-I-on-1_1-Learning.pdf)
-   
-*   [Schoolbag: The education news site](https://www.schoolbag.edu.sg/)  
-    
-*   [Singapore Student Learning Space](https://learning.moe.edu.sg/)  
-    
-*   [Step-by-step guide to Travel Declaration and Update of Particulars on Parents Gateway mobile app](/files/Parents%20Guide%20for%20PG%20Travel%20Declaration%20Update%20Particulars%20-%208%20May%2019.pdf)
+<h1><strong>Useful Links</strong></h1><p>To support you in keeping your child safe online, you may refer to these resources:</p><ul data-tight="true" class="tight"><li><p><a href="http://go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/moe-cyber-wellness</a> </p></li><li><p><a href="http://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">sure.nlb.gov.sg/</a></p></li><li><p><a href="http://help123.sg/" rel="noopener noreferrer nofollow" target="_blank">help123.sg</a></p></li></ul><p>Education and Career Guidance:</p><ul data-tight="true" class="tight"><li><p><a href="https://www.myskillsfuture.gov.sg/content/student/en/myskillsfuture-for-students.html" rel="noopener noreferrer nofollow" target="_blank">MySkills Future Portal</a></p></li><li><p>Upcoming ECG Events by post-secondary institutions:&nbsp;&nbsp;<a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary/education-guide/events.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary/education-guide/events.html</a></p></li></ul><p>Others:</p><ul><li><p><a href="/students/timetable/school-based-helpline/" rel="noopener noreferrer nofollow" target="_blank">School Based Helpline</a></p></li><li><p><a href="/files/Parent-Handbook-I-on-1_1-Learning.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent-Handbook (I) 1 to 1 Learning</a></p></li><li><p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag: The education news site</a></p></li><li><p><a href="https://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Student Learning Space</a></p></li><li><p><a href="/files/Parents%20Guide%20for%20PG%20Travel%20Declaration%20Update%20Particulars%20-%208%20May%2019.pdf" rel="noopener noreferrer nofollow" target="_blank">Step-by-step guide to Travel Declaration and Update of Particulars on Parents Gateway mobile app</a></p></li></ul><p></p>
