@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - School events/Sec 1 Registration.md
       - School events/Open House.md
       - School events/Deepavali Concert.md
       - School events/National Day.md
