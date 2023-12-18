@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Timetable/.keep
-      - Timetable/June Holidays IP Schedule 2023.md
       - Timetable/Prelim Timetable.md
       - Timetable/Class Timetable.md
       - Timetable/School based Helpline.md
