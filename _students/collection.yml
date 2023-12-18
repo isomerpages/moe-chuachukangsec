@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Timetable/.keep
-      - Timetable/End Of Year Exam Timetable.md
       - Timetable/WA Schedule.md
       - Timetable/June Holidays IP Schedule 2023.md
       - Timetable/Prelim Timetable.md
