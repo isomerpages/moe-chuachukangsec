@@ -24,6 +24,13 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Secondary 1 E-Registration 2024
+      id: infopic
+      button: Read More
+      url: /events/school-events/sec-1-registration/
+      image: /images/Events/School Events/2023/Sec_1_Registration_Banner_2024.jpg
+      alt: Image alt text
+  - infopic:
       title: Open House
       subtitle: 18 Nov 2023
       id: infopic
