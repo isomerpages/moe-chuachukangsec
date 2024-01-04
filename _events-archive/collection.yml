@@ -2,9 +2,6 @@ collections:
   events-archive:
     output: true
     order:
-      - 2021/Chinese New Year Celebrations 2021.md
-      - 2021/School wide 3 Day Orientation Programme.md
-      - 2021/.keep
       - 2022/.keep
       - 2022/e Open House.md
       - 2022/FAQs for e Open House 2022.md
