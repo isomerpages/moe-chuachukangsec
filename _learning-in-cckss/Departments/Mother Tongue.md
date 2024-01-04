@@ -3,33 +3,6 @@ title: Mother Tongue
 permalink: /learning-in-cckss/departments/mother-tongue/
 description: ""
 third_nav_title: Departments
+variant: tiptap
 ---
-
-|  	|  	|  	|			
-|---	|---	|---	|			
-|  	Mdm	|  	Tan Yoke Hong	|  	HOD (Mother Tongue Languages)	|  
-|  	Miss	|  	Irdawaty Binte Mohd	|  	Subject Head (Mother Tongue Languages)	|  
-|  	Miss	|  	Nur Fadelinah Bte Yusof	|  	Senior Teacher (Malay Language)	|  
-|  	Dr	|  	Sasikumar Ponnalagu	|  	Senior Teacher (Tamil Language)	|  
-|  	Mdm	|  	Zhao Huiyuan	|  	Senior Teacher (Chinese Language)	|  
-|  	Mr	|  	Anthony Raj Joseph	|  	Teacher	|  
-|  	Mrs	|  	Chitra Murugan	|  	Teacher	|  
-|  	Mr	|  	Daniel Chan Wei Min	|  	Teacher	|  
-|  	Miss	|  	Dieh Ye Woon	|  	Teacher	|  
-|  	Mdm	|  	Fazilah Bte Abdul Rahman	|  	Teacher	|  
-|  	Miss	|  	Hafizah Bte Nordin	|  	Teacher	|  
-|  	Mdm	|  	Ifa Hanifah	|  	Teacher	|  
-|  	Miss	|  	Komala d/o Narayanan	|  	Teacher	|  
-|  	Mr	|  	Koothaperumal Saravanaperumal	|  	Teacher	|  
-|  	Mdm	|  	Latifah Bte Hassan	|  	Teacher	|  
-|  	Miss	|  	Liu Xinyun	|  	Teacher	|  
-|  	Mdm	|  	Liu Yang	|  	Teacher	|  
-|  	Miss	|  	Ma Ping	|  	Teacher	|  
-|  	Mdm	|  	Mohanavalli Mrs Balasuppramaniam Mohanavalli	|  	Teacher	|  
-|  	Miss	|  	Nurul Izzah Binte Mohamad Rashid	|  	Teacher	|  
-|  	Mr	|  	Pang Yew Cheng	|  	Teacher	|  
-|  	Mr	|  	Rahmat Bin Hassan	|	Teacher	|  
-|  	Miss	|  	Tan Taw Ying	|	Teacher	|  
-|  	Mr	|  	Tang Shao Wei Alan	|	Teacher	|  
-|  	Miss	|  	Wang Ping	|	Teacher	|  
-|  	Mdm	|  	Wong Wun Chyen	|	Teacher	|
+<table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p>Mdm</p></td><td rowspan="1" colspan="1"><p>Tan Yoke Hong</p></td><td rowspan="1" colspan="1"><p>HOD (Mother Tongue Languages)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Irdawaty Binte Mohd</p></td><td rowspan="1" colspan="1"><p>Subject Head (Mother Tongue Languages)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Nur Fadelinah Bte Yusof</p></td><td rowspan="1" colspan="1"><p>Senior Teacher (Malay Language)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm</p></td><td rowspan="1" colspan="1"><p>Zhao Huiyuan</p></td><td rowspan="1" colspan="1"><p>Senior Teacher (Chinese Language)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Anthony Raj Joseph</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mrs</p></td><td rowspan="1" colspan="1"><p>Chitra Murugan</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Daniel Chan Wei Min</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Dieh Ye Woon</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm</p></td><td rowspan="1" colspan="1"><p>Fazilah Bte Abdul Rahman</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Hafizah Bte Nordin</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm</p></td><td rowspan="1" colspan="1"><p>Ifa Hanifah</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Komala d/o Narayanan</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Koothaperumal Saravanaperumal</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm</p></td><td rowspan="1" colspan="1"><p>Latifah Bte Hassan</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Ma Ping</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm</p></td><td rowspan="1" colspan="1"><p>Mohanavalli Mrs Balasuppramaniam Mohanavalli</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Nurul Izzah Binte Mohamad Rashid</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Pang Yew Cheng</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Rahmat Bin Hassan</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Tan Taw Ying</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Tang Shao Wei Alan</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm</p></td><td rowspan="1" colspan="1"><p>Wong Wun Chyen</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr></tbody></table><p></p>
