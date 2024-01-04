@@ -3,26 +3,6 @@ title: Craft and Technology
 permalink: /learning-in-cckss/departments/craft-and-technology/
 description: ""
 third_nav_title: Departments
+variant: tiptap
 ---
-|  	|  	|  |
-|---	|---	|---	|
-|  	Mdm	|  	Tay Su Ming	|  	HOD (Craft & Technology / Applied Learning)	|  
-|  	Mdm	|  	Koh Bee Kim 	|  	Lead Teacher (Art) 	|  
-|  	Mr	|  	Loh Kwong Hong	|  	Senior Teacher (Design and Technology)	|  
-|  	Mdm	|  	Ernawati Shaffie Bte Othman	|  	Subject Head (Character & Citizenship Education)	|  
-|  	Mr	|  	Azhar B Mohammed Noh	|  	Teacher	|  
-|  	Miss	|  	Catherine D/O Rajindran	|  	Teacher	|  
-|  	Mr	|  	Chin Koi Yen	|  	Teacher	|  
-|  	Mr	|  	Chua Hong Bin, Anthony	|  	Teacher	|  
-|  	Mr	|  	Fong Kai Pew	|  	Teacher	|  
-|  	Mdm	|  	Haryani Binte Mohamad Saleh	|  	Teacher	|  
-|  	Mrs	|  	Jennifer Malar d/o A	|  	Teacher	|  
-|  	Mdm	|  	Lee Wee Chin	|  	Teacher	|  
-|  	Mr	|  	Mohamed Bin Abu Bakar	|  	Teacher	|  
-|  	Mr	|  	Tan Jia En Andrew	|  	Teacher	|  
-|  	Miss	|  	Tan Ying Jo-Anne	|  	Teacher	|  
-|  	Mr	|  	Tiong Wee Teck	|  	Teacher	|  
-|  	Mdm	|  	Uvarani d/o Munusamy	|  	Teacher	|  
-|  	Miss	|  	Yap Eng Luan Ruth	|  	Teacher	|  
-|  	Miss	|  	Zhang Xuedi	|  	Teacher	|  
-|  	Miss	|  	Foo Mei Ling	|  	FAJT	|
+<table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p>Mdm</p></td><td rowspan="1" colspan="1"><p>Tay Su Ming</p></td><td rowspan="1" colspan="1"><p>HOD (Craft &amp; Technology / Applied Learning)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm</p></td><td rowspan="1" colspan="1"><p>Koh Bee Kim</p></td><td rowspan="1" colspan="1"><p>Lead Teacher (Art)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Loh Kwong Hong</p></td><td rowspan="1" colspan="1"><p>Senior Teacher (Design and Technology)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm</p></td><td rowspan="1" colspan="1"><p>Ernawati Shaffie Bte Othman</p></td><td rowspan="1" colspan="1"><p>Subject Head (Character &amp; Citizenship Education)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Azhar B Mohammed Noh</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Catherine D/O Rajindran</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Chin Koi Yen</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Chua Hong Bin, Anthony</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Fong Kai Pew</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm</p></td><td rowspan="1" colspan="1"><p>Haryani Binte Mohamad Saleh</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm</p></td><td rowspan="1" colspan="1"><p>Lee Wee Chin</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Mohamed Bin Abu Bakar</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Tan Jia En Andrew</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Tan Ying Jo-Anne</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Tiong Wee Teck</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Yap Eng Luan Ruth</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Zhang Xuedi</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Foo Mei Ling</p></td><td rowspan="1" colspan="1"><p>FAJT</p></td></tr></tbody></table><p></p>
