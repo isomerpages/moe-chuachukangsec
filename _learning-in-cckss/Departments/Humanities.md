@@ -3,29 +3,6 @@ title: Humanities
 permalink: /learning-in-cckss/departments/humanities/
 description: ""
 third_nav_title: Departments
+variant: tiptap
 ---
-
-|  	|  	|  	|			
-|---	|---	|---	|			
-|  	Miss	|  	Ibaidah Binte Ibrahim	|  	Head of Department (Humanities)	|  
-|  	Mr	|  	Chen Yingtong	|  	Acting Head of Department (ICT)	|  
-|  	Mdm	|  	Shanthini D/O Odayappan	|  	Assistant Year Head	|  
-|  	Mr	|  	Ong Teck Ming Victor	|  	Subject Head (Student Wellbeing)	|  
-|  	Miss	|  	Sng Qian Jin Elodie	|  	Subject Head (Social Studies)	|  
-|  	Miss	|  	Theophilia Yong Yeun Foon	|  	Subject Head (Educational Technology)	|  
-|  	Mr	|  	Chan Joo Seng Melvin	|  	Senior Teacher (History)	|  
-|  	Mdm	|  	Chan Gek Chu Vena	|  	Senior Teacher (Social Studies)	|  
-|  	Miss	|  	Tengku Merduati Bte Tengku M	|  	Lead Teacher (Educational Support)	|  
-|  	Miss	|  	Ang Kim Leng	|  	Teacher	|  
-|  	Mr	|  	Chai Jun Yang	|  	Teacher	|  
-|  	Mr	|  	Fairuz Bin Atan	|  	Teacher	|  
-|  	Miss	|  	Lim Shi En Shannon	|  	Teacher	|  
-|  	Mr	|  	Lin Jiehui	|  	Teacher	|  
-|  	Mr	|  	Loh Liang See	|  	Teacher	|  
-|  	Miss	|  	Low Hui Xin, Annabel	|  	Teacher	|  
-|  	Miss	|  	Natalie Neo Hui Min	|  	Teacher	|  
-|  	Mdm	|  	Ooi Lay Bee	|  	Teacher	|  
-|  	Mdm	|  	Pua Lee Too	|  	Teacher	|  
-|  	Miss	|  	Sharifah Beevi Binte N Abdul Salam	|  	Teacher	|  
-|  	Miss	|  	Suharti Binte Saifee	|  	Teacher	|  
-|  	Miss	|  	Won Jia Min		|Teacher	|  
+<table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Ibaidah Binte Ibrahim</p></td><td rowspan="1" colspan="1"><p>Head of Department (Humanities)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Chen Yingtong</p></td><td rowspan="1" colspan="1"><p>Acting Head of Department (ICT)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm</p></td><td rowspan="1" colspan="1"><p>Shanthini D/O Odayappan</p></td><td rowspan="1" colspan="1"><p>Assistant Year Head</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Ong Teck Ming Victor</p></td><td rowspan="1" colspan="1"><p>Subject Head (Student Wellbeing)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Sng Qian Jin Elodie</p></td><td rowspan="1" colspan="1"><p>Subject Head (Social Studies)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Chan Joo Seng Melvin</p></td><td rowspan="1" colspan="1"><p>Senior Teacher (History)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm</p></td><td rowspan="1" colspan="1"><p>Chan Gek Chu Vena</p></td><td rowspan="1" colspan="1"><p>Senior Teacher (Social Studies)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Tengku Merduati Bte Tengku M</p></td><td rowspan="1" colspan="1"><p>Lead Teacher (Educational Support)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Chai Jun Yang</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Fairuz Bin Atan</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Lim Shi En Shannon</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Loh Liang See</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Low Hui Xin, Annabel</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm</p></td><td rowspan="1" colspan="1"><p>Ooi Lay Bee</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm</p></td><td rowspan="1" colspan="1"><p>Pua Lee Too</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Sharifah Beevi Binte N Abdul Salam</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Suharti Binte Saifee</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Won Jia Min</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr></tbody></table><p></p>
