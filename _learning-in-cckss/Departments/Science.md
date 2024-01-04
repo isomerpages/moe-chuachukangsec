@@ -3,27 +3,6 @@ title: Science
 permalink: /learning-in-cckss/departments/science/
 description: ""
 third_nav_title: Departments
+variant: tiptap
 ---
-
-|  	|  	|  	|			
-|---	|---	|---	|			
-|  	Mr	|  	Njoo Kiat Guan Alwin	|  	Head of Department (Science)	|  
-|  	Miss	|  	Tay Su Ming	|  	Head of Department (Craft & Technology / Applied Learning)	|  
-|  	Mr	|  	Hong Heng Boo Charles	|  	School Staff Developer	|  
-|  	Mr	|  	Goh Yue Han Christopher	|  	Level Head (Science)	|  
-|  	Mr	|  	Pooi Ming Shurn, Benjamin	|  	Senior Teacher (Chemistry)	|  
-|  	Mdm	|  	Goi Geok San	|  	Senior Teacher (Physics)	|  
-|  	Miss	|  	Ang Jia Wei	|  	Teacher	|  
-|  	Mdm	|  	Asmahan Binti Aman	|  	Teacher	|  
-|  	Miss	|  	Lim Ciu Fung	|  	Teacher	|  
-|  	Mr	|  	Neal Warren Cooke	|  	Teacher	|  
-|  	Mdm	|  	Ng Yen Hui Mrs Lim Yen Hui	|  	Teacher	|  
-|  	Mdm	|  	Normala Bte Alias	|  	Teacher	|  
-|  	Miss	|  	Nurul Izzati Bte Nizamudin	|  	Teacher	|  
-|  	Miss	|  	Shelley Chan Hiang Ming	|  	Teacher	|  
-|  	Mr	|  	Tan Chin Guan	|  	Teacher	|  
-|  	Mdm	|  	Tan Kee Sing	|  	Teacher	|  
-|  	Miss	|  	Tan Sze Ghee	|  	Teacher	|  
-|  	Mr	|  	Tee Jie Kai Calvin	|  	Teacher	|  
-|  	Miss	|  	Wong Hui San, Trina	|  	Teacher	|  
-|  	Miss	|  	Yasmeen Aysha	|  	Teacher	|
+<table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Njoo Kiat Guan Alwin</p></td><td rowspan="1" colspan="1"><p>Head of Department (Science)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Tay Su Ming</p></td><td rowspan="1" colspan="1"><p>Head of Department (Craft &amp; Technology / Applied Learning)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Hong Heng Boo Charles</p></td><td rowspan="1" colspan="1"><p>School Staff Developer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Goh Yue Han Christopher</p></td><td rowspan="1" colspan="1"><p>Level Head (Science)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Pooi Ming Shurn, Benjamin</p></td><td rowspan="1" colspan="1"><p>Senior Teacher (Chemistry)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm</p></td><td rowspan="1" colspan="1"><p>Goi Geok San</p></td><td rowspan="1" colspan="1"><p>Senior Teacher (Physics)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Ang Jia Wei</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm</p></td><td rowspan="1" colspan="1"><p>Asmahan Binti Aman</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Lim Ciu Fung</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Neal Warren Cooke</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm</p></td><td rowspan="1" colspan="1"><p>Ng Yen Hui Mrs Lim Yen Hui</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm</p></td><td rowspan="1" colspan="1"><p>Normala Bte Alias</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Nurul Izzati Bte Nizamudin</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Tan Chin Guan</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm</p></td><td rowspan="1" colspan="1"><p>Tan Kee Sing</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Tan Sze Ghee</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr</p></td><td rowspan="1" colspan="1"><p>Tee Jie Kai Calvin</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Wong Hui San, Trina</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss</p></td><td rowspan="1" colspan="1"><p>Yasmeen Aysha</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td></tr></tbody></table><p></p>
