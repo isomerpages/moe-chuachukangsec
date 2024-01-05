@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Information/Student Code of Conduct.md
       - School Information/.keep
       - Principal's Foreword.md
       - School History/.keep
