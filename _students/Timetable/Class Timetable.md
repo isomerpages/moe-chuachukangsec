@@ -5,4 +5,4 @@ description: Class Timetable
 third_nav_title: Timetable
 variant: tiptap
 ---
-<p>Timetable will be disseminated in Week 1 when students report to school.</p>
+<p><a href="/files/Students/Term 1 Timetable/2024_Term_1___Classes__050124.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 1 Sec 1 -Sec 5 Class Timetable</a></p>
