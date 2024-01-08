@@ -2,5 +2,6 @@
 title: CCA Announcement
 permalink: /announcements/cca-announcement/
 description: ""
+variant: markdown
 ---
-CCA stand down on 25 Aug till further notice
+CCA Trial link for Sec 1 (2024) http://tinyurl.com/ccatrialform2
