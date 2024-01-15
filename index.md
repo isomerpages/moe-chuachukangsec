@@ -39,61 +39,11 @@ sections:
       url: /events/school-events/2023-open-house/
       button: Read More
   - infopic:
-      title: National Day
-      id: infopic
-      button: Read More
-      url: /events/school-events/2023-national-day/
-      image: /images/Events/School Events/2023/well done uniformed groups!.JPG
-      alt: Image alt text
-  - infopic:
-      title: Speech Day
-      id: infopic
-      button: Read More
-      url: /events/school-events/2023-speech-day/
-      image: /images/Events/School Events/2023/20230804 speech day guitar ensemble
-        performance.JPG
-      alt: Image alt text
-  - infopic:
-      title: Racial Harmony Day – Be Inspired! Be Involved!
-      id: infopic
-      button: Read More
-      url: /events/school-events/2023-racial-harmony-day/
-      image: /images/Events/School Events/2023/20230728 rhd.jfif
-      alt: Image alt text
-  - infopic:
-      title: Learning Journey to Silicon Labs
-      id: infopic
-      button: Read More
-      url: /events/school-events/learning-journey-silicon-labs/
-      image: /images/Events/School Events/2023/20230714 silicon labs.jpg
-      alt: Image alt text
-  - infopic:
-      title: Cross Country
-      id: infopic
-      button: Read More
-      url: /events/school-events/cross-country/
-      alt: Image alt text
-      image: /images/Events/School Events/2023/20230524 cross country enjoying the
-        fresh air, sunshine and nice scenery.jpg
-  - infopic:
-      title: Discovery Week 2
-      id: infopic
-      button: Read More
-      url: /events/school-events/discovery-week-2/
-      image: /images/Events/School Events/Discovery Week 2/ready! set! aim!.jpeg
-      alt: Image alt text
-  - infopic:
       title: "'The ideas never stop coming until the bell rings’"
       id: infopic
       description: How one teacher makes History this riveting
       button: Read more
       url: /about-us/school-achievements/in-the-news/
       image: /images/About Us/In The News/presidents award for teacher 2023.jpeg
-      alt: Image alt text
-  - infopic:
-      title: "The History Times: Living in the Interwar Period"
-      button: Read More
-      url: /events/school-events/the-history-times/
-      image: /images/Events/School Events/The history times/historytimesphotothumb.jpg
       alt: Image alt text
 ---
