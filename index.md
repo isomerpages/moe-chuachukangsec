@@ -63,12 +63,4 @@ sections:
       alt: Image alt text
       url: /events/school-events/2023-open-house/
       button: Read More
-  - infopic:
-      title: "'The ideas never stop coming until the bell rings’"
-      id: infopic
-      description: How one teacher makes History this riveting
-      button: Read more
-      url: /about-us/school-achievements/in-the-news/
-      image: /images/About Us/In The News/presidents award for teacher 2023.jpeg
-      alt: Image alt text
 ---
