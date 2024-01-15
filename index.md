@@ -24,7 +24,7 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
-      title: "2年转快捷源流女生朝梦想前进 "
+      title: 2年转快捷源流女生朝梦想前进
       subtitle: In the News
       id: infopic
       button: Read more
@@ -53,13 +53,13 @@ sections:
       id: infopic
       button: Read More
       url: /events/school-events/sec-1-registration/
-      image: /images/Events/School Events/2023/Sec_1_Registration_Banner_2024.jpg
+      image: /images/Events/2023 School Events/2023/Sec_1_Registration_Banner_2024.jpg
       alt: Image alt text
   - infopic:
       title: Open House
       subtitle: 18 Nov 2023
       id: infopic
-      image: /images/Events/School Events/2023/2023 open house .JPG
+      image: /images/Events/2023 School Events/2023/2023 open house .JPG
       alt: Image alt text
       url: /events/school-events/2023-open-house/
       button: Read More
