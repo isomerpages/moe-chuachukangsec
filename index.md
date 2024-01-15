@@ -24,6 +24,31 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: "2年转快捷源流女生朝梦想前进 "
+      subtitle: In the News
+      id: infopic
+      button: Read more
+      url: /about-us/school-achievements/in-the-news/
+      image: /images/About Us/In The News/2_____________.jpeg
+      alt: Image alt text
+  - infopic:
+      title: Start Right Programme 2024
+      subtitle: Events
+      id: infopic
+      button: read more
+      url: /events/2024-school-events/start-right-programme-2024/
+      image: /images/Events/2024 School Events/Start_Right_Programme_2024_Thumb_.png
+      alt: Image alt text
+  - infopic:
+      title: InfopicSecondary 1 Orientation & Parent Engagement 2024
+      subtitle: Events
+      id: infopic
+      button: read more
+      url: /events/2024-school-events/sec-1-orientation-parents-engagement-2024/
+      image: /images/Events/2024 School
+        Events/Secondary_1_Orientation___Parent_Engagement_2024_Thumb_.png
+      alt: Image alt text
+  - infopic:
       title: Secondary 1 E-Registration 2024
       id: infopic
       button: Read More
