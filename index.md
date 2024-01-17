@@ -40,7 +40,7 @@ sections:
       image: /images/Events/2024 School Events/Start_Right_Programme_2024_Thumb_.png
       alt: Image alt text
   - infopic:
-      title: InfopicSecondary 1 Orientation & Parent Engagement 2024
+      title: Secondary 1 Orientation & Parent Engagement 2024
       subtitle: Events
       id: infopic
       button: read more
