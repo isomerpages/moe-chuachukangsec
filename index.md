@@ -24,76 +24,43 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: 2年转快捷源流女生朝梦想前进
+      subtitle: In the News
+      id: infopic
+      button: Read more
+      url: /about-us/school-achievements/in-the-news/
+      image: /images/About Us/In The News/2_____________.jpeg
+      alt: Image alt text
+  - infopic:
+      title: Start Right Programme 2024
+      subtitle: Events
+      id: infopic
+      button: read more
+      url: /events/2024-school-events/start-right-programme-2024/
+      image: /images/Events/2024 School Events/Start_Right_Programme_2024_Thumb_.png
+      alt: Image alt text
+  - infopic:
+      title: InfopicSecondary 1 Orientation & Parent Engagement 2024
+      subtitle: Events
+      id: infopic
+      button: read more
+      url: /events/2024-school-events/sec-1-orientation-parents-engagement-2024/
+      image: /images/Events/2024 School
+        Events/Secondary_1_Orientation___Parent_Engagement_2024_Thumb_.png
+      alt: Image alt text
+  - infopic:
       title: Secondary 1 E-Registration 2024
       id: infopic
       button: Read More
       url: /events/school-events/sec-1-registration/
-      image: /images/Events/School Events/2023/Sec_1_Registration_Banner_2024.jpg
+      image: /images/Events/2023 School Events/2023/Sec_1_Registration_Banner_2024.jpg
       alt: Image alt text
   - infopic:
       title: Open House
       subtitle: 18 Nov 2023
       id: infopic
-      image: /images/Events/School Events/2023/2023 open house .JPG
+      image: /images/Events/2023 School Events/2023/2023 open house .JPG
       alt: Image alt text
       url: /events/school-events/2023-open-house/
       button: Read More
-  - infopic:
-      title: National Day
-      id: infopic
-      button: Read More
-      url: /events/school-events/2023-national-day/
-      image: /images/Events/School Events/2023/well done uniformed groups!.JPG
-      alt: Image alt text
-  - infopic:
-      title: Speech Day
-      id: infopic
-      button: Read More
-      url: /events/school-events/2023-speech-day/
-      image: /images/Events/School Events/2023/20230804 speech day guitar ensemble
-        performance.JPG
-      alt: Image alt text
-  - infopic:
-      title: Racial Harmony Day – Be Inspired! Be Involved!
-      id: infopic
-      button: Read More
-      url: /events/school-events/2023-racial-harmony-day/
-      image: /images/Events/School Events/2023/20230728 rhd.jfif
-      alt: Image alt text
-  - infopic:
-      title: Learning Journey to Silicon Labs
-      id: infopic
-      button: Read More
-      url: /events/school-events/learning-journey-silicon-labs/
-      image: /images/Events/School Events/2023/20230714 silicon labs.jpg
-      alt: Image alt text
-  - infopic:
-      title: Cross Country
-      id: infopic
-      button: Read More
-      url: /events/school-events/cross-country/
-      alt: Image alt text
-      image: /images/Events/School Events/2023/20230524 cross country enjoying the
-        fresh air, sunshine and nice scenery.jpg
-  - infopic:
-      title: Discovery Week 2
-      id: infopic
-      button: Read More
-      url: /events/school-events/discovery-week-2/
-      image: /images/Events/School Events/Discovery Week 2/ready! set! aim!.jpeg
-      alt: Image alt text
-  - infopic:
-      title: "'The ideas never stop coming until the bell rings’"
-      id: infopic
-      description: How one teacher makes History this riveting
-      button: Read more
-      url: /about-us/school-achievements/in-the-news/
-      image: /images/About Us/In The News/presidents award for teacher 2023.jpeg
-      alt: Image alt text
-  - infopic:
-      title: "The History Times: Living in the Interwar Period"
-      button: Read More
-      url: /events/school-events/the-history-times/
-      image: /images/Events/School Events/The history times/historytimesphotothumb.jpg
-      alt: Image alt text
 ---
