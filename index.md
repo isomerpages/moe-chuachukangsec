@@ -49,10 +49,11 @@ sections:
         Events/Secondary_1_Orientation___Parent_Engagement_2024_Thumb_.png
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: "Staff VIA Planting Trees for #onemilliontrees Movement"
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: Read More
       alt: Image alt text
+      url: /events/2024-school-events/staff-via-planting-trees/
+      image: /images/Events/2024 School
+        Events/3__Staff_VIA_Planting_Tree_For_onemilliontree_Movement__infopic_.jpg
 ---
