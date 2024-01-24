@@ -2,6 +2,11 @@ collections:
   events:
     output: true
     order:
+      - 2024 School Events/Happy Pongal!.md
+      - 2024 School Events/Celebrating Pongal at Bukit Panjang Community
+        Centre.md
+      - "2024 School Events/Staff VIA Planting Trees for #onemilliontrees
+        Movement.md"
       - 2024 School Events/Start Right Programme 2024.md
       - 2024 School Events/Secondary 1 Orientation & Parent Engagement 2024.md
       - 2024 School Events/.keep
