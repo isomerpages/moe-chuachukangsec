@@ -48,19 +48,22 @@ sections:
       image: /images/Events/2024 School
         Events/Secondary_1_Orientation___Parent_Engagement_2024_Thumb_.png
       alt: Image alt text
-  - infopic:
-      title: Secondary 1 E-Registration 2024
-      id: infopic
-      button: Read More
-      url: /events/school-events/sec-1-registration/
-      image: /images/Events/2023 School Events/2023/Sec_1_Registration_Banner_2024.jpg
-      alt: Image alt text
-  - infopic:
-      title: Open House
-      subtitle: 18 Nov 2023
-      id: infopic
-      image: /images/Events/2023 School Events/2023/2023 open house .JPG
-      alt: Image alt text
-      url: /events/school-events/2023-open-house/
-      button: Read More
+  - textcards:
+      title: "testing Text card "
+      subtitle: "testing Text card "
+      id: textcards
+      description: Text card description
+      cards:
+        - title: "testing Text card "
+          description: test
+          linktext: Learn more
+          url: /events/2024-school-events/staff-via-planting-trees/
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
