@@ -2,6 +2,8 @@ collections:
   events:
     output: true
     order:
+      - "2024 School Events/Staff VIA Planting Trees for #onemilliontrees
+        Movement.md"
       - 2024 School Events/Start Right Programme 2024.md
       - 2024 School Events/Secondary 1 Orientation & Parent Engagement 2024.md
       - 2024 School Events/.keep
