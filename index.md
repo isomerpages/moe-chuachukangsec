@@ -49,12 +49,12 @@ sections:
         Events/Secondary_1_Orientation___Parent_Engagement_2024_Thumb_.png
       alt: Image alt text
   - textcards:
-      title: "testing Text card "
-      subtitle: "testing Text card "
+      title: testing Text card
+      subtitle: testing Text card
       id: textcards
       description: Text card description
       cards:
-        - title: "testing Text card "
+        - title: testing Text card
           description: test
           linktext: Learn more
           url: /events/2024-school-events/staff-via-planting-trees/
@@ -66,4 +66,18 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Students
+          date: 24 January 2024
+          announcement: "Announcement "
+          link_text: Class timetable
+          link_url: /events/2024-school-events/staff-via-planting-trees/
+        - title: "Parents "
+          date: 24 January 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
