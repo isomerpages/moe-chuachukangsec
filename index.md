@@ -56,4 +56,11 @@ sections:
       url: /events/2024-school-events/staff-via-planting-trees/
       image: /images/Events/2024 School
         Events/3__Staff_VIA_Planting_Tree_For_onemilliontree_Movement__infopic_.jpg
+  - infopic:
+      title: Celebrating Pongal at Bukit Panjang Community Centre
+      id: infopic
+      button: Read more
+      url: /events/2024-school-events/celebrating-pongal-bpcc/
+      image: /images/Events/2024 School Events/4__Pongal_Celebration_BPCC_infopic_.jpg
+      alt: Image alt text
 ---
