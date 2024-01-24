@@ -24,6 +24,28 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Happy Pongal
+      id: infopic
+      button: "Read more "
+      url: /events/2024-school-events/happy-pongal/
+      image: /images/Events/2024 School Events/5__Happy_Pongal__infopic_.jpg
+      alt: Image alt text
+  - infopic:
+      title: Celebrating Pongal at Bukit Panjang Community Centre
+      id: infopic
+      button: Read more
+      url: /events/2024-school-events/celebrating-pongal-bpcc/
+      image: /images/Events/2024 School Events/4__Pongal_Celebration_BPCC_infopic_.jpg
+      alt: Image alt text
+  - infopic:
+      title: "Staff VIA Planting Trees for #onemilliontrees Movement"
+      id: infopic
+      button: Read More
+      alt: Image alt text
+      url: /events/2024-school-events/staff-via-planting-trees/
+      image: /images/Events/2024 School
+        Events/3__Staff_VIA_Planting_Tree_For_onemilliontree_Movement__infopic_.jpg
+  - infopic:
       title: 2年转快捷源流女生朝梦想前进
       subtitle: In the News
       id: infopic
@@ -47,20 +69,5 @@ sections:
       url: /events/2024-school-events/sec-1-orientation-parents-engagement-2024/
       image: /images/Events/2024 School
         Events/Secondary_1_Orientation___Parent_Engagement_2024_Thumb_.png
-      alt: Image alt text
-  - infopic:
-      title: "Staff VIA Planting Trees for #onemilliontrees Movement"
-      id: infopic
-      button: Read More
-      alt: Image alt text
-      url: /events/2024-school-events/staff-via-planting-trees/
-      image: /images/Events/2024 School
-        Events/3__Staff_VIA_Planting_Tree_For_onemilliontree_Movement__infopic_.jpg
-  - infopic:
-      title: Celebrating Pongal at Bukit Panjang Community Centre
-      id: infopic
-      button: Read more
-      url: /events/2024-school-events/celebrating-pongal-bpcc/
-      image: /images/Events/2024 School Events/4__Pongal_Celebration_BPCC_infopic_.jpg
       alt: Image alt text
 ---
