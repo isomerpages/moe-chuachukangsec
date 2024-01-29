@@ -82,7 +82,7 @@ a positive self-esteem, develop their character, and expand their understanding
 and repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p></p>
-<h3>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 </h3>
+<h3>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021</h3>
 <h4>SECONDARY 1</h4>
 <table>
 <tbody>
@@ -224,6 +224,11 @@ etc.)</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
