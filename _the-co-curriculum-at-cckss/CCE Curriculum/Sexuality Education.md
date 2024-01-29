@@ -3,77 +3,234 @@ title: Sexuality Education
 permalink: /the-co-curriculum-at-cckss/CCE-Curriculum/permalink/
 description: ""
 third_nav_title: CCE Curriculum
+variant: tiptap
 ---
-##### MOE SEXUALITY EDUCATION IN SCHOOLS
-
-1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
-<br>
-
-2.	The **Goals** of Sexuality Education are to: 
-<br>(a)	To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate <u>knowledge</u> on human sexuality and the consequences of sexual activity;
-<br><br>(b)	To help students know themselves and build healthy and rewarding relationships through the acquisition of <u>social and emotional skills</u> of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
-<br><br>(c)	To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u> about sexuality. 
-<br>
-3.	The **Key Messages** of Sexuality Education are:
-<br>(a)	Love and respect yourself as you love and respect others;
-<br>(b)	Build positive relationships based on love and respect (which are the foundation for strong families);
-<br>(c)	Make responsible decisions for yourself, your family and society; and
-<br>(d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
-
-You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education. 
-
-
-##### OVERVIEW OF CHUA CHU KANG SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2023
-
-4.	Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
-
-5.	The subjects that incorporate topics on sexuality include: 
-<br>a.	Science 
-<br>b.	Character and Citizenship Education (CCE)
-
-
-##### Sexuality Education Lessons: 
-
-6.	The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly.  Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour. 
-<br>
-7.	Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. 
-<br>
-###### At CHUA CHU KANG Secondary School, the following Sexuality Education lessons will be taught in 2023:
-###### 
-#### Secondary 1
-
-![](/images/The%20Co%20Curriculum%20At%20Cckss/CCE/Sec1_SeD.jpg)
-
-#### Secondary 2
-![](/images/The%20Co%20Curriculum%20At%20Cckss/CCE/Sec2_SeD.jpg)
-
-#### Secondary 3
-![](/images/The%20Co%20Curriculum%20At%20Cckss/CCE/Sec3_SeD.jpg)
-
-#### Secondary 4
-![](/images/The%20Co%20Curriculum%20At%20Cckss/CCE/Sec4_SeD.jpg)
-
-#### eTeens Programme: 
-
-8.	eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
-<br><br>
-9.	Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
-
-**At Chua Chu Kang Secondary School, the eTeens programme will be implemented as follows in 2023:**
-
-|  Topics/Lessons		| Programme Learning Objectives 	| Time Period(e.g. Term 3 Week 9) 	|			
-|---	|---	|---	| 
- |  Mass Talk by HPB appointed vendor | •	 Awareness of the different STIs and HIV/AIDS  <br> •	Modes of transmission<br>•	Modes of protection, specifically on how the condom is used <br>•	Consequences and impact of STIs/HIV | Term 1
-|Classroom-based Lesson | •	Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making | Term 1 
-	
-	
-**INFORMATION FOR PARENTS**
-	
-10.	Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
-<br>
-11.	Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/SED/annex%20a%20sed%20opt%20out%20form.pdf). The completed form is to be submitted by 27/01/2023.
-<br>
-12.	Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/SED/annex%20b%20eteens%20opt%20out%20form.pdf). The completed form is to be submitted by 27/01/2023.
-<br>
-13.	Parents can contact the school at 67691386 for discussion or to seek clarification about the school’s Sexuality Education programme.
-	
+<p><strong>Moe Sexuality Education in Schools</strong>
+</p>
+<p></p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
+(SEd) in schools aims to enable students to understand the physiological,
+social and emotional changes they experience as they mature, develop healthy
+and rewarding relationships with others, including those with members of
+the opposite sex, and make wise, informed and responsible decisions on
+sexuality matters. SEd is premised on the importance of the family as the
+basic unit of society. This means encouraging healthy, heterosexual marriages
+and stable nuclear family units with extended family support. The teaching
+and learning of SEd is based on respect for the values and beliefs of the
+different ethnic and religious communities in Singapore on sexuality issues.</p>
+<p></p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of
+Sexuality Education are to:</p>
+<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support students
+in managing their physiological, social and emotional changes as they grow
+up and develop safe and healthy relationships.</p>
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide students
+to make wise, informed and responsible decisions on sexuality matters.</p>
+<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students
+develop a moral compass and respect for themselves and others by having
+positive mainstream values and attitudes about sexuality that are premised
+on the family as the basic unit of society.</p>
+<p></p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
+Sexuality Education are:</p>
+<p>&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
+respect yourself as you love and respect others;</p>
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build positive
+relationships based on love and respect (which are the foundation for strong
+families);</p>
+<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
+decisions for yourself, your family and society; and</p>
+<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before
+marriage is the best protection against STIs/HIV and unintended pregnancies.
+Casual sex can harm and hurt you and your loved ones.</p>
+<p>&nbsp;</p>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information on MOE Sexuality Education.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Overview of CHUA CHU KANG Secondary School’s Sexuality Education Programme for 2024</strong>
+</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
+is delivered in a holistic manner through the school curriculum. The content
+for Sexuality Education is grouped into five main themes: Human Development,
+Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
+Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
+information on the scope of Sexuality Education in the school curriculum.</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate
+topics on sexuality include:</p>
+<p>a.&nbsp;&nbsp;&nbsp; Science</p>
+<p>b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)</p>
+<p><strong><u>Sexuality Education Lessons</u></strong>:</p>
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The values and attitudes
+of our youth towards sexuality are increasingly shaped by their peers,
+exposure to the media, popular culture and the internet. Adolescence is
+a complex stage in life as the adolescent attempts to find his/her own
+identity and often struggles with new social relationships. The period
+of middle adolescence (generally from 15 – 17 years old) can be a turbulent
+period for adolescents. The gap between physical and emotional/cognitive
+maturity may result in a tendency to act on impulse, experiment with various
+activities (including sexual activities), sometimes without understanding
+the unpleasant consequences that may arise from such experimentation. The
+need for peer acceptance can be overwhelmingly strong and hinder one’s
+ability to act responsibly.&nbsp; Given the pressures faced by the middle
+adolescent from within themselves and from peers, it is important to build
+a strong sense of self-worth, personal conviction and an understanding
+of the possible consequences of sexual behaviour.</p>
+<p>&nbsp;7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the Sexuality
+Education lessons, secondary students will have the opportunity to develop
+a positive self-esteem, develop their character, and expand their understanding
+and repertoire of skills to deal with various issues related to sexuality,
+which are of prime concern at this age.</p>
+<p></p>
+<h3>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 </h3>
+<h4>SECONDARY 1</h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Unit</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Title / Duration</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Overview</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Objectives</strong>
+</p>
+<p>At the end of the lesson, students will be able to:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time Period</strong>
+</p>
+<p><strong>(e.g.Term 1 Week 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Respectful Relationships &amp; Safety</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Steady or Not</p>
+<p>Lesson 1</p>
+<p>(60 mins)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson helps students understand more about relationship building
+and the different types of love (e.g. familial, platonic, romantic). They
+will have the opportunity to better understand the considerations involved
+in making responsible decisions towards dating and romantic relationships
+and understand how to build healthy and supportive relationships, both
+online and offline.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>recognise the importance of monitoring and managing our emotional reactions,
+in helpful ways that are reflective of our values and principles</p>
+</li>
+<li>
+<p>recognise that there are different forms of love (e.g. familial, platonic,
+romantic love)</p>
+</li>
+<li>
+<p>recognise the importance and understand what builds healthy and supportive
+relationships, both online and offline</p>
+</li>
+<li>
+<p>understand what dating is, and recognise that the readiness and interest
+in dating vary among individuals</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Being Aware, Being Safe</p>
+<p>Lesson 2</p>
+<p>(60 mins)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson focuses on helping students to be safe from the dangers of
+sexual grooming and on respecting one’s right to safety. Students will
+also learn about the legal provisions against sexual abuse, and the impact
+of sexual abuse on victims, including the psychological impact on the sense
+of self.&nbsp;</p>
+<p>&nbsp;</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>understand that physical and psychological abuse from others, especially
+those we know and trust, can have strong negative effects on a person’s
+self-concept</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>More than Meets the Eye</p>
+<p>Lesson 3</p>
+<p>(60 mins)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson touches on two areas relevant to an adolescent’s curiosity
+on matters related to sexuality – masturbation and pornography. Students
+will gain awareness of the health, legal and moral issues related to viewing,
+downloading and/or distributing pornography. While students may perceive
+watching pornography as a private issue without consequences to bear, they
+will learn that it could lead to addiction and/or other risky sexual behaviours.</p>
+<p>&nbsp;</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>understand and accept that as we work towards becoming our best self,
+there will be times when we make mistakes, and recognise the importance
+of exercising moral courage in facing up to consequences</p>
+</li>
+<li>
+<p>recognise that there are moral and legal consequences of risky sexual
+behaviours, pornography access and acting irresponsibly or maliciously
+when online (e.g. spreading of online falsehoods, flouting copyright laws,
+etc.)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 4</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p><strong>&nbsp;</strong>
+</p>
