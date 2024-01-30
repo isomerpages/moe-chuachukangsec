@@ -48,7 +48,7 @@ Casual sex can harm and hurt you and your loved ones.</p>
 more information on MOE Sexuality Education.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>OVERVIEW OF CHUA CHU KANG SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024 </strong>
+<p><strong>OVERVIEW OF CHUA CHU KANG SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
@@ -851,12 +851,12 @@ sexuality education programmes by MOE-approved external providers.</p>
 children out of the <strong>Sexuality Education lessons</strong> need to
 complete an opt-out form. This form will be communicated to parents at
 the start of the year and is also downloadable <a href="/files/SED/2024_Opt_out_form_ANNEX_A_ALL_LEVELS.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
-The completed form is to be submitted by 31/01/2024.</p>
+The completed form is to be submitted by 05/02/2024.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong><em>eTeens</em> programme</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
 of the year and is also downloadable <a href="/files/SED/2024_ANNEX_B_Sec_3_eTeens.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;
-The completed form is to be submitted by 31/01/2024.</p>
+The completed form is to be submitted by 05/02/2024.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 67691386 for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
