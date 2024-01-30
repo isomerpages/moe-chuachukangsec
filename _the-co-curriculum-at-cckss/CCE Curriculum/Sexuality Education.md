@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCE Curriculum
 variant: tiptap
 ---
-<p><strong>MOE Sexuality Education in Schools</strong>
+<p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong>
 </p>
 <p></p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
@@ -48,7 +48,7 @@ Casual sex can harm and hurt you and your loved ones.</p>
 more information on MOE Sexuality Education.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Overview of CHUA CHU KANG Secondary School’s Sexuality Education Programme for 2024</strong>
+<p><strong>OVERVIEW OF CHUA CHU KANG SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024 </strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
