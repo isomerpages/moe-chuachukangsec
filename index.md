@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /contact-us/
       key_highlights:
         - title: Students
           description: ""
