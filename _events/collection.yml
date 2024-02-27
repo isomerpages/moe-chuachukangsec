@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2024 School Events/Blind Date with a Book.md
       - 2024 School Events/2024 Sec 1 Camp.md
       - 2024 School Events/Happy Pongal!.md
       - 2024 School Events/Celebrating Pongal at Bukit Panjang Community
