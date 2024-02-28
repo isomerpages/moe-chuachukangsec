@@ -37,12 +37,13 @@ sections:
       button: Button Text
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: MTL Fortnight
+      subtitle: Events
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: Read more
       alt: Image alt text
+      url: /events/2024-school-events/2024-mtl-fortnight/
+      image: /images/Events/2024 School Events/8__MTL_Fortnight__Infopic_.jpg
   - infopic:
       title: Blind Date with a Book
       subtitle: Events
