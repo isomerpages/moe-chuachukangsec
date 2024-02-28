@@ -23,6 +23,15 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Skit on Values of Care and Respect
+      subtitle: Assembly Program
+      id: infopic
+      button: Read more
+      url: /events/2024-school-events/skit-on-values-of-care-and-respect/
+      image: /images/Events/2024 School
+        Events/11__Assembly_Program_Skit_on_values_of_care_and_respect.jpg
+      alt: Image alt text
+  - infopic:
       title: 57th War Memorial Service by SCCCI
       subtitle: Events
       id: infopic
