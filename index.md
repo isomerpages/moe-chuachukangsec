@@ -51,12 +51,13 @@ sections:
       button: Button Text
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: 2024 Sec 1 Camp
+      subtitle: Events
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: Read more
       alt: Image alt text
+      image: /images/Events/2024 School Events/6__Sec_1_Camp__Infopic_.jpg
+      url: /events/2024-school-events/2024-sec1-camp/
   - infopic:
       title: Happy Pongal
       id: infopic
