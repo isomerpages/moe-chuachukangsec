@@ -30,12 +30,13 @@ sections:
       button: Button Text
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Total Defence Day Commemoration
+      subtitle: Events
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: Read more
       alt: Image alt text
+      url: /events/2024-school-events/total-defence-day-commemoration/
+      image: /images/Events/2024 School Events/10__Total_Defence_Day__Infopic_.jpg
   - infopic:
       title: MTL Fortnight
       subtitle: Events
