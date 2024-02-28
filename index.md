@@ -23,12 +23,13 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: 57th War Memorial Service by SCCCI
+      subtitle: Events
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: read more
       alt: Image alt text
+      url: /events/2024-school-events/57th-war-memorial-service/
+      image: /images/Events/2024 School Events/11__57th_War_Memorial_Service_.jpg
   - infopic:
       title: Total Defence Day Commemoration
       subtitle: Events
