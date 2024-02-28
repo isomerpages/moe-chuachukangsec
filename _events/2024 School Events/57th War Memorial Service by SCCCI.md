@@ -18,28 +18,42 @@ of the main ethnic groups and the perished. The service served a timely
 reminder to our CCKsians that our peace cannot be taken for granted and
 every one of us can and must play a part towards Total Defence.</p>
 <p></p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2024 School Events/57th_War_Memorial_Service_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="CCKsians posing for a photo before the commencement of the War Memorial service." src="/images/Events/2024 School Events/57th_War_Memorial_Service_1.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p>CCKsians posing for a photo before the commencement of the War Memorial
-service.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p><em>CCKsians posing for a photo before the commencement of the War Memorial service.</em>
+</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2024 School Events/57th_War_Memorial_Service_2.jpg">
+</div>
+<p><em>Minister Chan interacting with CCKSians to find out the type of simulated disruptions faced by the school.</em>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2024 School Events/57th_War_Memorial_Service_3.jpg">
+</div>
+<p><em>Selfie with Minister Chan! Thank you!</em>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2024 School Events/57th_War_Memorial_Service_4.jpg">
+</div>
+<p><em>CCKsians and teacher, taking a photo with the Civilian War Memorial, also fondly referred to as ‘The Chopsticks’.</em>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2024 School Events/57th_War_Memorial_Service_5.jpg">
+</div>
+<p><em>Eager students listening to the origins and significance of the Civilian War Memorial presented by the docents.</em>
+</p>
+<p></p>
+<p></p>
 <p></p>
