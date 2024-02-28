@@ -44,12 +44,14 @@ sections:
       button: Button Text
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Blind Date with a Book
+      subtitle: Events
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: read more
       alt: Image alt text
+      image: /images/Events/2024 School
+        Events/7__Blind_dates_with_a_book__Infopic_.jpg
+      url: /events/2024-school-events/blind-date-with-a-book/
   - infopic:
       title: 2024 Sec 1 Camp
       subtitle: Events
