@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /contact-us/
       key_highlights:
         - title: Students
           description: ""
@@ -23,6 +22,56 @@ sections:
       title: Announcement
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
+  - infopic:
+      title: Skit on Values of Care and Respect
+      subtitle: Assembly Program
+      id: infopic
+      button: Read more
+      url: /events/2024-school-events/skit-on-values-of-care-and-respect/
+      image: /images/Events/2024 School
+        Events/11__Assembly_Program_Skit_on_values_of_care_and_respect.jpg
+      alt: Image alt text
+  - infopic:
+      title: 57th War Memorial Service by SCCCI
+      subtitle: Events
+      id: infopic
+      button: read more
+      alt: Image alt text
+      url: /events/2024-school-events/57th-war-memorial-service/
+      image: /images/Events/2024 School Events/11__57th_War_Memorial_Service_.jpg
+  - infopic:
+      title: Total Defence Day Commemoration
+      subtitle: Events
+      id: infopic
+      button: Read more
+      alt: Image alt text
+      url: /events/2024-school-events/total-defence-day-commemoration/
+      image: /images/Events/2024 School Events/10__Total_Defence_Day__Infopic_.jpg
+  - infopic:
+      title: MTL Fortnight
+      subtitle: Events
+      id: infopic
+      button: Read more
+      alt: Image alt text
+      url: /events/2024-school-events/2024-mtl-fortnight/
+      image: /images/Events/2024 School Events/8__MTL_Fortnight__Infopic_.jpg
+  - infopic:
+      title: Blind Date with a Book
+      subtitle: Events
+      id: infopic
+      button: read more
+      alt: Image alt text
+      image: /images/Events/2024 School
+        Events/7__Blind_dates_with_a_book__Infopic_.jpg
+      url: /events/2024-school-events/blind-date-with-a-book/
+  - infopic:
+      title: 2024 Sec 1 Camp
+      subtitle: Events
+      id: infopic
+      button: Read more
+      alt: Image alt text
+      image: /images/Events/2024 School Events/6__Sec_1_Camp__Infopic_.jpg
+      url: /events/2024-school-events/2024-sec1-camp/
   - infopic:
       title: Happy Pongal
       id: infopic
