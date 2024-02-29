@@ -23,6 +23,13 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Chinese New Year Celebrations
+      subtitle: Events
+      id: infopic
+      button: Read More
+      url: /events/2024-school-events/chinese-new-year-celebrations/
+      alt: Image alt text
+  - infopic:
       title: Skit on Values of Care and Respect
       subtitle: Assembly Program
       id: infopic
