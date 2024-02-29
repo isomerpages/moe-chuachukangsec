@@ -13,7 +13,7 @@ sections:
           url: /students/class-timetable/
         - title: Parents
           description: ""
-          url: /parents/
+          url: /parents/sec-1-parents-briefing
         - title: Useful Links
           description: ""
           url: /useful-links/useful-links
