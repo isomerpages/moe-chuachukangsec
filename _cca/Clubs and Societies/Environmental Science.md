@@ -297,36 +297,37 @@ schools. This programme promotes awareness about biodiversity in Singapore.</p>
 </table>
 <p></p>
 <p>2022</p>
-<p>• Green Schools @ South West CDC 2022: 2 Stars</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Green Schools @ South West CDC 2022: 2 Stars</p>
+</li>
+</ul>
 <p>2021</p>
-<p>• Green Schools @ South West CDC 2021: 3 Stars</p>
-<p>• National Youth Upcycling Movement (NYUM) 2021: Gold</p>
-<p>• Community in Bloom (CIB) 2021: Gold Award</p>
-<p>• Community in Bloom (CIB) 2021: Outstanding Educational Community Garden
+<ul data-tight="true" class="tight">
+<li>
+<p>Green Schools @ South West CDC 2021: 3 Stars</p>
+</li>
+<li>
+<p>National Youth Upcycling Movement (NYUM) 2021: Gold</p>
+</li>
+<li>
+<p>Community in Bloom (CIB) 2021: Gold Award</p>
+</li>
+<li>
+<p>Community in Bloom (CIB) 2021: Outstanding Educational Community Garden
 Award</p>
+</li>
+</ul>
 <p>2020</p>
-<p>• Green Schools @ South West CDC 2020: Gold Award</p>
-<p>• Green Schools @ South West CDC 2020: 5-Year Environmental Champion Award</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Green Schools @ South West CDC 2020: Gold Award</p>
+</li>
+<li>
+<p>Green Schools @ South West CDC 2020: 5-Year Environmental Champion Award</p>
+</li>
+</ul>
 <p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 </p>
