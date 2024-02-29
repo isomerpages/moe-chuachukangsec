@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2024 School Events/2024 Chinese New Year Celebrations.md
       - "2024 School Events/Assembly Program: Skit on Values of Care and
         Respect.md"
       - 2024 School Events/57th War Memorial Service by SCCCI.md
