@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Parents Briefing/2024 Sec 3 Parents Briefing.md
       - Parents Briefing/.keep
       - 2024 Sec 1 Class Allocation.md
       - CCKSS Global Connect Overseas Programme.md
