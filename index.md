@@ -13,7 +13,7 @@ sections:
           url: /students/class-timetable/
         - title: Parents
           description: ""
-          url: /parents/parent-engagement-session/
+          url: /parents/sec-1-parents-briefing
         - title: Useful Links
           description: ""
           url: /useful-links/useful-links
@@ -22,6 +22,15 @@ sections:
       title: Announcement
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
+  - infopic:
+      title: Chinese New Year Celebrations
+      subtitle: Events
+      id: infopic
+      button: Read More
+      url: /events/2024-school-events/chinese-new-year-celebrations/
+      alt: Image alt text
+      image: /images/Events/2024 School
+        Events/9__Chinese_New_Year_Celebrations__Infopic_.jpg
   - infopic:
       title: Skit on Values of Care and Respect
       subtitle: Assembly Program
