@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Sec One Parents Engagement Session.md
       - 2024 Sec 3 Parents Briefing.md
       - 2024 Sec 1 Class Allocation.md
       - CCKSS Global Connect Overseas Programme.md
