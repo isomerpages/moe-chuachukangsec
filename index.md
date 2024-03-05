@@ -23,6 +23,15 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: "Thrift Bazaar "
+      subtitle: Events
+      id: infopic
+      button: Read More
+      url: /events/2024-school-events/thrift-bazaar/
+      image: /images/Events/2024 School
+        Events/13__Getting_support_from_teachers___Infopic_.jpg
+      alt: Image alt text
+  - infopic:
       title: Skit on Values of Care and Respect
       subtitle: Assembly Program
       id: infopic
