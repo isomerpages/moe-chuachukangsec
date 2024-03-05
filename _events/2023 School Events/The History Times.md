@@ -2,7 +2,7 @@
 title: The History Times
 permalink: /events/school-events/the-history-times/
 description: ""
-third_nav_title: School events
+third_nav_title: 2023 School Events
 ---
 #### The History Times: Living in the Interwar Period #### 
 

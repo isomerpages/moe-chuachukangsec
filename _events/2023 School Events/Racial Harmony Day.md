@@ -3,7 +3,7 @@ title: Racial Harmony Day
 permalink: /events/school-events/2023-racial-harmony-day/
 variant: markdown
 description: ""
-third_nav_title: School events
+third_nav_title: 2023 School Events
 ---
 ##### Racial Harmony Day – Be Inspired! Be Involved!
 

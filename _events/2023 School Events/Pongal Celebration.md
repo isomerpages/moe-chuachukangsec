@@ -2,7 +2,7 @@
 title: Pongal Celebration
 permalink: /events/school-events/pongal-celebration/
 description: ""
-third_nav_title: School events
+third_nav_title: 2023 School Events
 ---
 The Mother Tongue Department (Tamil Unit) held its annual school based Pongal celebrations on 2 February as part of the Mother Tongue Fortnight activities.  Participants were treated to a lovely traditional dance performance by CCK-ians as well as students from the school’s Tamil Centre. In addition, colourful display booths showcasing traditional Indian games, jewelry and information about Pongal were set up so that visitors could learn more about and appreciate the Tamil culture. Our principal, Mr Cheng, lit the ceremonial lamp and declared the celebration open.
 

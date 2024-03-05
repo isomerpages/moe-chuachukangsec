@@ -2,7 +2,7 @@
 title: Chinese New Year Celebration
 permalink: /events/school-events/chinese-new-year-celebration/
 description: ""
-third_nav_title: School events
+third_nav_title: 2023 School Events
 ---
 To usher in the year of the Rabbit, the annual Chinese New Year celebrations kicked off with Lo Hei on a grand scale. Staff and students gathered in the school hall, and tossed salad ingredients and crackers as words of prosperity were read out by the emcees. Chorus of voices could be heard at every corner of the hall! After getting their stomachs filled, students returned to their classroom for activities such as making clay sculptures for the lower secondary classes and hamper wrapping for the upper secondary classes. These hampers were later distributed to the Fei Yue Family Service Centre.
 

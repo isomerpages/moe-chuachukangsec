@@ -2,7 +2,7 @@
 title: Discovery Week
 permalink: /events/school-events/discovery-week/
 description: ""
-third_nav_title: School events
+third_nav_title: 2023 School Events
 ---
 Students had the opportunity to learn in a different setting during Discovery Week.
 

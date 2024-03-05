@@ -2,7 +2,7 @@
 title: Hari Raya Celebrations
 permalink: /events/school-events/hari-raya-celebrations/
 description: ""
-third_nav_title: School events
+third_nav_title: 2023 School Events
 ---
 In the beginning of May, the Malay Language unit, in collaboration with the SWB committee organized a heart-shaped ketupat weaving session for staff and students. It was an activity for the whole school to participate and be a part of the celebration. It was a great bonding time for staff and students, basking in the festive mood. After completing the cards,  students are then encouraged to write well-wishes for their peers and teachers.
 

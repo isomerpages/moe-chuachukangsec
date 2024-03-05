@@ -23,14 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
-      title: Chinese New Year Celebrations
+      title: Thrift Bazaar
       subtitle: Events
       id: infopic
       button: Read More
-      url: /events/2024-school-events/chinese-new-year-celebrations/
-      alt: Image alt text
+      url: /events/2024-school-events/thrift-bazaar/
       image: /images/Events/2024 School
-        Events/9__Chinese_New_Year_Celebrations__Infopic_.jpg
+        Events/13__Getting_support_from_teachers___Infopic_.jpg
+      alt: Image alt text
   - infopic:
       title: Skit on Values of Care and Respect
       subtitle: Assembly Program
@@ -56,6 +56,15 @@ sections:
       alt: Image alt text
       url: /events/2024-school-events/total-defence-day-commemoration/
       image: /images/Events/2024 School Events/10__Total_Defence_Day__Infopic_.jpg
+  - infopic:
+      title: Chinese New Year Celebrations
+      subtitle: Events
+      id: infopic
+      button: Read More
+      url: /events/2024-school-events/chinese-new-year-celebrations/
+      alt: Image alt text
+      image: /images/Events/2024 School
+        Events/9__Chinese_New_Year_Celebrations__Infopic_.jpg
   - infopic:
       title: MTL Fortnight
       subtitle: Events
