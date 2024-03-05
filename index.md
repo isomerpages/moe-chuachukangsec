@@ -23,7 +23,7 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
-      title: "Thrift Bazaar "
+      title: Thrift Bazaar
       subtitle: Events
       id: infopic
       button: Read More
