@@ -23,15 +23,6 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
-      title: Chinese New Year Celebrations
-      subtitle: Events
-      id: infopic
-      button: Read More
-      url: /events/2024-school-events/chinese-new-year-celebrations/
-      alt: Image alt text
-      image: /images/Events/2024 School
-        Events/9__Chinese_New_Year_Celebrations__Infopic_.jpg
-  - infopic:
       title: Skit on Values of Care and Respect
       subtitle: Assembly Program
       id: infopic
@@ -56,6 +47,15 @@ sections:
       alt: Image alt text
       url: /events/2024-school-events/total-defence-day-commemoration/
       image: /images/Events/2024 School Events/10__Total_Defence_Day__Infopic_.jpg
+  - infopic:
+      title: Chinese New Year Celebrations
+      subtitle: Events
+      id: infopic
+      button: Read More
+      url: /events/2024-school-events/chinese-new-year-celebrations/
+      alt: Image alt text
+      image: /images/Events/2024 School
+        Events/9__Chinese_New_Year_Celebrations__Infopic_.jpg
   - infopic:
       title: MTL Fortnight
       subtitle: Events
