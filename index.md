@@ -23,6 +23,15 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: "Global Connect Programme: Visit by SWPY to CCKSS"
+      subtitle: Events
+      id: infopic
+      button: Read More
+      url: /events/2024-school-events/visit-by-swpy/
+      image: /images/Events/2024 School
+        Events/14__With_our_lovely_Pongal_Pot_Art___Infopic_.jpg
+      alt: Image alt text
+  - infopic:
       title: Thrift Bazaar
       subtitle: Events
       id: infopic
