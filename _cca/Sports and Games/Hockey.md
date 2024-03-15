@@ -3,45 +3,157 @@ title: Hockey
 permalink: /cca/sports-and-games/hockey/
 description: ""
 third_nav_title: Sports and Games
+variant: tiptap
 ---
-| Teacher in charge	| Name 	| Email Address 	|
-|---	|---	|---	|
-| Overall Teacher in charge	| Mr Cyrus Tan	| [TAN_Kwang_Yonk@schools.gov.sg ](mailto:TAN_Kwang_Yonk@schools.gov.sg )	|
-| Teacher in charge	| Mr Lee Meng Teck 	| [lee_meng_teck@schools.gov.sg](mailto:lee_meng_teck@schools.gov.sg)	|
-| 	| Mdm Masayu 	| [masayu_aziza_masagos_ahmad@schools.gov.sg](mailto:masayu_aziza_masagos_ahmad@schools.gov.sg)	|
-| 	| Mdm Idayu	| [idayu_somdi@schools.gov.sg ](mailto:idayu_somdi@schools.gov.sg )	|
-| 	| Ms Klara Tan	| [tan_hui_wen_klara@schools.gov.sg](mailto:tan_hui_wen_klara@schools.gov.sg)	|
-
-
-
-
-**About us**
-
-The CCKSS Hockey Team has come a long way since it began in the early 2000s. Over the years, both the Girls’ and Boys’ teams have participated in numerous competitions and have clinched several titles in the National Schools Tournaments.
-
-As testament to their skills, many hockey players have been selected to join the National Men and Womens’ Hockey Teams and have represented Singapore in several regional and international competitions.
-
-All these achievements have been made possible by a team of dedicated teachers who work hard to uphold the high standards of hockey and sportsmanship in the team. In addition to normal training sessions, the players’ skills are also honed through exposure to inter-school and overseas friendlies.
-
-
-**Key Programmes and Achievements in 2022- 2023**
-2023
-1. National School Games B Division Girls - 4th position 
-2. Pesta Sukan (Hockey) - U15 Boys came in 3rd position
-3. National School Games C Division: Entering League 1 Championship
-
-
-
-**Key Programmes and Achievements**
-
-
-**Announcement** 
-
-* Training Days and hours
-
-|Training days	| Time	| Venue	|
-|---	|---	|---	|
-| Wednesday	| 1430 to 1730 | Chua Chua Kang Secondary School	|
-| Fridays (odd weeks)	| 1430 to 1730	|	|
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS8baARIObk-PoxyX_pwLqYpg86kSJudXApSI6KvevhabcL96PS0AzrqDrIbfTwHA/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teacher in charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Overall Teacher in charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Cyrus Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:TAN_Kwang_Yonk@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">TAN_Kwang_Yonk@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher in charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Masayu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:masayu_aziza_masagos_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">masayu_aziza_masagos_ahmad@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Klara Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_hui_wen_klara@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_wen_klara@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Suharti Saifee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:suharti_saifee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suharti_saifee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Chin Guan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_chin_guan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chin_guan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>About us</strong>
+</p>
+<p>The CCKSS Hockey Team has come a long way since it began in the early
+2000s. Over the years, both the Girls’ and Boys’ teams have participated
+in numerous competitions and have clinched several titles in the National
+Schools Tournaments.</p>
+<p>As testament to their skills, many hockey players have been selected to
+join the National Men and Women’s’ Hockey Teams and have represented Singapore
+in several regional and international competitions.</p>
+<p>All these achievements have been made possible by a team of dedicated
+teachers who work hard to uphold the high standards of hockey and sportsmanship
+in the team. In addition to normal training sessions, the players’ skills
+are also honed through exposure to inter-school and overseas friendlies.</p>
+<p></p>
+<p><strong>Key Programmes and Achievements</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2023 National School Games B Division Girls – 4th Position</p>
+</li>
+<li>
+<p>2023 Pesta Sukan (Hockey) - U15 Boys – 3rd Position</p>
+</li>
+<li>
+<p>2023 National School Games C Division Boys - Entering League 1 Championship</p>
+</li>
+</ul>
+<p></p>
+<p></p>
+<p><strong>Announcement</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Training Days and hours</p>
+</li>
+</ul>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Training days</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1500 to 1730</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hockey Pitch</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fridays (alternate weeks)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1415 to 1730</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="iframe-wrapper">
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS8baARIObk-PoxyX_pwLqYpg86kSJudXApSI6KvevhabcL96PS0AzrqDrIbfTwHA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
