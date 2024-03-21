@@ -54,6 +54,7 @@ individual who can work effectively in teams, take initiatives, and constantly
 strives for excellence.</p>
 <p>Students will get the opportunity to participate in matches and competitions
 allowing them to apply the skills they have learnt in a competitive environment.</p>
+<p></p>
 <p><strong>Key Programmes and Achievements</strong>
 </p>
 <p><strong>2023</strong>
@@ -68,7 +69,7 @@ allowing them to apply the skills they have learnt in a competitive environment.
 <p></p>
 <p><strong>National School Games Poomsae Yellow</strong>
 </p>
-<p><strong>Poomsae Yellow 7:</strong> 
+<p><strong>Poomsae Yellow 7:</strong>
 </p>
 <p><strong>3rd Place:</strong> Dian Irdina Binte Irman Iriawan, 4D</p>
 <p><strong>4th Place:</strong> Chloe Chua Xin Min, 3B</p>
