@@ -12,7 +12,7 @@ third_nav_title: 2024 School Events
 Mother School Phayao (SWPY), Chiang Rai, Thailand to our school once again.
 After getting to know each other in 2023, our CCKSians visited SWPY in
 November and met up with their buddies once again, having a great time
-bonding over cultural activities like drumming, dance and Muay Thai. The
+bonding over cultural activities like drumming, dance and Muay Thai. They
 were also treated to a once-in-a-lifetime experience of releasing Lanna
 lanterns into the night skies of Phayao.</p>
 <p>Having received such a warm welcome, our CCKSians were eager to see their
