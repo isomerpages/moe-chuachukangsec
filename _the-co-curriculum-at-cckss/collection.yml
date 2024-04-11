@@ -2,6 +2,7 @@ collections:
   the-co-curriculum-at-cckss:
     output: true
     order:
+      - CCKSS Global Connect Overseas Programme.md
       - Learning for Life Programme/.keep
       - Learning for Life Programme/Learning for Life Programme.md
       - Learning for Life Programme/Class Committee.md
