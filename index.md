@@ -149,4 +149,11 @@ sections:
       image: /images/Events/2024 School
         Events/Secondary_1_Orientation___Parent_Engagement_2024_Thumb_.png
       alt: Image alt text
+  - infopic:
+      title: Hari Raya Concert
+      id: infopic
+      button: Read more
+      url: /events/2024-school-events/hari-raya-concert/
+      image: /images/Events/2024 School Events/16_hari raya concert.jpg
+      alt: Image alt text
 ---
