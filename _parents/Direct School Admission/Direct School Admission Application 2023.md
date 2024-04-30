@@ -133,6 +133,6 @@ focused on Sustainability.</p>
 <p>The selection criteria and process for the talent areas will be updated
 from early-May.</p>
 <p>For more information on DSA-Sec, please refer to the MOE website at
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p></p>
