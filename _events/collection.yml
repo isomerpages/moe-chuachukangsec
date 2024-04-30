@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2024 School Events/Hari Raya Concert.md
       - "2024 School Events/Global Connect Programme: Visit by Srinagarindra The
         Princess Mother School Phayao.md"
       - 2024 School Events/Thrift Bazaar by 4M and 4N.md
