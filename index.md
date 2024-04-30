@@ -156,4 +156,5 @@ sections:
       url: /events/2024-school-events/hari-raya-concert/
       image: /images/Events/2024 School Events/16_hari raya concert.jpg
       alt: Image alt text
+      subtitle: Events
 ---
