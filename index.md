@@ -23,6 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Visit by Seongnam Foreign Language High School
+      subtitle: "Global Connect Programme: "
+      id: infopic
+      button: "Read more "
+      url: /events/2024-school-events/global-connect-programme-visit-by-seongnam-foreign-language-high-school
+      image: /images/Events/2024 School Events/17_ visit by korean student.jpg
+      alt: Image alt text
+  - infopic:
       title: Hari Raya Concert
       id: infopic
       button: Read more
@@ -31,8 +39,8 @@ sections:
       alt: Image alt text
       subtitle: Events
   - infopic:
-      title: "Global Connect Programme: Visit by SWPY to CCKSS"
-      subtitle: Events
+      title: Visit by Srinagarindra The Princess Mother School Phayao
+      subtitle: "Global Connect Programme: "
       id: infopic
       button: Read More
       url: /events/2024-school-events/visit-by-swpy/
