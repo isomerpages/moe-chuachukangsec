@@ -2,6 +2,8 @@ collections:
   events:
     output: true
     order:
+      - 2024 School Events/Hosting of Staff and Students from Seongnam Foreign
+        Language High School.md
       - 2024 School Events/Hari Raya Concert.md
       - "2024 School Events/Global Connect Programme: Visit by Srinagarindra The
         Princess Mother School Phayao.md"
