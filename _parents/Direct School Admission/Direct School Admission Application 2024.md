@@ -10,7 +10,7 @@ variant: tiptap
 School&nbsp;</p>
 <p>(For admission to Secondary One in 2025)</p>
 <p></p>
-<h5><strong>Introduction</strong></h5>
+<h4><strong>Introduction</strong></h4>
 <p>The DSA-Sec Exercise was introduced by the Ministry of Education in 2004.
 It seeks to promote holistic education and provide students an opportunity
 to demonstrate a more diverse range of achievements and talents in seeking
@@ -22,7 +22,12 @@ the programmes available to develop the area of talent.</p>
 <p>We would like to invite students with an interest or aptitude in the talent
 areas stated below and seeking admission to our school, to apply through
 this exercise.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -130,9 +135,58 @@ focused on Sustainability.</p>
 </tbody>
 </table>
 <p></p>
-<p>The selection criteria and process for the talent areas will be updated
-from early-May.</p>
 <p>For more information on DSA-Sec, please refer to the MOE website at
 <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
+<p></p>
+<h4><strong>Eligibility Criteria</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Selection for admission to the school via DSA-Secondary is based on the
+following:</p>
+<p>a. Hockey</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCA Involvement – Participation, Representation &amp; Achievements</p>
+</li>
+<li>
+<p>Physical Fitness - Latest NAPFA Test Results</p>
+<p>
+<br>
+<br>
+</p>
+</li>
+</ul>
+<p></p>
+</li>
+<li>
+<p>Applicants should also possess the positive character traits and good
+conduct in school.</p>
+</li>
+<li>
+<p>Meeting all the criteria does not guarantee the student will be shortlisted/given
+an offer.</p>
+</li>
+</ol>
+<h3><strong>Application and Selection Procedures&nbsp;</strong></h3>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from 7 May – 3 June
+2024. For more details, please refer to MOE website – <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+<p>&nbsp;</p>
+<p>Shortlisted applicants will be notified and scheduled to attend interviews
+and skills assessment. Shortlisted applicants should attend the interviews
+and skills assessment only if they are feeling well.</p>
+<p>&nbsp;</p>
+<p>All applicants will be informed of the outcome of their application by
+10 – 12 September 2024. The school’s decision on the offer is final.</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
