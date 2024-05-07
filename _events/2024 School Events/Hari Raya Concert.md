@@ -11,7 +11,7 @@ which drew cheers from the crowd. Iris Nurzafyra and Danish Anaqi from
 3C wowed the audience with their rendition of “<em>Suasana Hari Raya</em>”,
 followed by a Malay Dance and <em>Dikir Barat </em>performance. The highlight
 of the show was the <em>Kain Sambing</em> wearing contest, where our students
-tried to follow the instructions on how to wear the <em>Kaing Sambing</em>.
+tried to follow the instructions on how to wear the <em>Kain Samping</em>.
 This drew laughter and applause from the crowd in appreciation of their
 valiant efforts! Mr Jamil sang “<em>Lemak Manis</em>” with teachers and
 PSG members dancing in accompaniment. The concert ended on a high with
