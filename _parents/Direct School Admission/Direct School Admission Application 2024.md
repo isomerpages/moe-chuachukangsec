@@ -144,21 +144,49 @@ focused on Sustainability.</p>
 <li>
 <p>Selection for admission to the school via DSA-Secondary is based on the
 following:</p>
-<p>a. Hockey</p>
+</li>
+</ol>
+<p>a. <strong>Hockey</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>CCA Involvement – Participation, Representation &amp; Achievements</p>
 </li>
 <li>
 <p>Physical Fitness - Latest NAPFA Test Results</p>
-<p>
-<br>
-<br>
-</p>
 </li>
 </ul>
+<p>b. <strong>Modern Dance</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCA Involvement – Participation, Representation &amp; Achievement, or
+relevant experience or qualification in Dance.</p>
+</li>
+</ul>
+<p>c. <strong>Community Youth Leadership</strong> 
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students must have assumed leadership role in the primary school in either
+CCA, Class or Committees.</p>
+</li>
+<li>
+<p>Active participation in a school or community project.</p>
+</li>
+</ul>
+<p>d. <strong>Science, Technology, Engineering, Maths – Science for Sustainable Development </strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Passion in Sustainable Development</p>
+</li>
+<li>
+<p>Participation, Representation &amp; Achievements in Sustainability Projects/Programmes/Competitions</p>
 <p></p>
 </li>
+</ul>
+<ol start="2" data-tight="true" class="tight">
 <li>
 <p>Applicants should also possess the positive character traits and good
 conduct in school.</p>
@@ -168,19 +196,21 @@ conduct in school.</p>
 an offer.</p>
 </li>
 </ol>
-<h3><strong>Application and Selection Procedures&nbsp;</strong></h3>
+<p></p>
+<h4>Application and Selection Procedures  </h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May – 3 June
 2024. For more details, please refer to MOE website – <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
-<p>&nbsp;</p>
 <p>Shortlisted applicants will be notified and scheduled to attend interviews
 and skills assessment. Shortlisted applicants should attend the interviews
 and skills assessment only if they are feeling well.</p>
-<p>&nbsp;</p>
 <p>All applicants will be informed of the outcome of their application by
 10 – 12 September 2024. The school’s decision on the offer is final.</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
