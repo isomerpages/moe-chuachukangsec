@@ -164,7 +164,7 @@ following:</p>
 relevant experience or qualification in Dance.</p>
 </li>
 </ul>
-<p>c. <strong>Community Youth Leadership</strong> 
+<p>c. <strong>Community Youth Leadership</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -175,7 +175,7 @@ CCA, Class or Committees.</p>
 <p>Active participation in a school or community project.</p>
 </li>
 </ul>
-<p>d. <strong>Science, Technology, Engineering, Maths – Science for Sustainable Development </strong>
+<p>d. <strong>Science, Technology, Engineering, Maths – Science for Sustainable Development</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -197,7 +197,7 @@ an offer.</p>
 </li>
 </ol>
 <p></p>
-<h4>Application and Selection Procedures  </h4>
+<h4>Application and Selection Procedures</h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May – 3 June
 2024. For more details, please refer to MOE website – <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
@@ -206,6 +206,75 @@ and skills assessment. Shortlisted applicants should attend the interviews
 and skills assessment only if they are feeling well.</p>
 <p>All applicants will be informed of the outcome of their application by
 10 – 12 September 2024. The school’s decision on the offer is final.</p>
+<p><strong><u>Application Selection Schedule</u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dates</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Actions</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 May – 3 June 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Candidates to submit DSA application through the online DSA-Sec <a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">Portal</a>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 Jun – 19 Jul 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shortlisted candidates will be notified by phone/email of dates of the
+skills assessment and interview.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 Jun – 9 Sep 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School conducts skills assessment and interview for short-listed candidates.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 – 12 Sep 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School informs candidates of the results.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4>Selection Process</h4>
+<p>Shortlisted applicants will be invited to attend an interview between
+24 June 2024 and 9 Sept 2024.</p>
+<p>Applicants will be notified by post or email latest on the outcome of
+their application.</p>
+<p>Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school and participate in the CCA or
+activities related to the respective talent areas allocated throughout
+their four years in Chua Chu Kang Secondary School.</p>
+<p>For further enquiries on the DSA Exercise, please contact Mr Lim Keum
+Ray at 6769 1386 or via email to <a href="mailto:CCKSS@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">CCKSS@moe.edu.sg</a>.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
