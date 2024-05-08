@@ -16,12 +16,12 @@ It seeks to promote holistic education and provide students an opportunity
 to demonstrate a more diverse range of achievements and talents in seeking
 admission to a secondary school.</p>
 <p>When choosing a secondary school, parents and students are encouraged
-to choose schools wisely based on the student’s aptitudes and strengths,
+to choose schools wisely based on the students' aptitudes and strengths,
 bearing in mind the schools’ academic and non-academic requirements, and
 the programmes available to develop the area of talent.</p>
 <p>We would like to invite students with an interest or aptitude in the talent
-areas stated below and seeking admission to our school, to apply through
-this exercise.</p>
+areas stated below seeking admission to our school, to apply through this
+exercise.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -54,7 +54,8 @@ this exercise.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Opportunities to represent school in NSG or other external competitions.</p>
+<p>Opportunities to represent school in National School Games (NSG) or other
+external competitions</p>
 </li>
 </ul>
 <p>&nbsp;</p>
@@ -71,7 +72,8 @@ this exercise.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Opportunities to represent school for SYF or other external competitions/performances.</p>
+<p>Opportunities to represent school for Singapore Youth Festival (SYF) or
+other external competitions/performances</p>
 </li>
 </ul>
 <p>&nbsp;</p>
@@ -92,7 +94,7 @@ this exercise.</p>
 (Class Leader or Peer Support Leader). They will undergo training and join
 the Student Council as Junior Councilor in Sec 2 and will be developed
 to take on other leadership roles such as Student Councilor or CCA Leader
-by Secondary 3.&nbsp;</p>
+by Secondary 3&nbsp;</p>
 </li>
 <li>
 <p>All successful DSA applicants are given the opportunities to initiate
@@ -121,13 +123,13 @@ course</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Engage students in a Design Thinking programme and problem-solving projects
-focused on Sustainability.</p>
+focused on Sustainability</p>
 </li>
 <li>
-<p>Take part in Learning Journeys to gain real-world context.</p>
+<p>Take part in Learning Journeys to gain real-world context</p>
 </li>
 <li>
-<p>Explore opportunities to join Sustainability-related competitions.</p>
+<p>Explore opportunities to join Sustainability-related competitions</p>
 </li>
 </ul>
 </td>
@@ -161,7 +163,7 @@ following:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>CCA Involvement – Participation, Representation &amp; Achievement, or
-relevant experience or qualification in Dance.</p>
+relevant experience or qualification in Dance</p>
 </li>
 </ul>
 <p>c. <strong>Community Youth Leadership</strong>
@@ -169,10 +171,10 @@ relevant experience or qualification in Dance.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students must have assumed leadership role in the primary school in either
-CCA, Class or Committees.</p>
+CCA, Class or Committees</p>
 </li>
 <li>
-<p>Active participation in a school or community project.</p>
+<p>Active participation in a school or community project</p>
 </li>
 </ul>
 <p>d. <strong>Science, Technology, Engineering, Maths – Science for Sustainable Development</strong>
