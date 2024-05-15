@@ -39,7 +39,7 @@ sections:
       alt: Image alt text
       subtitle: Events
   - infopic:
-      title: "Speak Good English Movement "
+      title: Speak Good English Movement
       subtitle: Events
       id: infopic
       button: read more
