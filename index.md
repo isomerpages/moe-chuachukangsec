@@ -24,9 +24,9 @@ sections:
       subtitle: STAY UP TO DATE WITH US
   - infopic:
       title: Visit by Seongnam Foreign Language High School
-      subtitle: "Global Connect Programme: "
+      subtitle: "Global Connect Programme:"
       id: infopic
-      button: "Read more "
+      button: Read more
       url: /events/2024-school-events/global-connect-programme-visit-by-seongnam-foreign-language-high-school
       image: /images/Events/2024 School Events/17_ visit by korean student.jpg
       alt: Image alt text
@@ -39,8 +39,16 @@ sections:
       alt: Image alt text
       subtitle: Events
   - infopic:
+      title: Speak Good English Movement
+      subtitle: Events
+      id: infopic
+      button: read more
+      url: /events/2024-school-events/speak-good-english-movement/
+      image: /images/Events/2024 School Events/15 speak good english movement .jpg
+      alt: Image alt text
+  - infopic:
       title: Visit by Srinagarindra The Princess Mother School Phayao
-      subtitle: "Global Connect Programme: "
+      subtitle: "Global Connect Programme:"
       id: infopic
       button: Read More
       url: /events/2024-school-events/visit-by-swpy/
