@@ -2,14 +2,14 @@ collections:
   events:
     output: true
     order:
-      - 2024 School Events/Speak Good English Movement.md
+      - 2024 School Events/.keep
       - "2024 School Events/Global Connect Programme: Visit by Seongnam Foreign
         Language High School, South Korea.md"
       - 2024 School Events/Hari Raya Concert.md
+      - 2024 School Events/Speak Good English Movement.md
       - "2024 School Events/Global Connect Programme: Visit by Srinagarindra The
         Princess Mother School Phayao.md"
       - 2024 School Events/Thrift Bazaar by 4M and 4N.md
-      - 2024 School Events/.keep
       - "2024 School Events/Assembly Program: Skit on Values of Care and
         Respect.md"
       - 2024 School Events/57th War Memorial Service by SCCCI.md
