@@ -1,7 +1,7 @@
 ---
 title: Timetable
 permalink: /students/class-timetable/
-date: 2024-03-15
+date: 2024-06-21
 layout: post
 description: ""
 image: ""
