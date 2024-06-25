@@ -1,5 +1,5 @@
 ---
-title: PERSONAL DATA PRIVACY ACT POLICY
+title: Personal Data Privacy Act Policy
 permalink: /students/pdpa-policy/
 variant: markdown
 description: ""
