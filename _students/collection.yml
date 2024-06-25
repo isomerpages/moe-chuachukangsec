@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - School based Helpline.md
       - Timetable/2024 May and June Holiday Academic Support Program.md
       - Timetable/.keep
       - Timetable/Class Timetable.md
