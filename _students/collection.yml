@@ -2,10 +2,10 @@ collections:
   students:
     output: true
     order:
-      - School based Helpline.md
-      - Timetable/2024 May and June Holiday Academic Support Program.md
       - Timetable/.keep
+      - Timetable/2024 May and June Holiday Academic Support Program.md
       - Timetable/Class Timetable.md
       - WA and MA schedules.md
       - 2024 Sec 1 to Sec 4 Booklist.md
+      - School based Helpline.md
       - PERSONAL DATA PRIVACY ACT POLICY.md
