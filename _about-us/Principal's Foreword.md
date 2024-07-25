@@ -2,34 +2,45 @@
 title: Principal's Foreword
 permalink: /about-us/principals-foreword/
 description: ""
+variant: markdown
 ---
 # **Principal's Foreword**
 		 
-<img src="/images/About%20Us/Mr%20Cheng.jpeg" style="width:183px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/About%20Us/Mr%20Cheng.jpeg" style="width:183px;height:240px;margin-left:15px;" align="right">
 
-2023 is a special year for Chua Chu Kang Secondary School as we begin the new journey as a merged school – merger of Chua Chu Kang Secondary School and Teck Whye Secondary School. I am absolutely honoured by the appointment as Principal to Chua Chu Kang Secondary School wef 15 December 2022.
+Welcome to Chua Chu Kang Secondary School!
 
-To briefly introduce myself; I have been in the education service since 1997. I was Head of Department for ICT in Siglap Secondary School and Admiralty Secondary School before moving to MOE HQ to take up the portfolio of an Educational Technology Officer for two years. I then assumed the role of Vice-Principal in Beatty Secondary School as well as Unity Secondary School from 2006 to 2010. After which, I was appointed Principal of two Secondary Schools – Canberra Secondary School from 2011 to 2016 and Bukit Merah Secondary School from 2017 to 2022. I hope that my experiences in the last six schools and MOE HQ will help me in guiding and enriching the teachers and students of Chua Chu Kang Secondary School
+As we embark on a new year in 2024, I am filled with gratitude and excitement for what lies ahead. 2023 was a monumental year for us as we embraced a new beginning with the merger of Chua Chu Kang Secondary School and Teck Whye Secondary School. Our theme, "Together A New Beginning," aptly captured the spirit of unity and collaboration that defined our journey.
 
-The merged school is the combination of two good schools of long history with many good practices and achievements. The coming together of these two good schools will only make us stronger and allow us to ensure that our students will benefit from a wide range of educational programmes, CCAs; and enjoy up-to-date facilities.
+Building on this foundation, our theme for 2024 is "Stronger Together." This theme reflects our commitment to harnessing the strength of our combined talents, resources, and experiences to create a supportive and dynamic learning environment for our students. 
 
-The preparation of the merger journey started as early as April 2022 when I was first appointed as Principal-designate of the merged school. I am blessed with a team of committed key personnel who worked tirelessly to prepare for the start of the merged school. 
+The merger brought together two schools with rich histories and numerous achievements. The amalgamation of these strengths has enriched our educational programs, co-curricular activities, and facilities, offering our students a broader and more robust platform for growth and success.
 
-I would also like to take this opportunity to thank Mdm Adel Ong, ex-Principal of Chua Chu Kang Secondary School and Mr N Sivarajan, ex-Principal of Teck Whye Secondary School for their invaluable support & advice given to me as I went through the preparation in 2022 to start the merger school.
+I am incredibly proud of the dedication and hard work displayed by our students, staff, parents, and school partners throughout this transition. The success of our StartRight Programme, which facilitated goal-setting, discipline, and teamwork, is a testament to the resilience and positive spirit of our school community. The program laid the groundwork for strong teacher-student relationships and a conducive learning atmosphere.
 
-The theme for 2023 is “Together A New Beginning”. It is an apt theme, which signifies the aspiration of the students, staff, parents and school partners of the two schools coming together to give our BEST so that the new merged school can ride on the many great achievements that both schools have made over the past years and to do even better in the years ahead.
+Our achievements in 2023 were numerous and commendable. Our Performing Arts Groups excelled in the Singapore Youth Festival Arts Presentation, our B Girls Hockey team secured a top position in the National B Division tournament, and our Uniformed Groups attained prestigious awards. These accomplishments reflect our students' talent, determination, and hard work, supported by our dedicated staff.
 
-The journey to prepare for the merged school and the start of the new academic year 2023 as a merged school was an exciting one with students, staff and school achieving many significant achievements such as the completion of the whole staff room renovations in 2022, Sec 2 Combined Camp in 2022 and the Start Right Programme, week-long school-wide orientation programme, and Chinese New Year Celebrations with mass lohei session for the whole school in Jan 2023.
+A significant milestone was the establishment of our new School Vision, Mission, and Values (VMV). These guiding principles were crafted with input from staff, parents, and the School Advisory Committee, ensuring a shared vision for our future.
 
-In Chua Chu Kang Secondary School, in all we do, students will always at the centre of our consideration and that staff are key in helping the school to achieve our school objectives. Our SAC, Parents, Alumni and our community play an important role in supporting the school to provide a holistic education for our students.
- 
-With the good foundation laid down by my predecessors and with the continued strong support from our staff and partners, I am confident that Chua Chu Kang Secondary School will be able to rise up to meet the challenges of the future and scale greater heights.
+**VISION** 
+<br>CCKSians with Future-Ready Mindsets and Empathetic Hearts who Act Responsibly.
 
-CCKSians, Parents & School Partners, let’s continue to work together to give our Best so that the school can ride on the many great achievements we have made over the years and to do even better in the years ahead.
+**MISSION**
+<br>A Positive Environment that Empowers CCKSians to Thrive and Contribute.
 
-Together A New Beginning
+**VALUES**
+<br>Respect, Resilience, Integrity, Care, Enterprise.
 
-Timothy Cheng<br>
-Principal
+Our School Vision emphasizes the importance of preparing our students for future challenges while nurturing their empathy and responsibility. Our Mission underscores our commitment to creating an inclusive, empowering educational environment that equips students to thrive and make a positive impact on society. Through our Values, we aim to cultivate well-rounded individuals who excel academically and possess strong character and social responsibility.
+
+One of our proudest moments was the co-creation of our new School Song. This collaborative project involved teachers and students working together to create a song that embodies the heritage and aspirations of our merged school. I extend my heartfelt thanks to Mr. Anthony Chua, Ms. Jo-anne Tan, Mdm Fiona Tay, and Mr. Melvin Chan for their dedication and creativity in bringing this project to life.
+
+At Chua Chu Kang Secondary School, our students are at the heart of all we do. Our staff, parents, alumni, and community partners play vital roles in supporting our mission to provide a holistic education. With the strong foundation laid by our predecessors and the continued support from our school community, I am confident that we will rise to meet future challenges and achieve greater heights together.
+
+CCKSians, Parents, and School Partners, let us continue to work together, stronger than ever, to build on our achievements and create an even brighter future for our school.
+
+Stronger Together!
 
 
+Timothy Cheng
+<br>Principal
