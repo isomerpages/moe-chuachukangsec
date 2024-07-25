@@ -23,6 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Kindness Week
+      subtitle: Events
+      id: infopic
+      button: Read more
+      alt: Image alt text
+      url: /events/kindness-week/
+      image: /images/Events/2024 School Events/21_Kindness_Week.jpg
+  - infopic:
       title: Sports Challenge 2024
       subtitle: Events
       id: infopic
@@ -198,10 +206,11 @@ sections:
         Events/Secondary_1_Orientation___Parent_Engagement_2024_Thumb_.png
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Discovery Week
+      subtitle: Events
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: Read more
+      url: /events/discovery-week/
+      image: /images/Events/2024 School Events/22_Discovery_Week.jpg
       alt: Image alt text
 ---
