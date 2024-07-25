@@ -835,10 +835,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Fatt Seng</p>
+<p>Ms Lee Lin Jing Pauline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_fatt_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_fatt_seng@schools.gov.sg</a>
+<p><a href="mailto:lee_lin_jing_pauline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lin_jing_pauline@schools.gov.sg</a>
 </p>
 </td>
 </tr>
