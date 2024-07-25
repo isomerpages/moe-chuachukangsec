@@ -23,6 +23,46 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Racial Harmony Day
+      subtitle: Events
+      id: infopic
+      button: Read More
+      url: /events/racial-harmony-day/
+      image: /images/Events/2024 School Events/26 rhd 2024.jpg
+      alt: Image alt text
+  - infopic:
+      title: Maths Fiesta 2024
+      subtitle: Events
+      id: infopic
+      button: Read more
+      url: /events/maths-fiesta-2024/
+      image: /images/Events/2024 School Events/25_Math_Week.jpg
+      alt: Image alt text
+  - infopic:
+      title: NCC Day
+      subtitle: Events
+      id: infopic
+      button: Read more
+      url: /events/ncc-day/
+      image: /images/Events/2024 School Events/24_NCC_Day.jpg
+      alt: Image alt text
+  - infopic:
+      title: Student Council Camp
+      subtitle: Events
+      id: infopic
+      button: Read More
+      url: /events/student-council-camp/
+      image: /images/Events/2024 School Events/23 sc camp.jpg
+      alt: Image alt text
+  - infopic:
+      title: Learning Journey to Mandai Bird Park
+      subtitle: Events
+      id: infopic
+      button: Read more
+      url: /events/learning-journey-to-mandai-bird-park/
+      image: /images/Events/2024 School Events/22 learning journey.jpg
+      alt: Image alt text
+  - infopic:
       title: Discovery Week
       subtitle: Events
       id: infopic
