@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2024 School Events/2024 Speech Day.md
       - 2024 School Events/.keep
       - "2024 School Events/Global Connect Programme: Visit by Seongnam Foreign
         Language High School, South Korea.md"
