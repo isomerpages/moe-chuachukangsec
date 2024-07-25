@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Sports and Games
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -47,11 +52,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Shi En Shannon</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_shi_en_shannon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shi_en_shannon@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -78,7 +82,12 @@ how to bounce back from disappointments and celebrate successes as a team.</p>
 <p>Training Days and hours</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
