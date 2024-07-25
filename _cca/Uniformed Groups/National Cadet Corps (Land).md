@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -63,18 +68,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tee_jie_kai_calvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tee_jie_kai_calvin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Shu Ting Melissa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:melissa_ng_shu_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">melissa_ng_shu_ting@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -240,7 +233,12 @@ leaders and team players through fun and challenging military-related activities
 <p>Training Days and hours</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
