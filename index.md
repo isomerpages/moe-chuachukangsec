@@ -23,6 +23,30 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Sports Challenge 2024
+      subtitle: Events
+      id: infopic
+      button: Read more
+      url: /sports-challenge-2024/
+      image: /images/Events/2024 School Events/20 sports_challenge_2024.jpg
+      alt: Image alt text
+  - infopic:
+      title: ELL Week
+      subtitle: Events
+      id: infopic
+      button: Read More
+      url: /events/ell-week/
+      image: /images/Events/2024 School Events/19 ell week.jpg
+      alt: Image alt text
+  - infopic:
+      title: Speech Day 2024
+      subtitle: Events
+      id: infopic
+      button: Read More
+      url: /events/2024-speech-day/
+      image: /images/Events/2024 School Events/18 speech day.jpg
+      alt: Image alt text
+  - infopic:
       title: Visit by Seongnam Foreign Language High School
       subtitle: "Global Connect Programme:"
       id: infopic
@@ -172,5 +196,12 @@ sections:
       url: /events/2024-school-events/sec-1-orientation-parents-engagement-2024/
       image: /images/Events/2024 School
         Events/Secondary_1_Orientation___Parent_Engagement_2024_Thumb_.png
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
       alt: Image alt text
 ---
