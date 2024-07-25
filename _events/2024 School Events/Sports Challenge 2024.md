@@ -14,3 +14,7 @@ nailed Floorball and Table Tennis. Our Secondary Four and Five students
 dominated in Tchoukball, Badminton, and Football. Our Individual Fitness
 Challenges and Mind Games like I-Chess and Scrabble were a hit too! Congrats
 to all the winners and our Overall Best Class winners!</p>
+<div class="iframe-wrapper">
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT_uzBOaF-t2-l_rQEbMYosdL5NPoQvpBR_nRjgCHADCWWpCtq2RTsgEXJFyYjgzQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
