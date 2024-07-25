@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2024 School Events/Learning Journey to Mandai Bird Park.md
       - 2024 School Events/Discovery Week.md
       - 2024 School Events/Kindness Week.md
       - 2024 School Events/Sports Challenge 2024.md
