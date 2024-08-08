@@ -2,6 +2,8 @@ collections:
   events:
     output: true
     order:
+      - "2024 School Events/Global Connect Programme: Visit by Shinkamigoto
+        Education Board.md"
       - 2024 School Events/Racial Harmony Day.md
       - 2024 School Events/Maths Fiesta 2024.md
       - 2024 School Events/NCC Day.md
