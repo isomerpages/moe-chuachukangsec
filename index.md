@@ -23,6 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Visit by Shinkamigoto Education Board
+      subtitle: Global Connect Programme
+      id: infopic
+      button: Read more
+      url: /events/global-connect-programme-visit-by-shinkamigoto-education-board/
+      image: /images/Events/2024 School Events/27 hosting of japanese students.jpg
+      alt: Image alt text
+  - infopic:
       title: Racial Harmony Day
       subtitle: Events
       id: infopic
