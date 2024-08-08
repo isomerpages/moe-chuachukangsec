@@ -17,3 +17,8 @@ cultural activities such as tie-dyeing bags, and painting Pongal pots.
 Our guests went for a walk around the Teck Whye and Chua Chu Kang neighbourhood
 and even had the chance to experience virtual reality in education. It
 was truly a memorable day for them indeed!</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTDFXiPrHVXYtHyxesveTDtra_ZooY-6HpBDycD1rvfmEmhJQ4SK6QxSSmCaNfuAg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
