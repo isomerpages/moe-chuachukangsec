@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss</p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ong Yun Ping</p>
@@ -36,13 +36,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss</p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Elspeth Xie Xinyi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (English Language)</p>
+<p>Level Head (English Language)</p>
 </td>
 </tr>
 <tr>

@@ -23,6 +23,22 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Hockey C Div
+      subtitle: Events
+      id: infopic
+      button: Read more
+      url: /events/hockey-c-div/
+      image: /images/Events/2024 School Events/29 hockey c div.jpg
+      alt: Image alt text
+  - infopic:
+      title: National Day Celebration 2024
+      subtitle: Events
+      id: infopic
+      button: Read more
+      url: /events/national-day-celebration-2024/
+      image: /images/Events/2024 School Events/28 national day celebrations 2024.jpg
+      alt: Image alt text
+  - infopic:
       title: Visit by Shinkamigoto Education Board
       subtitle: Global Connect Programme
       id: infopic
