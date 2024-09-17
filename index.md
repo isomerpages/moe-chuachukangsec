@@ -23,6 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Teachers's Day Celebrations
+      subtitle: Events
+      id: infopic
+      button: Read more
+      url: /events/teachers-s-day-celebrations/
+      image: /images/Events/2024 School Events/30 teachers_day_cover.jpg
+      alt: Image alt text
+  - infopic:
       title: Hockey C Div
       subtitle: Events
       id: infopic
