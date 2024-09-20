@@ -25,5 +25,5 @@ students’ sense of civic responsibility and encourage future engagement
 to serve the community and insiping others to participate and contribute
 with the belief that it will create a positive ripple effect to society.</p>
 <p></p>
-<p><a href="https://go.gov.sg/cckssvia" rel="noopener nofollow" target="_blank">https://go.gov.sg/cckssvia</a>
+<p>Link to CCKSS VIA Marketplace google site: <a href="https://go.gov.sg/cckssvia" rel="noopener nofollow" target="_blank">https://go.gov.sg/cckssvia</a>
 </p>
