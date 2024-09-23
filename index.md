@@ -23,6 +23,22 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Via Carnival
+      subtitle: events
+      id: infopic
+      button: Read more
+      url: /events/via-carnival/
+      image: /images/Events/2024 School Events/31 via_carnival_website_cover.jpg
+      alt: Image alt text
+  - infopic:
+      title: Mid Autumn Family Night
+      subtitle: Events
+      id: infopic
+      button: read more
+      url: /events/mid-autumn-family-night/
+      image: /images/Events/2024 School Events/30 mid autumn family night cover.jpg
+      alt: Image alt text
+  - infopic:
       title: Teachers's Day Celebrations
       subtitle: Events
       id: infopic
