@@ -23,6 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Via Carnival
+      subtitle: events
+      id: infopic
+      button: Read more
+      url: /events/via-carnival/
+      image: /images/Events/2024 School Events/31 via_carnival_website_cover.jpg
+      alt: Image alt text
+  - infopic:
       title: Mid Autumn Family Night
       subtitle: Events
       id: infopic
@@ -292,13 +300,5 @@ sections:
       url: /events/2024-school-events/sec-1-orientation-parents-engagement-2024/
       image: /images/Events/2024 School
         Events/Secondary_1_Orientation___Parent_Engagement_2024_Thumb_.png
-      alt: Image alt text
-  - infopic:
-      title: Via Carnival
-      subtitle: events
-      id: infopic
-      button: Read more
-      url: /events/via-carnival/
-      image: /images/Events/2024 School Events/31 via_carnival_website_cover.jpg
       alt: Image alt text
 ---
