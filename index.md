@@ -301,4 +301,12 @@ sections:
       image: /images/Events/2024 School
         Events/Secondary_1_Orientation___Parent_Engagement_2024_Thumb_.png
       alt: Image alt text
+  - infopic:
+      title: Sec 4&5 Graduation Day
+      subtitle: Events
+      id: infopic
+      button: Read more
+      url: /events/sec-4-5-graduation-day/
+      image: /images/Events/2024 School Events/33 sec 4&5 graduation day.jpg
+      alt: Image alt text
 ---
