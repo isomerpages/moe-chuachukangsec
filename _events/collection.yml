@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2024 School Events/Sec 4&5 Graduation Day.md
       - 2024 School Events/VIA Carnival.md
       - 2024 School Events/Mid Autumn Family Night.md
       - 2024 School Events/Teachers's Day Celebrations.md
