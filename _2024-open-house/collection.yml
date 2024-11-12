@@ -2,5 +2,5 @@ collections:
   2024-open-house:
     output: true
     order:
-      - FREQUENTLY ASKED QUESTIONS (FAQs).md
       - Open House.md
+      - FREQUENTLY ASKED QUESTIONS (FAQs).md
