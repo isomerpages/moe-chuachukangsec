@@ -36,7 +36,7 @@ sections:
       id: infopic
       button: Read more
       url: /events/via-carnival/
-      image: /images/Events/2024 School Events/31 via_carnival_website_cover.jpg
+      image: /images/Events/2024 School Events/32 via_carnival_website_cover.jpg
       alt: Image alt text
   - infopic:
       title: Mid Autumn Family Night
@@ -44,7 +44,7 @@ sections:
       id: infopic
       button: read more
       url: /events/mid-autumn-family-night/
-      image: /images/Events/2024 School Events/30 mid autumn family night cover.jpg
+      image: /images/Events/2024 School Events/31 mid autumn family night cover.jpg
       alt: Image alt text
   - infopic:
       title: Teachers's Day Celebrations
