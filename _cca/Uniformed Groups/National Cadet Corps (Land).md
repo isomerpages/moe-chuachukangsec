@@ -204,6 +204,7 @@ leaders and team players through fun and challenging military-related activities
 </p>
 <p><strong><u>Unit Recognition Award (for both Land and Sea units)</u></strong>
 </p>
+<p>2023: Distinction</p>
 <p>2022: Distinction</p>
 <p>2021: Distinction</p>
 <p>2020: Distinction</p>
@@ -211,7 +212,22 @@ leaders and team players through fun and challenging military-related activities
 </p>
 <p><strong><u>Other Achievements</u></strong>
 </p>
-<p>Outstanding Contribution Award (2023)</p>
+<p><strong>Outstanding Contribution Award (2024):</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wong Qi Zhi 4A</p>
+</li>
+<li>
+<p>Kulandaisamy Nithish Xavier 4C</p>
+</li>
+</ul>
+<p></p>
+<p><strong>3rd place in Frisbee for Sports Championship Preliminaries (2024)</strong>
+</p>
+<p></p>
+<p><strong>Outstanding Contribution Award (2023)</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>ARI SYUKRI BIN HARDI&nbsp; 4D</p>
@@ -224,8 +240,10 @@ leaders and team players through fun and challenging military-related activities
 </li>
 <li>
 <p>LUR SHYE HAN&nbsp;4/6</p>
+<p></p>
 </li>
 </ul>
+<p></p>
 <p><strong>Announcement</strong>
 </p>
 <ul data-tight="true" class="tight">
