@@ -23,6 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: 2024 Open House
+      subtitle: Events
+      id: infopic
+      button: Read More
+      url: /2024-open-house/open-house/
+      image: /images/Events/2024 School Events/2024_Open_House_Poster.jpg
+      alt: Image alt text
+  - infopic:
       title: Sec 4&5 Graduation Day
       subtitle: Events
       id: infopic
