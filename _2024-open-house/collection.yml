@@ -2,5 +2,6 @@ collections:
   2024-open-house:
     output: true
     order:
+      - CCKSS Corporate Video.md
       - Open House.md
       - Frequently Asked Questions (FAQs).md
