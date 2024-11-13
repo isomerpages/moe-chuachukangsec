@@ -23,6 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Open House
+      subtitle: Events
+      id: infopic
+      button: Read More
+      url: /2024-open-house/open-house/
+      image: /images/Events/2024 School Events/2024_Open_House_Poster.jpg
+      alt: Image alt text
+  - infopic:
       title: Sec 4&5 Graduation Day
       subtitle: Events
       id: infopic
@@ -36,7 +44,7 @@ sections:
       id: infopic
       button: Read more
       url: /events/via-carnival/
-      image: /images/Events/2024 School Events/31 via_carnival_website_cover.jpg
+      image: /images/Events/2024 School Events/32 via_carnival_website_cover.jpg
       alt: Image alt text
   - infopic:
       title: Mid Autumn Family Night
@@ -44,7 +52,7 @@ sections:
       id: infopic
       button: read more
       url: /events/mid-autumn-family-night/
-      image: /images/Events/2024 School Events/30 mid autumn family night cover.jpg
+      image: /images/Events/2024 School Events/31 mid autumn family night cover.jpg
       alt: Image alt text
   - infopic:
       title: Teachers's Day Celebrations
