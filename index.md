@@ -23,7 +23,7 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
-      title: 2024 Open House
+      title: Open House
       subtitle: Events
       id: infopic
       button: Read More
