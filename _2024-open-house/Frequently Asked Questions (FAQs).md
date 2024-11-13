@@ -282,7 +282,7 @@ at a more demanding level based on their performance in secondary school</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>PG1</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -296,6 +296,9 @@ at a more demanding level based on their performance in secondary school</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>PG1</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>AL 6</p>
 </td>
@@ -720,7 +723,7 @@ a call as soon as he/she reads the message after school dismissal.</p>
 <p>&nbsp;</p>
 <p><strong>12.&nbsp; TEACHERS</strong>
 </p>
-<p>&nbsp;<strong>12.1 How are the teaching staff like?</strong>
+<p><strong>12.1 How are the teaching staff like?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
