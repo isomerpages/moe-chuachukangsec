@@ -4,14 +4,12 @@ permalink: /2024-open-house/frequently-asked-questions-faqs/
 variant: tiptap
 description: ""
 ---
-<p>&nbsp;</p>
 <p><strong>1.&nbsp;CUT-OFF POINTS</strong>
 </p>
-<p><strong>&nbsp;1.1&nbsp; What is the school’s indicative PSLE Score range?</strong>
+<p><strong>1.1&nbsp; What is the school’s indicative PSLE Score range?</strong>
 </p>
-<p>&nbsp;</p>
-<p>Based on students posted to Sec 1 in 2024:</p>
-<p>&nbsp;</p>
+<p>&nbsp;Based on students posted to Sec 1 in 2024:</p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -40,40 +38,32 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>Achievement Level (AL)</p>
-<p><em>&nbsp;</em>
+<p>&nbsp;Achievement Level (AL)<em>&nbsp;</em>
 </p>
 <p><em>(Source: MOE SchoolFinder)</em>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;14 – 20</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>14 – 20</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>21 – 24</p>
+<p>&nbsp;21 – 24</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>25 – 27</p>
+<p>&nbsp;25 – 27</p>
 <p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p><strong>Remarks:</strong>
 </p>
 <p>Meeting the indicative cut-off point (COP) does not guarantee admission
 to the school. The current year’s PSLE Score ranges may vary, depending
 on the demand pattern and cohort size.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>2.&nbsp;SCHOOL HOURS</strong>
 </p>
 <p><strong>2.1&nbsp; What are the school’s start and end times?</strong>
@@ -83,26 +73,23 @@ on the demand pattern and cohort size.</p>
 <p>Morning flag-raising will begin at 0800. Students must be punctual for
 school and are encouraged to report earlier before 0750 to do quiet reading
 to prepare for the school day. Lessons will generally end between 2.30pm
-to 3.30pm.</p>
+to 3.30pm.&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>3.&nbsp;NUMBER OF SEC 1 CLASSES FOR 2024</strong>
 </p>
 <p><strong>3.1&nbsp; How many classes are there for Secondary 1 in 2024?</strong>
 </p>
-<p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>In 2024, we had 7 Full Subject Based Banding (FSBB) classes. They were
 mixed classes of students taking subjects at G1, G2 and G3 levels.</p>
 </li>
 </ul>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HIGHER MOTHER TONGUE LANGUAGES (HMTL) – FOR STUDENTS TAKING G3 MTL <u>ONLY</u></strong>
+<p></p>
+<p><strong>4.&nbsp;HIGHER MOTHER TONGUE LANGUAGES (HMTL) – FOR STUDENTS TAKING G3 MTL <u>ONLY</u></strong>
 </p>
-<p><strong>&nbsp;4.1&nbsp; Does CCKSS offer Higher MT languages for CL, ML &amp; TL?</strong>
+<p><strong>4.1&nbsp; Does CCKSS offer Higher MT languages for CL, ML &amp; TL?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -120,8 +107,6 @@ do not need to travel to other centres to take HMTL.</p>
 before they can be offered HMTL.</p>
 </li>
 </ul>
-<p><em>&nbsp;</em>
-</p>
 <p><strong>4.2&nbsp; Other Important Information:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -163,7 +148,7 @@ However, this arrangement is reviewed on a yearly basis.&nbsp;</p>
 <p>The subjects offered for Sec 3 Express students in 2024 are English Language,
 Mother Tongue, Higher Mother Tongue, Mathematics, Additional Mathematics,
 Principles of Accounts, Pure Science (Chemistry, Physics, Biology), Combined
-Science (Physics/Chemistry or Chemistry/Biology), Humanities<sup>1</sup>(Core
+Science (Physics/Chemistry or Chemistry/Biology), Humanities<sup>1</sup> (Core
 History, Social Studies with Elective History, Elective Geography, Elective
 Literature) and Coursework Subjects (Art, Design &amp; Technology or Nutrition
 &amp; Food Science).</p>
@@ -172,7 +157,7 @@ Literature) and Coursework Subjects (Art, Design &amp; Technology or Nutrition
 <p>The subjects offered at Sec 3NA in 2024 were English Language, Mother
 Tongue, Mathematics, Additional Mathematics, Principles of Accounts and
 Combined Sciences (Physics/Chemistry or Chemistry/Biology), Humanities
-(Social Studies (with Elective Geography/Elective History) and Coursework
+(Social Studies with Elective Geography/Elective History) and Coursework
 Subjects (Art, Design &amp; Technology and Nutrition &amp; Food Science).</p>
 </li>
 <li>
@@ -193,11 +178,13 @@ may be offered the opportunity to take the subject at a higher academic
 level.</p>
 </li>
 </ul>
-<p><em><sup>1</sup>Students who opt for Core History must take up Combined Humanities (Social Studies and Elective Geography or Elective Literature); students who opt for Core Geography must take up Combined Humanities (Social Studies and Elective History or Elective Literature)</em>
-</p>
 <p></p>
+<p><sup>1</sup>Students who opt for Core History must take up Combined Humanities
+(Social Studies and Elective Geography or Elective Literature); students
+who opt for Core Geography must take up Combined Humanities (Social Studies
+and Elective History or Elective Literature)</p>
 <p></p>
-<p><strong>6.&nbsp;&nbsp;FULL SUBJECT BASED BANDING</strong>
+<p><strong>6.&nbsp;FULL SUBJECT BASED BANDING</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -231,8 +218,7 @@ under Full SBB.</p>
 </li>
 <li>
 <p>Beyond the start of Secondary One, students may also offer these subjects
-at a more demanding level based on their performance in secondary school</p>
-<p></p>
+at a more demanding level based on their performance in secondary school&nbsp;</p>
 </li>
 </ul>
 <table style="minWidth: 100px">
@@ -311,7 +297,6 @@ at a more demanding level based on their performance in secondary school</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students in schools that are implementing Full SBB will also be able to
@@ -321,7 +306,7 @@ The criteria for taking Humanities at a more demanding level will be based
 on students' aptitude for and interest in these subjects at Secondary One.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -405,27 +390,27 @@ or more Humanities subjects at a more demanding level)</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Under Full SBB, the GCE N and O Level examinations will be replaced with
-the new Singapore-Cambridge Secondary Education Certificate (SEC) examinations.
-This will apply for the 2024 Secondary One cohort. From 2027, the national
-certification will reflect the subject level at which each subject is taken.</p>
+<p>Under Full SBB, the GCE ‘N’ and ‘O’ Level examinations will be replaced
+with the new Singapore-Cambridge Secondary Education Certificate (SEC)
+examinations. This will apply for the 2024 Secondary One cohort. From 2027,
+the national certification will reflect the subject level at which each
+subject is taken.</p>
 </li>
 </ul>
-<p>&nbsp;&nbsp;</p>
-<p><strong>7.&nbsp;PERSONAL LEARNING DEVICE (PLD)</strong>
+<p><strong>7. PERSONAL LEARNING DEVICE (PLD)</strong>
 </p>
-<p><strong>7.1&nbsp; Will my child/ward get a Personal Learning Device next year?</strong>
+<p><strong>7.1&nbsp; Will my child / ward get a Personal Learning Device next year?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>As part of the National Digital Literacy Programme, every secondary student
 would have their own Personal Learning Device (PLD) at Secondary 1. Parents
-will need to opt in to the programme so that the school can make a bulk
-purchase. Students can pay for the device through their Edusave accounts.
-For students from lower-income households, further subsidies are provided.</p>
+/ guardians will need to opt in to the programme so that the school can
+make a bulk purchase. Students can pay for the device through their Edusave
+accounts. For students from lower-income households, further subsidies
+are provided.</p>
 </li>
 <li>
 <p>The PLD that is used by Chua Chu Kang Secondary students currently is
@@ -435,8 +420,7 @@ in schools, PLDs will better support teaching and learning and develop
 students' digital literacies.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>8.&nbsp;CO-CURRICULAR ACTIVITIES (CCAs)</strong>
 </p>
 <p><strong>8.1 How many CCAs are there?</strong>
@@ -459,7 +443,7 @@ Netball (Girls) and Taekwondo &amp; Wushu.</p>
 (Media Production) and Robotics.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>8.2 Are CCAs compulsory?</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -474,7 +458,7 @@ to participate in one CCA.</p>
 made. Approval to change CCA will be given on a case-by-case basis.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>8.3 How many days of CCA do students have to attend?</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -493,14 +477,13 @@ made. Approval to change CCA will be given on a case-by-case basis.</p>
 <li>
 <p>Alternate Fridays: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 1415 to 1730</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;&nbsp;</p>
-<p><strong>9.&nbsp;SPECIAL PROGRAMMES</strong>
+<p><strong>9. SPECIAL PROGRAMMES</strong>
 </p>
 <p><strong>9.1 What Special Programmes are offered in CCKSS?</strong>
 </p>
-<p>&nbsp;</p>
 <p><strong><u>Applied Learning Programme (ALP): Sustainable Living for a Resilient Future</u></strong>
 </p>
 <p><strong>Overview:</strong>
@@ -527,6 +510,7 @@ three main pillars:</p>
 <p>Green Conservation</p>
 </li>
 </ul>
+<p></p>
 <p><strong>Objectives:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -543,6 +527,7 @@ adaptability, critical thinking, and inventiveness.</p>
 identify problems using design thinking.</p>
 </li>
 </ul>
+<p></p>
 <p><strong>Tiered Development (5 Es):</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -557,9 +542,9 @@ and brainstorm diverse solutions with a focus on empathy and exploration.</p>
 <li>
 <p><strong>Tier 3 - Experiment &amp; Excel</strong>: Prototype and refine
 sustainable solutions through hands-on experimentation.</p>
-<p></p>
 </li>
 </ul>
+<p></p>
 <p><strong><u>Orchid Hybridisation Programme (Biology)</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -574,8 +559,7 @@ out the hybridisation process under laboratory conditions and try their
 hands at creating new orchid hybrids.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong><u>Immersive Classroom (Virtual Reality)</u></strong>
+<p>&nbsp;<strong><u>Immersive Classroom (Virtual Reality)</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -630,9 +614,9 @@ community.</p>
 <p>To expose students to the needs of the global community, CCKSians will
 also attend the Global Connect Overseas Programme which include cultural
 immersion and community service in Secondary three.</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>10.&nbsp; TRANSPORTATION &amp; TRAFFIC</strong>
 </p>
 <p><strong>10.1 What is the traffic condition like outside school in the morning?</strong>
@@ -648,16 +632,15 @@ so that they arrive at school punctually and are in a better frame of mind
 for the school day ahead.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>10.2 Where can I drop my child off in the morning if I am driving?</strong>
+<p><strong>10.2 Where can I drop my child / ward off in the morning if I am driving?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Parents can drop their child off along at the designated drop-off point
-inside the school, after the school gate.</p>
+<p>Parents / guardians can drop their child / ward off along at the designated
+drop-off point inside the school, after the school gate.</p>
 </li>
 </ul>
-<p>&nbsp;&nbsp;</p>
+<p></p>
 <p><strong>11.&nbsp; GENERAL DISCIPLINE AND SCHOOL TONE</strong>
 </p>
 <p><strong>11.1 How is the discipline of the students in school like?</strong>
@@ -673,7 +656,6 @@ of the students in their respective levels with support from the Student
 Management Committee.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>11.2 Is the environment in the school conducive for studying?</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -691,17 +673,17 @@ towards cultivating a strong learning culture here in CCKSS.</p>
 use of study tables and chairs located outside the Computer Labs.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>11.3 Are handphones allowed in the school?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students learn well when there is order, discipline and minimal distraction.
 It is important that all CCKSians learn to be responsible and discerning
-users of technology. We would strongly advise parents, if they wish their
-children to bring a mobile phone to school, to purchase for your child
-only a simple mobile phone for communication purposes. This is to minimize
-distraction and replacement costs in the case of loss or damage.&nbsp;</p>
+users of technology. We would strongly advise parents / guardians, if they
+wish their children / ward to bring a mobile phone to school, to purchase
+for your child only a simple mobile phone for communication purposes. This
+is to minimize distraction and replacement costs in the case of loss or
+damage.&nbsp;</p>
 </li>
 <li>
 <p>In addition to the CCE and Cyber Wellness curriculum, our school has in
@@ -709,26 +691,29 @@ place the following rules and policies to ensure responsible use of mobile
 devices in school.</p>
 </li>
 <li>
-<p>Students will keep their mobile phones/electronic devices in assigned
-lockers at the start of the day. Mobile phones/electronic devices can only
-be used after the end of curriculum hours.</p>
+<p>Students will keep their mobile phones / electronic devices in assigned
+lockers at the start of the day. Mobile phones / electronic devices can
+only be used after the end of curriculum hours.</p>
 </li>
 <li>
-<p>Should parents / guardian need to contact their child / ward, or in the
+<p>Should parents / guardians need to contact their child / ward, or in the
 case of an emergency, they may call the school office. For non-emergency
-cases, they should SMS their child and leave a message for him/her to return
-a call as soon as he/she reads the message after school dismissal.</p>
+cases, they should SMS their child / ward and leave a message for him /
+her to return a call as soon as he / she reads the message after school
+dismissal.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>12.&nbsp; TEACHERS</strong>
 </p>
 <p><strong>12.1 How are the teaching staff like?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Our teachers are caring and committed to bring out the best in our students.&nbsp;
-We believe in our students’ abilities and work closely with them to help
+<p>Our teachers are caring and committed to bring out the best in our students.&nbsp;</p>
+</li>
+<li>
+<p>We believe in our students’ abilities and work closely with them to help
 them realise their full potential.</p>
 </li>
 <li>
@@ -737,26 +722,25 @@ among our teachers and this translates into better teaching and learning
 practices for our students.</p>
 </li>
 </ul>
-<p><strong>13.&nbsp; COMMUNICATION CHANNELS WITH PARENTS</strong>
+<p><strong>13.&nbsp; COMMUNICATION CHANNELS WITH PARENTS / GUARDIANS</strong>
 </p>
-<p><strong>13.1 How can parents be kept informed of school events and activities?</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Parents can be kept informed of school events and activities via the school
-website or through messages on Parents Gateway.</p>
-</li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>13.2 What are some communication channels between parents and the school?</strong>
+<p><strong>13.1 How can parents / gradians be kept informed of school events and activities?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Parents are welcome to call the school’s General Office (Tel: 67691386)
-should they have any queries.</p>
+<p>Parents / gradians can be kept informed of school events and activities
+via the school website or through messages on Parents Gateway.&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p><strong>13.2 What are some communication channels between parents / guardians and the school?</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents / guardians are welcome to call the school’s General Office (Tel:
+67691386) should they have any queries.</p>
+<p></p>
+</li>
+</ul>
 <p><strong>13.3 Is there a Parent Support Group (PSG)?</strong>
 </p>
 <ul data-tight="true" class="tight">
