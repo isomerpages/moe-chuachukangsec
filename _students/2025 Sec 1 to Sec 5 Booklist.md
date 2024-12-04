@@ -7,7 +7,7 @@ variant: tiptap
 <h5>Secondary 1</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Students/2025 Booklist/Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
+<p><a href="/files/Students/2025 Booklist/2025_S1_BOOKLIST__updated_on_29Nov2024_.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
 </p>
 </li>
 </ul>
