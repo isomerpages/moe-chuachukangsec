@@ -28,8 +28,8 @@ Do note that there are other available dates from <strong>26 - 27 December 2024<
 purchase of books and uniforms; however, <strong>19 - 23 December</strong> are
 set aside specifically for incoming Sec 1 students.</p>
 <p>For purchase of books, you may purchase online from 16 – 24 December at
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a><u> </u>and arrange for delivery
-from 27 – 30 December, subject to slots availability.</p>
+<a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>and arrange for delivery from 27
+– 30 December, subject to slots availability.</p>
 <p></p>
 <h4><strong>Step 3: Getting Ready for the First Day of School&nbsp;</strong></h4>
 <p>The school year will start on&nbsp;<strong><u>Thursday 2 Jan 2025</u></strong>.
