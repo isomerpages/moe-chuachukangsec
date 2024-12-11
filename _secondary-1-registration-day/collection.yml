@@ -1,5 +1,5 @@
 collections:
-  2024-open-house:
+  secondary-1-registration-day:
     output: true
     order:
       - Open House.md
