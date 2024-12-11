@@ -21,12 +21,15 @@ The online registration portal will be open from&nbsp;<strong>Thursday, 21 Decem
 </p>
 <p></p>
 <h4><strong>Step 2: Purchase of Books and Sale of Uniforms</strong></h4>
-<p>The sale of school uniforms and textbooks for Secondary 1 students will
-be held in our school bookshop on <strong>21 and 22 December 2023, 9am to 3pm</strong> (kindly
-avoid lunch hours: 12pm - 1pm) and <strong>23 December 2023, 9 a.m. to 11:30am</strong>.</p>
-<p>Do note that there are other available dates from <strong>26 December</strong> onwards
-for purchase of books and uniforms; however <strong>21-23 December</strong> are
+<p>The sale of books and school uniforms for Secondary 1 students will be
+held in our school bookshop on <strong>19, 20 and 23 December 2024, 9am to 3pm</strong> (kindly
+avoid lunch hours: 12pm - 1pm) and <strong>21 December 2024, 9 a.m. to 11:30am</strong>.
+Do note that there are other available dates from <strong>26 - 27 December 2024</strong> for
+purchase of books and uniforms; however, <strong>19 - 23 December</strong> are
 set aside specifically for incoming Sec 1 students.</p>
+<p>For purchase of books, you may purchase online from 16 – 24 December at
+<a rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a><u> </u>and arrange for delivery
+from 27 – 30 December, subject to slots availability.</p>
 <p></p>
 <h4><strong>Step 3: Getting Ready for the First Day of School&nbsp;</strong></h4>
 <p>The school year will start on&nbsp;<strong><u>Thursday 2 Jan 2025</u></strong>.
