@@ -11,28 +11,20 @@ am. Students will be dismissed</p>
 <p>at 12.30 pm on the first day of school. Sec 1 Orientation programme schedule
 will be given on</p>
 <p>the first day of school.</p>
-<p>&nbsp;</p>
 <h4><strong>Students should practice good personal grooming</strong>.</h4>
 <p>Male students should wear their hair short and neat. He should not keep
-a beard, moustache</p>
-<p>or long sideburns and must not dye his hair. He must keep his fingernails
-clean and short.</p>
-<p>&nbsp;</p>
+a beard, moustache or long sideburns and must not dye his hair. He must
+keep his fingernails clean and short.</p>
 <p>Female students with long hair should tie their hair neatly, with fringes
-below the eyebrow</p>
-<p>pinned up neatly, and use only dark coloured hair accessories. Cosmetics,
-nail polish</p>
-<p>or coloured contacts lenses are not allowed.</p>
-<p>&nbsp;</p>
+below the eyebrow pinned up neatly, and use only dark coloured hair accessories.
+Cosmetics, nail polish or coloured contacts lenses are not allowed.</p>
+<p></p>
 <p>Students who have not purchased their school uniform may come in their
-primary school</p>
-<p>uniform on the first day. Students who have purchased their uniforms are
-to report in full</p>
-<p>school uniform.</p>
-<p>&nbsp;</p>
+primary school uniform on the first day. Students who have purchased their
+uniforms are to report in full school uniform.</p>
+<p></p>
 <p>Students are not required to bring any books on the first day of school.
-However, students</p>
-<p>are required to bring along:</p>
+However, students are required to bring along:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Writing materials and stationery</p>
@@ -44,16 +36,11 @@ However, students</p>
 <p>Water bottle</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p>If your child is unwell or has flu-like symptoms on first day of school,
-please call the school</p>
-<p>at <strong>6769 1386</strong> to inform that he/she is unwell</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h4><strong>Sec 1 Orientation Programme (2 – 3 Jan 2025)</strong></h4>
-<p><strong>&nbsp;</strong>
-</p>
+please call the school at <strong>6769 1386</strong> to inform that he/she
+is unwell&nbsp;</p>
+<h4><strong>Sec 1 Orientation Programme (2 – 3 Jan 2025)&nbsp;</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -133,6 +120,7 @@ please call the school</p>
 </table>
 <p><em>* Muslim male students will be given time off to perform their Friday prayers between 12.45 – 2.00pm on Fri 3 Jan 2025.</em>
 </p>
+<p></p>
 <p>Note:</p>
 <ul data-tight="true" class="tight">
 <li>
