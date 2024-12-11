@@ -8,8 +8,7 @@ description: ""
 <p>Transfer requests into or out of Chua Chu Kang Secondary School following
 the Sec 1 Posting results are subject to special considerations and circumstances
 (eg: medical conditions) and available vacancies.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <h4><strong><u>Transfer Into Chua Chu Kang Secondary School</u></strong></h4>
 <p>To appeal for transfer <em>into </em>Chua Chu Kang Secondary School, please
 click on the link below for the online registration form to submit your
@@ -17,9 +16,7 @@ application. Please note that applicants will be considered based on cut-off
 point (COP) and available vacancies. Applicants will be informed if they
 are put on the waiting list. While on the waiting list, students must report
 to their current posted school.</p>
-<p>Link: <a href="https://go.gov.sg/sec1transfercckss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1transfercckss</a> 
-</p>
-<p><strong>&nbsp;</strong>
+<p>Link: <a href="https://go.gov.sg/sec1transfercckss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1transfercckss</a>
 </p>
 <h4><strong><u>Transfer Out of Chua Chu Kang Secondary School (Medical Reasons)</u></strong></h4>
 <p>To transfer <em>out</em> of Chua Chu Kang Secondary School due to medical
