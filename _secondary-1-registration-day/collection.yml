@@ -2,5 +2,6 @@ collections:
   secondary-1-registration-day:
     output: true
     order:
+      - Transfer Appeals for Sec 1 2025.md
       - First Day of School.md
       - Secondary 1 Registration Day online.md
