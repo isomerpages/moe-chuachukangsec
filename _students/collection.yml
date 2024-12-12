@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - 2024 Sec 1 to 3 EOY Examination Timetables.md
       - Timetable/.keep
       - Timetable/Class Timetable.md
       - 2025 Sec 1 to Sec 5 Booklist.md
