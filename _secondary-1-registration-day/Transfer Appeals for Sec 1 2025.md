@@ -10,9 +10,14 @@ the Secondary 1 Posting results are subject to special considerations and
 circumstances (eg: medical conditions) and available vacancies.</p>
 <h4>Transfer Out of Chua Chu Kang Secondary School (Medical Reasons)</h4>
 <p>Students who require a transfer due to serious medical conditions or severe
-physical impairments, may appeal directly to Chua Chu Kang Secondary School
-by <strong>12 pm on 19 December 2024</strong>. Parents/Guardians are to
-proceed to the General Office to complete and submit the appeal form.</p>
+physical impairments, may apply directly thorough Chua Chu Kang Secondary
+School under the MOE Medical Appeal Exercise (MAE) by <strong>12 pm on 19 December 2024</strong>.
+Parents/Guardians are to proceed to the General Office to complete and
+submit the appeal form.</p>
+<p></p>
+<h4>Transfer Out of Chua Chu Kang Secondary School (Non-Medical Reasons)</h4>
+<p></p>
+<p></p>
 <p></p>
 <h4>Transfer Into Chua Chu Kang Secondary School</h4>
 <p>To appeal for transfer into Chua Chu Kang Secondary School, please click
