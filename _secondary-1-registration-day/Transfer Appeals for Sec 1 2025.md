@@ -4,10 +4,6 @@ permalink: /transfer-appeals-for-sec-1-2025/
 variant: tiptap
 description: ""
 ---
-<h4>School Transfer Appeals After Release of Sec 1 Posting</h4>
-<p>Transfer requests into or out of Chua Chu Kang Secondary School following
-the Secondary 1 Posting results are subject to special considerations and
-circumstances (eg: medical conditions) and available vacancies.</p>
 <h4>Transfer Out of Chua Chu Kang Secondary School (Medical Reasons)</h4>
 <p>Students who require a transfer due to serious medical conditions or severe
 physical impairments, may apply directly thorough Chua Chu Kang Secondary
