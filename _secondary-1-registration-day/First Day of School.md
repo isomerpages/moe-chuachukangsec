@@ -6,12 +6,10 @@ description: ""
 ---
 <h3><strong>First Day of School</strong></h3>
 <p>On <strong>2 January 2025</strong>, students are to assemble at the School
-Hall, Level 3 for the flag raising</p>
-<p>ceremony by <strong>7.50 am</strong>. Assembly starts at <strong>8.00 am</strong>.
-Students may check for their Form Class in</p>
-<p>the school foyer before moving up to the hall. The Sec 1 Orientation programme
-schedule will</p>
-<p>be given on the first day of school.</p>
+Hall, Level 3 for the flag raising ceremony by <strong>7.50 am</strong>.
+Assembly starts at <strong>8.00 am</strong>. Students may check for their
+Form Class in the school foyer before moving up to the hall. The Sec 1
+Orientation programme schedule will be given on the first day of school.</p>
 <h4>Grooming and Attire</h4>
 <p>Male students should wear their hair short and neat. He should not keep
 a beard, moustache or long sideburns. Hair must not be dyed. Fingernails
@@ -21,13 +19,10 @@ below the eyebrow pinned up neatly and use only dark colored hair accessories.
 Hair must not be dyed. Fingernails must be kept clean and short. Cosmetics,
 nail polish or colored contacts lenses are not allowed.</p>
 <p>Students who have not purchased their school uniform may come in their
-primary school</p>
-<p>uniform during the first week of school. Students who have purchased their
-uniforms are to</p>
-<p>report in full school uniform.</p>
+primary school uniform during the first week of school. Students who have
+purchased their uniforms are to report in full school uniform.</p>
 <p>Students are not required to bring any text book on the first day of school.
-However, students</p>
-<p>are required to bring along the following:</p>
+However, students are required to bring along the following:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Writing materials and stationery</p>
@@ -40,8 +35,8 @@ However, students</p>
 </li>
 </ul>
 <p>If your child is unwell or has flu-like symptoms on first day of school,
-please call the school</p>
-<p>at <strong>6769 1386</strong> to inform that he/she is unwell</p>
+please call the school at <strong>6769 1386</strong> to inform that he/she
+is unwell</p>
 <p></p>
 <h4><strong>Sec 1 Orientation Programme (2 – 3 Jan 2025)&nbsp;</strong></h4>
 <table style="minWidth: 75px">
@@ -113,10 +108,10 @@ please call the school</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12.30 pm</p>
+<p>2.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.30 pm*</p>
+<p>5.30 pm</p>
 </td>
 </tr>
 </tbody>
