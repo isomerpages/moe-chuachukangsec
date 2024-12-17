@@ -20,7 +20,7 @@ The online registration portal will be open from <strong>18 December 2024 (Wed),
 <h4>Step 2: Purchase of Books and Sale of Uniforms</h4>
 <p>The sale of books and school uniforms for Secondary 1 students will be
 held in our school on <strong>19, 20 and 23 December 2024, 9 am to 3 pm </strong>(kindly
-avoid lunch hours: 12pm - 1pm) and <strong>21 December 2024, 9 am to 11.30 am.</strong> 
+avoid lunch hours: 12pm - 1pm) and <strong>21 December 2024, 9 am to 11.30 am.</strong>
 </p>
 <p>Do note that there are other available dates from <strong>26 - 27 December 2024 </strong>for
 purchase of books and uniforms; however, <strong>19 - 23 December 2024 </strong>are
@@ -28,11 +28,11 @@ set aside specifically for incoming Sec 1 students.</p>
 <p>For purchase of books, you may purchase online from <strong>16 – 24 December 2024 </strong>at
 <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>and arrange for delivery from <strong>27 – 30 December 2024</strong>,
 subject to slots availability.</p>
-<h4>Step 3: Getting Ready for the First Day of School </h4>
+<h4>Step 3: Getting Ready for the First Day of School</h4>
 <p>The school year will start on <strong>2 January 2025</strong>. Click on
 the (<strong><a href="/first-day-of-school/" rel="noopener nofollow" target="_blank">link</a></strong>)
 to find out more on the first day of school and Sec 1 Orientation programme.</p>
-<h4>School Transfer Appeals After Release of Sec 1 Posting </h4>
+<h4>School Transfer Appeals After Release of Sec 1 Posting</h4>
 <p>Transfer requests into or out of Chua Chu Kang Secondary School following
 the Secondary 1 Posting results are subject to special considerations and
 circumstances (eg: medical conditions) and available vacancies.</p>
@@ -50,9 +50,9 @@ on the cut-off point (COP) of the Posting Group that student is in and
 available vacancies. Applicants will be put on the waiting list after the
 submission of transfer request. While on the waiting list, students must
 report to their current posted school.</p>
-<p>Link: <a href="https://go.gov.sg/sec1transfercckss" rel="noopener nofollow" target="_blank">https://go.gov.sg/sec1transfercckss</a>
+<p>Link: <strong><a href="https://go.gov.sg/sec1transfercckss" rel="noopener nofollow" target="_blank">https://go.gov.sg/sec1transfercckss</a></strong>
 </p>
-<h4>Support </h4>
+<h4>Support</h4>
 <p>We have a strong team of teachers and administrative staff supporting
 the growth of every child in our school.</p>
 <p>Please contact the following staff if you have any queries about the Sec
