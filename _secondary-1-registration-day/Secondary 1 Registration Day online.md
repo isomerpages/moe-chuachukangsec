@@ -4,60 +4,60 @@ permalink: /secondary-1-registration-day-online/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Welcome to Chua Chu Kang Secondary School</strong></h2>
+<h4><strong>Welcome to Chua Chu Kang Secondary School</strong></h4>
 <p>Congratulations on your child’s/ward’s posting to Chua Chu Kang Secondary
-School! We look forward to welcoming you to the CCKSS family come 2025.</p>
-<p></p>
-<p>We will be conducting our Secondary 1 Registration Day online, hence parents
-or guardians <strong>are not required&nbsp;to be physically present</strong>&nbsp;in
-our school.&nbsp;</p>
-<p></p>
+School!</p>
+<p>We look forward to welcoming you to the CCKSS family come 2025.</p>
+<p>We will be conducting our Secondary 1 Registration Day online, hence parents/guardians <strong>are not required to be physically present</strong> in
+our school.</p>
 <p>Please complete the following as part of your child’s/ward’s Sec 1 Registration:</p>
 <p></p>
-<h4><strong>Step 1: Online Registration&nbsp;(Compulsory)</strong></h4>
-<p>Please complete the&nbsp;<strong>online registration</strong>&nbsp;by
-clicking on this (<strong><a href="https://go.gov.sg/sec1registration2024" rel="noopener noreferrer nofollow" target="_blank">link</a></strong>).
-The online registration portal will be open from&nbsp;<strong>Thursday, 21 December 2023, 10 am until Friday, 22 December 2023, 5 pm.(TBC)</strong>
+<h4>Step 1: Online Registration (Compulsory)</h4>
+<p>Please complete the <strong>online registration</strong> by clicking on
+this (<strong><a href="https://go.gov.sg/sec1registration2024" rel="noopener nofollow" target="_blank">link</a></strong>).
+The online registration portal will be open from <strong>18 December 2024 (Wed), 8 am until 23 December 2024 (Mon), 5 pm.</strong>
 </p>
-<p></p>
-<h4><strong>Step 2: Purchase of Books and Sale of Uniforms</strong></h4>
+<h4>Step 2: Purchase of Books and Sale of Uniforms</h4>
 <p>The sale of books and school uniforms for Secondary 1 students will be
-held in our school on <strong>19, 20 and 23 December 2024, 9am to 3pm</strong> (kindly
-avoid lunch hours: 12pm - 1pm) and <strong>21 December 2024, 9 a.m. to 11:30am</strong>.
-Do note that there are other available dates from <strong>26 - 27 December 2024</strong> for
-purchase of books and uniforms; however, <strong>19 - 23 December</strong> are
+held in our school on <strong>19, 20 and 23 December 2024, 9 am to 3 pm </strong>(kindly
+avoid lunch hours: 12pm - 1pm) and <strong>21 December 2024, 9 am to 11.30 am.</strong> 
+</p>
+<p>Do note that there are other available dates from <strong>26 - 27 December 2024 </strong>for
+purchase of books and uniforms; however, <strong>19 - 23 December 2024 </strong>are
 set aside specifically for incoming Sec 1 students.</p>
-<p>For purchase of books, you may purchase online from 16 – 24 December at
-<a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>and arrange for delivery from 27
-– 30 December, subject to slots availability.</p>
+<p>For purchase of books, you may purchase online from <strong>16 – 24 December 2024 </strong>at
+<a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>and arrange for delivery from <strong>27 – 30 December 2024</strong>,
+subject to slots availability.</p>
+<h4>Step 3: Getting Ready for the First Day of School </h4>
+<p>The school year will start on <strong>2 January 2025</strong>. Click on
+the (<strong><a href="/first-day-of-school/" rel="noopener nofollow" target="_blank">link</a></strong>)
+to find out more on the first day of school and Sec 1 Orientation programme.</p>
+<h4>School Transfer Appeals After Release of Sec 1 Posting </h4>
+<p>Transfer requests into or out of Chua Chu Kang Secondary School following
+the Secondary 1 Posting results are subject to special considerations and
+circumstances (eg: medical conditions) and available vacancies.</p>
 <p></p>
-<h4><strong>Step 3: Getting Ready for the First Day of School&nbsp;</strong></h4>
-<p>The school year will start on&nbsp;<strong><u>Thursday 2 Jan 2025</u></strong>.
-Click on the (<strong><a href="/first-day-of-school/" rel="noopener nofollow" target="_blank">link</a></strong>)
-to find out more on the first day of school and Sec 1 Orientation programme.&nbsp;</p>
-<p></p>
-<h4><strong>School Transfer Appeals After Release of Sec 1 Posting</strong></h4>
-<p>Transfer appeals into or out of Chua Chu Kang Secondary School following
-the Sec 1 Posting results are subject to special considerations and circumstances
-(e.g: medical conditions) and available vacancies.</p>
-<h4><strong>Transfer Into Chua Chu Kang Secondary School</strong></h4>
-<p>To appeal for transfer <strong><em>into</em></strong> Chua Chu Kang Secondary
-School, please click on this <strong><a href="https://go.gov.sg/sec1transfercckss" rel="noopener noreferrer nofollow" target="_blank">link</a></strong> for
-the online registration form to submit your application <strong>by 12 noon on Friday 22 December 2023</strong>.
-Please note that applicants will be considered based on cut-off point (COP)
-and available vacancies. Applicants will be informed if they are put on
-the waiting list. While on the waiting list, students must report to their
-current posted school.</p>
-<h4><strong>Transfer Out of Chua Chu Kang Secondary School (Medical reasons)</strong></h4>
-<p>To transfer out of Chua Chu Kang Secondary School due to medical reasons,
-parents/guardians are to come down to the General Office to obtain the
-transfer out form and submit the form <strong>by 12 noon on Thursday 21 December 2023</strong>  <strong>TBC</strong>.
-Any transfer out requests after this deadline will not be considered.</p>
-<h4><strong>Support&nbsp;</strong></h4>
+<h4>Transfer Out of Chua Chu Kang Secondary School (Medical Reasons)</h4>
+<p>Students who require a transfer due to serious medical conditions or severe
+physical impairments, may appeal directly to Chua Chu Kang Secondary School
+by <strong>12 pm on 19 December 2024</strong>. Parents/Guardians are to
+proceed to the General Office to complete the appeal form.</p>
+<h4>Transfer Into Chua Chu Kang Secondary School</h4>
+<p>To appeal for transfer into Chua Chu Kang Secondary School, please click
+on the link below to submit your appeal for transfer by 12 pm on 23 December
+2024. Please note that applicants for transfer will be considered based
+on the cut-off point (COP) of the Posting Group that student is in and
+available vacancies. Applicants will be put on the waiting list after the
+submission of transfer request. While on the waiting list, students must
+report to their current posted school.</p>
+<p>Link: <a href="https://go.gov.sg/sec1transfercckss" rel="noopener nofollow" target="_blank">https://go.gov.sg/sec1transfercckss</a>
+</p>
+<h4>Support </h4>
 <p>We have a strong team of teachers and administrative staff supporting
 the growth of every child in our school.</p>
 <p>Please contact the following staff if you have any queries about the Sec
 1 registration process and any other school matters.</p>
+<p></p>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
