@@ -15,10 +15,6 @@ School under the MOE Medical Appeal Exercise (MAE) by <strong>12 pm on 19 Decemb
 Parents/Guardians are to proceed to the General Office to complete and
 submit the appeal form.</p>
 <p></p>
-<h4>Transfer Out of Chua Chu Kang Secondary School (Non-Medical Reasons)</h4>
-<p></p>
-<p></p>
-<p></p>
 <h4>Transfer Into Chua Chu Kang Secondary School</h4>
 <p>To appeal for transfer into Chua Chu Kang Secondary School, please click
 on the link below to submit your appeal for transfer by <strong>12 pm on 23 December 2024</strong>.
