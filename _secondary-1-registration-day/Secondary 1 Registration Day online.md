@@ -14,7 +14,7 @@ our school.</p>
 <p></p>
 <h4>Step 1: Online Registration (Compulsory)</h4>
 <p>Please complete the <strong>online registration</strong> by clicking on
-this (<strong><a href="https://go.gov.sg/sec1registration2024" rel="noopener nofollow" target="_blank">link</a></strong>).
+this (<strong><a href="https://go.gov.sg/cckss-2025-sec1-e-registration-form" rel="noopener nofollow" target="_blank">link</a></strong>).
 The online registration portal will be open from <strong>18 December 2024 (Wed), 8 am until 23 December 2024 (Mon), 5 pm.</strong>
 </p>
 <h4>Step 2: Purchase of Books and Sale of Uniforms</h4>
@@ -50,7 +50,7 @@ on the cut-off point (COP) of the Posting Group that student is in and
 available vacancies. Applicants will be put on the waiting list after the
 submission of transfer request. While on the waiting list, students must
 report to their current posted school.</p>
-<p>Link: <strong><a href="https://go.gov.sg/sec1transfercckss" rel="noopener nofollow" target="_blank">https://go.gov.sg/sec1transfercckss</a></strong>
+<p>Link: <a href="https://go.gov.sg/cckss-2025-sec1-appeal-for-transfer-non-medical" rel="noopener nofollow" target="_blank">https://go.gov.sg/cckss-2025-sec1-appeal-for-transfer-non-medical</a>
 </p>
 <h4>Support</h4>
 <p>We have a strong team of teachers and administrative staff supporting
