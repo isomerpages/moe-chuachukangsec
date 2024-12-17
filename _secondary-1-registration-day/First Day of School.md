@@ -14,15 +14,12 @@ schedule will</p>
 <p>be given on the first day of school.</p>
 <h4>Grooming and Attire</h4>
 <p>Male students should wear their hair short and neat. He should not keep
-a beard, moustache</p>
-<p>or long sideburns. Hair must not be dyed. Fingernails must be kept clean
-and short.</p>
+a beard, moustache or long sideburns. Hair must not be dyed. Fingernails
+must be kept clean and short.</p>
 <p>Female students with long hair should tie their hair neatly, with fringes
-below the eyebrow</p>
-<p>pinned up neatly and use only dark colored hair accessories. Hair must
-not be dyed. Fingernails</p>
-<p>must be kept clean and short. Cosmetics, nail polish or colored contacts
-lenses are not allowed.</p>
+below the eyebrow pinned up neatly and use only dark colored hair accessories.
+Hair must not be dyed. Fingernails must be kept clean and short. Cosmetics,
+nail polish or colored contacts lenses are not allowed.</p>
 <p>Students who have not purchased their school uniform may come in their
 primary school</p>
 <p>uniform during the first week of school. Students who have purchased their
