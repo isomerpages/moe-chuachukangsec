@@ -4,7 +4,7 @@ permalink: /transfer-appeals-for-sec-1-2025/
 variant: tiptap
 description: ""
 ---
-<h4>School Transfer Appeals After Release of Sec 1 Posting </h4>
+<h4>School Transfer Appeals After Release of Sec 1 Posting</h4>
 <p>Transfer requests into or out of Chua Chu Kang Secondary School following
 the Secondary 1 Posting results are subject to special considerations and
 circumstances (eg: medical conditions) and available vacancies.</p>
@@ -21,7 +21,7 @@ Please note that applicants will be considered based on the cut-off point
 (COP) of the Posting Group and available vacancies. Applicants will be
 put on the waiting list after the submission of transfer request. While
 on the waiting list, students must report to their current posted school.</p>
-<p>Link: <strong><a href="https://go.gov.sg/sec1transfercckss" rel="noopener nofollow" target="_blank">https://go.gov.sg/sec1transfercckss</a></strong> 
+<p>Link: <a href="https://go.gov.sg/cckss-2025-sec1-appeal-for-transfer-non-medical" rel="noopener nofollow" target="_blank">https://go.gov.sg/cckss-2025-sec1-appeal-for-transfer-non-medical</a>
 </p>
 <p></p>
 <p></p>
