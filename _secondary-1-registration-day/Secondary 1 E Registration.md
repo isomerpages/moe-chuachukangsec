@@ -8,11 +8,11 @@ description: ""
 <p>Congratulations on your child’s/ward’s posting to Chua Chu Kang Secondary
 School!</p>
 <p>We look forward to welcoming you to the CCKSS family come 2025.</p>
-<p>We will be conducting our Secondary 1 Registration Day online, hence parents/guardians <strong>are not required to be physically present</strong> in
+<p>We will be conducting our Secondary 1 E Registration, hence parents/guardians <strong>are not required to be physically present</strong> in
 our school.</p>
 <p>Please complete the following as part of your child’s/ward’s Sec 1 Registration:</p>
 <p></p>
-<h4>Step 1: Online Registration (Compulsory)</h4>
+<h4>Step 1: Secondary 1 E Registration(Compulsory)</h4>
 <p>Please complete the <strong>online registration</strong> by clicking on
 this (<strong><a href="https://go.gov.sg/cckss-2025-sec1-e-registration-form" rel="noopener nofollow" target="_blank">link</a></strong>).
 The online registration portal will be open from <strong>18 December 2024 (Wed), 8 am until 23 December 2024 (Mon), 5 pm.</strong>
