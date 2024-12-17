@@ -6,8 +6,7 @@ description: ""
 ---
 <h4><strong>Welcome to Chua Chu Kang Secondary School</strong></h4>
 <p>Congratulations on your child’s/ward’s posting to Chua Chu Kang Secondary
-School!</p>
-<p>We look forward to welcoming you to the CCKSS family come 2025.</p>
+School! We look forward to welcoming you to the CCKSS family come 2025.</p>
 <p>We will be conducting our Secondary 1 E Registration, hence parents/guardians <strong>are not required to be physically present</strong> in
 our school.</p>
 <p>Please complete the following as part of your child’s/ward’s Sec 1 Registration:</p>
