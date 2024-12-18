@@ -1,7 +1,7 @@
 ---
 title: Release of GCE N(A) and N(T) Examination Results 2024
 permalink: /students/release-of-gce-n-a-and-n-t-examination-results-2024/
-date: 2024-12-12
+date: 2024-12-13
 layout: post
 description: ""
 image: ""
