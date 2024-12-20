@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Traffic Management Plan.md
       - Principal's Foreword.md
       - School History/.keep
       - School History/History.md
