@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - 2025 Secondary 1 Class Allocation.md
       - Release of GCE N(A) and N(T) Examination Results 2024.md
       - Timetable/.keep
       - Timetable/Class Timetable.md
