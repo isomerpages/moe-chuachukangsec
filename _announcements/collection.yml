@@ -2,5 +2,4 @@ collections:
   announcements:
     output: true
     order:
-      - 2025 Secondary 1 Class Allocation.md
       - CCA Announcement.md
