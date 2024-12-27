@@ -2,6 +2,7 @@ collections:
   secondary-1-registration-day:
     output: true
     order:
+      - 2025 Secondary 1 Class Allocation.md
       - Secondary 1 E Registration.md
       - First Day of School.md
       - Transfer Appeals for Sec 1 2025.md
