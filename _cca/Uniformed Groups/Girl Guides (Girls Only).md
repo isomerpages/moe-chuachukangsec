@@ -202,7 +202,7 @@ to a Girl Guide)</p>
 <p>1500 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5A Classroom</p>
+<p>4H &amp; 5A Classroom</p>
 </td>
 </tr>
 <tr>
@@ -213,7 +213,7 @@ to a Girl Guide)</p>
 <p>1415 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5A Classroom</p>
+<p>4H &amp; 5A Classroom</p>
 </td>
 </tr>
 </tbody>
