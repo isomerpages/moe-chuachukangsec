@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -30,33 +35,8 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher in charge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Elspeth Xie Xinyi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:xie_xinyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xie_xinyi@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ng Yen Hui Ivy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_yen_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yen_hui@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>About us</strong>
 </p>
 <p>In the Art and Crafts Club, we strongly believe art is an avenue to express
@@ -66,7 +46,6 @@ digital art, watercolour, clay sculpting and others. Under the assistance
 of teachers and senior members, every member is able to produce his or
 her best pieces of art. Art &amp; Crafts Club also creates opportunities
 to enhance art makings between our students and the community collaboration.</p>
-<p></p>
 <p><strong>Key Programmes and Achievements</strong>
 </p>
 <p><strong>2023</strong>
@@ -86,11 +65,16 @@ Prize)</p>
 <p>Nagomi Art @ Creative Art Festival</p>
 </li>
 </ul>
-<p></p>
 <p><strong>Announcement</strong>
 </p>
-<p>Training Days and hours</p>
-<table>
+<p><strong>(a) Training Days and Hours</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -105,7 +89,7 @@ Prize)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday</p>
+<p>Wednesdays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1500 to 1730</p>
@@ -122,7 +106,7 @@ Prize)</p>
 <p>1430 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Art Room 1</p>
 </td>
 </tr>
 </tbody>
