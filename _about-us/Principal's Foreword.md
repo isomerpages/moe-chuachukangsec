@@ -8,38 +8,27 @@ variant: markdown
 		 
 <img src="/images/About%20Us/Mr%20Cheng.jpeg" style="width:183px;height:240px;margin-left:15px;" align="right">
 
-Welcome to Chua Chu Kang Secondary School!
+We began our journey as a merged school with the theme “Together, A New Beginning” in our first year, progressed to “Stronger Together” in the second year, and now, as we enter our third year, we proudly embrace the theme “Together We Excel!”
 
-As we embark on a new year in 2024, I am filled with gratitude and excitement for what lies ahead. 2023 was a monumental year for us as we embraced a new beginning with the merger of Chua Chu Kang Secondary School and Teck Whye Secondary School. Our theme, "Together A New Beginning," aptly captured the spirit of unity and collaboration that defined our journey.
+Reflecting on the first two years of our merged school, I am filled with gratitude for the growth, collaboration, and achievements we have shared. These successes would not have been possible without the unwavering support and dedication of our teachers, staff, and stakeholders. Together, we have truly lived out the spirit of our 2024 school theme, Stronger Together.
 
-Building on this foundation, our theme for 2024 is "Stronger Together." This theme reflects our commitment to harnessing the strength of our combined talents, resources, and experiences to create a supportive and dynamic learning environment for our students. 
+The year 2024 marked a significant milestone as we fully integrated into a single campus, bringing together all our Secondary 1 to 5 students. With a safe and inclusive environment as our foundation, we remain steadfast in our mission to nurture the holistic well-being and growth of our students. Beyond academic excellence, we strive to equip our students with the values, skills, and knowledge they need to fulfill their potential and inspire them to make meaningful contributions to the community.
 
-The merger brought together two schools with rich histories and numerous achievements. The amalgamation of these strengths has enriched our educational programs, co-curricular activities, and facilities, offering our students a broader and more robust platform for growth and success.
+The achievements of our CCKSians reflect not only their hard work but also the dedication of our staff. Education is more than just academic results; it is about cultivating life skills, values, and character. Through Co-Curricular Activities, academic programmes, and a wide range of enriching experiences, our students have forged lifelong friendships and created lasting memories.
 
-I am incredibly proud of the dedication and hard work displayed by our students, staff, parents, and school partners throughout this transition. The success of our StartRight Programme, which facilitated goal-setting, discipline, and teamwork, is a testament to the resilience and positive spirit of our school community. The program laid the groundwork for strong teacher-student relationships and a conducive learning atmosphere.
+Our staff members, the cornerstone of the CCKSian family, have demonstrated excellence and unwavering commitment to the school and the community. Their contributions were nationally recognized, with several receiving National Day Awards for their outstanding service. Professional development initiatives, including learning journeys to explore innovative teaching approaches, have further empowered our staff to stay at the forefront of education.
 
-Our achievements in 2023 were numerous and commendable. Our Performing Arts Groups excelled in the Singapore Youth Festival Arts Presentation, our B Girls Hockey team secured a top position in the National B Division tournament, and our Uniformed Groups attained prestigious awards. These accomplishments reflect our students' talent, determination, and hard work, supported by our dedicated staff.
+We are also proud of the international exposure our students have gained through the CCKSS Global Connect programme. Overseas experiences in countries such as China, Indonesia, Thailand, and Vietnam have broadened their perspectives, deepened their understanding of Singapore's place in the global context, and strengthened their commitment to the nation.
 
-A significant milestone was the establishment of our new School Vision, Mission, and Values (VMV). These guiding principles were crafted with input from staff, parents, and the School Advisory Committee, ensuring a shared vision for our future.
+Our achievements as a school would not have been possible without the meaningful partnerships between teachers, parents, and the wider community. The African proverb, “It takes a village to raise a child,” aptly describes the spirit of our collaborative efforts. Parents, the School Advisory Committee, alumni, and community partners have been invaluable in supporting our students' holistic development through shared goals, open communication, and active involvement.
 
-**VISION** 
-<br>CCKSians with Future-Ready Mindsets and Empathetic Hearts who Act Responsibly.
+As we look forward to 2025, let us build on the strong foundation we have laid together. To all CCKSians, parents, and school partners, let us strive for even greater achievements in the years ahead, united in our commitment to providing the best for our students.
 
-**MISSION**
-<br>A Positive Environment that Empowers CCKSians to Thrive and Contribute.
+Together We Excel!
 
-**VALUES**
-<br>Respect, Resilience, Integrity, Care, Enterprise.
+Mr. Timothy Cheng
+Principal
 
-Our School Vision emphasizes the importance of preparing our students for future challenges while nurturing their empathy and responsibility. Our Mission underscores our commitment to creating an inclusive, empowering educational environment that equips students to thrive and make a positive impact on society. Through our Values, we aim to cultivate well-rounded individuals who excel academically and possess strong character and social responsibility.
-
-One of our proudest moments was the co-creation of our new School Song. This collaborative project involved teachers and students working together to create a song that embodies the heritage and aspirations of our merged school. I extend my heartfelt thanks to Mr. Anthony Chua, Ms. Jo-anne Tan, Mdm Fiona Tay, and Mr. Melvin Chan for their dedication and creativity in bringing this project to life.
-
-At Chua Chu Kang Secondary School, our students are at the heart of all we do. Our staff, parents, alumni, and community partners play vital roles in supporting our mission to provide a holistic education. With the strong foundation laid by our predecessors and the continued support from our school community, I am confident that we will rise to meet future challenges and achieve greater heights together.
-
-CCKSians, Parents, and School Partners, let us continue to work together, stronger than ever, to build on our achievements and create an even brighter future for our school.
-
-Stronger Together!
 
 
 Timothy Cheng
