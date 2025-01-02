@@ -28,7 +28,7 @@ variant: tiptap
 <p>Overall Teacher in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mohanavalli</p>
+<p>Mdm Mohanavalli (IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:balasuppramaniam_mohanavalli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">balasuppramaniam_mohanavalli@schools.gov.sg</a>
@@ -40,7 +40,7 @@ variant: tiptap
 <p>Teachers in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Amal Hayati</p>
+<p>Mdm Amal Hayati (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:amal_hayati_masali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amal_hayati_masali@schools.gov.sg</a>
@@ -147,7 +147,8 @@ to a Girl Guide)</p>
 </ul>
 <p><strong>Representations and Achievements</strong>
 </p>
-<h4>2024</h4>
+<p><strong>2024</strong>
+</p>
 <p><strong>Puan Nooraishah Award (PNA)</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -157,14 +158,20 @@ to a Girl Guide)</p>
 </ul>
 <p><strong>West Division Day 2024 Online Quiz and Recyclable Diorama Competition</strong>
 </p>
+<p>3rd Prize</p>
+<p><strong>2023</strong>
+</p>
+<p><strong>Puan Nooraishah Award (PNA)</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>3rd Prize</p>
+<p>Gold</p>
 </li>
 </ul>
 <p><strong>Announcement</strong>
 </p>
-<p>(a) Training Days and Timing</p>
+<p><strong>(a) Training Days and Hours</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -190,7 +197,7 @@ to a Girl Guide)</p>
 <td rowspan="1" colspan="1">
 <p>1500 to 1730</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>3G Classroom</p>
 </td>
 </tr>
@@ -200,6 +207,9 @@ to a Girl Guide)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1415 to 1730</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3G Classroom</p>
 </td>
 </tr>
 </tbody>
