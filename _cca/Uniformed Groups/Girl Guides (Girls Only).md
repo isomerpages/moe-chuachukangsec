@@ -214,7 +214,7 @@ to a Girl Guide)</p>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPNmcd1ytP2KRhpaVxezxJL41o098HJVg9EoV-DRAdIADPg_33oFI8ptS2g9teng/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/441251766_418060684514196_5818076617512898488_n.jpg">
 </div>
 <p></p>
