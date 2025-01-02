@@ -6,29 +6,58 @@ third_nav_title: CCE Curriculum
 variant: tiptap
 ---
 <h3>MOE Cyber Wellness Resources for Parents</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Cyber Wellness</a>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="/files/Connecting_with_your_child_about_screen_time__For_Sec_and_Pri_.pdf" rel="noopener nofollow" target="_blank">Connecting with your child about screen time</a>
 </p>
-</li>
-<li>
-<p><a href="https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents" rel="noopener noreferrer nofollow" target="_blank">Better Internet SG</a>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Tips_for_talking_to_your_child_about_device_usage__For_Sec_and_Pri_.pdf" rel="noopener nofollow" target="_blank">Tips for talking to your child about device usage</a></strong>
 </p>
-</li>
-<li>
-<p><a href="https://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://sure.nlb.gov.sg/</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/How_You_Can_Play_An_Active_Role_In_Keeping_Your_Child_Safe_Online.pdf" rel="noopener nofollow" target="_blank">How you can play an active role in keeping your child safe online</a></strong>
 </p>
-</li>
-<li>
-<p><a href="https://www.help123.sg/" rel="noopener noreferrer nofollow" target="_blank">Help 123</a>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Additional Resources for Parents</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="https://www.nlb.gov.sg/main/site/sure-elevated" rel="noopener nofollow" target="_blank">https://www.nlb.gov.sg/main/site/sure-elevated</a>
 </p>
-</li>
-</ul>
-<p>Management of Screen Time</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.betterinternet.sg/Resources/Resources-Listing?topic=screen%20time&amp;persona=parents" rel="noopener noreferrer nofollow" target="_blank">Resources for parents</a>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.csa.gov.sg/Tips-Resource/Resources/gosafeonline" rel="noopener nofollow" target="_blank">https://www.csa.gov.sg/Tips-Resource/Resources/gosafeonline</a></strong>
 </p>
-</li>
-</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.mlc.sg/" rel="noopener nofollow" target="_blank">https://www.mlc.sg/</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
