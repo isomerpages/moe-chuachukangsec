@@ -120,7 +120,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (Food and Consumer Education)</p>
+<p>HOD (Craft &amp; Technology)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Fong Li Sar</p>
@@ -228,7 +228,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head&nbsp;</p>
+<p>Year Head&nbsp;(Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Stanley Tan&nbsp;</p>
@@ -240,7 +240,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head&nbsp;&nbsp;</p>
+<p>Year Head&nbsp;(Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Janna Binte Othman</p>
