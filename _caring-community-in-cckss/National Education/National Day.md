@@ -14,7 +14,6 @@ be displayed in the morning celebrations.&nbsp;</p>
 the student councillors to sing the various songs that had been composed
 for past National Days. This culminates with class or level celebrations
 linked to the year’s National Day theme and national identity in Singapore.</p>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -47,7 +46,6 @@ linked to the year’s National Day theme and national identity in Singapore.</p
 </div>
 </div>
 </div>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
