@@ -81,7 +81,7 @@ our dedicated music instructor, Mr Kenneth Lun, during band practices.</p>
 </ul>
 <p><strong>Announcement</strong>
 </p>
-<p><strong>(a) Training Days and hours</strong>
+<p><strong>(a) Training Days and Hours</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
