@@ -109,7 +109,7 @@ our dedicated music instructor, Mr Kenneth Lun, during band practices.</p>
 <p>1500 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chua Chua Kang Sec CD Shelter</p>
+<p>Chua Chua Kang Secondary School CD Shelter</p>
 </td>
 </tr>
 <tr>
@@ -120,7 +120,7 @@ our dedicated music instructor, Mr Kenneth Lun, during band practices.</p>
 <p>1415 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chua Chua Kang Sec CD Shelter</p>
+<p>Chua Chua Kang Secondary School CD Shelter</p>
 </td>
 </tr>
 </tbody>
