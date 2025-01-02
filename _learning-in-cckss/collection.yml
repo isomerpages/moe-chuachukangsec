@@ -2,7 +2,8 @@ collections:
   learning-in-cckss:
     output: true
     order:
-      - "Applied Learning Programme: Technology in Sustainability.md"
+      - "Applied Learning Programme: Sustainable Living for a Resilient
+        Future.md"
       - Departments/.keep
       - Departments/Craft and Technology.md
       - Departments/English.md
