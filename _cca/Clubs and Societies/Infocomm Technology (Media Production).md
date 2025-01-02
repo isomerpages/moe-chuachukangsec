@@ -28,10 +28,10 @@ variant: tiptap
 <p>Overall Teacher in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chin Koi Yen</p>
+<p>Mdm See Bee Keow (IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chin_koi_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_koi_yen@schools.gov.sg</a>
+<p><a href="mailto:see_bee_keow@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">see_bee_keow@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -40,22 +40,10 @@ variant: tiptap
 <p>Teacher in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tricia Anne Wu</p>
+<p>Mr Tiong Wee Teck Sebastian (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_mei_qing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_mei_qing@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nurul Izzah Md Rashid</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nurul_izzah_mohamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_izzah_mohamad@schools.gov.sg</a>
+<p><a href="mailto:tiong_wee_teck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tiong_wee_teck@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -76,40 +64,15 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zhang Xuedi</p>
+<p>Mr Chin Koi Yen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhang_xuedi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_xuedi@schools.gov.sg</a>
+<p><a href="mailto:chin_koi_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_koi_yen@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tiong Wee Teck Sebastian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tiong_wee_teck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tiong_wee_teck@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p><strong>About us</strong>
 </p>
 <p>The Infocomm Technology (Media Production) Club is a safe haven for avid
@@ -158,13 +121,13 @@ The Infocomm Technology (Media Production) Club members are ready!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fridays (odd weeks)</p>
+<p>Friday (alternate weeks)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1415 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Computer Lab 3</p>
 </td>
 </tr>
 </tbody>
