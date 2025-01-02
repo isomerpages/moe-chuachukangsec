@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -23,7 +28,7 @@ variant: tiptap
 <p>Overall Teacher in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Jia Wei</p>
+<p>Ms Ang Jia Wei (IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jia_wei_ang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jia_wei_ang@schools.gov.sg</a>
@@ -32,13 +37,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher in charge</p>
+<p>Teachers in Charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Brandon Goh Zheng Xiang</p>
+<p>Ms Natalie Neo (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_zheng_xiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_zheng_xiang@schools.gov.sg</a>
+<p><a href="mailto:natalie_neo_hui_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">natalie_neo_hui_min@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -59,22 +64,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Natalie Neo</p>
+<p>Mr Hubert Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:natalie_neo_hui_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">natalie_neo_hui_min@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Won Jia Min</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:won_jia_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">won_jia_min@schools.gov.sg</a>
+<p><a href="mailto:hubert_yeo_jing_jie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hubert_yeo_jing_jie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -196,20 +189,80 @@ Anti-Narcotics Association) (SANA)</p>
 </ul>
 <p><strong>Achievements</strong>
 </p>
-<p>Unit Overall Proficiency Award</p>
+<p><strong>Unit Recognition Award</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>2022: Gold</p>
+<p>2023: Distinction</p>
 </li>
 <li>
-<p>2021: Gold</p>
+<p>2022: Distinction</p>
+</li>
+<li>
+<p>2021: Distinction</p>
 </li>
 </ul>
 <p><strong>Other Achievements</strong>
 </p>
-<p><strong>2023 SPF-NPCC Award&nbsp;</strong>
+<p><strong>2024 SPC-NPCC Badge</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SSGT TEY ZHI JIA HARRY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SSGT MEENAKSHI KRISHNA SUNDARAM THULASI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4A</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>2024 Station Inspector Rank</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SSGT TEY ZHI JIA HARRY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SSGT KOH JIA KANG KEVAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4A</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>2023 SPF-NPCC Badge</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -231,7 +284,11 @@ Anti-Narcotics Association) (SANA)</p>
 </table>
 <p><strong>&nbsp;2023 Best Unit Cadets</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -267,12 +324,15 @@ Anti-Narcotics Association) (SANA)</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>2023 Be the Change Celebration @ Global Indian School</strong>
+<p>&nbsp;<strong>2023 Be the Change Celebration @ Global Indian School</strong>
 </p>
 <p><strong>Change Catalyst Award</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -316,16 +376,16 @@ Anti-Narcotics Association) (SANA)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p><strong>Announcement</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Training Days and hours</p>
-</li>
-</ul>
-<table>
+<p><strong>(a) Training Days and Hours</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -340,7 +400,7 @@ Anti-Narcotics Association) (SANA)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday</p>
+<p>Wednesdays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1500 to 1730</p>
@@ -357,7 +417,7 @@ Anti-Narcotics Association) (SANA)</p>
 <p>1415 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Level 3 Classroom</p>
 </td>
 </tr>
 </tbody>
