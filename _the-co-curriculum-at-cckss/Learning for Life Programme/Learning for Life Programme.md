@@ -3,6 +3,7 @@ title: Learning for Life Programme
 permalink: /the-co-curriculum-at-cckss/learning-for-life-programme/learning-for-life-programme/
 description: ""
 third_nav_title: Learning for Life Programme
+variant: markdown
 ---
 ## Serve to Lead, Lead to Serve
 
@@ -18,4 +19,4 @@ These platforms provide valuable experience for student leaders to enact what th
 
 <p></p><p>
 
-<iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTfdkqWagmO9PB3HTulcy5xuTMte8HDebuZjEt8welm3NsFXFKMJ3KP2bxjzIHFgg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></p>
+</p>
