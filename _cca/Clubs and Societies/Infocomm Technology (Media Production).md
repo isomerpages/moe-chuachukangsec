@@ -110,7 +110,7 @@ The Infocomm Technology (Media Production) Club members are ready!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday</p>
+<p>Wednesdays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1500 to 1730</p>
@@ -121,7 +121,7 @@ The Infocomm Technology (Media Production) Club members are ready!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday (alternate weeks)</p>
+<p>Fridays (alternate weeks)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1415 to 1730</p>
