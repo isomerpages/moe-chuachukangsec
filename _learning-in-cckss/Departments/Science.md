@@ -13,17 +13,6 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr</p>
 </td>
@@ -32,28 +21,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Science)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tay Su Ming</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department (Craft &amp; Technology / Applied Learning)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yasmeen Aysha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Asst Year Head&nbsp;&nbsp;(Covering)</p>
 </td>
 </tr>
 <tr>
@@ -75,7 +42,7 @@ variant: tiptap
 <p>Nurul Izzati Nizamudin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Educational Technology) (Internal)</p>
+<p>Subject Head (Educational Technology)</p>
 </td>
 </tr>
 <tr>
