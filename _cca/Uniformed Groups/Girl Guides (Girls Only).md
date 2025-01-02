@@ -270,5 +270,15 @@ to a Girl Guide)</p>
 <div class="isomer-card-title">Getting excited for West Division Day!</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/WhatsApp_Image_2025_01_02_at_16_24_18.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">We had fun at West Division Day!</div>
+</div>
+</div>
 </div>
 <p></p>
