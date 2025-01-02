@@ -158,7 +158,11 @@ to a Girl Guide)</p>
 </ul>
 <p><strong>West Division Day 2024 Online Quiz and Recyclable Diorama Competition</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>3rd Prize</p>
+</li>
+</ul>
 <p><strong>2023</strong>
 </p>
 <p><strong>Puan Nooraishah Award (PNA)</strong>
