@@ -131,8 +131,5 @@ as a growth in knowledge, confidence and other invaluable experiences.</p>
 </div>
 </div>
 </div>
-<p>Visit our social media for more photographs and updates!</p>
-<p><a href="https://www.facebook.com/CCKSians" rel="noopener nofollow" target="_blank">Facebook</a>
-</p>
-<p><a href="https://www.instagram.com/cckssofficial/" rel="noopener nofollow" target="_blank">Instagram</a>
-</p>
+<p>Check out our <a href="https://www.facebook.com/CCKSians" rel="noopener noreferrer nofollow" target="_blank">Facebook Page</a> &amp;
+<a href="https://www.instagram.com/cckssofficial/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>for more of our trip highlights!</p>
