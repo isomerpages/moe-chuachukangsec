@@ -53,7 +53,7 @@ variant: tiptap
 <p>Shanthini D/O Odayappan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Assistant Year Head (4&amp;5)</p>
 </td>
 </tr>
 <tr>
