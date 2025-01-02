@@ -214,7 +214,37 @@ to a Girl Guide)</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/441251766_418060684514196_5818076617512898488_n.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/441251766_418060684514196_5818076617512898488_n.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">A good win at the West Division Day!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2025_01_02_at_16_14_27.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Enjoying the great outdoors at Camp Christine!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2025_01_02_at_16_15_22.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Doing our part with the Girl Guide Cookie sales!</div>
+</div>
+</div>
 </div>
 <p></p>
