@@ -28,7 +28,7 @@ variant: tiptap
 <p>Overall Teacher in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yap Eng Luan Ruth</p>
+<p>Ms Yap Eng Luan Ruth (IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yap_Eng_Luan_Ruth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_Eng_Luan_Ruth@schools.gov.sg</a>
@@ -40,7 +40,7 @@ variant: tiptap
 <p>Teachers in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Pang Yew Cheng</p>
+<p>Mr Pang Yew Cheng (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pang_yew_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pang_yew_cheng@schools.gov.sg</a>
@@ -121,7 +121,7 @@ leaders and team players through fun and challenging military-related activities
 <p>Adventurous Spirit</p>
 </li>
 </ul>
-<p><strong>Key Programmes and Achievements in 2022-2023</strong>
+<p><strong>Key Programmes and Achievements in 2022-2024</strong>
 </p>
 <p><strong>Junior Cadets (Secondary 1)</strong>
 </p>
@@ -198,9 +198,7 @@ leaders and team players through fun and challenging military-related activities
 <p>Contingent for School’s National Day Parade</p>
 </li>
 </ul>
-<p><strong>Achievements</strong>
-</p>
-<p><strong>2023&nbsp;</strong>
+<p><strong>Achievements&nbsp;</strong>
 </p>
 <p><strong><u>Unit Recognition Award (for both Land and Sea units)</u></strong>
 </p>
@@ -208,49 +206,87 @@ leaders and team players through fun and challenging military-related activities
 <p>2022: Distinction</p>
 <p>2021: Distinction</p>
 <p>2020: Distinction</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong><u>Other Achievements</u></strong>
 </p>
-<p><strong>Outstanding Contribution Award (2024):</strong>
+<p><strong>Outstanding Cadet Award (2024):</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WONG QI ZHI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KULANDAISAMY NITHISH XAVIER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Frisbee for Sports Championship Preliminaries (2024):</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wong Qi Zhi 4A</p>
-</li>
-<li>
-<p>Kulandaisamy Nithish Xavier 4C</p>
+<p>3rd Place</p>
 </li>
 </ul>
-<p></p>
-<p><strong>3rd place in Frisbee for Sports Championship Preliminaries (2024)</strong>
+<p><strong>Outstanding Cadet Award (2023)</strong>
 </p>
-<p></p>
-<p><strong>Outstanding Contribution Award (2023)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>ARI SYUKRI BIN HARDI&nbsp; 4D</p>
-</li>
-<li>
-<p>IDLAN HAKIM BIN NORKHAIRUL RAMLI&nbsp; 4E</p>
-</li>
-<li>
-<p>MUHAMMAD IZZ HAKIMI BIN KHAIRUL&nbsp;4/2</p>
-</li>
-<li>
-<p>LUR SHYE HAN&nbsp;4/6</p>
-<p></p>
-</li>
-</ul>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ARI SYUKRI BIN HARDI&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IDLAN HAKIM BIN NORKHAIRUL RAMLI&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD IZZ HAKIMI BIN KHAIRUL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4/2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LUR SHYE HAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4/6</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Announcement</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Training Days and hours</p>
-</li>
-</ul>
+<p><strong>(a) Training Days and Hours</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -271,7 +307,7 @@ leaders and team players through fun and challenging military-related activities
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday</p>
+<p>Wednesdays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1430 to 1730</p>
@@ -288,12 +324,105 @@ leaders and team players through fun and challenging military-related activities
 <p>1430 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Area above NCC Room (Level 3)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vStKUhGBUbkvoOVCjeUnGOZ1_88_2Xiae4g0uG0XlwWS0cbrmsxMRhgBvTzjper_w/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Our_Seniors.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Our Seniors</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Our_scorecards_for_Air_Riffle_shoot_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Our scorecards for Air Rifle</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Laser_Run_competition_at_HQ_NCC.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Laser Run Competition at NCC HQ</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Passing_Out_Parade_cheer_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Passing Out Parade</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Reporting_Strength.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Reporting Strength</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Specialist_assessment_with_riffles.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Specialist Assessment with rifles</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Escape_Room_challenge.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Escape Room Challenge</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024_Open_House.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Open House Booth</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NE_trip_to_discovery_center.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">NE Trip to Discovery Centre</div>
+</div>
+</div>
 </div>
 <p></p>

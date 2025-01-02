@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -23,7 +28,7 @@ variant: tiptap
 <p>Overall Teacher in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hafizah Nordin</p>
+<p>Mdm Hafizah Nordin (IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hafizah_nordin_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hafizah_nordin_a@schools.gov.sg</a>
@@ -47,10 +52,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kenneth Chan</p>
+<p>Mr Goh Zhen Xiang Brandon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_fatt_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_fatt_seng@schools.gov.sg</a>
+<p><a href="mailto:goh_zhen_xiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_zhen_xiang_brandon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -101,15 +106,82 @@ workshops on how recyclable items can be upcycled into useful items. This
 year, they learnt how to make mask holders by using milk cartons. Members
 also collaborate with NParks for the Community in Nature Programme for
 schools. This programme promotes awareness about biodiversity in Singapore.</p>
-<p>
-<br><strong>Key Programmes and Achievements</strong>
+<p><strong>Key Programmes and Achievements</strong>
 </p>
+<p><strong>2024</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Community in Nature (CIN) Award: Merit</p>
+</li>
+<li>
+<p>Sustainability Advocacy Challenge (SAC): Silver</p>
+</li>
+</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Genevieve Kwee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2A2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kema Sri D/O Subramaniam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2C1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sim Jing Ying Benjamin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Yean Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Neo Zhe Xi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3C</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>2023</strong>
 </p>
-<p><strong>Nature Society of Singapore Biodiversity Race 2023: Most Unique Observation Award (Spotted Owl)</strong>
-</p>
-<p></p>
-<table>
+<ul data-tight="true" class="tight">
+<li>
+<p>Green Schools @ South West CDC 2023: 3 Stars</p>
+</li>
+<li>
+<p>Nature Society of Singapore Biodiversity Race 2023: Most Unique Observation
+Award (Spotted Owl)</p>
+</li>
+</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -149,7 +221,11 @@ schools. This programme promotes awareness about biodiversity in Singapore.</p>
 </p>
 <p><strong>National Youth Upcycling Movement (NYUM): Bronze</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -185,17 +261,22 @@ schools. This programme promotes awareness about biodiversity in Singapore.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>2023</strong>
 </p>
-<p><strong>Most Improved from 2022 to 2023 in the increase in number of observations under Nature Society Singapore, Every Singaporean a Naturalist : 2nd Place</strong>
-</p>
-<p></p>
-<p><strong>2023</strong>
-</p>
-<p><strong>Novice Naturalist Achievement: Certificate of Achievement</strong>
-</p>
-<table>
+<ul data-tight="true" class="tight">
+<li>
+<p>Most Improved from 2022 to 2023 in the increase in number of observations
+under Nature Society Singapore, Every Singaporean a Naturalist : 2nd Place</p>
+</li>
+<li>
+<p>Novice Naturalist Achievement: Certificate of Achievement</p>
+</li>
+</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -295,14 +376,15 @@ schools. This programme promotes awareness about biodiversity in Singapore.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>2022</p>
+<p><strong>2022</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Green Schools @ South West CDC 2022: 2 Stars</p>
 </li>
 </ul>
-<p>2021</p>
+<p><strong>2021</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Green Schools @ South West CDC 2021: 3 Stars</p>
@@ -318,7 +400,8 @@ schools. This programme promotes awareness about biodiversity in Singapore.</p>
 Award</p>
 </li>
 </ul>
-<p>2020</p>
+<p><strong>2020</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Green Schools @ South West CDC 2020: Gold Award</p>
@@ -327,15 +410,16 @@ Award</p>
 <p>Green Schools @ South West CDC 2020: 5-Year Environmental Champion Award</p>
 </li>
 </ul>
-<p>
-<br>
-<br>
-</p>
 <p><strong>Announcement</strong>
 </p>
-<p><strong>(a) Training Days and hours</strong>
+<p><strong>(a) Training Days and Hours</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -356,7 +440,7 @@ Award</p>
 <p>1500 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chua Chua Kang Secondary School</p>
+<p>Chua Chu Kang Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -367,7 +451,7 @@ Award</p>
 <p>1415 - 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chua Chu Kang Secondary School</p>
 </td>
 </tr>
 </tbody>

@@ -28,7 +28,7 @@ variant: tiptap
 <p>Overall Teacher in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mohanavalli</p>
+<p>Mdm Mohanavalli (IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:balasuppramaniam_mohanavalli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">balasuppramaniam_mohanavalli@schools.gov.sg</a>
@@ -40,7 +40,7 @@ variant: tiptap
 <p>Teachers in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Amal Hayati</p>
+<p>Mdm Amal Hayati (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:amal_hayati_masali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amal_hayati_masali@schools.gov.sg</a>
@@ -147,7 +147,8 @@ to a Girl Guide)</p>
 </ul>
 <p><strong>Representations and Achievements</strong>
 </p>
-<h4>2024</h4>
+<p><strong>2024</strong>
+</p>
 <p><strong>Puan Nooraishah Award (PNA)</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -162,9 +163,19 @@ to a Girl Guide)</p>
 <p>3rd Prize</p>
 </li>
 </ul>
+<p><strong>2023</strong>
+</p>
+<p><strong>Puan Nooraishah Award (PNA)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Gold</p>
+</li>
+</ul>
 <p><strong>Announcement</strong>
 </p>
-<p>(a) Training Days and Timing</p>
+<p><strong>(a) Training Days and Hours</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -190,8 +201,8 @@ to a Girl Guide)</p>
 <td rowspan="1" colspan="1">
 <p>1500 to 1730</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>3G Classroom</p>
+<td rowspan="1" colspan="1">
+<p>4H &amp; 5A Classroom</p>
 </td>
 </tr>
 <tr>
@@ -201,10 +212,83 @@ to a Girl Guide)</p>
 <td rowspan="1" colspan="1">
 <p>1415 to 1730</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>4H &amp; 5A Classroom</p>
+</td>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPNmcd1ytP2KRhpaVxezxJL41o098HJVg9EoV-DRAdIADPg_33oFI8ptS2g9teng/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/441251766_418060684514196_5818076617512898488_n.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">A good win at the West Division Day!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2025_01_02_at_16_14_27.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Enjoying the great outdoors at Camp Christine!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2025_01_02_at_16_15_22.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Doing our part with the Girl Guide Cookie sales!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/WhatsApp_Image_2025_01_02_at_16_20_05.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">West Division Learning Competition</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/WhatsApp_Image_2025_01_02_at_16_22_48.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Getting excited for West Division Day!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/WhatsApp_Image_2025_01_02_at_16_24_18.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">We had fun at West Division Day!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/WhatsApp_Image_2025_01_02_at_16_35_06.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sharing about what we do during Open House</div>
+</div>
+</div>
 </div>
 <p></p>

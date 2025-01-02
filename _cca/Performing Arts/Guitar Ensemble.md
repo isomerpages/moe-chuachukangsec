@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -23,10 +28,10 @@ variant: tiptap
 <p>Overall Teacher in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ma Ping</p>
+<p>Mdm Chin Jen Yew (IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ma_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ma_ping@schools.gov.sg</a>
+<p><a href="mailto:chin_jen_yew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_jen_yew@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -35,34 +40,10 @@ variant: tiptap
 <p>Teacher in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Ying Jo-anne</p>
+<p>Mdm Wong Wei Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_ying_jo-anne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ying_jo-anne@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Fong Kai Pew Vincent</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fong_kai_pew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fong_kai_pew@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Rahmat Hassan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:rahmat_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rahmat_hassan@schools.gov.sg</a>
+<p><a href="mailto:wong_wei_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wei_peng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -79,7 +60,6 @@ in learning a variety of performing styles and provide an enriching learning
 journey in music and guitar-playing skills. Through the activities and
 events in our CCA, we hope to provide a platform for students to establish
 lasting friendships and make music together with like-minded peers.</p>
-<p></p>
 <p><strong>Key Programmes and Achievem</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -90,17 +70,19 @@ lasting friendships and make music together with like-minded peers.</p>
 <p>Seniors Farewell</p>
 </li>
 <li>
-<p>SYF 2023: Certificate of Commendation</p>
+<p>Singapore Youth Festival 2023: Certificate of Commendation</p>
 </li>
 </ul>
 <p><strong>Announcement</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Training Days and hours</p>
-</li>
-</ul>
-<table>
+<p><strong>(a) Training Days and Hours</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -115,7 +97,7 @@ lasting friendships and make music together with like-minded peers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday</p>
+<p>Wednesdays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1500 to 1730</p>
@@ -132,7 +114,7 @@ lasting friendships and make music together with like-minded peers.</p>
 <p>1415 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Guitar Studio</p>
 </td>
 </tr>
 </tbody>
