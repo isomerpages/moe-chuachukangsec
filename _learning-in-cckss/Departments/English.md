@@ -50,6 +50,17 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Naraindran Chandrashagaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (English Literature)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ng Aik Song</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,17 +157,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lee Weng Kin, Jon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -193,43 +193,10 @@ variant: tiptap
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shakila d/o Maheswaran</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Suharti binte Saifee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Ying, Jo-Anne</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
