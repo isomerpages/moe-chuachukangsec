@@ -76,7 +76,7 @@ our dedicated music instructor, Mr Kenneth Lun, during band practices.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>SYF 2023 (Certificate of Accomplishment)</p>
+<p>Singapore Youth Festival 2023 (Certificate of Accomplishment)</p>
 </li>
 </ul>
 <p><strong>Announcement</strong>
