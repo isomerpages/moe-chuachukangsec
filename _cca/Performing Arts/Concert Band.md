@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -23,7 +28,7 @@ variant: tiptap
 <p>Overall Teacher in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Ciu Fung</p>
+<p>Lim Ciu Fung (IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_ciu_fung@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ciu_fung@schools.gov.sg</a>
@@ -32,13 +37,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teachers in charge</p>
+<p>Teacher in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chin Jen Yew</p>
+<p>Anthony Chua (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chin_jen_yew@schools.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_jen_yew@schools.edu.sg</a>
+<p><a href="mailto:chua_hong_anthony@schools.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_hong_anthony@schools.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -54,30 +59,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shakila Maheswaran</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:shakila_maheswaran@schools.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shakila_maheswaran@schools.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Anthony Chua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_hong_anthony@schools.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_hong_anthony@schools.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong>About us</strong>
@@ -87,12 +68,10 @@ The objective of a VPA CCA is to provide opportunities for students to
 develop a lifelong passion for the arts. Through activities and events,
 students will develop 21st Century Competencies, thinking skills, social
 emotional competencies and values.</p>
-<p></p>
 <p>Chua Chu Kang Secondary Concert Band aims to provide a platform for like-minded
 individuals to make music together and establish lifelong friendships.
 Students attend music theory lessons and learn a musical instrument from
 our dedicated music instructor, Mr Kenneth Lun, during band practices.</p>
-<p></p>
 <p><strong>Key Programmes and Achievements</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -100,15 +79,16 @@ our dedicated music instructor, Mr Kenneth Lun, during band practices.</p>
 <p>SYF 2023 (Certificate of Accomplishment)</p>
 </li>
 </ul>
-<p></p>
 <p><strong>Announcement</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Training Days and hours</p>
-</li>
-</ul>
-<table>
+<p><strong>(a) Training Days and hours</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -123,13 +103,13 @@ our dedicated music instructor, Mr Kenneth Lun, during band practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday</p>
+<p>Wednesdays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1500 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chua Chua Kang Sec CD shelter</p>
+<p>Chua Chua Kang Sec CD Shelter</p>
 </td>
 </tr>
 <tr>
@@ -140,14 +120,11 @@ our dedicated music instructor, Mr Kenneth Lun, during band practices.</p>
 <p>1415 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chua Chua Kang Sec CD Shelter</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <div class="iframe-wrapper">
 <iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTOHO2Vzrvq_gatdeiIxAC4HEg18yBb1KhfA4EPdpo3daYu5XFDVVxmRCllon97_A/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
