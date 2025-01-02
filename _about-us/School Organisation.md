@@ -252,25 +252,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant YH&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Shanthini d/o Odayappan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Shanthini_odayappan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Shanthini_odayappan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant YH&nbsp;&nbsp;&nbsp;</p>
+<p>Assistant YH&nbsp;(Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Idayu Bte Somdi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Idayu_Somdi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Idayu_Somdi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant YH (Sec 4/5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Shanthini d/o Odayappan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Shanthini_odayappan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Shanthini_odayappan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
