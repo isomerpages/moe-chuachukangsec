@@ -14,10 +14,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ibaidah Binte Ibrahim</p>
+<p>Boay Chong Yuan Timothy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Humanities)</p>
@@ -161,17 +161,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Suharti Binte Saifee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Won Jia Min</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
