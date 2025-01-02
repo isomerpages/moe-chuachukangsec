@@ -120,7 +120,8 @@ of Robotics</p>
 </ul>
 <p><strong>Announcement</strong>
 </p>
-<p>(a) Training Days and Hours</p>
+<p><strong>(a) Training Days and Hours</strong>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
