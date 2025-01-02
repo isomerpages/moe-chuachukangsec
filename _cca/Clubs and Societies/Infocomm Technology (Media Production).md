@@ -87,7 +87,7 @@ The Infocomm Technology (Media Production) Club members are ready!</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Training Days and hours</p>
+<p>Training Days and Hours</p>
 </li>
 </ul>
 <table style="minWidth: 75px">
