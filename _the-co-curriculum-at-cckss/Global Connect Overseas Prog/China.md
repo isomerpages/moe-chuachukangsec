@@ -35,11 +35,6 @@ night view of the Bund.</p>
 we enjoyed engaging displays of natural history. As we bade farewell to
 China, we appreciated the wonderful memories, friendships forged as well
 as a growth in knowledge, confidence and other invaluable experiences.</p>
-<p>Visit our social media for more photographs and updates!</p>
-<p><a href="https://www.facebook.com/CCKSians" rel="noopener nofollow" target="_blank">Facebook</a>
-</p>
-<p><a href="https://www.instagram.com/cckssofficial/" rel="noopener nofollow" target="_blank">Instagram</a>
-</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -72,7 +67,6 @@ as a growth in knowledge, confidence and other invaluable experiences.</p>
 </div>
 </div>
 </div>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -105,7 +99,6 @@ as a growth in knowledge, confidence and other invaluable experiences.</p>
 </div>
 </div>
 </div>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -138,4 +131,8 @@ as a growth in knowledge, confidence and other invaluable experiences.</p>
 </div>
 </div>
 </div>
-<p></p>
+<p>Visit our social media for more photographs and updates!</p>
+<p><a href="https://www.facebook.com/CCKSians" rel="noopener nofollow" target="_blank">Facebook</a>
+</p>
+<p><a href="https://www.instagram.com/cckssofficial/" rel="noopener nofollow" target="_blank">Instagram</a>
+</p>
