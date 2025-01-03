@@ -180,7 +180,7 @@ teammates to build up one another.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Sec_2_to_4_players_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Sec_2_to_4_players_20243.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
