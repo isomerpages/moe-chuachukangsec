@@ -110,13 +110,16 @@ of Robotics</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>IDE Robotics 2023 – 6th placing</p>
+<p><strong>IDE Robotics 2024: </strong>First Runner-up</p>
 </li>
 <li>
-<p>Digital Youth Competition 2022 - accomplishment award</p>
+<p><strong>IDE Robotics 2023</strong>: 6th Placing</p>
 </li>
 <li>
-<p>National Robotics Challenge (Open Category) – 3rd placing</p>
+<p><strong>Digital Youth Competition 2022: </strong>Accomplishment Award</p>
+</li>
+<li>
+<p><strong>National Robotics Challenge (Open Category):</strong> 3rd Placing</p>
 </li>
 </ul>
 <p><strong>Announcements</strong>
