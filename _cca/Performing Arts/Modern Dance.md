@@ -101,10 +101,8 @@ arts for Chua Chu Kang Secondary School.</p>
 </ul>
 <p><strong>Events / Highlights</strong>
 </p>
+<p>Public performance at major school events like:</p>
 <ul data-tight="true" class="tight">
-<li>
-<p>Public performance at major school events like</p>
-</li>
 <li>
 <p>Chua Chu Kang Open House</p>
 </li>
@@ -127,7 +125,7 @@ arts for Chua Chu Kang Secondary School.</p>
 <p>School Outreach to primary schools</p>
 </li>
 <li>
-<p>Leadership and teambuilding camp.</p>
+<p>Leadership and Teambuilding Camp.</p>
 </li>
 <li>
 <p>Dance Talent Development Programme</p>
@@ -143,12 +141,6 @@ arts for Chua Chu Kang Secondary School.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Singapore Youth Festival Arts Presentation (Dance): </strong>Accomplishment</p>
-</li>
-<li>
-<p>Chinese New Year Celebration</p>
-</li>
-<li>
-<p>Hari Raya Celebration</p>
 </li>
 </ul>
 <p><strong>Announcements</strong>
