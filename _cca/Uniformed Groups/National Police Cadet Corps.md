@@ -214,7 +214,7 @@ Anti-Narcotics Association) (SANA)</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SSGT TEY ZHI JIA HARRY</p>
+<p>SSGT Tey Zhi Jia Harry</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4E</p>
@@ -222,7 +222,7 @@ Anti-Narcotics Association) (SANA)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SSGT MEENAKSHI KRISHNA SUNDARAM THULASI</p>
+<p>SSGT Meenakshi Krishna Sundaram Thulasi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4A</p>
@@ -240,7 +240,7 @@ Anti-Narcotics Association) (SANA)</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SSGT TEY ZHI JIA HARRY</p>
+<p>SSGT Tey Zhi Jia Harry</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4E</p>
@@ -248,7 +248,7 @@ Anti-Narcotics Association) (SANA)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SSGT KOH JIA KANG KEVAN</p>
+<p>SSGT Koh Jia Kang Kevan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4A</p>
@@ -266,7 +266,7 @@ Anti-Narcotics Association) (SANA)</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SSGT TIMOTHY ISAAC LIM</p>
+<p>SSGT Timothy Isaac Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4/4</p>
@@ -274,7 +274,7 @@ Anti-Narcotics Association) (SANA)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SSGT S A TARAASSHRI</p>
+<p>SSGT S A Taraasshri</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4/8</p>
@@ -292,7 +292,7 @@ Anti-Narcotics Association) (SANA)</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TIMOTHY ISAAC LIM</p>
+<p>Timothy Isaac Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4/4</p>
@@ -300,7 +300,7 @@ Anti-Narcotics Association) (SANA)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S A TARAASSHRI</p>
+<p>S A Taraasshri</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4/8</p>
@@ -308,7 +308,7 @@ Anti-Narcotics Association) (SANA)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ALFRED LOW JI ZHI</p>
+<p>Alfred Low Ji Zhi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4C</p>
@@ -316,7 +316,7 @@ Anti-Narcotics Association) (SANA)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CHUA CHUN HUA</p>
+<p>Chua Chun Hua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4C</p>
@@ -336,7 +336,7 @@ Anti-Narcotics Association) (SANA)</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TEY ZI JIA HARRY</p>
+<p>Tey Zhi Jia Harry</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3E</p>
@@ -344,7 +344,7 @@ Anti-Narcotics Association) (SANA)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AERICA GAN CHAI TING</p>
+<p>Aerica Gan Chai Ting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3C</p>
@@ -352,7 +352,7 @@ Anti-Narcotics Association) (SANA)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PANEER SELVAN VIKASNI</p>
+<p>Paneer Selvan Vikasni</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3D</p>
@@ -360,7 +360,7 @@ Anti-Narcotics Association) (SANA)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SNG JIAO HAO</p>
+<p>Sng Jiao Hao</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3L</p>
@@ -368,7 +368,7 @@ Anti-Narcotics Association) (SANA)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOO ZHI QI</p>
+<p>Hoo Zhi Qi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3I</p>
@@ -376,9 +376,9 @@ Anti-Narcotics Association) (SANA)</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Announcement</strong>
+<p><strong>Announcements</strong>
 </p>
-<p><strong>(a) Training Days and Hours</strong>
+<p><strong>Training Days and Hours</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -406,7 +406,7 @@ Anti-Narcotics Association) (SANA)</p>
 <p>1500 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level 3 Classroom</p>
+<p>Area outside NPCC Room</p>
 </td>
 </tr>
 <tr>
@@ -417,12 +417,106 @@ Anti-Narcotics Association) (SANA)</p>
 <p>1415 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level 3 Classroom</p>
+<p>Area outside NPCC Room</p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRKUrd5L-rRJzsV6T0ZYL98nppazVj6CmC9EE7RGwydfq3UvBdP99F5Ao-_a-87HA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2025_01_02_at_18_35_26.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Celebrating our achievement as a unit</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2025_01_02_at_18_37_30__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Proudly representing our unit at the National Day parade</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2025_01_02_at_18_37_30__2_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Collaborating with NCC!</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2025_01_02_at_18_37_29.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Working well with our fellow cadets!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2025_01_02_at_18_37_32.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Enjoying VR for police work!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2025_01_02_at_18_37_31__2_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">We do enjoy some laughs as well!</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2025_01_02_at_18_37_31__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Learning essential camping skills!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2025_01_02_at_18_37_31.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Learning to work in teams!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2025_01_02_at_18_37_30.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Visiting Police HQ!</div>
+</div>
+</div>
 </div>
 <p></p>
