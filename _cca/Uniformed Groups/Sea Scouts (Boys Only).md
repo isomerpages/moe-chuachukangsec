@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -58,16 +63,16 @@ variant: tiptap
 </table>
 <p><strong>About us</strong>
 </p>
-<p>The CCKSS Condor Sea Scout Group endeavours to holistically nurture boys
+<p>The CCKSS Condor Sea Scout Group endeavors to holistically nurture boys
 across seven themes, namely, Citizenship &amp; Global Awareness, Leadership
 &amp; Interests, Adventure &amp; Outdoor, Service &amp; the Community,
 Sports &amp; Physical Recreation, Inspirations, Beliefs &amp; Attitudes
 and Creative Pursuits. Guided by the Scout Promise and Law, Scouts journey
 through four tiers, Scout, Discoverer, Explorer and Voyager before attaining
-the Chief Commissioner’s Award. Our unit activities include Land and Kayaking
-Expedition, Annual Camp, Job Week and external courses such as swimming/lifesaving
+the Chief Commissioner’s Award. Our unit activities include Land Expedition,
+Annual Camp, Job Week and external courses such as swimming/lifesaving
 and First Aid.</p>
-<p><strong>Key Programmes </strong>
+<p><strong>Key Programmes</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -83,23 +88,56 @@ and First Aid.</p>
 <p>Expedition</p>
 </li>
 </ul>
-<p></p>
 <p><strong>Achievements</strong>
 </p>
+<p><strong>2024</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Frank Cooper Sands Award</strong>
+</p>
+</li>
+<li>
+<p><strong>Chief Commissioner's Award:</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nguyen Cao Duong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4A</p>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
 <p><strong>2023</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Frank Cooper Sands Award (Gold)</p>
+<p><strong>Frank Cooper Sands Award:</strong> Gold (For 2022)</p>
+</li>
+<li>
+<p><strong>Chief Commissioner's Award:</strong>
+</p>
 </li>
 </ul>
-<p></p>
-<p>Chief Commissioner's Award:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>JACKY CHONG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Jacky Chong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4-1</p>
@@ -107,7 +145,7 @@ and First Aid.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AU YONG SHI HAN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Au Yong Shi Han&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4-1</p>
@@ -115,32 +153,32 @@ and First Aid.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AHMAD IDRIS BIN REYAZ AHAMED&nbsp;</p>
+<p>Rio Koh Wen Kai&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4-1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ahmad Idris Bin Reyaz Ahamed&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4-3</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>RION KOH WEN KAI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S4-1</p>
-</td>
-</tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p></p>
-<p><strong>Announcement</strong>
+<p><strong>Announcements</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Training Days and hours</p>
-</li>
-</ul>
-<table>
+<p><strong>Training Days and Hours</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -155,13 +193,14 @@ and First Aid.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday</p>
+<p>Wednesdays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1500 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B1-02, Carpark, 1E classroom (Lvl 3)</p>
+<p>B1-02, Carpark,</p>
+<p>3D classroom (Level 3)</p>
 </td>
 </tr>
 <tr>
@@ -172,12 +211,10 @@ and First Aid.</p>
 <p>1415 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>B1-02, Carpark,</p>
+<p>3D classroom (Level 3)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQifUBDX5RQk-dE7fWJZ9fx5SotvDZFt7lIV-Hf1INh6C7H2PjlCkvnADYeGoLD7w/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p></p>
