@@ -83,7 +83,7 @@ overlooking key events in Chua Chu Kang Secondary, the stalwart stewards
 of running Chinese New Year, Pongal and even Academic celebrations smoothly.
 Need sound set-up? Projector support? Artistically-framed photographs?
 The Infocomm Technology (Media Production) Club members are ready!</p>
-<p><strong>Announcement</strong>
+<p><strong>Announcements</strong>
 </p>
 <p><strong>Training Days and Hours</strong>
 </p>
