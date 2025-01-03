@@ -61,7 +61,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>About us</strong>
+<p><strong>About Us</strong>
 </p>
 <p>The objectives of the Environmental Science Club are:</p>
 <ul data-tight="true" class="tight">
@@ -112,10 +112,10 @@ schools. This programme promotes awareness about biodiversity in Singapore.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Community in Nature (CIN) Award: Merit</p>
+<p><strong>Community in Nature (CIN) Award:</strong> Merit</p>
 </li>
 <li>
-<p>Sustainability Advocacy Challenge (SAC): Silver</p>
+<p><strong>Sustainability Advocacy Challenge (SAC):</strong> Silver</p>
 </li>
 </ul>
 <table style="minWidth: 50px">
@@ -170,11 +170,11 @@ schools. This programme promotes awareness about biodiversity in Singapore.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Green Schools @ South West CDC 2023: 3 Stars</p>
+<p><strong>Green Schools @ South West CDC 2023:</strong> 3 Stars</p>
 </li>
 <li>
-<p>Nature Society of Singapore Biodiversity Race 2023: Most Unique Observation
-Award (Spotted Owl)</p>
+<p><strong>Nature Society of Singapore Biodiversity Race 2023:</strong> Most
+Unique Observation Award (Spotted Owl)</p>
 </li>
 </ul>
 <table style="minWidth: 50px">
@@ -219,8 +219,7 @@ Award (Spotted Owl)</p>
 </table>
 <p><strong>2023</strong>
 </p>
-<p><strong>National Youth Upcycling Movement (NYUM): Bronze</strong>
-</p>
+<p><strong>National Youth Upcycling Movement (NYUM): </strong>Bronze</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -265,11 +264,11 @@ Award (Spotted Owl)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Most Improved from 2022 to 2023 in the increase in number of observations
-under Nature Society Singapore, Every Singaporean a Naturalist : 2nd Place</p>
+<p><strong>Most Improved from 2022 to 2023 in the increase in number of observations under Nature Society Singapore, Every Singaporean a Naturalist</strong>:
+2nd Place</p>
 </li>
 <li>
-<p>Novice Naturalist Achievement: Certificate of Achievement</p>
+<p><strong>Novice Naturalist Achievement:</strong> Certificate of Achievement</p>
 </li>
 </ul>
 <table style="minWidth: 50px">
@@ -380,39 +379,40 @@ under Nature Society Singapore, Every Singaporean a Naturalist : 2nd Place</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Green Schools @ South West CDC 2022: 2 Stars</p>
+<p><strong>Green Schools @ South West CDC 2022:</strong> 2 Stars</p>
 </li>
 </ul>
 <p><strong>2021</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Green Schools @ South West CDC 2021: 3 Stars</p>
+<p><strong>Green Schools @ South West CDC 2021: </strong>3 Stars</p>
 </li>
 <li>
-<p>National Youth Upcycling Movement (NYUM) 2021: Gold</p>
+<p><strong>National Youth Upcycling Movement (NYUM) 2021: </strong>Gold</p>
 </li>
 <li>
-<p>Community in Bloom (CIB) 2021: Gold Award</p>
+<p><strong>Community in Bloom (CIB) 2021:</strong> Gold Award</p>
 </li>
 <li>
-<p>Community in Bloom (CIB) 2021: Outstanding Educational Community Garden
-Award</p>
+<p><strong>Community in Bloom (CIB) 2021:</strong> Outstanding Educational
+Community Garden Award</p>
 </li>
 </ul>
 <p><strong>2020</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Green Schools @ South West CDC 2020: Gold Award</p>
+<p><strong>Green Schools @ South West CDC 2020:</strong> Gold Award</p>
 </li>
 <li>
-<p>Green Schools @ South West CDC 2020: 5-Year Environmental Champion Award</p>
+<p><strong>Green Schools @ South West CDC 2020:</strong> 5-Year Environmental
+Champion Award</p>
 </li>
 </ul>
-<p><strong>Announcement</strong>
+<p><strong>Announcements</strong>
 </p>
-<p><strong>(a) Training Days and Hours</strong>
+<p><strong>Training Days and Hours</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -448,7 +448,7 @@ Award</p>
 <p>Fridays (alternate weeks)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1415 - 1730</p>
+<p>1415 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chua Chu Kang Secondary School</p>
@@ -456,7 +456,100 @@ Award</p>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbKTtdYZo4G7VHerrUyHzf9ITuS5IXGRGN8yGgVg1WDnkce5Ja4PrgDDxC9STzUA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/LJ_to_Sungei_Buloh_Wetland.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Learning journey to Sungei Buloh Wetland Reserve</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Reusing_baskets_as_pots_2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Repurposing baskets as pots</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Reusing_plastic_containers.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Repurposing plastic containers for gardening</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Preparing_the_mud_pond.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Preparing the mud pond for germination</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Planting_germinated_seeds_into_mud_pond.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Planting germinated seeds into the mud pond</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Measuring_the_average_height.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Measuring the average height of our plants</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Growing_rice_in_mud_pond.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Growing rice in the mud pond</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Checking_PH_Value_for_the_rice_seeds.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Checking PH value of the rice seeds</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Germinated_seeds.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Germinated seeds</div>
+</div>
+</div>
 </div>
 <p></p>
