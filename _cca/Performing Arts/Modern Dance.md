@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -23,7 +28,7 @@ variant: tiptap
 <p>Overall Teacher in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ifa Hanifah</p>
+<p>Mdm Ifa Hanifah (IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ifa_hanifah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ifa_hanifah@schools.gov.sg</a>
@@ -35,7 +40,7 @@ variant: tiptap
 <p>Teacher in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Komala Narayanan</p>
+<p>Ms Komala Narayanan (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:komala_narayanan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">komala_narayanan@schools.gov.sg</a>
@@ -56,7 +61,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>About us</strong>
+<p><strong>About Us</strong>
 </p>
 <p>CCKSians Dance is one of the most vibrant CCAs offered in Chua Chu Kang
 Secondary School, with a line-up of performances each year for a diversity
@@ -82,7 +87,6 @@ passionate, and talented individuals who share a love for dance. They strive
 for the best in all their performances and dedicate much time and effort
 to the CCA. In time to come, we hope to become a niche area in performing
 arts for Chua Chu Kang Secondary School.</p>
-<p></p>
 <p><strong>Key Programmes and Activities</strong>
 </p>
 <p><strong>Competitions</strong>
@@ -134,10 +138,11 @@ arts for Chua Chu Kang Secondary School.</p>
 </ul>
 <p><strong>Representations &amp; Achievements</strong>
 </p>
-<p>2023</p>
+<p><strong>2023</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Youth Festival Arts Presentation (Dance) – Accomplishment</p>
+<p><strong>Singapore Youth Festival Arts Presentation (Dance): </strong>Accomplishment</p>
 </li>
 <li>
 <p>Chinese New Year Celebration</p>
@@ -146,14 +151,16 @@ arts for Chua Chu Kang Secondary School.</p>
 <p>Hari Raya Celebration</p>
 </li>
 </ul>
-<p><strong>Announcement</strong>
+<p><strong>Announcements</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Training Days and hours</p>
-</li>
-</ul>
-<table>
+<p><strong>Training Days and Hours</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -168,7 +175,7 @@ arts for Chua Chu Kang Secondary School.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday</p>
+<p>Wednesdays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1500 to 1730</p>
@@ -190,8 +197,58 @@ arts for Chua Chu Kang Secondary School.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTeaMzoBZhCdD_tWR2WyefPmKPLsasys89-oolX1UM2-qwHHYa6SRnAAmQU46mmdQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Thailand_students_join_Dance_CCA.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sharing some modern dance moves with students from SWPY Thailand</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_01_03_121525.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Speech Day Performance</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/453087162_469031679417096_9146567251938744602_n.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Getting ready for our Super24 Performance!</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Super_24_Dance_Competition__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Attack of the Titans!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Super_24_Dance_Competition.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Our electrifying Super24 performance!</div>
+</div>
+</div>
 </div>
 <p></p>
