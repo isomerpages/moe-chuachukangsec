@@ -118,50 +118,34 @@ schools. This programme promotes awareness about biodiversity in Singapore.</p>
 <p><strong>Sustainability Advocacy Challenge (SAC):</strong> Silver</p>
 </li>
 </ul>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Genevieve Kwee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2A2</p>
+<p>Genevieve Kwee, 2A2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kema Sri D/O Subramaniam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2C1</p>
+<p>Kema Sri D/O Subramaniam, 2C1</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sim Jing Ying Benjamin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3A</p>
+<p>Sim Jing Ying Benjamin, 3A</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Yean Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3B</p>
+<p>Lee Yean Ying, 3B</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Neo Zhe Xi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3C</p>
+<p>Neo Zhe Xi, 3C</p>
 </td>
 </tr>
 </tbody>
@@ -177,42 +161,29 @@ schools. This programme promotes awareness about biodiversity in Singapore.</p>
 Unique Observation Award (Spotted Owl)</p>
 </li>
 </ul>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Yean Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2R2</p>
+<p>Lee Yean Ying, 2R2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Wei Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3B</p>
+<p>Tan Wei Ying, 3B</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Koh Yuan Cheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3C</p>
+<p>Koh Yuan Cheng, 3C</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Jing Kai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3I</p>
+<p>Tan Jing Kai, 3I</p>
 </td>
 </tr>
 </tbody>
@@ -220,42 +191,29 @@ Unique Observation Award (Spotted Owl)</p>
 <p><strong>2023</strong>
 </p>
 <p><strong>National Youth Upcycling Movement (NYUM): </strong>Bronze</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Yean Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2R2</p>
+<p>Lee Yean Ying, 2R2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Harsha Shankar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3E</p>
+<p>Harsha Shankar, 3E</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nicole Ong Kar Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3G</p>
+<p>Nicole Ong Kar Ling, 3G</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gopidalai Purvaja</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3L</p>
+<p>Gopidalai Purvaja, 3L</p>
 </td>
 </tr>
 </tbody>
@@ -271,106 +229,69 @@ Unique Observation Award (Spotted Owl)</p>
 <p><strong>Novice Naturalist Achievement:</strong> Certificate of Achievement</p>
 </li>
 </ul>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Wei Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3B</p>
+<p>Tan Wei Ying, 3B</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teo Wei Le</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3I</p>
+<p>Teo Wei Le, 3I</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Raydon Wong Rui Yang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3I</p>
+<p>Raydon Wong Rui Yang, 3I</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Andi Zufayri Bin Qairil Rafidri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3N</p>
+<p>Andi Zufayri Bin Qairil Rafidri, 3N</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Teng Yuan, Alex</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2C2</p>
+<p>Ng Teng Yuan, Alex, 2C2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Neo Zhe Xi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2E1</p>
+<p>Neo Zhe Xi, 2E1</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Siew Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2R2</p>
+<p>Tan Siew Lee, 2R2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Genevie Kwee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1A2</p>
+<p>Genevie Kwee, 1A2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Wei Jun Jerry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1A2</p>
+<p>Lim Wei Jun Jerry, 1A2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kema Sri D/O Subramaniam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1C1</p>
+<p>Kema Sri D/O Subramaniam, 1C1</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Yong Jun Jovan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1C2</p>
+<p>Lim Yong Jun Jovan, 1C2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Jing Hao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1R1</p>
+<p>Tan Jing Hao, 1R1</p>
 </td>
 </tr>
 </tbody>
