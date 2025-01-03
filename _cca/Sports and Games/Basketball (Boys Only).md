@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Sports and Games
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -56,15 +61,21 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>About us</strong>
+<p><strong>About Us</strong>
 </p>
-<p>In basketball CCA, students are put through rigorous training on and off
-the court. The focus is to develop their strength, good sportsmanship,
-teamwork, and resilience in the face of challenges.</p>
-<p></p>
+<p>In Basketball, students are put through rigorous training on and off the
+court. We focus on developing their strength, good sportsmanship, teamwork
+and resilience in the face of challenges.</p>
+<p>Through the CCA they display resilience and learn to maintain composure
+in times of challenges, both inside and outside of the court and training.</p>
+<p>With a positive attitude, they aim to improve consistently with the support
+and constructive feedback received from their coach, teachers and teammates.</p>
+<p>During training or competitions, they display good sportsmanship by showing
+humility, being positive and sharing good practices and routines with their
+teammates to build up one another.</p>
 <p><strong>Key Programmes and Achievements</strong>
 </p>
-<p><strong>(a) Competitions</strong>
+<p><strong>Competitions</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -87,10 +98,16 @@ teamwork, and resilience in the face of challenges.</p>
 <p>CCKSS vs Yuan Ching Secondary School</p>
 </li>
 </ul>
-<p><strong>Announcement</strong>
+<p><strong>Announcements</strong>
 </p>
-<p>(a) Training Days and hours</p>
-<table>
+<p><strong>Training Days and Hours</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -122,12 +139,53 @@ teamwork, and resilience in the face of challenges.</p>
 <p>1430 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Indoor Sports Hall</p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ3S-MZz7qwxfk-S2jHU_uPJDiLlpMXgnT1KxITmglYNBKN7Cp3tabLKNGoa8-smw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_01_03_152408.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sec 1 CCA Trials</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_01_03_152347.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Friendly with Zhenghua Secondary</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Our_2024_Sec_4s.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Our Sec 4 players!</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Sec_2_to_4_players_2024.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sec 2 to 4 players!</div>
+</div>
+</div>
 </div>
 <p></p>
