@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Global Connect Overseas Prog
 ---
-<h3><strong>Sri Nagaraindra The Princess Mother School (SWPY), Phayao, Thailand</strong></h3>
+<h3><strong>Sri Nagarindra The Princess Mother School (SWPY), Phayao, Thailand</strong></h3>
 <p>Continuing the partnership our Principal, Mr Timothy Cheng, built almost
 a decade ago, our collaboration with Sri Nagarindra The Princess Mother
 School (SWPY) was forged in 2023 with the school's inaugural Global Connect
