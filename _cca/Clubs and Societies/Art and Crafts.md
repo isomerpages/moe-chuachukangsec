@@ -37,7 +37,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>About us</strong>
+<p><strong>About Us</strong>
 </p>
 <p>In the Art and Crafts Club, we strongly believe art is an avenue to express
 ourselves and unleash our creativity. Therefore, members let their imagination
@@ -65,9 +65,9 @@ Prize)</p>
 <p>Nagomi Art @ Creative Art Festival</p>
 </li>
 </ul>
-<p><strong>Announcement</strong>
+<p><strong>Announcements</strong>
 </p>
-<p><strong>(a) Training Days and Hours</strong>
+<p><strong>Training Days and Hours</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -103,7 +103,7 @@ Prize)</p>
 <p>Fridays (alternate weeks)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1430 to 1730</p>
+<p>1415 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art Room 1</p>
@@ -111,7 +111,68 @@ Prize)</p>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6Iu8tlDLHpCKSMlZJBD3mHTM5jwV8oO-hTesSXdEl_aLLXmiv3FKWtUV0uNAZfg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Attending_a_Nagomi_Art_Workshop.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Attending a Nagomi Art Workshop</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Having_fun_desigining_ceramic_plates_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Having fun designing ceramic plates</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Having_fun_doing_acrylic_art_jamming_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Having fun doing acrylic art jamming</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Spreading_the_festive_cheer_through_calligraphy_art_for_Chinese_New_Year_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Spreading the festive cheer through calligraphy art for Chinese New Year</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Unleashing_our_creativity_through_art_jamming_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Unleashing our creativity through art jamming</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Visit_to_Scape_Park_for_AI_Digital_Drawing.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Visit to skate park for AI drawing</div>
+</div>
+</div>
 </div>
 <p></p>
