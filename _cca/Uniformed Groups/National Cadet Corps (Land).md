@@ -85,7 +85,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>About us</strong>
+<p><strong>About Us</strong>
 </p>
 <p><strong>Vision</strong>
 </p>
@@ -210,26 +210,19 @@ leaders and team players through fun and challenging military-related activities
 </p>
 <p><strong>Outstanding Cadet Award (2024):</strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>WONG QI ZHI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4A</p>
+<p>Wong Qi Zhi, 4A</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>KULANDAISAMY NITHISH XAVIER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4C</p>
+<p>Kulandaisamy Nithish Xavier, 4C</p>
 </td>
 </tr>
 </tbody>
@@ -243,49 +236,36 @@ leaders and team players through fun and challenging military-related activities
 </ul>
 <p><strong>Outstanding Cadet Award (2023)</strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ARI SYUKRI BIN HARDI&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4D</p>
+<p>Ari Syukri Bin Hardi, 4D</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>IDLAN HAKIM BIN NORKHAIRUL RAMLI&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4E</p>
+<p>Idlan Hakim Bin Norkhairul Ramli, 4E&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MUHAMMAD IZZ HAKIMI BIN KHAIRUL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4/2</p>
+<p>Muhammad Izz Hakimi Bin Khairul, 4/2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LUR SHYE HAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4/6</p>
+<p>Lur Shye Han, 4/6</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Announcement</strong>
+<p><strong>Announcements</strong>
 </p>
-<p><strong>(a) Training Days and Hours</strong>
+<p><strong>Training Days and Hours</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
