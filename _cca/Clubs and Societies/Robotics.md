@@ -214,7 +214,7 @@ of Robotics</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_01_03_112032.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Students_participating_in_F1_Challenge___HCL111.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -246,7 +246,7 @@ of Robotics</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Students_in_Action_at_Open_House.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Students_in_Action_at_Open_House111.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
