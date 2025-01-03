@@ -100,18 +100,14 @@ and First Aid.</p>
 <li>
 <p><strong>Chief Commissioner's Award:</strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nguyen Cao Duong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4A</p>
+<p>Nguyen Cao Duong, 4A</p>
 </td>
 </tr>
 </tbody>
@@ -129,42 +125,29 @@ and First Aid.</p>
 </p>
 </li>
 </ul>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jacky Chong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S4-1</p>
+<p>Jacky Chong, 4/1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Au Yong Shi Han&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S4-1</p>
+<p>Au Yong Shi Han, 4/1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Rio Koh Wen Kai&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S4-1</p>
+<p>Rion Koh Wen Kai, 4/1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ahmad Idris Bin Reyaz Ahamed&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S4-3</p>
+<p>Ahmad Idris Bin Reyaz Ahamed, 4/3&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -217,4 +200,58 @@ and First Aid.</p>
 </tr>
 </tbody>
 </table>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Starting_a_Fire_for_Backwoodman_Cooking.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Starting a fire for backwoodman cooking</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Getting_Ready_for_Flag_Break.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Getting ready for Flag Break</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Building_a_Makeshift_Flag_Pole.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Building a makeshift flag pole</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/At_a_Land_Expedition_Checkpoint.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Land expedition checkpoint</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/1_Star_Kayaking_Course.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">1 Star Kayaking course</div>
+</div>
+</div>
+</div>
 <p></p>
