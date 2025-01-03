@@ -181,7 +181,7 @@ from our dedicated drama instructor, Mr Fadhil.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SYF_Arts_Presentation.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SYF_Arts_Presentation111.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
