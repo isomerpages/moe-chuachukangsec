@@ -49,15 +49,16 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>About us</strong>
+<p><strong>About Us</strong>
 </p>
 <p>The mission of the Robotics Club is encapsulated in the motto, ‘Create.
-Command. Conquer’. We create solutions. We command our own lives and do
-not let laziness, complacency, and bad habits creep in. We conquer the
-inner and outer obstacles in our lives and emerge victorious. Every club
-member is instilled a positive attitude towards learning. Members participate
-in various competitions such as the IDE Robotics Competition and National
-Robotics Challenge to showcase application of their learning.</p>
+Command. Conquer’. We create innovative solutions, command our actions
+by overcoming laziness and bad habits, and conquer challenges to achieve
+success. We conquer the inner and outer obstacles in our lives and emerge
+victorious. Together, we foster a positive learning environment, inspiring
+one another to grow. Members actively participate in events like the IDE
+Competition and National Robotics Challenge, demonstrating their skills
+and applying what they’ve learned.</p>
 <p><strong>Key programmes and Achievements 2022-2024</strong>
 </p>
 <p><strong>Programmes</strong>
@@ -118,9 +119,9 @@ of Robotics</p>
 <p>National Robotics Challenge (Open Category) – 3rd placing</p>
 </li>
 </ul>
-<p><strong>Announcement</strong>
+<p><strong>Announcements</strong>
 </p>
-<p><strong>(a) Training Days and Hours</strong>
+<p><strong>Training Days and Hours</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -174,7 +175,80 @@ of Robotics</p>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTCf8uaOeBkQIZ7kD7pV4W--o_Ay-JBt9i9GHHyYERp6Mu9VAxCT4MsZPfouFlt1g/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Students_who_went_to_IDE_Competition___Sumo__Spirit_and_Robotics.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Getting ready for the IDE Competition!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/IDE_Spirit_Competition_in_Action.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">IDE Spirit Competition in action!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/IDE_Sumo_First_Runner_up_award_ceremony.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">IDE Sumo Competition First Runner-Up!</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_01_03_112032.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Attending the F1 Challenge @ HCL in Action</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_01_03_111928.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Having fun at the F1 Challenge @ HCL in Action</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Presentation_at_F1_Challange___HCI.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Presenting our ideas at the F1 Challenge</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Students_in_Action_at_Open_House.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Students in action at the Open House!</div>
+</div>
+</div>
 </div>
 <p></p>
