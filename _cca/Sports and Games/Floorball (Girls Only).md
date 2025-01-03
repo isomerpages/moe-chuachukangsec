@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Sports and Games
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -44,7 +49,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>About us</strong>
+<p><strong>About Us</strong>
 </p>
 <p>Floorball is one of the fastest growing sports across the globe. It is
 a fun and fast-paced game that is as enjoyable as it is tiring. The floorball
@@ -57,7 +62,6 @@ effort, and time are poured into training even after the team has finished
 their zonal competition.</p>
 <p>The girls are not only confined to floorball but in fact utilise the opportunity
 of VIA to develop empathy and the capacity to serve others.</p>
-<p></p>
 <p><strong>Mascot</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -101,12 +105,11 @@ games, and farewell</p>
 <li>
 <p>The development of habits like discipline, self-respect, grooming and
 teamwork through training</p>
-<p></p>
 </li>
 </ul>
 <p><strong>Key Programmes and Achievements</strong>
 </p>
-<p><strong>Events / Highlights </strong>
+<p><strong>Events / Highlights</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -138,14 +141,16 @@ teamwork through training</p>
 <p>Pesta Sukan</p>
 </li>
 </ul>
-<p><strong>Announcement</strong>
+<p><strong>Announcements</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Training Days and hours</p>
-</li>
-</ul>
-<table>
+<p><strong>Training Days and Hours</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -160,13 +165,13 @@ teamwork through training</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday</p>
+<p>Wednesdays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1515 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Indoor Sports Hall / Hall</p>
+<p>Indoor Sports Hall</p>
 </td>
 </tr>
 <tr>
@@ -177,12 +182,63 @@ teamwork through training</p>
 <p>1415 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Indoor Sports Hall</p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSpQ9oo1cl34fK4dQOfG4KPOSuM-SUyQM3X1YKktvnbGo0279gJ9vlIP4yI99Hzzg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Our_Floorball_Girls_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Our Floorball Girls</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/One_for_all__All_for_one_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">One for all, all for one!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Building_up_our_team_spirit_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Building up our team spirit!</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Building_up_our_resilience_and_camaraderie.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Building up our resilience</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Getting_ready_to_win_some_medals_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Getting ready to win some medals!</div>
+</div>
+</div>
 </div>
 <p></p>

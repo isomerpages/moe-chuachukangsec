@@ -61,7 +61,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>About us</strong>
+<p><strong>About Us</strong>
 </p>
 <p>Guiding in CCKSS provides a safe environment for students to explore new
 possibilities and achieve personal goals while making friends and having
@@ -172,9 +172,9 @@ to a Girl Guide)</p>
 <p>Gold</p>
 </li>
 </ul>
-<p><strong>Announcement</strong>
+<p><strong>Announcements</strong>
 </p>
-<p><strong>(a) Training Days and Hours</strong>
+<p><strong>Training Days and Hours</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -218,7 +218,6 @@ to a Girl Guide)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -277,17 +276,19 @@ to a Girl Guide)</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">We had fun at West Division Day!</div>
+<div class="isomer-card-title">We had fun at World Thinking Day!</div>
 </div>
 </div>
+</div>
+<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/WhatsApp_Image_2025_01_02_at_16_35_06.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2025_01_02_at_16_35_06.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Sharing about what we do during Open House</div>
+<div class="isomer-card-title">Sharing about what we do in Girl Guides during Open House</div>
 </div>
 </div>
 </div>
