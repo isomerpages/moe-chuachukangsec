@@ -49,7 +49,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>About us</strong>
+<p><strong>About Us</strong>
 </p>
 <p>Guitar Ensemble was formed in 2011 with less than 15 members. We took
 part in our first ever Singapore Youth Festival (SYF) in April 2011. Since
@@ -70,12 +70,12 @@ lasting friendships and make music together with like-minded peers.</p>
 <p>Seniors Farewell</p>
 </li>
 <li>
-<p>Singapore Youth Festival 2023: Certificate of Commendation</p>
+<p><strong>Singapore Youth Festival 2023: </strong>Certificate of Commendation</p>
 </li>
 </ul>
-<p><strong>Announcement</strong>
+<p><strong>Announcements</strong>
 </p>
-<p><strong>(a) Training Days and Hours</strong>
+<p><strong>Training Days and Hours</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -119,7 +119,90 @@ lasting friendships and make music together with like-minded peers.</p>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGyr4cmF8PqC5Um-zZCJ1prHiwr594_naVpxcSEvrblVHHMQWRr3WaWDqn1k2Xpg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2023_04_04_at_15_40_17.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">The excitement is building!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2023_04_04_at_15_40_16.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Excited to perform at the Singapore Youth Festival Presentation</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2023_04_04_at_15_41_21.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">It's almost showtime!</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2023_04_04_at_15_55_56.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">We're raring to go!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2023_04_04_at_15_55_51.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Countdown to our Singapore Youth Festival Presentation!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2023_04_04_at_15_55_54.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">And it's a wrap! What an exciting performance!</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2023_04_05_at_15_48_20.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Training for the SYF!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2023_04_05_at_15_48_21.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Having fun while training hard for our performances!</div>
+</div>
+</div>
 </div>
 <p></p>
