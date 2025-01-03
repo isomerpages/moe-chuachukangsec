@@ -287,11 +287,11 @@ Medals</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Punch_training.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_01_03_150243.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Punch Training</div>
+<div class="isomer-card-title">With our new belts!</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -309,11 +309,31 @@ Medals</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_01_03_150243.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2023_CNY_performance_1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">With our new belts!</div>
+<div class="isomer-card-title">Chinese New Year performance</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2023_CNY_performance_2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Chinese New Year Performance</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NSG_2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">At the Wushu NSGs</div>
 </div>
 </div>
 </div>
