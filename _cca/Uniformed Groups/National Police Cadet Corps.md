@@ -73,7 +73,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>About us</strong>
+<p><strong>About Us</strong>
 </p>
 <p><strong>Our Vision: </strong>To become the best youth organisation in
 Singapore, one that actively helps to make Singapore the safest place in
