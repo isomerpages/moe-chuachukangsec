@@ -206,120 +206,86 @@ Anti-Narcotics Association) (SANA)</p>
 </p>
 <p><strong>2024 SPC-NPCC Badge</strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SSGT Tey Zhi Jia Harry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4E</p>
+<p>SSGT Tey Zhi Jia Harry, 4E</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SSGT Meenakshi Krishna Sundaram Thulasi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4A</p>
+<p>SSGT Krishna Thulasi, 4A</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>2024 Station Inspector Rank</strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SSGT Tey Zhi Jia Harry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4E</p>
+<p>SSGT Tey Zhi Jia Harry, 4E</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SSGT Koh Jia Kang Kevan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4A</p>
+<p>SSGT Koh Jia Kang Kevan, 4A</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>2023 SPF-NPCC Badge</strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SSGT Timothy Isaac Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4/4</p>
+<p>SSGT Timothy Isaac Lim, 4/4</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SSGT S A Taraasshri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4/8</p>
+<p>SSGT S A Taraasshri, 4/8</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>&nbsp;2023 Best Unit Cadets</strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Timothy Isaac Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4/4</p>
+<p>Timothy Isaac Lim, 4/4</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S A Taraasshri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4/8</p>
+<p>S A Taraasshri, 4/8</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Alfred Low Ji Zhi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4C</p>
+<p>Alfred Low Ji Zhi, 4C</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chua Chun Hua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4C</p>
+<p>Chua Chun Hua, 4C</p>
 </td>
 </tr>
 </tbody>
@@ -328,50 +294,34 @@ Anti-Narcotics Association) (SANA)</p>
 </p>
 <p><strong>Change Catalyst Award</strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tey Zhi Jia Harry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3E</p>
+<p>Tey Zhi Jia Harry, 3E</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aerica Gan Chai Ting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3C</p>
+<p>Aerica Gan Chai Ting, 3C</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Paneer Selvan Vikasni</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3D</p>
+<p>Paneer Selvan Vikasni, 3D</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sng Jiao Hao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3L</p>
+<p>Sng Jiao Hao, 3L</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hoo Zhi Qi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3I</p>
+<p>Hoo Zhi Qi, 3I</p>
 </td>
 </tr>
 </tbody>
@@ -422,7 +372,6 @@ Anti-Narcotics Association) (SANA)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
