@@ -141,11 +141,11 @@ how to bounce back from disappointments and celebrate successes as a team.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Sec_1___3_Training.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/B_Girls_at_OCBC_Arena.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Sec 1 to 3 Training</div>
+<div class="isomer-card-title">At the OCBC Arena</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -166,18 +166,6 @@ how to bounce back from disappointments and celebrate successes as a team.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Friendly with RVHS</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/B_Girls_at_OCBC_Arena.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">B Division Girls at OCBC Arena</div>
 </div>
 </div>
 </div>
