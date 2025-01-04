@@ -177,16 +177,4 @@ from our dedicated drama instructor, Mr Fadhil.</p>
 </div>
 </div>
 </div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SYF_Arts_Presentation.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">SYF Arts Presentation</div>
-</div>
-</div>
-</div>
 <p></p>

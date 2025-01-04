@@ -270,7 +270,7 @@ League 1 Championship</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_01_03_154954.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_01_03_154954111.png">
 </div>
 </div>
 <div class="isomer-card-body">

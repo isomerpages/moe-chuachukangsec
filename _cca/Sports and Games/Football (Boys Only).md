@@ -198,17 +198,7 @@ Position</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Fighting_for_the_ball.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Tough fight for the ball!</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Boys_in_action.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Boys_in_action111.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
