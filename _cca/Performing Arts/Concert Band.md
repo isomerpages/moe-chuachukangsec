@@ -137,58 +137,7 @@ music instructor, Mr Kenneth Lun.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCK_CC_National_day_dinner_performance__1_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">CCK CC National Day Dinner performance</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCK_CC_performance_with_DPM_Mr_Gan__1_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">CCK CC Performance with DPM Gan</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Speech_Day_Performance__1_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Speech Day Performance</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Sec_1_VIA_childcare_performance__1_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Sec 1 VIA Childcare performance</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/National_day_parade__1_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">National Day performance</div>
-</div>
-</div>
+<div class="iframe-wrapper">
+<iframe height="749" width="1280" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTOHO2Vzrvq_gatdeiIxAC4HEg18yBb1KhfA4EPdpo3daYu5XFDVVxmRCllon97_A/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
