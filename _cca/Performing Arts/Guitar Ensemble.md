@@ -120,6 +120,6 @@ lasting friendships and make music together with like-minded peers.</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="749" width="1280" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGyr4cmF8PqC5Um-zZCJ1prHiwr594_naVpxcSEvrblVHHMQWRr3WaWDqn1k2Xpg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGyr4cmF8PqC5Um-zZCJ1prHiwr594_naVpxcSEvrblVHHMQWRr3WaWDqn1k2Xpg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
