@@ -37,7 +37,6 @@ Softball, Tchoukball
 <br>Fitness testing (NAPFA, Beep Test, X-Fit), Outdoor Education, Physical
 Health and Fitness and Inter class competitions</p>
 <h4><strong>Key Programmes</strong></h4>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -134,10 +133,6 @@ plays a part</p>
 <p>appreciate the natural heritage of Singapore and recognise that everyone
 plays a part.</p>
 </li>
-<li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">appreciate the natural heritage of Singapore and recognise that everyone plays a part.</a>
-</p>
-</li>
 </ul>
 </td>
 </tr>
@@ -149,11 +144,26 @@ plays a part.</p>
 <p>All</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>By the end of the programme/activity, participants will be able to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Promote Physical Fitness and Mental Fitness through participation in various
+sports, physical activities and mind games.</p>
+</li>
+<li>
+<p>Foster Teamwork and Collaboration through working together as a pair or
+team in competing against other classes.</p>
+</li>
+<li>
+<p>Cultivate Sportsmanship through the emphasis on the values of fair play,
+respect for opponents and graciousness in victory or defeat.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
+<h4><strong>Staff</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -170,6 +180,17 @@ plays a part.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD (PE &amp; Co-Curricular Activities)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jonathan Ram PS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (PE &amp; Co-Curricular Activities)</p>
 </td>
 </tr>
 <tr>
@@ -192,17 +213,6 @@ plays a part.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD (Student Management) (Internal)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jonathan Ram PS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Physical Education &amp; CCA)</p>
 </td>
 </tr>
 <tr>
@@ -240,4 +250,7 @@ plays a part.</p>
 </tr>
 </tbody>
 </table>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRk5p2me1FedljhvKwhpovdGISGYpDx6zUq3AUPUUSrSQJAkdbUGT2Z1GNJLD-CvxKhFe3ey_BrXsGl/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p></p>
