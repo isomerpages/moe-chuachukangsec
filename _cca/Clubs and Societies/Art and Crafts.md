@@ -111,68 +111,7 @@ Prize)</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Attending_a_Nagomi_Art_Workshop.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Attending a Nagomi Art Workshop</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Having_fun_desigining_ceramic_plates_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Having fun designing ceramic plates</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Having_fun_doing_acrylic_art_jamming_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Having fun doing acrylic art jamming</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Spreading_the_festive_cheer_through_calligraphy_art_for_Chinese_New_Year_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Spreading the festive cheer through calligraphy art for Chinese New Year</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Unleashing_our_creativity_through_art_jamming_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Unleashing our creativity through art jamming</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Visit_to_Scape_Park_for_AI_Digital_Drawing.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Visit to skate park for AI drawing</div>
-</div>
-</div>
+<div class="iframe-wrapper">
+<iframe height="749" width="1280" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6Iu8tlDLHpCKSMlZJBD3mHTM5jwV8oO-hTesSXdEl_aLLXmiv3FKWtUV0uNAZfg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
