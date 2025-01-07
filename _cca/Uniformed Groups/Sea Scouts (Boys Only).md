@@ -200,58 +200,7 @@ and First Aid.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Starting_a_Fire_for_Backwoodman_Cooking.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Starting a fire for backwoodman cooking</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Getting_Ready_for_Flag_Break.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Getting ready for Flag Break</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Building_a_Makeshift_Flag_Pole.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Building a makeshift flag pole</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/At_a_Land_Expedition_Checkpoint.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Land expedition checkpoint</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/1_Star_Kayaking_Course.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">1 Star Kayaking course</div>
-</div>
-</div>
+<div class="iframe-wrapper">
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTBd-HLknPzs2zEMMM4N4hXQsLrLD4TBiNKEjnVP0LzDd-2QM3v21qqUhVgG_Jl6Q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
