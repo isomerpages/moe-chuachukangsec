@@ -378,6 +378,6 @@ Champion Award</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="749" width="1280" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbKTtdYZo4G7VHerrUyHzf9ITuS5IXGRGN8yGgVg1WDnkce5Ja4PrgDDxC9STzUA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbKTtdYZo4G7VHerrUyHzf9ITuS5IXGRGN8yGgVg1WDnkce5Ja4PrgDDxC9STzUA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
