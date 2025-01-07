@@ -113,68 +113,7 @@ from our dedicated drama instructor, Mr Fadhil.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Our_awesome_Drama_team_with_the_instructor__teachers__HOD_and_SLs.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Our awesome Drama Team!</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/VP_motivating_students_before_SYF_AP.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Some motivation from our VP Mdm Hartati before the SYF performance</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/P_motivating_Drama_at_Gateway_Theatre_before_SYF_AP.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Our Principal, Mr Cheng, motivating the team before their SYF performance</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Preparing_at_the_backstage.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Backstage preparation!</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Army_Daze_Presentation.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Army Daze!</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/One_of_the_scene_in_Army_Daze.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">One of the scenes from Army Daze!</div>
-</div>
-</div>
+<div class="iframe-wrapper">
+<iframe height="749" width="1280" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTp9wixxxFwoH_zgusc7JWz-W99oNeKiHxpyl5hvpyo2gKwXtUir3gH5sx1vByaaQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
