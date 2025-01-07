@@ -49,4 +49,14 @@ good cheer!</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQobe89bWKmrMij8qP6NToCH_k5R712n2Zd-NEMu_IRE-ECSAdqfcGK6HDEfgdSf9BX_ccBVh2U3Mmy/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
+<p>Our Sec 4 and 5 CCKSians, who have major examinations to handle got off
+to a good start and spent the day on a sandcastle building challenge to
+bond as well as to get their minds relaxed and ready for a good start to
+the final academic lap! From their smiles and sun-kissed faces, they really
+had a great time!</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2pfenBoiNRgK9cyvzyUAEZENWFkQh9QhAmIZ1DqnrJiC_UbDL5TFTvHc9qqaHgFMI5xS6IMpyMohN/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>These activities helped ease CCKSians back into school routines and by
+Term 1 Week 1, they were eagerly ready for lessons to begin.</p>
 <p></p>
