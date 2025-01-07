@@ -91,7 +91,7 @@ from our dedicated drama instructor, Mr Fadhil.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday</p>
+<p>Wednesdays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1500 to 1730</p>
@@ -114,6 +114,6 @@ from our dedicated drama instructor, Mr Fadhil.</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="749" width="1280" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTp9wixxxFwoH_zgusc7JWz-W99oNeKiHxpyl5hvpyo2gKwXtUir3gH5sx1vByaaQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTp9wixxxFwoH_zgusc7JWz-W99oNeKiHxpyl5hvpyo2gKwXtUir3gH5sx1vByaaQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
