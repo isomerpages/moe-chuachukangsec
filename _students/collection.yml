@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - Release of GCE O Level Examination Results 2025.md
+      - Release of GCE O Level Examination Results 2024.md
       - Release of GCE N(A) and N(T) Examination Results 2024.md
       - Timetable/.keep
       - Timetable/Class Timetable.md
