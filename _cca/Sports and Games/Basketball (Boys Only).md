@@ -144,48 +144,7 @@ teammates to build up one another.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_01_03_152408.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Sec 1 CCA Trials</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_01_03_152347.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Friendly with Zhenghua Secondary</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Our_2024_Sec_4s.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Our Sec 4 players!</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Sec_2_to_4_players_20243.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Sec 2 to 4 players!</div>
-</div>
-</div>
+<div class="iframe-wrapper">
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTOROCpPm5E2zurmFPRPfqRDBJEMQPOzfs8pdoJyxJDK3qCiPxuNE5RgCj4y6axPQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
