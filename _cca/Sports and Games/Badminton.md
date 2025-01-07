@@ -141,68 +141,7 @@ while also gaining valuable life skills and experiences.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_01_03_143816.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Training hard for the competition!</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_01_03_143756.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Doubles training</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_01_03_143735.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Ready for the competition!</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_01_03_143712.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Our Badminton Boys!</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_01_03_143633.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Our Badminton Girls!</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_01_03_143533.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">We Love Badminton!</div>
-</div>
-</div>
+<div class="iframe-wrapper">
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZqnZggdr_aTrOOrEgKyRpfaUwyEYkptJvOncXMNv6jUTfEft260ZQu0jVwZpkPA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
