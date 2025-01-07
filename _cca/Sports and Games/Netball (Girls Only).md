@@ -137,36 +137,7 @@ how to bounce back from disappointments and celebrate successes as a team.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/B_Girls_at_OCBC_Arena.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">At the OCBC Arena</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Friendly_w_RGS_and_SMSS.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Friendly with RGS &amp; SMSS</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/B_Girls_with_RVHS.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Friendly with RVHS</div>
-</div>
-</div>
+<div class="iframe-wrapper">
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT56iYvm27Hcp8cQskS4_5ssdq0ke8eWRg4lSEJD9tF4hMVQFbcYCdlZYMZJyXhyQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
