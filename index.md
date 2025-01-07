@@ -19,7 +19,7 @@ sections:
           url: /useful-links/useful-links
       background: /images/2023 Design/Homepage Banner/HomePage Banner v5.gif
   - resources:
-      title: Announcement
+      title: Announcements
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
