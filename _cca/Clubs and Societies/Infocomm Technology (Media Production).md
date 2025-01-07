@@ -130,6 +130,6 @@ The Infocomm Technology (Media Production) Club members are ready!</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="749" width="1280" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQhumU2NfHSDEDCJjwmAL2P60tNSb1HAdgD1sW7z-0GiI7qTxXnjYUGrayaL9CyLQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQhumU2NfHSDEDCJjwmAL2P60tNSb1HAdgD1sW7z-0GiI7qTxXnjYUGrayaL9CyLQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
