@@ -112,6 +112,6 @@ Prize)</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="749" width="1280" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6Iu8tlDLHpCKSMlZJBD3mHTM5jwV8oO-hTesSXdEl_aLLXmiv3FKWtUV0uNAZfg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6Iu8tlDLHpCKSMlZJBD3mHTM5jwV8oO-hTesSXdEl_aLLXmiv3FKWtUV0uNAZfg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>

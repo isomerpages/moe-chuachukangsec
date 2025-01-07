@@ -189,58 +189,7 @@ arts for Chua Chu Kang Secondary School.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Thailand_students_join_Dance_CCA.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Sharing some modern dance moves with students from SWPY Thailand</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_01_03_121525.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Speech Day Performance</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/453087162_469031679417096_9146567251938744602_n.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Getting ready for our Super24 Performance!</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Super_24_Dance_Competition_111.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Attack of the Titans!</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Super_24_Dance_Competition.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Our electrifying Super24 performance!</div>
-</div>
-</div>
+<div class="iframe-wrapper">
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWvHmfR8jZIqJY-LS8kYOeP1eNXLeK6KnD9cqr-oDu_M9x6MXZnhOKvyECF7O1hg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>

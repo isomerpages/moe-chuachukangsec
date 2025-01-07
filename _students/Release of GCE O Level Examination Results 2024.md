@@ -1,6 +1,6 @@
 ---
-title: Release of GCE O Level Examination Results 2025
-permalink: /students/release-of-gce-o-level-examination-results-2025/
+title: Release of GCE O Level Examination Results 2024
+permalink: /students/release-of-gce-o-level-examination-results-2024/
 variant: tiptap
 description: ""
 ---
