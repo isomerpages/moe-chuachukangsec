@@ -187,58 +187,7 @@ teamwork through training</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Our_Floorball_Girls_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Our Floorball Girls</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/One_for_all__All_for_one_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">One for all, all for one!</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Building_up_our_team_spirit_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Building up our team spirit!</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Building_up_our_resilience_and_camaraderie.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Building up our resilience</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Getting_ready_to_win_some_medals_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Getting ready to win some medals!</div>
-</div>
-</div>
+<div class="iframe-wrapper">
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSpQ9oo1cl34fK4dQOfG4KPOSuM-SUyQM3X1YKktvnbGo0279gJ9vlIP4yI99Hzzg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>

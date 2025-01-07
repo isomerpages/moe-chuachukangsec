@@ -273,68 +273,7 @@ Medals</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Grp_shot_fun_shot_NSG_training__1_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">National School Games Training!</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_01_03_150243.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">With our new belts!</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/T3_Gathering.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Term 3 Gathering</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2023_CNY_performance_1.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Chinese New Year performance</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2023_CNY_performance_2.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Chinese New Year Performance</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NSG_2.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">At the Wushu NSGs</div>
-</div>
-</div>
+<div class="iframe-wrapper">
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRULT4xRo4wO7HErkFGbeFxQyYAiUYxSkvHCCSRJWJezHjTZ0TwnAKtWUDbNegcsw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
