@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2024 School Events
 ---
-<h1><strong>N Level Results Release</strong></h1>
+<h1><strong>N Level Results Release 2024</strong></h1>
 <p>There was an air of excitement tinged with apprehension as our Sec 4NA
 and 4NT CCKSians gathered to receive their GCE N Level results on 16 December
 2024. As Mr Cheng began his presentation, the apprehension was slowly lifted
