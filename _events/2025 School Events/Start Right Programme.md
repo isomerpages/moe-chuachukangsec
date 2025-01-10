@@ -38,25 +38,31 @@ an afternoon of kite flying where they worked on kites with their classmates
 and teachers and took advantage of the lovely weather to get their kites
 up in the sky!</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTfpwJvKDaYN9vWwfkD6hePKe5TYbg6L-4FbuxITzIZMyiRHE4eQIaFtNx50R-C-ZKt75fOLPPE0y8u/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTfpwJvKDaYN9vWwfkD6hePKe5TYbg6L-4FbuxITzIZMyiRHE4eQIaFtNx50R-C-ZKt75fOLPPE0y8u/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
+<p></p>
+<p></p>
 <p>Our Sec 3 CCKSians, who formed new classes this year spent some time bonding
 with one another and getting to know their classmates better. Through a
 series of bonding games in the Indoor Sports Hall, they were soon excitedly
 working together with their new classmates to solve puzzles. Their energy
 was infectious and soon the whole hall was abuzz with their laughter and
 good cheer!</p>
+<p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQobe89bWKmrMij8qP6NToCH_k5R712n2Zd-NEMu_IRE-ECSAdqfcGK6HDEfgdSf9BX_ccBVh2U3Mmy/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQobe89bWKmrMij8qP6NToCH_k5R712n2Zd-NEMu_IRE-ECSAdqfcGK6HDEfgdSf9BX_ccBVh2U3Mmy/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
+<p></p>
+<p></p>
 <p>Our Sec 4 and 5 CCKSians, who have major examinations to handle got off
 to a good start and spent the day on a sandcastle building challenge to
 bond as well as to get their minds relaxed and ready for a good start to
 the final academic lap! From their smiles and sun-kissed faces, they really
 had a great time!</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2pfenBoiNRgK9cyvzyUAEZENWFkQh9QhAmIZ1DqnrJiC_UbDL5TFTvHc9qqaHgFMI5xS6IMpyMohN/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2pfenBoiNRgK9cyvzyUAEZENWFkQh9QhAmIZ1DqnrJiC_UbDL5TFTvHc9qqaHgFMI5xS6IMpyMohN/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
+<p></p>
 <p>These activities helped ease CCKSians back into school routines and by
 Term 1 Week 1, they were eagerly ready for lessons to begin.</p>
 <p></p>
