@@ -317,4 +317,12 @@ sections:
       image: /images/Events/2024 School
         Events/Secondary_1_Orientation___Parent_Engagement_2024_Thumb_.png
       alt: Image alt text
+  - infopic:
+      title: 2025 Start Right Programme
+      subtitle: Events
+      id: infopic
+      button: Read More
+      url: /events/2025-school-events/start-right-programme/
+      image: /images/Events/2025 School Events/01) 2025_startright.jpg
+      alt: Image alt text
 ---
