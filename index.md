@@ -13,7 +13,7 @@ sections:
           url: /students/class-timetable/
         - title: Parents
           description: ""
-          url: /parents/sec-1-parents-briefing
+          url: /parents/2025-sec-1-parent-engagement/
         - title: Useful Links
           description: ""
           url: /useful-links/useful-links
@@ -22,6 +22,14 @@ sections:
       title: Announcements
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
+  - infopic:
+      title: 2025 Start Right Programme
+      subtitle: Events
+      id: infopic
+      button: Read More
+      url: /events/2025-school-events/start-right-programme/
+      image: /images/Events/2025 School Events/01) 2025_startright.jpg
+      alt: Image alt text
   - infopic:
       title: Open House
       subtitle: Events
