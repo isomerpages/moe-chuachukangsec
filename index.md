@@ -13,7 +13,7 @@ sections:
           url: /students/class-timetable/
         - title: Parents
           description: ""
-          url: /parents/sec-1-parents-briefing
+          url: /parents/2025-sec-1-parent-engagement/
         - title: Useful Links
           description: ""
           url: /useful-links/useful-links
