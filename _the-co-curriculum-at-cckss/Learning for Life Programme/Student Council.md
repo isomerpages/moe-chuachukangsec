@@ -5,15 +5,37 @@ description: ""
 third_nav_title: Learning for Life Programme
 variant: tiptap
 ---
-<h1><strong>Student Council</strong></h1>
-<h3>1. The Student Council</h3>
-<p>The School's Student Council comprises a body of student leaders elected
-by their teachers and peers for their exemplary conduct.&nbsp; Not only
-are these students role models, they are also servant leaders.&nbsp; They
-help the school in various programmes and activities like parents-teachers-meeting,
-Speech Day, orientations etc.&nbsp; They also play a disciplinary role
-and help to remind fellow students of their conduct and behaviour.&nbsp;
-Outside of the school, they are emissaries of the school and the Student
-Council Badge they wear is symbolic of that status endowed upon them.</p>
-<h3></h3>
+<h2><strong>Student Council</strong></h2>
+<p>The pinnacle of Student Leadership opportunities in Chua Chu Kang Secondary
+School is to serve in the Student Council. As exemplary leaders, Student
+Councillors serve responsibly and they are adaptable. They are reflective
+learners and they always uphold the school values. The curriculum for the
+Student Council is undergirded by Kouzes and Posner’s The Leadership Challenge.
+At the end of their tenure as Student Councillors, every Councillor is
+expected to exhibit each of the 5 Practices.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Picture2.png">
+</div>
+<p>The Student Council support the school in many ways –</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Uphold the school rules and values</p>
+</li>
+<li>
+<p>Organise school events and support teachers planning the event (i.e Teachers’
+Day, Sec 1 Orientation)</p>
+</li>
+<li>
+<p>Promoting Student Voice and listening to feedback from the ground</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
+</div>
+<p><strong><em>Activities during Student Council Camp</em></strong>
+</p>
 <p></p>
