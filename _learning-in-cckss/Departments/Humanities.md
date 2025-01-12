@@ -45,6 +45,29 @@ spirit to contribute responsibly to the society and world they live in.</p>
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQ7Wh_KwYz2zKTvRg5qT_xrxgc0wj9At2TGivcU2utofhjZa6wuosLkfRr0PMMsR1x-lUqHcYi82n_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
+<h4><strong>Geography</strong></h4>
+<p>Geography bridges the humanities, social and natural sciences. It is a
+holistic subject that provides students with integrative ways of understanding
+the real world. Students will explore Earth, its natural and man-made environments,
+and examine the interactions of humans with these environments, from the
+personal to global scales. Geography fascinates and inspires students,
+enabling them to gain a deep appreciation of Earth’s beauty, the immense
+power of natural forces, and the ingenious ways humans thrive under different
+circumstances. Through Geography, students will understand how places and
+landscapes evolve, deliberate on consequences arising from our everyday
+decisions, and experience the mosaic of cultures and societies.</p>
+<p>Fieldwork satisfies and nourishes students’ curiosity about contemporary
+issues that affect their communities. Through fieldwork, students apply
+their classroom learning in the real world to make new discoveries. They
+also get to hone their abilities to generate innovative solutions and help
+make our world a better place. Such learning experiences make Geography
+a vital resource, in enabling students living in an interconnected world
+to discover what it means to live sustainably and exist harmoniously with
+one another and with other living species.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_12_174043.png">
+</div>
 <h4><strong>History</strong></h4>
 <p>History education in Singapore seeks to develop in students an appreciation
 of past human experiences, critical awareness of the nature of historical
@@ -63,8 +86,7 @@ learner which the History curriculum aims to develop:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_12_174400.png">
 </div>
-<p>At CCKSS, our History unit provides platforms for our CCKSians to explore
-History in a fun, authentic and experiential way</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3hnmt7ANo4HtDBuT09da5ZR_v8PEMGVyxnzUJztdi1tFL2v-pvA2DgTpZ5Hdzbn7x7DSsF2B8wgbv/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
@@ -270,4 +292,4 @@ and the awareness of prospects of a career in the service industry.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>.</p>
