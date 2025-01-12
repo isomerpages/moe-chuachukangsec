@@ -63,9 +63,12 @@ learner which the History curriculum aims to develop:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_12_174400.png">
 </div>
+<p>At CCKSS, our History unit provides platforms for our CCKSians to explore
+History in a fun, authentic and experiential way</p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3hnmt7ANo4HtDBuT09da5ZR_v8PEMGVyxnzUJztdi1tFL2v-pvA2DgTpZ5Hdzbn7x7DSsF2B8wgbv/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
+<p></p>
 <h4><strong>Principles of Accounts</strong></h4>
 <p>Principles of Accounts is designed to teach age-appropriate and relevant
 accounting knowledge, skills and values. In addition, students will understand
