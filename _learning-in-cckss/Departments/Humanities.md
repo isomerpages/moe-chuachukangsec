@@ -68,6 +68,9 @@ one another and with other living species.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_12_174043.png">
 </div>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCiVEVndjjIPjlH60yzEX8mfHlffsD7-FfvzwIpD28oHhlPzkqPwE1mbMiSjKh4rMM633c-Y4im12-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h4><strong>History</strong></h4>
 <p>History education in Singapore seeks to develop in students an appreciation
 of past human experiences, critical awareness of the nature of historical
