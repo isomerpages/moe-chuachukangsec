@@ -18,7 +18,7 @@ We're here to guide, support, and empower them every step of the way.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHOTO_1_ELL_Department_2024.jpg">
 </div>
-<h4><strong>Teaching and Learning Approaches </strong></h4>
+<h4><strong>Teaching and Learning Approaches</strong></h4>
 <p>“<em>Language shapes the way we think, and determines what we can think about.</em>” <strong>– Benjamin Lee Whorf</strong>
 </p>
 <p>At Chua Chu Kang Secondary School, the English Language and Literature
