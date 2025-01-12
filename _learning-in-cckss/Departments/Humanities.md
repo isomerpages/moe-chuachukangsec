@@ -6,17 +6,17 @@ third_nav_title: Departments
 variant: tiptap
 ---
 <h4><strong>About the Department</strong></h4>
-<p>The Humanities Department comprises of the History, Geography, Social
-Studies, Principles of Accounts and Elements of Business Skills units.
-The Humanities Department aims to develop, among CCKSians, inquiry-oriented
+<p>The Humanities Department comprises of the Social Studies, Geography,
+History, Principles of Accounts and Elements of Business Skills units.
+The Humanities Department aims to develop in CCKSians, inquiry-oriented
 learning dispositions that will allow them to make sense of the complexities
-of societal issues that they will encounter.</p>
+of the societal issues that they will encounter in the future.</p>
 <h4><strong>Teaching &amp; Learning Approaches</strong></h4>
-<p>Our key teaching and learning approach is adopted in line with the aim
-to help students become inquiry-oriented learners. As such the department
-adopts an inquiry-based approach towards teaching and learning to enable
-students to reach for deeper and enduring understanding of concepts through
-their own discovery and reasoning.</p>
+<p>The department's key teaching and learning approach is adopted in line
+with the aim to help students become inquiry-oriented learners. As such,
+the department adopts an inquiry-based approach towards teaching and learning
+to enable students to reach for deeper and enduring understanding of concepts
+through their own discovery and reasoning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_12_191409.png">
 </div>
@@ -44,18 +44,18 @@ spirit to contribute responsibly to the society and world they live in.</p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQ7Wh_KwYz2zKTvRg5qT_xrxgc0wj9At2TGivcU2utofhjZa6wuosLkfRr0PMMsR1x-lUqHcYi82n_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p></p>
 <h4><strong>Geography</strong></h4>
 <p>Geography bridges the humanities, social and natural sciences. It is a
 holistic subject that provides students with integrative ways of understanding
 the real world. Students will explore Earth, its natural and man-made environments,
 and examine the interactions of humans with these environments, from the
-personal to global scales. Geography fascinates and inspires students,
-enabling them to gain a deep appreciation of Earth’s beauty, the immense
-power of natural forces, and the ingenious ways humans thrive under different
-circumstances. Through Geography, students will understand how places and
-landscapes evolve, deliberate on consequences arising from our everyday
-decisions, and experience the mosaic of cultures and societies.</p>
+personal to global scales.</p>
+<p>Geography fascinates and inspires students, enabling them to gain a deep
+appreciation of Earth’s beauty, the immense power of natural forces, and
+the ingenious ways humans thrive under different circumstances. Through
+Geography, students will understand how places and landscapes evolve, deliberate
+on consequences arising from our everyday decisions, and experience the
+mosaic of cultures and societies.</p>
 <p>Fieldwork satisfies and nourishes students’ curiosity about contemporary
 issues that affect their communities. Through fieldwork, students apply
 their classroom learning in the real world to make new discoveries. They
@@ -64,7 +64,6 @@ make our world a better place. Such learning experiences make Geography
 a vital resource, in enabling students living in an interconnected world
 to discover what it means to live sustainably and exist harmoniously with
 one another and with other living species.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_12_174043.png">
 </div>
@@ -89,11 +88,9 @@ learner which the History curriculum aims to develop:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_12_174400.png">
 </div>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3hnmt7ANo4HtDBuT09da5ZR_v8PEMGVyxnzUJztdi1tFL2v-pvA2DgTpZ5Hdzbn7x7DSsF2B8wgbv/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p></p>
 <h4><strong>Principles of Accounts</strong></h4>
 <p>Principles of Accounts is designed to teach age-appropriate and relevant
 accounting knowledge, skills and values. In addition, students will understand
@@ -122,13 +119,14 @@ students understand:</p>
 <h4><strong>Elements of Business Skills</strong></h4>
 <p>Elements of Business Skills is an introduction to business through an
 understanding of business activities, focusing on basic marketing and customer
-relations, in the context of Singapore. The syllabus intends to provide
-students with opportunities to develop transferable employability skills
-and knowledge in the service industry, namely the Travel and Tourism, Hospitality,
-and Retail industries, which continue to offer employment opportunities
-accessible to the students. It provides students with the foundational
-knowledge and skills for further studies in institutes of higher learning
-and the awareness of prospects of a career in the service industry.</p>
+relations, in the context of Singapore.</p>
+<p>The syllabus intends to provide students with opportunities to develop
+transferable employability skills and knowledge in the service industry,
+namely the Travel and Tourism, Hospitality, and Retail industries, which
+continue to offer employment opportunities accessible to the students.
+It provides students with the foundational knowledge and skills for further
+studies in institutes of higher learning and the awareness of prospects
+of a career in the service industry.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_12_171938.png">
 </div>
@@ -174,6 +172,17 @@ and the awareness of prospects of a career in the service industry.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tengku Merduati Bte Tengku M</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher (Educational Support)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -203,17 +212,6 @@ and the awareness of prospects of a career in the service industry.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (Social Studies)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tengku Merduati Bte Tengku M</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher (Educational Support)</p>
 </td>
 </tr>
 <tr>
