@@ -1,8 +1,9 @@
 ---
-title: Leadership Development Through CCA
-permalink: /compassionate-leaders/learning-for-life-programme/leadership-development-through-cca/
+title: CCA Leaders
+permalink: /the-co-curriculum-at-cckss/learning-for-life-programme/cca-leaders/
 description: ""
 third_nav_title: Learning for Life Programme
+variant: tiptap
 ---
 # **Leadership Development Through CCA**
 

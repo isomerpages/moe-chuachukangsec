@@ -492,6 +492,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Senior Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tricia Anne Lee Mei Qing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_mei_qing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_mei_qing@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Senior Teacher (Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1356,7 +1368,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Zi Qing</p>
+<p>Mdm Lee Zi Qing Abigail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_zi_qing_abigail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_zi_qing_abigail@schools.gov.sg</a>

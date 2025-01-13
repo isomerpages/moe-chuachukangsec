@@ -1,8 +1,9 @@
 ---
-title: Leadership Course
-permalink: /compassionate-leaders/learning-for-life-programme/leadership-course/
+title: Student Leadership Development Framework (coming soon)
+permalink: /the-co-curriculum-at-cckss/learning-for-life-programme/student-leadership-development-framework/
 description: ""
 third_nav_title: Learning for Life Programme
+variant: tiptap
 ---
 # **Leadership Course**
 
