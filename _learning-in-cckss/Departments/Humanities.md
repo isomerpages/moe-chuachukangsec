@@ -18,7 +18,7 @@ the department adopts an inquiry-based approach towards teaching and learning
 to enable students to reach for deeper and enduring understanding of concepts
 through their own discovery and reasoning.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_12_191409.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_12_191409.png">
 </div>
 <h4><strong>Social Studies</strong></h4>
 <p>At the heart of the Singapore Social Studies curriculum is the preparation
@@ -39,8 +39,9 @@ The curriculum therefore envisions students as informed, concerned and
 participative citizens, competent in decision-making with an impassioned
 spirit to contribute responsibly to the society and world they live in.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_12_191103.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_12_191103.png">
 </div>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQ7Wh_KwYz2zKTvRg5qT_xrxgc0wj9At2TGivcU2utofhjZa6wuosLkfRr0PMMsR1x-lUqHcYi82n_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
@@ -65,7 +66,7 @@ a vital resource, in enabling students living in an interconnected world
 to discover what it means to live sustainably and exist harmoniously with
 one another and with other living species.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_12_174043.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_12_174043.png">
 </div>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCiVEVndjjIPjlH60yzEX8mfHlffsD7-FfvzwIpD28oHhlPzkqPwE1mbMiSjKh4rMM633c-Y4im12-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
@@ -86,8 +87,9 @@ appreciate local contexts and engage with different cultures and societies
 sensitively. These are encapsulated in the seven qualities of a history
 learner which the History curriculum aims to develop:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_12_174400.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_12_174400.png">
 </div>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3hnmt7ANo4HtDBuT09da5ZR_v8PEMGVyxnzUJztdi1tFL2v-pvA2DgTpZ5Hdzbn7x7DSsF2B8wgbv/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
@@ -128,7 +130,7 @@ It provides students with the foundational knowledge and skills for further
 studies in institutes of higher learning and the awareness of prospects
 of a career in the service industry.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_12_171938.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_12_171938.png">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
