@@ -1,7 +1,7 @@
 ---
-title: Timetable
+title: Term 1 Week 3 Timetable
 permalink: /students/class-timetable/
-date: 2024-06-21
+date: 2025-01-16
 layout: post
 description: ""
 image: ""
