@@ -30,7 +30,8 @@ pandan cake by Mdm Haryani! Our visitors certainly enjoyed Day 2's activities!</
 <p>Our two schools exchanged school gifts and our CCKSians and their buddies
 also wrote appreciation notes to one another. After a sumptuous lunch and
 promises to meet again in November 2025, we bade farewell to our friends!</p>
-<p>我们希望很快能见到您，我们非常享受与您的访问！</p>
+<p><strong><em>我们希望很快能见到您，我们非常享受与您的访问！</em></strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQ68nGFyqh_hYO2PjMDSkBRK3vfGI4-UbBKt1J8IP3EDjv7NjlZCQl0-GDruIM4LtWNsanrxzUiEFR/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
