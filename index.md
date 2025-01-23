@@ -23,43 +23,38 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Visit by Zhangjiagang Experimental School
+      subtitle: Global Connect Programme
+      id: infopic
+      button: read more
+      url: /2025-school-events/visit-by-zhangjiagang-experimental-school/
+      image: /images/Events/2025 School
+        Events/3__Visit_by_Zhangjiagang_Experimental_School.jpg
+      alt: Image alt text
+  - infopic:
+      title: Community Pongal Celebrations
+      subtitle: Events
+      id: infopic
+      description: Infopic description
+      button: read more
+      url: /2025-school-events/community-pongal-celebrations/
+      image: /images/Events/2025 School
+        Events/2__Community_Pongal_Celebrations_2025.jpg
+      alt: Image alt text
+  - infopic:
+      title: N Level Results Release 2024
+      subtitle: Events
+      id: infopic
+      button: read more
+      url: /2024-school-events/n-level-results-release/
+      image: /images/Events/2025 School Events/34_N_Level_Results_Release.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Start Right Programme
       subtitle: Events
       id: infopic
       button: Read More
       url: /events/2025-school-events/start-right-programme/
       image: /images/Events/2025 School Events/01) 2025_startright.jpg
-      alt: Image alt text
-  - infopic:
-      title: Open House
-      subtitle: Events
-      id: infopic
-      button: Read More
-      url: /2024-open-house/open-house/
-      image: /images/Events/2024 School Events/2024_Open_House_Poster.jpg
-      alt: Image alt text
-  - infopic:
-      title: Sec 4&5 Graduation Day
-      subtitle: Events
-      id: infopic
-      button: Read more
-      url: /events/sec-4-5-graduation-day/
-      image: /images/Events/2024 School Events/33 sec 4&5 graduation day.jpg
-      alt: Image alt text
-  - infopic:
-      title: Via Carnival
-      subtitle: events
-      id: infopic
-      button: Read more
-      url: /events/via-carnival/
-      image: /images/Events/2024 School Events/32 via_carnival_website_cover.jpg
-      alt: Image alt text
-  - infopic:
-      title: Mid Autumn Family Night
-      subtitle: Events
-      id: infopic
-      button: read more
-      url: /events/mid-autumn-family-night/
-      image: /images/Events/2024 School Events/31 mid autumn family night cover.jpg
       alt: Image alt text
 ---
