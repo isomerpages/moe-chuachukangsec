@@ -872,5 +872,24 @@ of assertiveness and responsible decision-making</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Information for Parents</strong>
+</p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
+out of the Sexuality Education lessons, <em>eTeens</em> and/or supplementary
+sexuality education programmes by MOE-approved external providers.</p>
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
+children out of the <strong>Sexuality Education lessons</strong> need to
+complete an opt-out form. This form will be communicated to parents at
+the start of the year and is also downloadable <a href="/files/SED/ANNEX_A_opt_out_form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
+form is to be submitted by <strong>28/02/2025</strong>.</p>
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
+children out of the <strong><em>eTeens</em> programme</strong>  <strong>(Secondary 3 students only)</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable <a href="/files/SED/ANNEX_B_SEC_3_eTeens_opt_out_form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;
+The completed form is to be submitted by <strong>28/02/2025</strong>.</p>
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
+at 67691386 or email <a rel="noopener noreferrer nofollow" target="_blank">cckss@moe.edu.sg</a> for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
 <p></p>
 <p></p>
