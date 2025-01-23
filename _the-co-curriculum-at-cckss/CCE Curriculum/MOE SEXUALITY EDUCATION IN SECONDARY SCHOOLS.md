@@ -888,8 +888,7 @@ to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable <a href="/files/SED/ANNEX_B_SEC_3_eTeens_opt_out_form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;
 The completed form is to be submitted by <strong>28/02/2025</strong>.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
-at 67691386 or email <a rel="noopener noreferrer nofollow" target="_blank">cckss@moe.edu.sg</a> for
-discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+at 67691386 or email <a href="mailto: cckss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cckss@moe.edu.sg</a> for discussion or to
+seek clarification about the school’s Sexuality Education programme.</p>
 <p></p>
 <p></p>
