@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 School Events
 ---
+<h3><strong>Community Pongal Celebrations</strong></h3>
 <p>On 19 January, our CCKSians and TL Centre students participated in the
 Bukit Panjang Pongal celebrations, engaging with the local community. They
 gained valuable hands-on experience of the Pongal festival traditions.
