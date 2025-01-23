@@ -2,6 +2,8 @@ collections:
   events:
     output: true
     order:
+      - 2025 School Events/Visit by Zhangjiagang Experimental School.md
+      - 2025 School Events/Community Pongal Celebrations.md
       - 2025 School Events/Start Right Programme.md
       - 2025 School Events/.keep
       - 2024 School Events/N Level Results Release.md
