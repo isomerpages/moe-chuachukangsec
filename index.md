@@ -49,4 +49,13 @@ sections:
       url: /events/2025-school-events/start-right-programme/
       image: /images/Events/2025 School Events/01) 2025_startright.jpg
       alt: Image alt text
+  - infopic:
+      title: O Level Results 2024
+      subtitle: Events
+      id: infopic
+      description: Infopic description
+      button: read more
+      url: /events/2025-school-events/o-level-results-2024/
+      image: /images/473027510_592452943741635_640765025786364399_n.jpg
+      alt: Image alt text
 ---
