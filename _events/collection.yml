@@ -2,11 +2,11 @@ collections:
   events:
     output: true
     order:
-      - 2025 School Events/O Level Results Release 2024.md
+      - 2025 School Events/.keep
       - 2025 School Events/Visit by Zhangjiagang Experimental School.md
       - 2025 School Events/Community Pongal Celebrations.md
       - 2025 School Events/Start Right Programme.md
-      - 2025 School Events/.keep
+      - 2025 School Events/O Level Results Release 2024.md
       - 2024 School Events/N Level Results Release.md
       - 2024 School Events/Sec 4&5 Graduation Day.md
       - 2024 School Events/VIA Carnival.md
