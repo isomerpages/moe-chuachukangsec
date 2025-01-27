@@ -23,6 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: CCKSS Global Connect Programme Sharing 2025
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/cckss-global-connect-programme-sharing-2025/
+      image: /images/WhatsApp_Image_2025_01_27_at_08_57_23.jpg
+      alt: Image alt text
+  - infopic:
       title: Visit by Zhangjiagang Experimental School
       subtitle: Global Connect Programme
       id: infopic
