@@ -1,5 +1,5 @@
 ---
-title: Hosting of overseas partner institutions
+title: Hosting of Overseas Partner Institutions
 permalink: /hosting-of-overseas-partner-institutions/
 variant: tiptap
 description: ""
