@@ -42,19 +42,20 @@ sections:
         Events/2__Community_Pongal_Celebrations_2025.jpg
       alt: Image alt text
   - infopic:
-      title: N Level Results Release 2024
-      subtitle: Events
-      id: infopic
-      button: read more
-      url: /2024-school-events/n-level-results-release/
-      image: /images/Events/2025 School Events/34_N_Level_Results_Release.jpg
-      alt: Image alt text
-  - infopic:
       title: 2025 Start Right Programme
       subtitle: Events
       id: infopic
       button: Read More
       url: /events/2025-school-events/start-right-programme/
       image: /images/Events/2025 School Events/01) 2025_startright.jpg
+      alt: Image alt text
+  - infopic:
+      title: O Level Results 2024
+      subtitle: Events
+      id: infopic
+      description: Infopic description
+      button: read more
+      url: /events/2025-school-events/o-level-results-2024/
+      image: /images/473027510_592452943741635_640765025786364399_n.jpg
       alt: Image alt text
 ---

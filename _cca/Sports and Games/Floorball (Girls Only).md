@@ -190,4 +190,5 @@ teamwork through training</p>
 <div class="iframe-wrapper">
 <iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSpQ9oo1cl34fK4dQOfG4KPOSuM-SUyQM3X1YKktvnbGo0279gJ9vlIP4yI99Hzzg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p></p>
+<p><strong><em>Not offered as a CCA for Secondary Ones in 2025</em></strong>
+</p>

@@ -148,7 +148,7 @@ life.</p>
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Elspeth Xie</p>
+<p>Elspeth Xie Xinyi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Level Head (English)&nbsp;</p>
@@ -203,7 +203,7 @@ life.</p>
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tricia Anne Lee Mei Qing</p>
+<p>Lee Mei Qing Tricia Anne</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (English Language)</p>
@@ -214,7 +214,7 @@ life.</p>
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bertrand Lee</p>
+<p>Lee Chai Pin, Betrand</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -225,7 +225,7 @@ life.</p>
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Brandon Goh</p>
+<p>Goh Zhen Xiang, Brandon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -236,7 +236,7 @@ life.</p>
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hubert Yeo</p>
+<p>Hubert Yeo Jing Jie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -258,7 +258,7 @@ life.</p>
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Jian Lin Zoe</p>
+<p>Lee Jian Lin, Zoe</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -277,10 +277,32 @@ life.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Yu Jia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Masayu Aziza Masagos Ahmad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Natalie Neo Hui Min</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
