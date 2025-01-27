@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2025 School Events/Sec 1 Parent Engagement 2025.md
       - 2025 School Events/.keep
       - 2025 School Events/Visit by Zhangjiagang Experimental School.md
       - 2025 School Events/Community Pongal Celebrations.md
