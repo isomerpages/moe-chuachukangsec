@@ -53,9 +53,16 @@ sections:
       title: O Level Results 2024
       subtitle: Events
       id: infopic
-      description: Infopic description
       button: read more
       url: /events/2025-school-events/o-level-results-2024/
       image: /images/473027510_592452943741635_640765025786364399_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Secondary One Parent Engagement 2025
+      subtitle: EVENTS
+      id: infopic
+      button: Read more
+      url: https://chuachukangsec.moe.edu.sg/secondary-one-parent-engagement-2025/
+      image: /images/9__Proud_parents.jpg
       alt: Image alt text
 ---
