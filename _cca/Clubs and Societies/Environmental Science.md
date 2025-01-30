@@ -112,6 +112,9 @@ schools. This programme promotes awareness about biodiversity in Singapore.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p><strong>Green Schools @ South West CDC 2024: </strong>3 Stars</p>
+</li>
+<li>
 <p><strong>Community in Nature (CIN) Award:</strong> Merit</p>
 </li>
 <li>
@@ -378,6 +381,6 @@ Champion Award</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbKTtdYZo4G7VHerrUyHzf9ITuS5IXGRGN8yGgVg1WDnkce5Ja4PrgDDxC9STzUA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR8vOSlCInm8LYW8yudmZlWoU14Wrsc0a2QPSPYdzMzBmh8LWeeB2PL4RC2TXj2VXNLDVWIkqA9rksg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
