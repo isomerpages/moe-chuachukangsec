@@ -218,66 +218,7 @@ to a Girl Guide)</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/441251766_418060684514196_5818076617512898488_n.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">A good win at the West Division Day!</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2025_01_02_at_16_14_27.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Enjoying the great outdoors at Camp Christine!</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2025_01_02_at_16_15_22.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Doing our part with the Girl Guide Cookie sales!</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/WhatsApp_Image_2025_01_02_at_16_20_05.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">West Division Learning Competition</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/WhatsApp_Image_2025_01_02_at_16_22_48.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Getting excited for West Division Day!</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/WhatsApp_Image_2025_01_02_at_16_24_18.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">We had fun at World Thinking Day!</div>
-</div>
-</div>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRK1M6NssMA01ndaDTTNOQDpw0zimkyBRQYFtJxDqy3zGUU6nFcgzmU8YuPBw1Mio4GqCtHmw_nJyNp/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
