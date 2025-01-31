@@ -23,6 +23,13 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Chinese New Year at CCKSS!
+      subtitle: events
+      id: infopic
+      button: read more
+      url: /events/2025-school-events/chinese-new-year-at-cckss/
+      image: /images/WhatsApp_Image_2025_01_31_at_12_22_39.jpg
+  - infopic:
       title: CCKSS Global Connect Programme Sharing 2025
       subtitle: events
       id: infopic
