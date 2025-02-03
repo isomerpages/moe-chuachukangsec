@@ -53,7 +53,7 @@ sections:
       id: infopic
       description: Infopic description
       button: read more
-      url: /2025-school-events/community-pongal-celebrations/
+      url: https://www.chuachukangsec.moe.edu.sg/community-pongal-celebrations/
       image: /images/Events/2025 School
         Events/2__Community_Pongal_Celebrations_2025.jpg
       alt: Image alt text
@@ -78,7 +78,7 @@ sections:
       subtitle: Events
       id: infopic
       button: read more
-      url: https://www.chuachukangsec.moe.edu.sg/events/2025-school-events/o-level-results-release-2024/
+      url: https://www.chuachukangsec.moe.edu.sg/o-level-results-release-2024/
       image: /images/473027510_592452943741635_640765025786364399_n.jpg
       alt: Image alt text
 ---
