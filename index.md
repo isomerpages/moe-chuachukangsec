@@ -29,6 +29,7 @@ sections:
       button: read more
       url: https://chuachukangsec.moe.edu.sg/chinese-new-year-at-cckss/
       image: /images/WhatsApp_Image_2025_01_31_at_12_22_39.jpg
+      alt: Image alt text
   - infopic:
       title: CCKSS Global Connect Programme Sharing 2025
       subtitle: events
