@@ -29,6 +29,7 @@ sections:
       button: read more
       url: https://chuachukangsec.moe.edu.sg/sec-2-g1-ite-visit/
       image: /images/ITE_1.jpg
+      alt: Image alt text
   - infopic:
       title: Chinese New Year at CCKSS!
       subtitle: events
