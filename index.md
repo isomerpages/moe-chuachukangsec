@@ -23,6 +23,13 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Sec 2 G1 ITE Visit
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/sec-2-g1-ite-visit/
+      image: /images/ITE_1.jpg
+  - infopic:
       title: Chinese New Year at CCKSS!
       subtitle: events
       id: infopic
@@ -48,10 +55,16 @@ sections:
         Events/3__Visit_by_Zhangjiagang_Experimental_School.jpg
       alt: Image alt text
   - infopic:
+      title: Secondary One Tamil Language Learning Journey
+      subtitle: in the news
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/about-us/school-achievements/in-the-news/
+      image: /images/TL_LJ2.jpg
+  - infopic:
       title: Community Pongal Celebrations
       subtitle: Events
       id: infopic
-      description: Infopic description
       button: read more
       url: https://www.chuachukangsec.moe.edu.sg/community-pongal-celebrations/
       image: /images/Events/2025 School
