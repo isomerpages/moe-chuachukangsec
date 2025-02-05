@@ -65,7 +65,6 @@ sections:
       title: Community Pongal Celebrations
       subtitle: Events
       id: infopic
-      description: Infopic description
       button: read more
       url: https://www.chuachukangsec.moe.edu.sg/community-pongal-celebrations/
       image: /images/Events/2025 School
