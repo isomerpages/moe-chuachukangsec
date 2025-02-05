@@ -23,6 +23,13 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Sec 2 G1 ITE Visit
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/sec-2-g1-ite-visit/
+      image: /images/ITE_1.jpg
+  - infopic:
       title: Chinese New Year at CCKSS!
       subtitle: events
       id: infopic
