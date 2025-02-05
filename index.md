@@ -62,6 +62,7 @@ sections:
       button: read more
       url: https://chuachukangsec.moe.edu.sg/about-us/school-achievements/in-the-news/
       image: /images/TL_LJ2.jpg
+      alt: Image alt text
   - infopic:
       title: Community Pongal Celebrations
       subtitle: Events
