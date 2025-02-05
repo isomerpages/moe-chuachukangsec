@@ -55,6 +55,13 @@ sections:
         Events/3__Visit_by_Zhangjiagang_Experimental_School.jpg
       alt: Image alt text
   - infopic:
+      title: Secondary One Tamil Language Learning Journey
+      subtitle: in the news
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/about-us/school-achievements/in-the-news/
+      image: /images/TL_LJ2.jpg
+  - infopic:
       title: Community Pongal Celebrations
       subtitle: Events
       id: infopic
