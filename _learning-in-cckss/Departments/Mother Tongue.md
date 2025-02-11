@@ -96,22 +96,22 @@ and our students.</p>
 <p><strong>Sec 1: Chinese Calligraphy and its Application</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_11_103757.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_11_103757.png">
 </div>
 <p><strong>Sec 2: Crafting Fragrance Sachets with Wester Herbs</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_11_103913.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_11_103913.png">
 </div>
 <p><strong>Sec 3: Fusing a Traditional Umbrella with Art</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_11_104259.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_11_104259.png">
 </div>
 <p><strong>Sec 4/5: Designing a Fashionable Tote Bag using Conventional Dyes</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_11_104502.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_11_104502.png">
 </div>
 <p><strong>Malay Language</strong>
 </p>
@@ -121,28 +121,84 @@ and our students.</p>
 </p>
 <p><strong>Sec 3: Performing Arts (<em>Kompang, Dikir Barat</em>, Malay Traditional Dance)</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_11_121941.png">
+</div>
 <p><strong>Sec 4/5: <em>Skuad Serbu Sekolah</em> by Ria 89.7 DM (Introduction to Broadcasting and Media Industry)</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_02_04_at_13_55_35.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_11_121614.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+<p><strong>Tamil Language</strong>
+</p>
+<p><strong>Sec 1: Learning Journey to Little India</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Flower tying and <em>thoranam</em>
+</p>
+</li>
+<li>
+<p>Mango leaves stringing activities</p>
+</li>
+<li>
+<p><em>Pongal</em> pot origami</p>
+</li>
+<li>
+<p>Henna drawing</p>
+</li>
+<li>
+<p>Photo session dressed in <em>Saree / Veshti</em> with accessories</p>
+</li>
+<li>
+<p><em>Urivadithal</em> game</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_02_04_at_14_01_54.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/TL_LJ2.jpg">
 </div>
-</th>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
+<p><strong>Sec 2: <em>Vanga Pongalaam </em>(<em>Pongal </em>Cooking Session)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Picture8.jpg">
+</div>
+<p><strong>Sec 3: Silk Thread Bangle Making/Decorating</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
+</div>
+<p><strong>Sec 4/5: Research Work &amp; Presentation (AI Tools)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Harvest Festival / Thanksgiving Day &amp; <em>Pongal</em> Celebration</p>
+</li>
+</ul>
+<h4><strong>Celebration of Festivals</strong></h4>
+<p>MTL Department organises traditional festivals from different cultures.
+This provides students with an immersive experience in the joyful festive
+atmosphere. These celebrations not only allow students to immerse themselves
+in the festivities but also provide an opportunity for them to understand
+and appreciate the meanings and values behind each festival. By gaining
+a deeper understanding of the cultural significance of these celebrations,
+students develop a stronger attachment to their own culture and traditions,
+fostering a sense of pride and appreciation for their heritage.</p>
+<p><strong>Chinese New Year Celebrations</strong>
+</p>
+<p>“Lohei” or “捞鱼生” which means “toss up a good fortune”. During Chinese
+new year, our students come together to participate in the lively activity
+of lohei. This involves tossing and mixing various ingredients together
+while expressing well wishes and blessings for the upcoming year. By actively
+participating in Lohei, students embrace the festive spirit and celebrate
+the Lunar New Year with enthusiasm and positivity.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRKRM5XOowIKCKaewJfpBf1XR5zyBttw6n45H4LSGtvse8CP72x7HiAVZ1dd_EZ_hqOp0YEWnFNWKUW/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTLD.jpg">
 </div>
