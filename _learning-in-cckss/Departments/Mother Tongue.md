@@ -196,9 +196,77 @@ the Lunar New Year with enthusiasm and positivity.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRKRM5XOowIKCKaewJfpBf1XR5zyBttw6n45H4LSGtvse8CP72x7HiAVZ1dd_EZ_hqOp0YEWnFNWKUW/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
+<p><strong><em>Pongal </em>Celebration</strong>
+</p>
+<p>During the celebration of the Indian traditional <em>Pongal</em> festival,
+students actively participate by engaging in activities that include learning <em>pongal</em> recipes
+and creating<em> rangoli</em> art. Through these hands-on experiences, students
+not only gain practical knowledge of traditional cooking techniques but
+also explore their creativity by designing vibrant<em> rangoli</em> patterns.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT98xYwbBEswDJv6kpkW4OOU644bGiscEOi9Q0MrnQlEfFlTdKyoH9YcPZjcmvcke_IEz77sAdGads1/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p><strong><em>Hari Raya</em> Celebration</strong>
+</p>
+<p>The <em>Hari Raya</em> concert at Chua Chu Kang Secondary School was a vibrant
+celebration of sharing and cultural appreciation. Students and teachers
+showcased the festival’s rich heritage through traditional Malay dance
+and <em>Dikir Barat</em> performances. Drawing from the knowledge and skills
+gained during the Mother Tongue Fortnight programme, students put together
+an engaging and meaningful concert. The event fostered unity and deeper
+cultural understanding, allowing everyone to embrace the values of generosity
+and harmony that <em>Hari Raya Aidilfitri</em> embodies.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQmaQQcwuLnKIjEuhucluI-_I4gHkbgjwLSpENbuapOeOTiYXoo18juhKLAm9iQdqUUgRxVI7_CqT0f/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h4><strong>Mother Tongue Language Learning Journeys</strong></h4>
 <p></p>
-<p></p>
-<p></p>
+<h4><strong>Reading Programme</strong></h4>
+<p>Extensive reading is extremely important for the development of language
+proficiency. It is also the foundation for developing discerning readers
+able to engage texts critically. Students will be exposed to a wide array
+of different text types, with structured exercises to develop their reading
+skills.&nbsp;Students participate in book discussions, storytelling sessions,
+and interactive reading challenges that make reading both enjoyable and
+meaningful. The highlight of the programme is a grand showcase, where students
+present their learning through creative performances such as book dialogues
+and skits. This culminating event not only celebrates their reading journey
+but also fosters confidence and appreciation for literature.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRof1A3CccwvRrcTempBno4pt_ULz4ZVIqcnKxv4xTjpQHhhrAggp4pH0zTjRrMNSUXxxwaxjK8VMk-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>In addition to the enriching activities of our reading programme, our
+Chinese Language Unit also publishes a student anthology, <em>Huifeng Xulai</em>.
+This collection features students’ creative writings and their perspectives
+on various social phenomena, showcasing their depth of thought and expressive
+abilities in the Chinese language. Through this anthology, students not
+only share their ideas and creativity but also inspire their peers to engage
+with societal issues and develop independent thinking skills.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_11_125457.png">
+</div>
+<h4><strong>Cultural Performance Exposure</strong></h4>
+<p>The Cultural Performance Exposure Scheme (CPES) (“文化随意门”计划) is an initiative
+by The Commitee to Promote Chinese Language Learning (CPCLL) since 2009.
+The objective is to enhance students' interest in Chinese Language and
+Culture through attendance at Chinese cultural performances at public performing
+arts venues.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_11_125258.png">
+</div>
+<h4><strong>Singapore Book of Records</strong></h4>
+<p>In the beginning of 2024, as we embarked on our merged school journey
+stronger together, our student artists conceptualized and created a dragon
+painting to usher in the new year. In the relentless pursuit of excellence,
+aligned with the school value of enterprise, they went many steps ahead
+to create a 3-dimensional dragon sculpture. Throughout the process, they
+met with countless setbacks but pressed on with resilience to bring their
+project to fruition. This collaboration between the Mother Tongue and Aesthetics
+Departments was entered into the Singapore Book of Records!</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRcMY4zC0e65-p6b5m0kLeCdJI3Ka6XWcHP8zxBn-r5NoPNbRGcpQ9gGivpURkHeiUyyJHLkzExZ-2T/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h4><strong>Our Mother Tongue Team</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTLD.jpg">
 </div>
@@ -368,7 +436,7 @@ the Lunar New Year with enthusiasm and positivity.</p>
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mohanavalli Mrs Balasuppramaniam Mohanavalli</p>
+<p>Balasuppramaniam Mohanavalli</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
