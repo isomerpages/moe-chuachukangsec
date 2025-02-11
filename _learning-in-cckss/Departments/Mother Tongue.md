@@ -165,7 +165,6 @@ and our students.</p>
 </div>
 <p><strong>Sec 3: Silk Thread Bangle Making/Decorating</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
 </div>
@@ -220,7 +219,13 @@ and harmony that <em>Hari Raya Aidilfitri</em> embodies.</p>
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQmaQQcwuLnKIjEuhucluI-_I4gHkbgjwLSpENbuapOeOTiYXoo18juhKLAm9iQdqUUgRxVI7_CqT0f/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Mother Tongue Language Learning Journeys</strong></h4>
-<p></p>
+<p>Learning journeys to heritage sites, such as Little India, Kampong Glam,
+and Singapore Chinese Cultural Center, provide our students with immersive
+experiences allowing them to have the opportunity to witness firsthand
+the vibrant traditions, customs, and historical significance embedded within
+their respective cultures. These learning journeys foster a stronger connection
+and appreciation for their heritage, enabling students to embrace their
+cultural identity with pride.</p>
 <h4><strong>Reading Programme</strong></h4>
 <p>Extensive reading is extremely important for the development of language
 proficiency. It is also the foundation for developing discerning readers
