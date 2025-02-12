@@ -23,6 +23,22 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Our Sec 1s receive their PLDs!
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/our-sec-1s-receive-their-plds/
+      image: /images/Screenshot_2025_02_11_135721.png
+      alt: Image alt text
+  - infopic:
+      title: Pongal Celebrations @ CCKSS!
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/pongal-celebrations-cckss/
+      image: /images/Screenshot_2025_02_11_133734.png
+      alt: Image alt text
+  - infopic:
       title: Sec 2 G1 ITE Visit
       subtitle: events
       id: infopic
