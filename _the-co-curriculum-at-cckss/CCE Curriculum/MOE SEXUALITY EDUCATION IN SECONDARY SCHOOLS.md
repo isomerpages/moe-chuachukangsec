@@ -111,20 +111,23 @@ which are of prime concern at this age.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p><strong>(e.g.Term 1 Week 2)</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Respectful Relationships &amp; Safety</p>
+<p><strong>Respectful Relationships &amp; Safety</strong>
+</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Steady or Not</p>
-<p>Lesson 1</p>
-<p>(60 mins)</p>
+<p><strong>Steady or Not</strong>
+</p>
+<p><strong>Lesson 1</strong>
+</p>
+<p><strong>(60 mins)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson helps students understand more about relationship building
@@ -162,9 +165,12 @@ in dating vary among individuals</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Being Aware, Being Safe</p>
-<p>Lesson 2</p>
-<p>(60 mins)</p>
+<p><strong>Being Aware, Being Safe</strong>
+</p>
+<p><strong>Lesson 2</strong>
+</p>
+<p><strong>(60 mins)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on helping students to be safe from the dangers of
@@ -192,9 +198,12 @@ self-concept</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>More than Meets the Eye</p>
-<p>Lesson 3</p>
-<p>(60 mins)</p>
+<p><strong>More than Meets the Eye</strong>
+</p>
+<p><strong>Lesson 3</strong>
+</p>
+<p><strong>(60 mins)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson touches on two areas relevant to an adolescent’s curiosity
@@ -267,12 +276,16 @@ etc.)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Respectful Relationships &amp; Safety</p>
+<p><strong>Respectful Relationships &amp; Safety</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A Role for Everyone</p>
-<p>Lesson 1</p>
-<p>(60 mins)</p>
+<p><strong>A Role for Everyone</strong>
+</p>
+<p><strong>Lesson 1</strong>
+</p>
+<p><strong>(60 mins)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focus on how the family, culture and society can influence
@@ -312,9 +325,12 @@ as a male or female</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Online Safety Challenge</p>
-<p>Lesson 2A</p>
-<p>(60 mins)</p>
+<p><strong>Online Safety Challenge</strong>
+</p>
+<p><strong>Lesson 2A</strong>
+</p>
+<p><strong>(60 mins)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on the issue of online grooming and cyber-flashing.
@@ -343,9 +359,12 @@ both online and offline</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Do I or Don’t I</p>
-<p>Lesson 2B</p>
-<p>(60 mins)</p>
+<p><strong>Do I or Don’t I</strong>
+</p>
+<p><strong>Lesson 2B</strong>
+</p>
+<p><strong>(60 mins)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on respect for personal boundaries; and how to be
@@ -410,18 +429,21 @@ both offline and online</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p><strong>(e.g.Term 1 Week 2)</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Respectful Relationships &amp; Safety</p>
+<p><strong>Respectful Relationships &amp; Safety</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Love Yourself, Love Others</p>
-<p>Lesson 1A</p>
-<p>(60 mins)</p>
+<p><strong>Love Yourself, Love Others</strong>
+</p>
+<p><strong>Lesson 1A</strong>
+</p>
+<p><strong>(60 mins)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on dating respectfully in healthy relationships. Students
@@ -457,8 +479,10 @@ is important when entering into a dating relationship</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mending a Broken Heart Lesson 1B</p>
-<p>(60 mins)</p>
+<p><strong>Mending a Broken Heart Lesson 1B</strong>
+</p>
+<p><strong>(60 mins)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students will learn how to manage their emotions if they were to face
@@ -497,9 +521,12 @@ and friends are important pillars of support</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>When Respect Takes Centre Stage</p>
-<p>Lesson 2</p>
-<p>(60 mins)</p>
+<p><strong>When Respect Takes Centre Stage</strong>
+</p>
+<p><strong>Lesson 2</strong>
+</p>
+<p><strong>(60 mins)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson aims to help students think critically and make informed decisions
@@ -564,17 +591,19 @@ alignment with our beliefs</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p><strong>(e.g.Term 1 Week 2)</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Respectful Relationships &amp; Safety</p>
+<p><strong>Respectful Relationships &amp; Safety</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Levelling the Ground Lesson 1</p>
-<p>(60 mins)</p>
+<p><strong>Levelling the Ground Lesson 1</strong>
+</p>
+<p><strong>(60 mins)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson aims to help students think critically about gender stereotypes
@@ -607,9 +636,12 @@ and should be avoided</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>When Love Hurts</p>
-<p>Lesson 2</p>
-<p>(60 mins)</p>
+<p><strong>When Love Hurts</strong>
+</p>
+<p><strong>Lesson 2</strong>
+</p>
+<p><strong>(60 mins)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson aims to help students recognise unhealthy relationships and
@@ -653,9 +685,12 @@ relationship</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>For Better or For Worse</p>
-<p>Lesson 3</p>
-<p>(60 mins)</p>
+<p><strong>For Better or For Worse</strong>
+</p>
+<p><strong>Lesson 3</strong>
+</p>
+<p><strong>(60 mins)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on building a positive relationship with one’s partner
@@ -697,9 +732,12 @@ of their marriage</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>There’s Always More to a Story</p>
-<p>Lesson 4</p>
-<p>(60 mins)</p>
+<p><strong>There’s Always More to a Story</strong>
+</p>
+<p><strong>Lesson 4</strong>
+</p>
+<p><strong>(60 mins)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will revisit the impact of pornography and deepen
@@ -756,18 +794,21 @@ alignment with our beliefs</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p><strong>(e.g.Term 1 Week 2)</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Respectful Relationships &amp; Safety</p>
+<p><strong>Respectful Relationships &amp; Safety</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This is Where I Draw the Line</p>
-<p>(60 mins)</p>
-<p>&nbsp;</p>
+<p><strong>This is Where I Draw the Line</strong>
+</p>
+<p><strong>(60 mins)</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will understand that different individuals have
@@ -829,13 +870,13 @@ family values are the key messages.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p><strong>(e.g. Term 3 Week 9)</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk delivered through a pre-recorded video</p>
+<p><strong>Mass Talk delivered through a pre-recorded video</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -855,7 +896,8 @@ healthy way.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Classroom-based Lesson</p>
+<p><strong>Classroom-based Lesson</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
