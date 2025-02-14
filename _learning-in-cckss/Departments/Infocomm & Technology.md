@@ -20,7 +20,7 @@ students to explore their passions and deepen subject understanding.</p>
 <p>Students will have the change to develop digital literacy through engaging
 Code for Fun workshop, baseline digital skills training as well as engaging
 assembly programmes.</p>
-<p></p>
+<h4><strong>Department Programmes</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT1.jpg">
 </div>
