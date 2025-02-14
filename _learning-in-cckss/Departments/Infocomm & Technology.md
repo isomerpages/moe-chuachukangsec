@@ -7,18 +7,18 @@ third_nav_title: Departments
 ---
 <h4><strong>About us</strong></h4>
 <p>At Chua Chu Kang Secondary School, we leverage technology to empower students
-and teachers in a digital world. We aim to foster a positive environment
-to empower future-ready digital learners through supporting learning outcomes
-and encourage adoption and proficiency in new EdTech trends.</p>
+and teachers in a digital world. We aim to foster a positive environment,
+empower future-ready digital learners through supporting learning outcomes
+and encourage adoption in new EdTech trends.</p>
 <p>Aligned with the National Digital Literacy Programme, we integrate personal
 learning devices into our curriculum for self-directed and collaborative
 learning, strengthening academic foundations and preparing students for
 lifelong learning.</p>
 <p>Our teachers utilize the Student Learning Space (SLS), Google Classroom
-and other platforms to extends learning beyond the classroom, encouraging
+and other platforms to extend learning beyond the classroom, encouraging
 students to explore their passions and deepen subject understanding.</p>
-<p>Students will have the change to develop digital literacy through engaging
-Code for Fun workshop, baseline digital skills training as well as engaging
+<p>Students will have the chance to develop digital literacy through engaging
+Code for Fun workshops, baseline digital skills training as well as engaging
 assembly programmes.</p>
 <h4><strong>Department Programmes</strong></h4>
 <div class="isomer-image-wrapper">
