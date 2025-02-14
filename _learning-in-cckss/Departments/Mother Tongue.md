@@ -285,7 +285,7 @@ Departments was entered into the Singapore Book of Records!</p>
 </div>
 <h4><strong>Our Mother Tongue Team</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTLD.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_14_114217.png">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
