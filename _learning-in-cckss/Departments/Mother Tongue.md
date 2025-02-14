@@ -218,6 +218,18 @@ and harmony that <em>Hari Raya Aidilfitri</em> embodies.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQmaQQcwuLnKIjEuhucluI-_I4gHkbgjwLSpENbuapOeOTiYXoo18juhKLAm9iQdqUUgRxVI7_CqT0f/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
+<p><strong><em>Deepavali</em> Celebration</strong>
+</p>
+<p>The <em>Deepavali</em> celebrations at Chua Chu Kang Secondary School came
+alive with colour and spleandour as our Parent Support Group came together
+to organise a bazaar with the Tamil Department to showcase the rich and
+vibrant traditions of <em>Deepavali</em>. With booths featuring <em>henna</em> painting,
+art and craft and the trying on of traditional costumes, our CCKSians had
+plenty of fun as they learnt more about <em>Deepavali</em> with their friends
+and teachers.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRnpgEvO7ymSqROnVB0cgEcsjn6v9k6-iAeE0Pb6IabS4YXUtRHq6KkdJ9FLt3zJbiMltwWK48ZD2bz/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h4><strong>Mother Tongue Language Learning Journeys</strong></h4>
 <p>Learning journeys to heritage sites, such as Little India, Kampong Glam,
 and Singapore Chinese Cultural Center, provide our students with immersive
@@ -273,7 +285,7 @@ Departments was entered into the Singapore Book of Records!</p>
 </div>
 <h4><strong>Our Mother Tongue Team</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTLD.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_14_114217.png">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
