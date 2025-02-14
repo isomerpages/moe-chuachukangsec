@@ -31,6 +31,14 @@ sections:
       image: /images/Screenshot_2025_02_11_135721.png
       alt: Image alt text
   - infopic:
+      title: Class Leaders' Appointment Ceremony
+      subtitle: student leadership
+      id: infopic
+      button: Read more
+      url: https://chuachukangsec.moe.edu.sg/the-co-curriculum-at-cckss/learning-for-life-programme/class-leaders/
+      image: /images/ab8be7b4_eb68_4707_aaac_f4435150880f.jpg
+      alt: Image alt text
+  - infopic:
       title: Pongal Celebrations @ CCKSS!
       subtitle: events
       id: infopic
