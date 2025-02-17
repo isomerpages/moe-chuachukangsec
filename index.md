@@ -23,6 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Mother Tongue Fortnight
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/mother-tongue-fortnight/
+      image: /images/3__Our_dedicated_Mother_Tongue_Department_and_Parent_Support_Group.jpg
+      alt: Image alt text
+  - infopic:
       title: Our Sec 1s receive their PLDs!
       subtitle: events
       id: infopic
