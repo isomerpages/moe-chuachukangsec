@@ -3,19 +3,16 @@ collections:
     output: true
     order:
       - Clubs and Societies/.keep
-      - Clubs and Societies/Art and Crafts.md
       - Clubs and Societies/Environmental Science.md
       - Clubs and Societies/Infocomm Technology (Media Production).md
       - Clubs and Societies/Robotics.md
       - Performing Arts/.keep
       - Performing Arts/Concert Band.md
       - Performing Arts/English Drama.md
-      - Performing Arts/Guitar Ensemble.md
       - Performing Arts/Modern Dance.md
       - Sports and Games/.keep
       - Sports and Games/Badminton.md
       - Sports and Games/Basketball (Boys Only).md
-      - Sports and Games/Floorball (Girls Only).md
       - Sports and Games/Football (Boys Only).md
       - Sports and Games/Hockey.md
       - Sports and Games/Netball (Girls Only).md
