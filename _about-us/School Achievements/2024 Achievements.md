@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: School Achievements
 ---
-<h3><strong>Academic Achievements (By Subject)</strong></h3>
+<h3><strong>Achievements (Academic)</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_25_155114.png">
 </div>
@@ -15,9 +15,23 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_25_155418.png">
 </div>
-<p></p>
-<p></p>
-<h3><strong>CCA Achievements (Uniformed Groups)</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_25_155555.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_25_155659.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_25_155832.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_25_160033.png">
+</div>
+<h3><strong>Achievements (Character)</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_25_160321.png">
+</div>
+<h3><strong>Achievements (CCA - Uniformed Groups)</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_25_154538.png">
 </div>
@@ -30,15 +44,15 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_25_154520.png">
 </div>
-<h3><strong>CCA Achievements (Clubs &amp; Societies)</strong></h3>
+<h3><strong>Achievements (CCA - Clubs &amp; Societies)</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_25_154759.png">
 </div>
-<h3><strong>CCA Achievements (Performing Arts)</strong></h3>
+<h3><strong>Achievements (CCA - Performing Arts)</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_25_154240.png">
 </div>
-<h3><strong>CCA Achievements (Sports &amp; Games)</strong></h3>
+<h3><strong>Achievements (CCA - Sports &amp; Games)</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_25_153521.png">
 </div>
@@ -54,7 +68,7 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_25_154117.png">
 </div>
-<h3><strong>Staff Achievements</strong></h3>
+<h3><strong>Achievements (Staff)</strong></h3>
 <p><strong>Caring Teacher Awards (CTA) 2024 School Level Winners</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -335,5 +349,6 @@ third_nav_title: School Achievements
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
