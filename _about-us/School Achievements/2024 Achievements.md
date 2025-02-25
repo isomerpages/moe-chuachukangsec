@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: School Achievements
 ---
+<h3><strong>Outstanding CCKSian Award (2023)</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_25_160444.png">
+</div>
 <h3><strong>Achievements (Academic)</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_25_155114.png">
