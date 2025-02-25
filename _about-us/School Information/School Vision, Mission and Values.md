@@ -17,7 +17,7 @@ third_nav_title: School Information
 <p>Enterprise</p>
 <p></p>
 <hr>
-<h4><strong><u>Vision</u></strong></h4>
+<h4><strong>Vision</strong></h4>
 <p><strong>CCKSians with Future-ready Mindsets and Empathetic Hearts who Act Responsibly</strong>
 </p>
 <p>When students graduate from the school, they will be:</p>
@@ -32,7 +32,7 @@ third_nav_title: School Information
 <p>Ethical CCKSians who do what is right and contribute to the community</p>
 </li>
 </ul>
-<h4><strong><u>Mission</u></strong></h4>
+<h4><strong>Mission</strong></h4>
 <p><strong>A Positive Environment that Empowers CCKSians to Thrive and Contribute</strong>
 </p>
 <p>The school aims to build a safe and inclusive environment which ensures
@@ -40,7 +40,7 @@ the holistic well-being and growth of students. Students will be equipped
 with relevant knowledge, values and skills to enable them to fulfill their
 potential and achieve their goals. Students will be inspired to contribute
 to the community.</p>
-<h4><strong><u>Values</u></strong></h4>
+<h4><strong>Values</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
