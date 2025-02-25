@@ -12,6 +12,10 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_25_155245.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_25_155418.png">
+</div>
+<p></p>
 <p></p>
 <h3><strong>CCA Achievements (Uniformed Groups)</strong></h3>
 <div class="isomer-image-wrapper">
@@ -331,4 +335,5 @@ third_nav_title: School Achievements
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
