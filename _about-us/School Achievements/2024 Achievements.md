@@ -5,7 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: School Achievements
 ---
-<h3><strong>Achievements (Uniformed Groups)</strong></h3>
+<h3><strong>Academic Achievements (By Subject)</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_25_155114.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_25_155245.png">
+</div>
+<p></p>
+<h3><strong>CCA Achievements (Uniformed Groups)</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_25_154538.png">
 </div>
@@ -18,11 +26,15 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_25_154520.png">
 </div>
-<h3><strong>Achievements (Performing Arts) </strong></h3>
+<h3><strong>CCA Achievements (Clubs &amp; Societies)</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_25_154759.png">
+</div>
+<h3><strong>CCA Achievements (Performing Arts)</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_25_154240.png">
 </div>
-<h3><strong>Achievements (Sports &amp; Games)</strong></h3>
+<h3><strong>CCA Achievements (Sports &amp; Games)</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_25_153521.png">
 </div>
