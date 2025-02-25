@@ -23,6 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Sec 1 CL and ML Mother Tongue Learning Journeys
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/sec-1-cl-and-ml-mother-tongue-learning-journeys/
+      image: /images/WhatsApp_Image_2025_02_25_at_07_37_18.jpg
+      alt: Image alt text
+  - infopic:
       title: Mother Tongue Fortnight
       subtitle: events
       id: infopic
