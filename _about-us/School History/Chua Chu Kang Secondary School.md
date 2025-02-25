@@ -188,3 +188,10 @@ students.</p>
 <p>As this 30-year chapter of Chua Chu Kang Secondary School closes, and
 a new one of Chua Chu Kang Secondary School (德惠中学) begins, we thank Mdm
 Adel Ong for her faithful stewardship of the school.</p>
+<h2><strong>30th Anniversary Magazine</strong></h2>
+<p><a href="https://heyzine.com/flip-book/b3d47a1b8e.html" rel="noopener nofollow" target="_blank">View the magazine here!</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/School Magazine Cover Page.jpg">
+</div>
+<p></p>
