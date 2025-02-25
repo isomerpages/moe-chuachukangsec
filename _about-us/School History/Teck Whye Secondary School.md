@@ -3,7 +3,7 @@ title: Teck Whye Secondary School
 permalink: /about-us/school-history/teck-whye-secondary-school/
 description: ""
 third_nav_title: School History
-variant: markdown
+variant: tiptap
 ---
 <h2><strong>Teck Whye Secondary School</strong></h2>
 <h3><strong>Our Initial Years (1966 – 1979)</strong></h3>
