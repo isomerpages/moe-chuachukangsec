@@ -47,8 +47,8 @@ School has stayed true to its vision and mission. The merger of Chua Chu
 Kang Secondary School and Teck Whye Secondary School in 2023 holds great
 promise. As one school, we continue to chart the future of Chua Chu Kang
 Secondary School (德惠中学) and hold in stewardship the ideals of education.</p>
-<h1><strong>Our Past Principals</strong></h1>
-<h1><strong>Growth And Development Over The Years</strong></h1>
+<h2><strong>Our Past Principals</strong></h2>
+<h2><strong>Growth And Development Over The Years</strong></h2>
 <p><strong>Ms Sum Chee Wah</strong>
 <br><strong>Founding Principal, 1996 to 1999</strong>
 <br>In the school’s nascent years, founding Principal, Ms Sum Chee Wah, focused
