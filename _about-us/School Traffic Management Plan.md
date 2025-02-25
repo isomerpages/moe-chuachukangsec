@@ -4,12 +4,11 @@ permalink: /about-us/school-traffic-management-plan/
 variant: tiptap
 description: ""
 ---
-<h3><strong>School Traffic Management Plan</strong></h3>
+<h2><strong>School Traffic Management Plan</strong></h2>
 <h4><strong>Introduction</strong></h4>
 <p>Chua Chu Kang Secondary School is located at 31 Teck Whye Crescent, Singapore
 688848. Due to the proximity of Teck Whye Primary School (TWPS) and Jurong
 Pioneer Junior College (JPJC), morning traffic can be heavy.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/School Traffic Management Plan/Image01.jpg">
 </div>
@@ -29,9 +28,8 @@ within school premises.</p>
 <p>Minimize traffic congestion and ensure smooth flow</p>
 </li>
 </ul>
-<p></p>
 <h4><strong>School’s Operating Hours</strong></h4>
-<p><u>For Pedestrians and Cyclists</u>
+<p><strong><u>For Pedestrians and Cyclists</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -41,8 +39,7 @@ within school premises.</p>
 <p>Side Gate 7 (Pang Sua Park Connector): 7:00 AM - 8:00 AM (Mon-Fri)</p>
 </li>
 </ul>
-<p></p>
-<p><u>For Vehicles</u>
+<p><strong><u>For Vehicles</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -55,9 +52,8 @@ within school premises.</p>
 <p>Off-Peak Hours: 8:00 AM - 6:00 PM (Mon-Fri) - OPEN (Barrier DOWN)</p>
 </li>
 </ul>
-<p></p>
 <h4><strong>Transportation to School</strong></h4>
-<p><u>Public Transport</u>
+<p><strong><u>Public Transport</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -81,8 +77,7 @@ within school premises.</p>
 <p>LRT: Phoenix Station (BP5) - 11 mins walk</p>
 </li>
 </ul>
-<p></p>
-<p><u>By Car</u>
+<p><strong><u>By Car</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -90,11 +85,10 @@ within school premises.</p>
 Polyclinic to avoid congestion.</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/School Traffic Management Plan/Image02.jpg">
 </div>
-<p><u>Cycling</u>
+<p><strong><u>Cycling</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -110,9 +104,8 @@ Polyclinic to avoid congestion.</p>
 <p>Adhere to safety rules to avoid cycling ban</p>
 </li>
 </ul>
-<p></p>
 <h4><strong>Safety Measures</strong></h4>
-<p><u>For Pedestrians/Cyclists</u>
+<p><strong><u>For Pedestrians/Cyclists</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -128,12 +121,10 @@ Polyclinic to avoid congestion.</p>
 <p>Cyclists must dismount and push bicycles when entering</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/School Traffic Management Plan/Image03.jpg">
 </div>
-<p></p>
-<p><u>For Vehicles (6:30 AM - 8:00 AM)</u>
+<p><strong><u>For Vehicles (6:30 AM - 8:00 AM)</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -149,7 +140,6 @@ Polyclinic to avoid congestion.</p>
 <p>Exit via roundabout at main entrance</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/School Traffic Management Plan/Image04.jpg">
 </div>
