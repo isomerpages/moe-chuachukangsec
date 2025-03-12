@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2025 School Events/Total Defence Day 2025.md
       - 2025 School Events/Sec 1 CL and ML Mother Tongue Learning Journeys.md
       - 2025 School Events/Mother Tongue Fortnight.md
       - 2025 School Events/Our Sec 1s Receive Their PLDs!.md
