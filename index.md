@@ -31,6 +31,14 @@ sections:
       image: /images/WhatsApp_Image_2025_02_25_at_07_37_18.jpg
       alt: Image alt text
   - infopic:
+      title: Total Defence Day 2025
+      subtitle: EVENTS
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/total-defence-day-2025/
+      image: /images/Who_switched_off_the_power.jpg
+      alt: Image alt text
+  - infopic:
       title: Mother Tongue Fortnight
       subtitle: events
       id: infopic
