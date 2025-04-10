@@ -1,7 +1,7 @@
 ---
 title: Weighted Assessment Schedule
 permalink: /weighted-assessment-schedule/
-date: 2025-01-30
+date: 2025-04-10
 layout: post
 description: ""
 image: ""
