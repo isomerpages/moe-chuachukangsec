@@ -4,10 +4,8 @@ permalink: /weighted-assessment-schedule/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <p><strong><u>Term 2 WA/MA</u></strong>
 </p>
-<p></p>
 <p><a href="/files/Students/Term 2 WA Schedule/2025_Sec_1_WA2_Individual_Class_Schedule_FINAL.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Weighted Assessment 2</a>
 </p>
 <p><a href="/files/Students/Term 2 WA Schedule/2025_Sec_2_WA2_Individual_Class_Schedule_FINAL.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Weighted Assessment 2</a>
