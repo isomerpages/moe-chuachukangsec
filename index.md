@@ -23,6 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: History Times Collaboration with Sembawang Secondary School
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/history-times-collaboration-with-sembawang-secondary-school/
+      image: /images/491818999_669934242660171_5954796087198620374_n__1_.jpg
+      alt: Image alt text
+  - infopic:
       title: Sec 1 CL and ML Mother Tongue Learning Journeys
       subtitle: events
       id: infopic
