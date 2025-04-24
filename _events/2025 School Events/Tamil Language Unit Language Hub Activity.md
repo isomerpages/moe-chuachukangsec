@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 School Events
 ---
-<h2><strong>Tamil Language Unit Language Hub Activity</strong></h2>
+<h1><strong>Tamil Language Unit Language Hub Activity</strong></h1>
 <p>As part of our MTL 'Language Hub Activity', our TL students participated
 in an Indian martial art (Silambattam) learning session this afternoon.
 Alongside CCKSS Sec 2 students, our TL Centre Sec 1 and 2 students learned
