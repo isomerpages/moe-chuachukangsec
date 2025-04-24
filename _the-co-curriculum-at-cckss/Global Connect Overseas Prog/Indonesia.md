@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Global Connect Overseas Prog
 ---
-<h2><strong>2024 Global Connect Trip to Yogyakarta, Indonesia</strong></h2>
+<h1><strong>2024 Global Connect Trip to Yogyakarta, Indonesia</strong></h1>
 <p>Our first day in Yogyakarta was a heartwarming and unforgettable experience.
 We visited the Aminah&nbsp; Al Maa’uun Orphanage in the southern region
 of Yogyakarta. The warm welcome we received, complete with heartfelt hospitality
