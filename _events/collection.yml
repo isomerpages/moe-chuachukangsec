@@ -2,6 +2,8 @@ collections:
   events:
     output: true
     order:
+      - 2025 School Events/Hari Raya & International Friendship Day
+        Celebrations.md
       - 2025 School Events/.keep
       - 2025 School Events/Tamil Language Unit Language Hub Activity.md
       - 2025 School Events/History Times Collaboration with Sembawang Secondary
