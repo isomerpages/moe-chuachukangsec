@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Global Connect Overseas Prog
 ---
-<h2><strong>2024 Global Connect Trip to Ho Chi Minh City, Vietnam</strong></h2>
+<h1><strong>2024 Global Connect Trip to Ho Chi Minh City, Vietnam</strong></h1>
 <p>Our CCKSians embarked on an exciting 5 Days and 4 Nights trip to history-rich
 Ho Chi Minh City, Vietnam from 26 to 30 October 2024. Exploring Vietnam’s
 tumultuous war history, they trekked through the Cu Chi Tunnels, visited
