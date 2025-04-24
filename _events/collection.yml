@@ -2,6 +2,8 @@ collections:
   events:
     output: true
     order:
+      - "2025 School Events/Tulips in Bloom: Our Creative CCKSians Exhibit
+        Mosaic Art at Gardens by the Bay.md"
       - 2025 School Events/Tamil Language Unit Language Hub Activity.md
       - 2025 School Events/History Times Collaboration with Sembawang Secondary
         School.md
