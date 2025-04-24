@@ -31,6 +31,14 @@ sections:
       image: /images/491818999_669934242660171_5954796087198620374_n__1_.jpg
       alt: Image alt text
   - infopic:
+      title: Tamil Language Unit Language Hub Activity
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/tamil-language-unit-language-hub-activity/
+      image: /images/491925049_668676542785941_5841389273783045412_n.jpg
+      alt: Image alt text
+  - infopic:
       title: Sec 1 CL and ML Mother Tongue Learning Journeys
       subtitle: events
       id: infopic
