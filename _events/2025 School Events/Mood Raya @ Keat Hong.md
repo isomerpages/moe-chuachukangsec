@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 School Events
 ---
-<h1><strong>Mood Raya @ Keat Hong</strong></h1>
+<h2><strong>Mood Raya @ Keat Hong</strong></h2>
 <p>Our CCKSians truly have empathetic hearts to serve the community! Although
 it was a Sunday and many Muslim families were still visiting friends and
 relatives over the weekend, our Muslim CCKSian students, dressed in vintage
