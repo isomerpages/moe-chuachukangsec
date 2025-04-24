@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 School Events
 ---
-<h1><strong>Hari Raya &amp; International Friendship Day Celebrations</strong></h1>
+<h2><strong>Hari Raya &amp; International Friendship Day Celebrations</strong></h2>
 <p>Our combined Hari Raya and International Friendship Day concert was a
 meaningful celebration of cultural diversity, friendship, and unity. Through
 vibrant performances, our students and teachers beautifully showcased Malay
