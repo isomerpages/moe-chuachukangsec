@@ -2,10 +2,8 @@ collections:
   events:
     output: true
     order:
-      - 2025 School Events/Knowledge Building Networked Learning Community
-        Session.md
-      - 2025 School Events/Secondary One Camp.md
       - 2025 School Events/.keep
+      - 2025 School Events/Secondary One Camp.md
       - 2025 School Events/Tamil Language Unit Language Hub Activity.md
       - 2025 School Events/History Times Collaboration with Sembawang Secondary
         School.md
@@ -15,6 +13,8 @@ collections:
       - 2025 School Events/Hari Raya & International Friendship Day
         Celebrations.md
       - 2025 School Events/Speech Day 2025.md
+      - 2025 School Events/Knowledge Building Networked Learning Community
+        Session.md
       - 2025 School Events/Sec 1 CL and ML Mother Tongue Learning Journeys.md
       - 2025 School Events/Total Defence Day 2025.md
       - 2025 School Events/Mother Tongue Fortnight.md
