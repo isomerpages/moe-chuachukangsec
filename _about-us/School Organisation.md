@@ -41,18 +41,6 @@ variant: tiptap
 <p>Vice Principal (Acad)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jane Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_ee_lei_jane@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_ee_lei_jane@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice Principal (Acad)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Hartati Bte Osman</p>
 </td>
 <td rowspan="1" colspan="1">
