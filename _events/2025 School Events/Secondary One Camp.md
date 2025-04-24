@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 School Events
 ---
-<h1><strong>Secondary One Camp 2025</strong></h1>
+<h2><strong>Secondary One Camp 2025</strong></h2>
 <p>This week, our Sec 1 CCKSians embarked on their outdoor education journey
 in two exciting locations. One group took on Kallang Basin, building water
 confidence and powering through dragon boating, before navigating the Sports
