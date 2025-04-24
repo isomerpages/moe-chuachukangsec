@@ -37,4 +37,18 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_04_24_111520.png">
 </div>
+<h3><strong>Achievements (Singapore Youth Festival)</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_04_24_114338.png">
+</div>
+<h3><strong>Achievements (Uniformed Groups)</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_04_24_114842.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_04_24_114821.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_04_24_114547.png">
+</div>
 <p></p>
