@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Global Connect Overseas Prog
 ---
-<h3><strong>Sri Nagarindra The Princess Mother School (SWPY), Phayao, Thailand</strong></h3>
+<h2><strong>Sri Nagarindra The Princess Mother School (SWPY), Phayao, Thailand</strong></h2>
 <p>Continuing the partnership our Principal, Mr Timothy Cheng, built almost
 a decade ago, our collaboration with Sri Nagarindra The Princess Mother
 School (SWPY) was forged in 2023 with the school's inaugural Global Connect
@@ -19,7 +19,7 @@ feel a sense of homecoming each time we touch down in Chiang Rai!</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXZ08YnN4-hKLo1-Cof8G3h_6_8CAH524QOd8JriDKCImmPnv3EtIZPQ7k6dAOaNfc_qrhCcKgh5hS/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h3><strong>Phusangwittayakhom School, Phayao, Thailand</strong></h3>
+<h2><strong>Phusangwittayakhom School, Phayao, Thailand</strong></h2>
 <p>We were visited by the Principal and staff of Phusangwittayakhom School,
 where we spent some time learning about the Thai and Singaporean education
 systems. Miss Patumrat Khamsaen, the Director of the school once taught
@@ -31,7 +31,7 @@ schools.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbpRyBMmqlwQf5MOkbmmVHtgcNnAtThDYhw1G871t7zbmEs2ytWSs6tKr7bg35bZpseHqa1FV441UF/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h3><strong>Zhangjiagang Experimental School, China</strong></h3>
+<h2><strong>Zhangjiagang Experimental School, China</strong></h2>
 <p>We were visited by staff and students from Zhangjiagang Experimental School,
 China as part of a partnership forged when we visited them in 2024. Our
 CCKSians excitedly welcomed their counterparts and went through two days
@@ -42,7 +42,7 @@ in November 2025.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSxRslQcYmZpb8a8EZwW71Wo0vpUKDDVYIUa2iCPoyAmLBSi9b6McbY7W9b9Z5988-m0L9OIZmU83A1/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h3><strong>Shinkamigoto Town Board of Education, Nagasaki, Japan</strong></h3>
+<h2><strong>Shinkamigoto Town Board of Education, Nagasaki, Japan</strong></h2>
 <p>We have enjoyed visits from students and staff of the Shinkamigoto Town
 Board of Education since 2023. Students from both schools have collaborated
 together on VR in education games as well as orchid hybridisation crafts.
@@ -51,7 +51,7 @@ and look forward to perhaps visiting our Japanese friends soon!</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQAjCLNpinllKXcEqd-3myBzzqZI8ECvg1k4KfTAdlAKScOvQsC48Mw_MnbtrtEcvz5vaqMnfuYgcN4/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h3><strong>Seongnam Foreign Language School, South Korea</strong></h3>
+<h2><strong>Seongnam Foreign Language School, South Korea</strong></h2>
 <p>We hosted staff and students of Seongnam Foreign Language School, South
 Korea, as part of a cluster activity and enjoyed the time we spent with
 them at CCKSS. In addition to learning about orchid hybridisation, we bonded
