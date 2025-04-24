@@ -69,10 +69,7 @@ InfoComm photo competition, etc)</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Capture.jpg">
-</div>
-<h4><strong>Selection of CCA Leaders </strong></h4>
+<h4><strong>Selection of CCA Leaders</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20leadership%20structure.jpg">
 </div>
