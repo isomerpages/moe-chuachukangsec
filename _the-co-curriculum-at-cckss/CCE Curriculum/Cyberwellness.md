@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCE Curriculum
 variant: tiptap
 ---
-<h3>MOE Cyber Wellness Resources for Parents</h3>
+<h2><strong>MOE Cyber Wellness Resources for Parents</strong></h2>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Additional Resources for Parents</h3>
+<h2><strong>Additional Resources for Parents</strong></h2>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
