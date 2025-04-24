@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2025 School Events/Secondary One Camp.md
       - 2025 School Events/.keep
       - 2025 School Events/Tamil Language Unit Language Hub Activity.md
       - 2025 School Events/History Times Collaboration with Sembawang Secondary
