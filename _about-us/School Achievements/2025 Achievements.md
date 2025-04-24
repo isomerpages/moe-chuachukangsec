@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: School Achievements
 ---
+<h3><strong>Outstanding CCKSian Award (2024) - Jazzlyn Saw Weijia</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/490345746_663602159960046_6469839231299091419_n.jpg">
+</div>
 <h3><strong>Achievements (Singapore Youth Festival)</strong></h3>
 <h4><strong>Concert Band (Certificate of Commendation)</strong></h4>
 <div class="isomer-image-wrapper">
