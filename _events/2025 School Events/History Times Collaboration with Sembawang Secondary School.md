@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 School Events
 ---
-<h2><strong>History Times Collaboration with Sembawang Secondary School</strong></h2>
+<h1><strong>History Times Collaboration with Sembawang Secondary School</strong></h1>
 <p>CCKSians connected with their peers from Sembawang Secondary School via
 "The History Times" [a signature cross-schools history talent development
 program], jointly organized by both schools, supported by the Knowledge
