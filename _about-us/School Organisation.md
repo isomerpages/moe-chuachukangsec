@@ -41,18 +41,6 @@ variant: tiptap
 <p>Vice Principal (Acad)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jane Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_ee_lei_jane@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_ee_lei_jane@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice Principal (Acad)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Hartati Bte Osman</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1032,10 +1020,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Pooi Ming Shurn, Benjamin</p>
+<p>Ms Yap Eng Luan Ruth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pooi_ming_shurn_benjamin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pooi_ming_shurn_benjamin@schools.gov.sg</a>
+<p><a href="mailto:yap_eng_luan_ruth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_eng_luan_ruth@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1080,10 +1068,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yap Eng Luan Ruth</p>
+<p>Ms Sharmala Jacquelyn Solomon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yap_eng_luan_ruth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_eng_luan_ruth@schools.gov.sg</a>
+<p><a href="mailto:sharmala_jacquelyn_solomon@schools.gov.sg" rel="noopener nofollow" target="_blank">sharmala_jacquelyn_solomon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
