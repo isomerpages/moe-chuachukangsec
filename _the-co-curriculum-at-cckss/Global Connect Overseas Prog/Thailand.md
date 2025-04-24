@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Global Connect Overseas Prog
 ---
-<h2><strong>2024 Global Connect Trip to Chiang Rai, Thailand</strong></h2>
+<h1><strong>2024 Global Connect Trip to Chiang Rai, Thailand</strong></h1>
 <p>Our recent 6 days 5 nights overseas trip to Chiang Rai, Thailand was an
 enriching and unforgettable experience. Known for its stunning landscapes
 and cultural landmarks, Chiang Rai offered the perfect backdrop for learning
