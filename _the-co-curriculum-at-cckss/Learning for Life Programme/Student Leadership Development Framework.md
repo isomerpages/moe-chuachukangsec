@@ -44,26 +44,24 @@ both generic as well as specific, pertaining to the roles and functions
 of the leadership opportunity.</p>
 <p>These three principles – Leading Across, Leading Up, &amp; Leading Down
 – were proposed by John C. Maxwell, author of the acclaimed book, The 360
-Degree Leader. This adopted model for CCKSS’ Student Leadership Programme
-will replace the former model of Student Leadership Development in the
-school, Everyday Leadership, which will be phased out by 2018.</p>
+Degree Leader.</p>
 <h4><strong>For Targeted Groups</strong></h4>
 <p>At the second tier, training is customized for specific Student Leader
 groups, which includes:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Class Committees’ Role-Specific training (school level)</p>
+<p>Class Committees’ Role-Specific training (School Level)</p>
 </li>
 <li>
 <p>Student Leadership Forum (Class Committees)</p>
 </li>
 <li>
-<p>Student Leadership Camp (Prefects, NE Ambassadors, CW Ambassadors, CCA
-Leaders)</p>
+<p>Student Leadership Camp (Student Council, NE Ambassadors, CW Ambassadors,
+CCA Leaders)</p>
 </li>
 <li>
-<p>Leadership Group specific training (Prefect Camp, NE Ambassador Training,
-CW Ambassador Training, OBS)</p>
+<p>Leadership Group specific training (Student Leaders' Camp, NE Ambassador
+Training, CW Ambassador Training, OBS)</p>
 </li>
 </ul>
 <p>This structured progression in explicit teaching of leadership theory
