@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Year Books</strong></h2>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_04_24_170341.png">
 </div>
