@@ -6,7 +6,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 School Events
 ---
-<h1><strong>Tulips in Bloom: Our Creative CCKSians Exhibit Mosaic Art at Gardens by the Bay</strong></h1>
+<h2><strong>Tulips in Bloom: Our Creative CCKSians Exhibit Mosaic Art at Gardens by the Bay</strong></h2>
 <p>Once again our CCKSians have done us proud! Our Art Club members in collaboration
 with Gardens By The Bay for Tulipmania, contributed to 3 stunning mosaic
 art installations in the likeness of Turkiye's famous mosaic tiles. The
