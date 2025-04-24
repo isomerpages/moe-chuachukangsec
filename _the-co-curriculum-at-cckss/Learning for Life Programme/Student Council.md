@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Learning for Life Programme
 variant: tiptap
 ---
-<h2><strong>Student Council</strong></h2>
+<h1><strong>Student Council</strong></h1>
 <p>The pinnacle of Student Leadership opportunities in Chua Chu Kang Secondary
 School is to serve in the Student Council. As exemplary leaders, Student
 Councillors serve responsibly and they are adaptable. They are reflective
