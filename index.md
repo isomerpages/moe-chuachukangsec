@@ -47,6 +47,14 @@ sections:
       image: /images/491459340_1225491362268943_6805609132942730530_n.jpg
       alt: Image alt text
   - infopic:
+      title: Mood Raya @ Keat Hong
+      subtitle: EVENTS
+      id: infopic
+      button: READ MORE
+      url: https://chuachukangsec.moe.edu.sg/mood-raya-keat-hong/
+      image: /images/490742215_665371846449744_3231649492026608523_n.jpg
+      alt: Image alt text
+  - infopic:
       title: Sec 1 CL and ML Mother Tongue Learning Journeys
       subtitle: events
       id: infopic
