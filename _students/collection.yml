@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Cohort Level website.md
       - Timetable/.keep
       - Timetable/Class Timetable.md
       - Weighted Assessment Schedule.md
