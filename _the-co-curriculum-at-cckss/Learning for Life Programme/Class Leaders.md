@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Learning for Life Programme
 variant: tiptap
 ---
-<h2><strong>Class Leaders</strong></h2>
+<h1><strong>Class Leaders</strong></h1>
 <p>Class leaders are the beacon of each class: rallying the students together
 and encouraging participation from the class. They form the Class Committee
 with the Peer Support Leaders to support the Form Teachers in carrying
@@ -32,7 +32,7 @@ be an upstander).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
 </div>
-<h2><strong>Class Leaders' Appointment Ceremony 2025</strong></h2>
+<h1><strong>Class Leaders' Appointment Ceremony 2025</strong></h1>
 <p>On 6 February, Class Leaders and Peer Support Leaders were officially
 appointed, stepping into their roles as Tier 2 Leaders dedicated to fostering
 a positive and supportive class culture. They affirmed their commitment
