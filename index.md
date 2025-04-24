@@ -79,6 +79,14 @@ sections:
       image: /images/490356457_663579263295669_189726570356038922_n.jpg
       alt: Image alt text
   - infopic:
+      title: Knowledge Building Networked Learning Community Session
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/knowledge-building-networked-learning-community-session/
+      image: /images/Screenshot_2025_04_24_191951.png
+      alt: Image alt text
+  - infopic:
       title: Sec 1 CL and ML Mother Tongue Learning Journeys
       subtitle: events
       id: infopic
