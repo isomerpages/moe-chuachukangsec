@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2025 School Events/Mood Raya @ Keat Hong.md
       - "2025 School Events/Tulips in Bloom: Our Creative CCKSians Exhibit
         Mosaic Art at Gardens by the Bay.md"
       - 2025 School Events/Tamil Language Unit Language Hub Activity.md
