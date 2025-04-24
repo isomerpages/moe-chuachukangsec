@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 School Events
 ---
-<h2><strong>Speech Day 2025 "Together We Excel"</strong></h2>
+<h1><strong>Speech Day 2025 "Together We Excel"</strong></h1>
 <p>On 11 April, we celebrated our school’s Speech Day—an annual milestone
 of pride and achievement. What made this year especially meaningful was
 the incredible spirit of collaboration and ownership displayed by everyone
