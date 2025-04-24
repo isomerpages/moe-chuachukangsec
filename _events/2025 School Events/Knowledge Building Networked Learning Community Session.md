@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 School Events
 ---
-<h1><strong>Knowledge Building Networked Learning Community Session</strong></h1>
+<h2><strong>Knowledge Building Networked Learning Community Session</strong></h2>
 <p>11 CCKSS educators attended the Knowledge Building Networked Learning
 Community Session today where they gained valuable insights into new educational
 technologies development (including AI-powered tools), innovative pedagogies,
