@@ -55,6 +55,14 @@ sections:
       image: /images/490742215_665371846449744_3231649492026608523_n.jpg
       alt: Image alt text
   - infopic:
+      title: Speech Day 2025
+      subtitle: EVENTS
+      id: infopic
+      button: READ MORE
+      url: https://chuachukangsec.moe.edu.sg/speech-day-2025/
+      image: /images/490356457_663579263295669_189726570356038922_n.jpg
+      alt: Image alt text
+  - infopic:
       title: Sec 1 CL and ML Mother Tongue Learning Journeys
       subtitle: events
       id: infopic
