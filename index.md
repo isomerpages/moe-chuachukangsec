@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Students
           description: ""
-          url: /students/class-timetable/
+          url: /students/cohort-level-website/
         - title: Parents
           description: ""
           url: /parents/2025-sec-1-parent-engagement/
