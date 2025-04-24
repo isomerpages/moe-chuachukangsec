@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Global Connect Overseas Prog
 ---
-<h2><strong>2024 Global Connect Trip to Jiangsu Province, China</strong></h2>
+<h1><strong>2024 Global Connect Trip to Jiangsu Province, China</strong></h1>
 <p>From 7 to 12 Nov 2024, a group of 37 CCKSians and 6 staff embarked on
 a trip to Suzhou and Shanghai. On Day 1, we touched down at Shanghai Pudong
 Airport and visited the Shanghai Maglev Museum, followed by an exciting
