@@ -55,6 +55,14 @@ sections:
       image: /images/490742215_665371846449744_3231649492026608523_n.jpg
       alt: Image alt text
   - infopic:
+      title: Hari Raya & International Friendship Day Celebrations
+      subtitle: EVENTS
+      id: infopic
+      button: Read more
+      url: https://chuachukangsec.moe.edu.sg/hari-raya-international-friendship-day-celebrations/
+      image: /images/Screenshot_2025_04_24_183243.png
+      alt: Image alt text
+  - infopic:
       title: Speech Day 2025
       subtitle: EVENTS
       id: infopic
