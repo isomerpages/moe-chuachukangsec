@@ -23,6 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Secondary One Camp
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/hari-raya-international-friendship-day-celebrations/
+      image: /images/Screenshot_2025_04_24_184045.png
+      alt: Image alt text
+  - infopic:
       title: History Times Collaboration with Sembawang Secondary School
       subtitle: events
       id: infopic
