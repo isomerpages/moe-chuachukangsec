@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Global Connect Overseas Prog
 variant: tiptap
 ---
-<h2><strong>CCKSS Global Connect Overseas Programme</strong></h2>
+<h1><strong>CCKSS Global Connect Overseas Programme</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Picture1_removebg_preview.png">
 </div>
