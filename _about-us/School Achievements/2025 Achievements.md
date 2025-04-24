@@ -27,20 +27,6 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/492008671_668677666119162_597584011379660963_n.jpg">
 </div>
-<h4><strong>Raffles Institution Tamil Literacy Competition</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/492008921_668677622785833_430735963555297249_n.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/486611025_651342131186049_591928268242907633_n.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/487294033_651342061186056_7163003009310134152_n.jpg">
-</div>
-<h4><strong>Tamil Translation Competition 2025</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/487206030_652331077753821_1565797981046685126_n.jpg">
-</div>
 <h4><strong>Green Schools@Southwest CDC (3 Stars Award)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/474992331_17943959126939889_7275563974521117798_n.jpg">
