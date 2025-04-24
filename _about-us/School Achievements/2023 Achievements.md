@@ -75,4 +75,181 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_04_24_115715.png">
 </div>
+<h3><strong>Achievements (Staff)</strong></h3>
+<p><strong>President's Award for Teachers</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Melvin Chan Joo Seng</p>
+</li>
+</ul>
+<p><strong>Cambridge Dedicated Teacher Award 2024</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Melvin Chan Joo Seng</p>
+</li>
+</ul>
+<p><strong>Inspiring Teacher of English Award (Nominee)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Chia Huiying Nicole</p>
+</li>
+</ul>
+<p><strong>Listening Educator for Advancement and Progress (LEAP) Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Lin Jiehui</p>
+</li>
+</ul>
+<p><strong>MOE Innergy Awards 2023 (VIRTEX - A Collaborative Virtual Experience Project) (Bronze)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mrs Theophilia Goh</p>
+</li>
+<li>
+<p>Mdm Pua Lee Too</p>
+</li>
+<li>
+<p>Mrs Teh Lay Bee</p>
+</li>
+</ul>
+<p><strong>MOE Innergy Awards 2023 (Empowering Students with Virtual Reality in Geographical Investigations - Community Collaboration (Commendation)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mrs Theophilia Goh</p>
+</li>
+<li>
+<p>Mdm Pua Lee Too</p>
+</li>
+<li>
+<p>Mrs Teh Lay Bee</p>
+</li>
+</ul>
+<p><strong>Fellow of Academy of Singapore Teachers Award (Innovator)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mrs Theophilia Goh</p>
+</li>
+</ul>
+<p><strong>Associate of Academy of Singapore Teachers Award (Innovator)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Melvin Chan Joo Seng</p>
+</li>
+</ul>
+<p><strong>Associate of Academy of Singapore Teachers Award (Networked Learning Communities)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Dr Koh Bee Kim</p>
+</li>
+</ul>
+<p><strong>Associate of Academy of Singapore Teachers Award (Networked Learning Communities)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Zhao Huiyuan</p>
+</li>
+</ul>
+<p><strong>Associate of Academy of Singapore Teachers Award (Networked Learning Communities)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Lin Jiehui</p>
+</li>
+</ul>
+<p><strong>MOE Service Excellence Award 2023 (Platinum)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Anthony Raj Joseph</p>
+</li>
+</ul>
+<p><strong>MOE Service Excellence Award 2023 (Gold)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Anthony Raj Joseph</p>
+</li>
+<li>
+<p>Mr Puttur Girish Kumar</p>
+</li>
+<li>
+<p>Mdm Chin Sio Yen Winnie</p>
+</li>
+</ul>
+<p><strong>MOE Service Excellence Award 2023 (Silver)</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Keng Kok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Selvakumari D/O Kurusamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nursarina Wani Binte Nahron</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Katru Mary Jinni Rani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Melissa Millar-Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Kar Keat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Shelley Chan Hiang Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Zhang Xuedi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tiong Wee Teck Sebastian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Hazwan Bin Ismail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Catherine D/O Rajindran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Mei Qing Tricia Anne</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Hui San Trina</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Idayu Somdi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurul Izzati Nizamuddin</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
