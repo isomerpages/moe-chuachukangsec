@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Alumni
 variant: tiptap
 ---
-<h1><strong>Alumni’s Achievements</strong></h1>
+<h2><strong>Alumni’s Achievements</strong></h2>
 <p>Name : Ang Cui Lin Joleen
 <br>Course : Diploma in Real Estate Business
 <br>Awards : SEAA Silver Medal &amp; Prize &amp; Diploma with Merit</p>
