@@ -39,6 +39,14 @@ sections:
       image: /images/491925049_668676542785941_5841389273783045412_n.jpg
       alt: Image alt text
   - infopic:
+      title: Tulips in Bloom
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/tulips-in-bloom-our-creative-ccksians-exhibit-mosaic-art-at-gardens-by-the-bay/
+      image: /images/491459340_1225491362268943_6805609132942730530_n.jpg
+      alt: Image alt text
+  - infopic:
       title: Sec 1 CL and ML Mother Tongue Learning Journeys
       subtitle: events
       id: infopic
