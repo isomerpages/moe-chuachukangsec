@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Learning for Life Programme
 variant: tiptap
 ---
-<h2><strong>Community Youth Leadership</strong></h2>
+<h1><strong>Community Youth Leadership</strong></h1>
 <p>In Chua Chu Kang Secondary School, we envision our leaders to be Forward-looking
 young adults who empathise with others. We strive to be an open community
 of leaders who learn together, share and care for one another.</p>
