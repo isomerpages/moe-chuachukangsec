@@ -4,7 +4,7 @@ permalink: /learning-in-cckss/applied-learning-programme-sustainable-living-for-
 description: ""
 variant: tiptap
 ---
-<h2>Applied Learning Programme: Sustainable Living for a Resilient Future</h2>
+<h2><strong>Applied Learning Programme: Sustainable Living for a Resilient Future</strong></h2>
 <p><strong>Purpose:</strong>
 </p>
 <ul data-tight="true" class="tight">

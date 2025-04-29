@@ -5,7 +5,7 @@ description: ""
 third_nav_title: MOE OBS
 variant: tiptap
 ---
-<h2><strong>2025 MOE-OBS Challenge Programme (MOC)</strong></h2>
+<h1><strong>2025 MOE-OBS Challenge Programme (MOC)</strong></h1>
 <p>Our Secondary 3 students will be participating in the <strong>MOE-OBS Challenge Programme (MOC)</strong> in
 2025. The MOC programme offers a unique opportunity for our students. As
 part of the National Outdoor Adventure Education Masterplan, the MOC programme

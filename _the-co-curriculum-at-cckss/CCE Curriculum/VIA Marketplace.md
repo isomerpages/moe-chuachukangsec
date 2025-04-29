@@ -1,10 +1,11 @@
 ---
-title: VIA MARKETPLACE
+title: VIA Marketplace
 permalink: /the-co-curriculum-at-cckss/cce-curriculum/via-marketplace/
 variant: tiptap
 description: ""
 third_nav_title: CCE Curriculum
 ---
+<h1><strong>VIA Marketplace</strong></h1>
 <p>Values in Action (VIA) programme is a project-based learning approach
 that uses a simplified Design Thinking Framework (Feel, Imagine, Do and
 Share) that aims to develop <strong>problem-solving skills, empathetic thinking and critical and creative thinking </strong>in
@@ -24,6 +25,5 @@ to the community beyond the school-initiated VIA programme. This will build
 students’ sense of civic responsibility and encourage future engagement
 to serve the community and insiping others to participate and contribute
 with the belief that it will create a positive ripple effect to society.</p>
-<p></p>
-<p>Link to CCKSS VIA Marketplace google site: <a href="https://go.gov.sg/cckssvia" rel="noopener nofollow" target="_blank">https://go.gov.sg/cckssvia</a>
+<p>Link to CCKSS VIA Marketplace Google site: <a href="https://go.gov.sg/cckssvia" rel="noopener nofollow" target="_blank">https://go.gov.sg/cckssvia</a>
 </p>

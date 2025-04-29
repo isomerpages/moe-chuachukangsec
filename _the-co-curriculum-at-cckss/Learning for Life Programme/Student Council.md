@@ -38,11 +38,9 @@ Day, Sec 1 Orientation)</p>
 </div>
 <p><strong><em>Activities during Student Council Camp</em></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.png">
 </div>
-<p></p>
 <p><strong><em>CCKSS Leadership Workshop by Jurong Pioneer Junior College Student Council</em></strong>
 </p>
 <p></p>

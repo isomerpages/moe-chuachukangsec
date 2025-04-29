@@ -23,6 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Secondary One Camp
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/hari-raya-international-friendship-day-celebrations/
+      image: /images/Screenshot_2025_04_24_184045.png
+      alt: Image alt text
+  - infopic:
       title: History Times Collaboration with Sembawang Secondary School
       subtitle: events
       id: infopic
@@ -45,6 +53,38 @@ sections:
       button: read more
       url: https://chuachukangsec.moe.edu.sg/tulips-in-bloom-our-creative-ccksians-exhibit-mosaic-art-at-gardens-by-the-bay/
       image: /images/491459340_1225491362268943_6805609132942730530_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Mood Raya @ Keat Hong
+      subtitle: EVENTS
+      id: infopic
+      button: READ MORE
+      url: https://chuachukangsec.moe.edu.sg/mood-raya-keat-hong/
+      image: /images/490742215_665371846449744_3231649492026608523_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Hari Raya & International Friendship Day Celebrations
+      subtitle: EVENTS
+      id: infopic
+      button: Read more
+      url: https://chuachukangsec.moe.edu.sg/hari-raya-international-friendship-day-celebrations/
+      image: /images/Screenshot_2025_04_24_183243.png
+      alt: Image alt text
+  - infopic:
+      title: Speech Day 2025
+      subtitle: EVENTS
+      id: infopic
+      button: READ MORE
+      url: https://chuachukangsec.moe.edu.sg/speech-day-2025/
+      image: /images/490356457_663579263295669_189726570356038922_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Knowledge Building Networked Learning Community Session
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/knowledge-building-networked-learning-community-session/
+      image: /images/Screenshot_2025_04_24_191951.png
       alt: Image alt text
   - infopic:
       title: Sec 1 CL and ML Mother Tongue Learning Journeys

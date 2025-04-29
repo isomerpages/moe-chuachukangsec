@@ -4,7 +4,7 @@ permalink: /learning-in-cckss/personalised-digital-learning-programme/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Personalised Digital Learning Programme</strong></h3>
+<h2><strong>Personalised Digital Learning Programme</strong></h2>
 <p>MOE introduced Personalised Digital Learning Programme (PDLP) for all
 secondary school students, whereby every secondary school student had a
 school-prescribed Personal Learning Device (PLD) by end-2021. The intended
