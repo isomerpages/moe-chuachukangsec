@@ -183,7 +183,7 @@ CCA, Class or Committees</p>
 <p>Active participation in a school or community project</p>
 </li>
 </ul>
-<p>d. <strong>Science, Technology, Engineering, Maths – Science for Sustainable Development </strong>
+<p>d. <strong>Science, Technology, Engineering, Maths – Science for Sustainable Development</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -204,7 +204,7 @@ an offer.</p>
 </li>
 </ol>
 <p></p>
-<h4>Application and Selection Procedures  </h4>
+<h4>Application and Selection Procedures</h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May, 11am – 3
 June 2025, 3pm. For more details, please refer to MOE website – <a href="www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
