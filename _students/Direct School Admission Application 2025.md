@@ -172,11 +172,47 @@ following:</p>
 relevant experience or qualification in Dance</p>
 </li>
 </ul>
-<p>c. Community Youth Leadership</p>
+<p>c. <strong>Community Youth Leadership</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Students must have assumed leadership role in the primary school in either
 CCA, Class or Committees</p>
 </li>
+<li>
+<p>Active participation in a school or community project</p>
+</li>
+</ul>
+<p>d. <strong>Science, Technology, Engineering, Maths – Science for Sustainable Development </strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Passion in Sustainable Development</p>
+</li>
+<li>
+<p>Participation, Representation &amp; Achievements in Sustainability Projects/Programmes/Competitions</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Applicants should also possess the positive character traits and good
+conduct in school.</p>
+</li>
+<li>
+<p>Meeting all the criteria does not guarantee the student will be shortlisted/given
+an offer.</p>
+</li>
 </ol>
+<p></p>
+<h4>Application and Selection Procedures  </h4>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from 7 May, 11am – 3
+June 2025, 3pm. For more details, please refer to MOE website – <a href="www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+<p>Shortlisted applicants will be notified and scheduled to attend interviews
+and skills assessment. Shortlisted applicants should attend the interviews
+and skills assessment only if they are feeling well.</p>
+<p>All applicants will be informed of the outcome of their application between
+25 August and 4 September 2025. The school’s decision on the offer is final.</p>
 <p></p>
 <p></p>
 <p></p>
