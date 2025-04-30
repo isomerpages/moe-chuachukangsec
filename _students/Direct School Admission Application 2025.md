@@ -148,3 +148,38 @@ from early-May.</p>
 <p>For more information on DSA-Sec, please refer to the MOE website at
 <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
+<p></p>
+<h3><strong>Eligibility Criteria</strong></h3>
+<ol data-tight="true" class="tight">
+<li>
+<p>Selection for admission to the school via DSA-Secondary is based on the
+following:</p>
+<p>a. <strong>Hockey</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCA Involvement – Participation, Representation &amp; Achievements</p>
+</li>
+<li>
+<p>Physical Fitness - Latest NAPFA Test Results</p>
+</li>
+</ul>
+<p>b. <strong>Modern Dance</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCA Involvement – Participation, Representation &amp; Achievement, or
+relevant experience or qualification in Dance</p>
+</li>
+</ul>
+<p>c. Community Youth Leadership</p>
+<p>Students must have assumed leadership role in the primary school in either
+CCA, Class or Committees</p>
+</li>
+</ol>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
