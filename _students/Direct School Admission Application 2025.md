@@ -207,7 +207,7 @@ an offer.</p>
 <h4>Application and Selection Procedures</h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May, 11am – 3
-June 2025, 3pm. For more details, please refer to MOE website – <a href="www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+June 2025, 3pm. For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
 <p>Shortlisted applicants will be notified and scheduled to attend interviews
 and skills assessment. Shortlisted applicants should attend the interviews
 and skills assessment only if they are feeling well.</p>
