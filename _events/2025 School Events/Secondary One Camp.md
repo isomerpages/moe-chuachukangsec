@@ -21,8 +21,8 @@ and built new memories. Of course, the last night of camp - campfire night
 the high ropes at Home Team NS to paddling across Kallang Basin, our students
 discovered that real strength isn’t just about muscles or medals — it’s
 about showing up for each other, lifting one another up, and growing as
-one. They stepped out of their comfort zones and into community. They came
-as classmates… and left as teammates.</p>
+one. They stepped out of their comfort zones and into the community. They
+came as classmates… and left as teammates.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTH-y9Ge2iGDHp94T9wm1L4H2wP2OxO9OBjYFgFCULy3uX9GC4KmmB8N8SEI7bEIRntFYACyd0JmJEP/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
