@@ -27,7 +27,7 @@ sections:
       subtitle: events
       id: infopic
       button: read more
-      url: https://chuachukangsec.moe.edu.sg/hari-raya-international-friendship-day-celebrations/
+      url: https://chuachukangsec.moe.edu.sg/secondary-one-camp/
       image: /images/Screenshot_2025_04_24_184045.png
       alt: Image alt text
   - infopic:
