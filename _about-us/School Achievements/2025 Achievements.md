@@ -40,6 +40,10 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/488850998_656905110629751_2278537421513027576_n.jpg">
 </div>
+<h4><strong>Association of Singapore Tamil Writers Muthamizha Vizha Translation Competition 2025 (Consolation Prize, Yugendhran Bavanasri, Sec 1F)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/494271195_677282045258724_1191531491799770289_n.jpg">
+</div>
 <h4><strong>Raffles Institution Tamil Literacy Competition (2nd Prize, Upper Secondary Essay Writing Competition)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/492008671_668677666119162_597584011379660963_n.jpg">
