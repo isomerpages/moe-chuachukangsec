@@ -16,10 +16,12 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 1 Cohort Level website</p>
+<p><a href="https://sites.google.com/moe.edu.sg/cckss-sec-1-cohort-lvl-site" rel="noopener nofollow" target="_blank">Sec 1 Cohort Level website</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2 Cohort Level website</p>
+<p><a href="https://sites.google.com/moe.edu.sg/cckss-sec-2-cohort-lvl-site" rel="noopener nofollow" target="_blank">Sec 2 Cohort Level website</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -28,7 +30,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4 and 5 Cohort Level website</p>
+<p><a href="https://sites.google.com/moe.edu.sg/cckss-sec-4n5-cohort-lvl-site" rel="noopener nofollow" target="_blank">Sec 4 and 5 Cohort Level website</a>
+</p>
 </td>
 </tr>
 </tbody>
