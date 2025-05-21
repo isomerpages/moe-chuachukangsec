@@ -23,6 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Outward Bound Singapore
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/outward-bound-singapore/
+      image: /images/497136111_689486154038313_4780331777681214353_n.jpg
+      alt: Image alt text
+  - infopic:
       title: Secondary One Camp
       subtitle: events
       id: infopic
