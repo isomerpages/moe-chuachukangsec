@@ -18,6 +18,19 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/488683614_655851847401744_4733581796031927865_n.jpg">
 </div>
+<h4><strong>English Drama (Certificate of Accomplishment)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/495144928_685035677816694_5501852776656038854_n.jpg">
+</div>
+<h4><strong>Modern Dance (Certificate of Distinction)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="60" src="/images/495941946_685037767816485_5529993107208965380_n.jpg">
+</div>
+<h3><strong>Achievements (Sports &amp; Games)</strong></h3>
+<h4><strong>National Singapore Schools Kabbadi Inter-School Competition (U-18, 3rd Place)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/493973802_675972948722967_9144473984769006404_n.jpg">
+</div>
 <h3><strong>Achievements (Academic)</strong></h3>
 <h4><strong>Ngee Ann Polytechnic Mathematics Challenge 2025 (Overall School 1st Runners-Up)</strong></h4>
 <div class="isomer-image-wrapper">
@@ -26,6 +39,10 @@ third_nav_title: School Achievements
 <h4><strong>Ngee Ann Polytechnic Mathematics Challenge 2025 (2 Gold, 1 Silver)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/488850998_656905110629751_2278537421513027576_n.jpg">
+</div>
+<h4><strong>Association of Singapore Tamil Writers Muthamizha Vizha Translation Competition 2025 (Consolation Prize, Yugendhran Bavanasri, Sec 1F)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/494271195_677282045258724_1191531491799770289_n.jpg">
 </div>
 <h4><strong>Raffles Institution Tamil Literacy Competition (2nd Prize, Upper Secondary Essay Writing Competition)</strong></h4>
 <div class="isomer-image-wrapper">
