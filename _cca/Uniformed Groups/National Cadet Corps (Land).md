@@ -202,6 +202,7 @@ leaders and team players through fun and challenging military-related activities
 </p>
 <p><strong><u>Unit Recognition Award (for both Land and Sea units)</u></strong>
 </p>
+<p>2024: Distinction</p>
 <p>2023: Distinction</p>
 <p>2022: Distinction</p>
 <p>2021: Distinction</p>
