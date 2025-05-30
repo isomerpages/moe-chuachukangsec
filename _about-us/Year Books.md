@@ -6,11 +6,11 @@ description: ""
 ---
 <h2><strong>Year Books</strong></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_04_24_170341.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_04_24_170341.png">
 </div>
 <p>View our 2023 Yearbook <a href="https://heyzine.com/flip-book/ea0d875537.html" rel="noopener nofollow" target="_blank">here</a>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_04_24_164337.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_04_24_164337.png">
 </div>
 <p>View our 2024 Yearbook <a href="https://heyzine.com/flip-book/e54c234353.html" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
