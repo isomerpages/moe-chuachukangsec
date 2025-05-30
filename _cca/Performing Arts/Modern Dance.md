@@ -136,6 +136,13 @@ arts for Chua Chu Kang Secondary School.</p>
 </ul>
 <p><strong>Representations &amp; Achievements</strong>
 </p>
+<p><strong>2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Singapore Youth Festival Arts Presentation (Dance): </strong>Distinction</p>
+</li>
+</ul>
 <p><strong>2023</strong>
 </p>
 <ul data-tight="true" class="tight">
