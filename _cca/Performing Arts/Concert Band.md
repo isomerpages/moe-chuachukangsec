@@ -88,6 +88,9 @@ music instructor, Mr Kenneth Lun.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p><strong>Singapore Youth Festival 2025</strong>: (Certificate of Commendation)</p>
+</li>
+<li>
 <p><strong>Singapore Youth Festival 2023:</strong> (Certificate of Accomplishment)</p>
 </li>
 </ul>

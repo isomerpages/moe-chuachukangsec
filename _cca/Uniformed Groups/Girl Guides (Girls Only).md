@@ -147,29 +147,28 @@ to a Girl Guide)</p>
 </ul>
 <p><strong>Representations and Achievements</strong>
 </p>
-<p><strong>2024</strong>
-</p>
 <p><strong>Puan Nooraishah Award (PNA)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Silver</p>
+<p><strong>2025 Gold </strong>(Awarded for 2024)</p>
+</li>
+<li>
+<p><strong>2024 Gold </strong>(Awarded for 2023)</p>
+</li>
+<li>
+<p><strong>2023 Gold </strong>(Awarded for 2022)</p>
+<p></p>
 </li>
 </ul>
+<p><strong>2024</strong>
+</p>
 <p><strong>West Division Day 2024 Online Quiz and Recyclable Diorama Competition</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>3rd Prize</p>
-</li>
-</ul>
-<p><strong>2023</strong>
-</p>
-<p><strong>Puan Nooraishah Award (PNA)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Gold</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Announcements</strong>
