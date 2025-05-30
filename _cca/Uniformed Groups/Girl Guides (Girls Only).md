@@ -153,7 +153,7 @@ to a Girl Guide)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Silver</p>
+<p>Gold</p>
 </li>
 </ul>
 <p><strong>West Division Day 2024 Online Quiz and Recyclable Diorama Competition</strong>
