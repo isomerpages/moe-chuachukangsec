@@ -23,6 +23,22 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Discovery Week
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/discovery-week/
+      image: /images/Screenshot_2025_05_30_093547.png
+      alt: Image alt text
+  - infopic:
+      title: Secondary Two Theatre Experience
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/secondary-two-theatre-experience/
+      image: /images/At_the_foyer.jpg
+      alt: Image alt text
+  - infopic:
       title: Outward Bound Singapore
       subtitle: events
       id: infopic
