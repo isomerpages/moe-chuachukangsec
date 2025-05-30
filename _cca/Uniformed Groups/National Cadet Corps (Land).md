@@ -202,11 +202,12 @@ leaders and team players through fun and challenging military-related activities
 </p>
 <p><strong><u>Unit Recognition Award (for both Land and Sea units)</u></strong>
 </p>
-<p>2024: Distinction</p>
-<p>2023: Distinction</p>
-<p>2022: Distinction</p>
-<p>2021: Distinction</p>
-<p>2020: Distinction</p>
+<p><strong>2025: Distinction</strong> (Awarded for 2024)</p>
+<p><strong>2024: Distinction </strong>(Awarded for 2023)</p>
+<p><strong>2023: Distinction </strong>(Awarded for 2022)</p>
+<p><strong>2022: Distinction </strong>(Awarded for 2021)</p>
+<p><strong>2021: Distinction </strong>(Awarded for 2020)</p>
+<p><strong>2020: Distinction</strong> (Awarded for 2019)</p>
 <p><strong><u>Other Achievements</u></strong>
 </p>
 <p><strong>Outstanding Cadet Award (2024):</strong>
