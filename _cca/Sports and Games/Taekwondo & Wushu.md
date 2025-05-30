@@ -93,6 +93,27 @@ built confidence and competence in their skills, they have opportunities
 to represent CCKSS in national competitions.</p>
 <p><strong>Key Programmes and Achievements (Taekwondo)</strong>
 </p>
+<p><strong>2025</strong>
+</p>
+<p><strong>National School Games C Division Boys' Red Belt (Under 58kg Kyorugi)</strong>
+</p>
+<p><strong>Silver: </strong>Axel Ng, 1F</p>
+<p><strong>National School Games C Division Girs' Poom Belt (Under 58kg Kyorugi)</strong>
+</p>
+<p><strong>Bronze: </strong>Vikasni, 1F</p>
+<p><strong>National School Games B Division Boys' Green Tip Belt (Individual Poomsae)</strong>
+</p>
+<p><strong>Gold: </strong>Marcus Wong, 3A</p>
+<p><strong>National School Games B Division Girls' Green Tip Belt (Individual Poomsae)</strong>
+</p>
+<p><strong>Bronze: </strong>Zheng Shiying, 3C</p>
+<p><strong>National School Games B Division Boys' Blue Tip Belt (Individual Poomsae)</strong>
+</p>
+<p><strong>Silver: </strong>Xavier Shen, 4E</p>
+<p><strong>Bronze: </strong>Beh Ming Hong, 3A</p>
+<p><strong>National School Games B Division Boys' Blue Tip Belt (Team Poomsae)</strong>
+</p>
+<p><strong>Gold: </strong>Xavier Sim 4E, Beh Ming Hong 3A, Lye Jun Wei 3C</p>
 <p><strong>2024</strong>
 </p>
 <p><strong>Colours Award 2023 (Taekwondo Poomsae)</strong>
@@ -105,11 +126,8 @@ to represent CCKSS in national competitions.</p>
 <p>Chua Li Jie, 3A</p>
 <p><strong>National School Games C Division Boys Team (Yellow 8)</strong>
 </p>
-<p><strong>Bronze:</strong>
-</p>
-<p>Lye Jun Wei, 2C1</p>
-<p>Low Min Ho, 2R2</p>
-<p>Beh Ming Hong, 2A2</p>
+<p><strong>Bronze: </strong>Lye Jun Wei 2C1, Low Min Ho 2R2, Beh Ming Hong
+2A2</p>
 <p><strong>National School Games B Division Boys Poomsae Individual (Yellow 7)</strong>
 </p>
 <p><strong>Bronze: </strong>Muhammad Nabil Al-Haq Bin Roslan, 3G</p>
