@@ -94,8 +94,7 @@ and First Aid.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Frank Cooper Sands Award</strong>
-</p>
+<p><strong>Frank Cooper Sands Award </strong>(For 2023)</p>
 </li>
 <li>
 <p><strong>Chief Commissioner's Award:</strong>
