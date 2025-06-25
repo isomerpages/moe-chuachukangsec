@@ -36,3 +36,19 @@ of Thailand.</p>
 </div>
 <p>Check out our <a href="https://www.facebook.com/CCKSians" rel="noopener noreferrer nofollow" target="_blank">Facebook Page</a> &amp;
 <a href="https://www.instagram.com/cckssofficial/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>for more of our trip highlights!</p>
+<h1><strong>2023 Global Connect Trip to Chiang Rai, Thailand</strong></h1>
+<p>Our first ever batch of CCKSians embarked on the school's first overseas
+trip in November 2023 to Chiang Rai, Thailand. We were excited to bring
+our Student Councillors to visit their counterparts at Srinagarindra The
+Princess Mother School Chiang Rai (SWPY) where they we were very warmly
+welcomed by the staff and students.</p>
+<p>The trip was a journey of growth for our CCKSians as they learnt more
+about themselves and their areas of strength and growth. The highlight
+of the trip was the interaction with SWPY's students and with the young
+students of Ban Rong Por Primary School where we worked in partnership
+with Bukit Merah Secondary School to refurbish the school's library. After
+Bukit Merah completed the painting, our CCKSians came the following week
+to install shelving, furniture and books to create a cosy and lovely reading
+space.</p>
+<p>Prior to the trip, our CCKSians spent time using Design Thinking to conceptualise</p>
+<p></p>
