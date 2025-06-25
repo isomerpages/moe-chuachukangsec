@@ -28,19 +28,7 @@ variant: tiptap
 <p>Overall Teacher in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yap Eng Luan Ruth (IC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yap_Eng_Luan_Ruth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_Eng_Luan_Ruth@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teachers in charge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Pang Yew Cheng (2IC)</p>
+<p>Mr Pang Yew Cheng (IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pang_yew_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pang_yew_cheng@schools.gov.sg</a>
@@ -49,25 +37,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teachers in charge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Zoe Lee Jian Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Lee_Jian_Lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Jian_Lin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tee Jie Kai Calvin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tee_jie_kai_calvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tee_jie_kai_calvin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
