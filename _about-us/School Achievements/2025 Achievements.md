@@ -10,6 +10,8 @@ third_nav_title: School Achievements
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/490345746_663602159960046_6469839231299091419_n.jpg">
 </div>
 <h3><strong>Achievements (Uniformed Groups)</strong></h3>
+<h4><strong>Girl Guides (Puan Noor Aishah Award - Gold)</strong></h4>
+<h4><strong>National Cadet Corps (Unit Recognition Award - Distinction)</strong></h4>
 <h4><strong>National Police Cadet Corps (Unit Outstanding Performance Award)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/495575595_686725014314427_8383209287599639267_n.jpg">
@@ -94,7 +96,7 @@ third_nav_title: School Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>C Division Girls' Yellow Belt Team </strong>
+<p><strong>C Division Girls' Yellow Belt Team</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
