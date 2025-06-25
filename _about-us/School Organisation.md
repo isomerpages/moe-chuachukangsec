@@ -756,10 +756,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Calvin Tee&nbsp;</p>
+<p>Mr Christopher Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tee_jie_kai_calvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tee_jie_kai_calvin@schools.gov.sg</a>
+<p><a href="mailto:goh_yue_han_christopher@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_yue_han_christopher@schools.gpv.sg</a>
 </p>
 </td>
 </tr>
@@ -1017,18 +1017,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yap Eng Luan Ruth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yap_eng_luan_ruth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_eng_luan_ruth@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>3C</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1209,18 +1197,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Yu Jia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_yu_jia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yu_jia@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>4D</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1348,18 +1324,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pua_lee_too@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pua_lee_too@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Zi Qing Abigail</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_zi_qing_abigail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_zi_qing_abigail@schools.gov.sg</a>
 </p>
 </td>
 </tr>
