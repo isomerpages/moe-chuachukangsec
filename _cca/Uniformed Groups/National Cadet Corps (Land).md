@@ -186,6 +186,25 @@ leaders and team players through fun and challenging military-related activities
 <p><strong>2020: Distinction</strong> (Awarded for 2019)</p>
 <p><strong><u>Other Achievements</u></strong>
 </p>
+<p><strong>Outstanding Cadet Award (2025):</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chin Ping Yi, 4A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lucas Kwer, 4A</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Outstanding Cadet Award (2024):</strong>
 </p>
 <table style="minWidth: 25px">
