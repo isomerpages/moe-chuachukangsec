@@ -59,18 +59,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Abigail Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_zi_qing_abigail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_zi_qing_abigail@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong>About Us</strong>
