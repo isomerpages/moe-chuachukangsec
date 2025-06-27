@@ -28,19 +28,7 @@ variant: tiptap
 <p>Overall Teacher in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yap Eng Luan Ruth (IC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yap_Eng_Luan_Ruth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_Eng_Luan_Ruth@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teachers in charge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Pang Yew Cheng (2IC)</p>
+<p>Mr Pang Yew Cheng (IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pang_yew_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pang_yew_cheng@schools.gov.sg</a>
@@ -49,25 +37,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teachers in charge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Zoe Lee Jian Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Lee_Jian_Lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Jian_Lin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tee Jie Kai Calvin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tee_jie_kai_calvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tee_jie_kai_calvin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -210,6 +186,25 @@ leaders and team players through fun and challenging military-related activities
 <p><strong>2020: Distinction</strong> (Awarded for 2019)</p>
 <p><strong><u>Other Achievements</u></strong>
 </p>
+<p><strong>Outstanding Cadet Award (2025):</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chin Ping Yi, 4A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lucas Kwer, 4A</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Outstanding Cadet Award (2024):</strong>
 </p>
 <table style="minWidth: 25px">

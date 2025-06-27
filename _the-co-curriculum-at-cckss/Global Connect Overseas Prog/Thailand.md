@@ -36,3 +36,38 @@ of Thailand.</p>
 </div>
 <p>Check out our <a href="https://www.facebook.com/CCKSians" rel="noopener noreferrer nofollow" target="_blank">Facebook Page</a> &amp;
 <a href="https://www.instagram.com/cckssofficial/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>for more of our trip highlights!</p>
+<h1><strong>2023 Global Connect Trip to Chiang Rai, Thailand</strong></h1>
+<p>Our first ever batch of CCKSians embarked on the school's first overseas
+trip in November 2023 to Chiang Rai, Thailand. We were excited to bring
+our Student Councillors to visit their counterparts at Srinagarindra The
+Princess Mother School Chiang Rai (SWPY) where they we were very warmly
+welcomed by the staff and students.</p>
+<p>The trip was a journey of growth for our CCKSians as they learnt more
+about themselves and their areas of strength and growth. The highlight
+of the trip was the interaction with SWPY's students and with the young
+students of Ban Rong Por Primary School where we worked in partnership
+with Bukit Merah Secondary School to refurbish the school's library. After
+Bukit Merah completed the painting, our CCKSians came the following week
+to install shelving, furniture and books to create a cosy and lovely reading
+space.</p>
+<p>Prior to the trip, our CCKSians spent time using Design Thinking to conceptualise
+how best to maximise the space to create a conducive learning and reading
+space for the Ban Ron Por students. They enthusiastically checked in with
+their primary schools and got preloved books which they sorted out on site.
+Looking at the happy faces of our young friends, we are glad that our contribution
+made a positive impact on their lives.</p>
+<p>Our CCKSians also got to enjoy quality time with their SWPY peers learning
+how to make <em>Loy Krathongs</em> and lanterns which were the highlight
+of the night's festivities. They also enjoyed a drumming lesson, <em>Muay Thai</em> and
+learnt how to make delicious coconut jelly!</p>
+<p>After interacting with their peers, they had fun exploring Chiang Rai's
+sights and sounds, visiting the sky walk, White Temple, Golden Triangle
+and border region as well as an exciting cooking class where they learnt
+how to make Pad Thai and Tom Yum soup!</p>
+<p>It was certainly a memorable trip which they will remember for a long
+time! Join us next year for the 2024 trip!</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRVPLf_vEkJUUTxE5N1VMHbPKe-VhG9YYEiyOgefg7pJusQoFHS82--AZTZvS5h1MI260FizJf67fHM/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>Check out our <a href="https://www.facebook.com/CCKSians" rel="noopener noreferrer nofollow" target="_blank">Facebook Page</a> &amp;
+<a href="https://www.instagram.com/cckssofficial/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>for more of our trip highlights!</p>
