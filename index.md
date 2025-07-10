@@ -23,6 +23,21 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: 2025 Global Connect Trip to Yogyakarta, Indonesia
+      subtitle: THE CO-CURRICULUM
+      id: infopic
+      button: READ MORE
+      url: https://chuachukangsec.moe.edu.sg/indonesia/
+      image: /images/IMG_20250602_WA0065.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: Discovery Week
       subtitle: events
       id: infopic
