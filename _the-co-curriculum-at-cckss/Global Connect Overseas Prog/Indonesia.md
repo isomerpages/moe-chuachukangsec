@@ -5,6 +5,58 @@ variant: tiptap
 description: ""
 third_nav_title: Global Connect Overseas Prog
 ---
+<h1><strong>2025 Global Connect Trip to Yogyakarta, Indonesia</strong></h1>
+<p>Five days. Four nights. One unforgettable adventure. Yogyakarta for our
+CCKSians was a journey through culture, kindness, and curiosity. Yogyakarta
+opened its arms and gently unfolded a world far richer than any classroom
+could offer. A trip once marked on calendars with excitement turned out
+to be an immersion into the soul of Java—a blend of heritage, humility,
+and hands-on wonder.</p>
+<p>From the moment their feet touched Yogyakarta’s soil, our CCKSians sensed
+something different. The pace here was gentler, the smiles were warmer
+and the streets told stories in batik patterns, shadow puppets, and the
+aroma of <em>gudeg</em> simmering in the air. Our CCKSians visited the Sultan’s
+Water Palace, or <em>Taman Sari</em>. Labyrinthine tunnels, peaceful courtyards,
+and echoes of the past surrounded them as they imagined royal life centuries
+ago. Just a short walk away stood <em>Kraton Yogyakarta</em>, the royal
+palace still inhabited by the sultan’s family. History wasn’t confined
+to glass cases here—it lived in the dance of gamelan music and the gentle
+cadence of the Javanese language.</p>
+<p>The temples of Yogyakarta don’t just stand—they <em>rise</em> and so did
+our CCKSians! Despite the downpour (which happened to last year's group
+too!) our CCKSians, armed with their ponchos and customised footwear, climbed
+in near silence as they explored the temple. Each carved stone, each Buddha
+statue told a story of devotion, of centuries, of something greater than
+words. Later, <em>Prambanan</em> stunned with its soaring towers and Hindu
+epics carved into stone. For our CCKSians, it was certainly an eye-opening
+experience as such temples do not exist in Singapore!</p>
+<p>All that travelling makes one hungry! In a breezy outdoor kitchen, our
+CCKSians tied on aprons for a Javanese cooking workshop. They pounded spices
+with mortars and pestles, folded banana leaves, and stirred bubbling woks.
+The reward? Their very own <em>nasi goreng</em> and <em>tempeh</em> dishes—shared
+at long wooden tables, filled with pride. Another exciting experience which
+many, if not all, CCKSians have never experienced was rice padi farming!
+At a nearby rice padi, the students were handed traditional conical hats
+and taught the art—and labor—of planting rice. Mud squished between their
+toes as laughter filled the air, balanced with moments of real awe at the
+farmers’ skills.</p>
+<p>Our CCKSians also visited the Aminah Al Maa'uun Orphanage where connections
+were formed not through language, but through simple joys—playing football,
+traditional games and sharing smiles. Our CCKSians also enjoyed their visit
+to SMPN 5, where they met their counterparts and were treated to a spectacular
+welcome. Through joint activities, music, and games, they found common
+ground in laughter and curiosity. As they boarded the plane home, suitcases
+were heavier—but hearts even more so. Each student carried something invisible:
+a deeper sense of place, purpose, and possibility. Yogyakarta was not just
+a simple school trip. It was a journey of respect—for heritage, for people,
+and for the planet. It was muddy feet and open hearts, quiet temples and
+lively kitchens, shared meals and shared stories. And for our CCKSians,
+it wasn’t just about where they went. It was about who they became.</p>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBRBsN5GM1AmvS5oaO72033EVy5l0q7BPXj2Ptg5nnwZtOWvO1eaPCX-39osehoIfgojA6g7iHA1UF/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>Check out our <a href="https://www.facebook.com/CCKSians" rel="noopener noreferrer nofollow" target="_blank"><u>Facebook Page</u></a> for
+more of our trip highlights!</p>
 <h1><strong>2024 Global Connect Trip to Yogyakarta, Indonesia</strong></h1>
 <p>Our first day in Yogyakarta was a heartwarming and unforgettable experience.
 We visited the Aminah&nbsp; Al Maa’uun Orphanage in the southern region
