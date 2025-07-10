@@ -31,12 +31,13 @@ sections:
       image: /images/IMG_20250602_WA0065.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: 2025 Global Connect Trip to Ho Chi Minh City, Vietnam
+      subtitle: THE CO-CURRICULUM
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: read more
       alt: Image alt text
+      url: https://chuachukangsec.moe.edu.sg/vietnam/
+      image: /images/IMG_20250601_WA0019.jpg
   - infopic:
       title: Discovery Week
       subtitle: events
