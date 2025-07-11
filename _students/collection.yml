@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Cohort Level website.md
-      - Timetable/Home Based Learning Timetable.md
       - Timetable/.keep
       - Timetable/Class Timetable.md
+      - Timetable/Home Based Learning Timetable.md
       - Preliminary Examinations Schedules.md
       - Weighted Assessment Schedule.md
       - Direct School Admission Application 2025.md
