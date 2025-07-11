@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Cohort Level website.md
-      - Timetable/Home Based Learning timetable.md
+      - Timetable/Home Based Learning Timetable.md
       - Timetable/.keep
       - Timetable/Class Timetable.md
       - Preliminary Examinations Schedules.md
