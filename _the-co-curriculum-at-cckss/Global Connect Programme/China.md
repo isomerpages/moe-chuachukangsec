@@ -3,7 +3,7 @@ title: China
 permalink: /china/
 variant: tiptap
 description: ""
-third_nav_title: Global Connect Overseas Prog
+third_nav_title: Global Connect Programme
 ---
 <h1><strong>2024 Global Connect Trip to Jiangsu Province, China</strong></h1>
 <p>From 7 to 12 Nov 2024, a group of 37 CCKSians and 6 staff embarked on

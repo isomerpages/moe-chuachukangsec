@@ -2,7 +2,7 @@
 title: CCKSS Global Connect Overseas Programme
 permalink: /the-co-curriculum-at-cckss/cckss-global-connect-overseas-programme/
 description: ""
-third_nav_title: Global Connect Overseas Prog
+third_nav_title: Global Connect Programme
 variant: tiptap
 ---
 <h1><strong>CCKSS Global Connect Overseas Programme</strong></h1>

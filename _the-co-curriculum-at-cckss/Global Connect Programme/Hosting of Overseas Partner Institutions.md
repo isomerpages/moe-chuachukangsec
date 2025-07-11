@@ -3,7 +3,7 @@ title: Hosting of Overseas Partner Institutions
 permalink: /hosting-of-overseas-partner-institutions/
 variant: tiptap
 description: ""
-third_nav_title: Global Connect Overseas Prog
+third_nav_title: Global Connect Programme
 ---
 <h2><strong>Sri Nagarindra The Princess Mother School (SWPY), Phayao, Thailand</strong></h2>
 <p>Continuing the partnership our Principal, Mr Timothy Cheng, built almost

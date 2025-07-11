@@ -3,7 +3,7 @@ title: Thailand
 permalink: /thailand/
 variant: tiptap
 description: ""
-third_nav_title: Global Connect Overseas Prog
+third_nav_title: Global Connect Programme
 ---
 <h1><strong>2024 Global Connect Trip to Chiang Rai, Thailand</strong></h1>
 <p>Our recent 6 days 5 nights overseas trip to Chiang Rai, Thailand was an

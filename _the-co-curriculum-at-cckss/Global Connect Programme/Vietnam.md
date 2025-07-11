@@ -3,7 +3,7 @@ title: Vietnam
 permalink: /vietnam/
 variant: tiptap
 description: ""
-third_nav_title: Global Connect Overseas Prog
+third_nav_title: Global Connect Programme
 ---
 <h1><strong>2025 Global Connect Trip to Ho Chi Minh City, Vietnam</strong></h1>
 <p>For a group of Secondary 3 CCKSians, a 5-day, 4-night trip from 30 May

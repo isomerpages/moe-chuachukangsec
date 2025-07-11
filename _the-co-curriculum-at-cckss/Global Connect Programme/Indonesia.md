@@ -3,7 +3,7 @@ title: Indonesia
 permalink: /indonesia/
 variant: tiptap
 description: ""
-third_nav_title: Global Connect Overseas Prog
+third_nav_title: Global Connect Programme
 ---
 <h1><strong>2025 Global Connect Trip to Yogyakarta, Indonesia</strong></h1>
 <p>Five days. Four nights. One unforgettable adventure. Yogyakarta for our
