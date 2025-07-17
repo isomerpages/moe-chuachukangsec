@@ -153,14 +153,6 @@ solvers who contribute to the community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yap Eng Luan Ruth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Music</strong>
 </p>
 </td>
