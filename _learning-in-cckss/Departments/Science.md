@@ -213,14 +213,6 @@ use science to <strong>create meaningful change</strong> in the world.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tee Jie Kai Calvin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Wong Hui San Trina</p>
 </td>
 <td rowspan="1" colspan="1">
