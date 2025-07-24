@@ -47,6 +47,14 @@ sections:
       image: /images/Screenshot_2025_05_30_093547.png
       alt: Image alt text
   - infopic:
+      title: Sports Challenge
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/sports-challenge/
+      image: /images/Screenshot_2025_07_24_114542.png
+      alt: Image alt text
+  - infopic:
       title: Secondary Two Theatre Experience
       subtitle: events
       id: infopic
