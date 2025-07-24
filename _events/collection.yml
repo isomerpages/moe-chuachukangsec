@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2025 School Events/Orienteering Skills Programme.md
       - 2025 School Events/Discovery Week.md
       - 2025 School Events/Secondary Two Theatre Experience.md
       - 2025 School Events/Outward Bound Singapore.md
