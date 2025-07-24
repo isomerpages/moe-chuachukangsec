@@ -111,6 +111,14 @@ sections:
       image: /images/Screenshot_2025_04_24_183243.png
       alt: Image alt text
   - infopic:
+      title: Orienteering Programme
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/orienteering-skills-programme/
+      image: /images/Mission_Accomplished_.jpg
+      alt: Image alt text
+  - infopic:
       title: Speech Day 2025
       subtitle: EVENTS
       id: infopic
