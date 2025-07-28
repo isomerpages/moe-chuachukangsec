@@ -23,6 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Racial Harmony Day
+      subtitle: EVENTS
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/racial-harmony-day/
+      image: /images/WhatsApp_Image_2025_07_21_at_10_48_08__1_.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Global Connect Trip to Yogyakarta, Indonesia
       subtitle: THE CO-CURRICULUM
       id: infopic
