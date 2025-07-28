@@ -11,7 +11,13 @@ third_nav_title: School Achievements
 </div>
 <h3><strong>Achievements (Uniformed Groups)</strong></h3>
 <h4><strong>Girl Guides (Puan Noor Aishah Award - Gold)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/524385190_746704891649772_6931959438307693702_n.jpg">
+</div>
 <h4><strong>National Cadet Corps (Unit Recognition Award - Distinction)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_07_28_104020.png">
+</div>
 <h4><strong>National Police Cadet Corps (Unit Outstanding Performance Award)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/495575595_686725014314427_8383209287599639267_n.jpg">
@@ -182,6 +188,10 @@ third_nav_title: School Achievements
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/493973802_675972948722967_9144473984769006404_n.jpg">
 </div>
 <h3><strong>Achievements (Academic)</strong></h3>
+<h4><strong>Mother Tongue Language Fiesta, SG60 Quiz Competition (Motivational Award, Senthilkumar Srivarsha 3A, Sriram Gopitha 3B, Kannan Hiinthuja, 3C)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/522677466_745962188390709_7657665046732519721_n.jpg">
+</div>
 <h4><strong>Ngee Ann Polytechnic Mathematics Challenge 2025 (Overall School 1st Runners-Up)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/488673567_656905160629746_4033328798910041076_n.jpg">
