@@ -23,6 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Visit by Shinkamigoto Board of Education, Japan
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/visit-by-shinkamigoto-board-of-education-japan/
+      image: /images/527532764_755871184066476_7793324966785036719_n.jpg
+      alt: Image alt text
+  - infopic:
       title: Racial Harmony Day
       subtitle: EVENTS
       id: infopic
