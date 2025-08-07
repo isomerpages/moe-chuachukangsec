@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2025 School Events/Visit by Shinkamigoto Board of Education, Japan.md
       - 2025 School Events/Racial Harmony Day.md
       - 2025 School Events/.keep
       - 2025 School Events/Discovery Week.md
