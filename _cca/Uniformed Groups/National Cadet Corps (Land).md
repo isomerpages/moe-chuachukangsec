@@ -97,7 +97,7 @@ leaders and team players through fun and challenging military-related activities
 <p>Adventurous Spirit</p>
 </li>
 </ul>
-<p><strong>Key Programmes and Achievements in 2022-2024</strong>
+<p><strong>Key Programmes and Achievements in 2022-2025</strong>
 </p>
 <p><strong>Junior Cadets (Secondary 1)</strong>
 </p>

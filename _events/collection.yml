@@ -2,6 +2,9 @@ collections:
   events:
     output: true
     order:
+      - 2025 School Events/Growing with Singapore, Voices of Our Youth CCKSS
+        SG60 Edition.md
+      - "2025 School Events/SG60: CCKSS Celebrates National Day!.md"
       - 2025 School Events/Visit by Shinkamigoto Board of Education, Japan.md
       - 2025 School Events/Racial Harmony Day.md
       - 2025 School Events/.keep
