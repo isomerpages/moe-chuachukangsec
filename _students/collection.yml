@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - September Academic Support Programme.md
       - Cohort Level website.md
       - Timetable/.keep
       - Timetable/Class Timetable.md
