@@ -16,7 +16,7 @@ space around it. Please check back in Term 4, Week 3!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_27_185817.png">
 </div>
-<h3><strong>Every new place is a chance to discover a new you </strong></h3>
+<h3><strong>Every new place is a chance to discover a new you</strong></h3>
 <p><strong><em>A-ta-ra-shii ba-sho wa a-ta-ra-shii ji-bun o mi-tsu-ke-ru chan-su</em></strong>
 </p>
 <p>Japan is a country where every region feels like stepping into a different
@@ -46,4 +46,34 @@ reflect.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_27_185742.png">
 </div>
+<h3><strong>The taste of travel is the heart of the land</strong></h3>
+<p><strong><em>Tabisaki no aji wa sono tochi no kokoro</em></strong>
+</p>
+<p><strong><em>“The taste of travel is the heart of the land”</em></strong> feels
+especially true in these regions of Kyushu. In <strong>Nagasaki</strong>,
+every dish tells a story of cultural exchange, from centuries-old Chinese
+and Dutch influences to the comforting flavors of champon noodles. In the <strong>Goto Islands and Shinkamigoto</strong>,
+simple yet soulful meals—freshly caught fish, handmade udon, or traditional
+kamaboko—reflect the close bond between the people and the sea that sustains
+them. Meanwhile, <strong>Fukuoka</strong> shines as a modern culinary hub,
+where steaming bowls of Hakata ramen and lively yatai street stalls embody
+the city’s warmth, energy, and hospitality. Together, these places show
+how food is more than flavor—it is a direct expression of history, community,
+and spirit.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_27_185721.png">
+</div>
+<h3><strong>Travel is nourishment for the soul</strong></h3>
+<p><strong><em>Tabi wa kokoro no eiyō de aru</em></strong>
+</p>
+<p><strong><em>“Travel is nourishment for the soul”</em> </strong>beautifully
+captures the essence of visiting Shinkamigoto and the Goto Islands. These
+remote islands offer a slower rhythm of life, where unspoiled coastlines,
+hidden churches, and quiet fishing villages invite visitors to breathe
+deeply and reconnect with themselves. The natural beauty of the turquoise
+seas and star-filled skies, combined with the warmth of the island communities,
+gives travelers a sense of renewal that goes beyond sightseeing. In the
+Goto Islands, each journey feels like a retreat for the heart, feeding
+the spirit with peace, reflection, and simple joys that linger long after
+you leave.</p>
 <p></p>
