@@ -21,7 +21,6 @@ variant: tiptap
 </div>
 <h4><strong>Miss Ang En Qi Charlene (Class of 2022)</strong></h4>
 <h3><strong>Republic Polytechnic</strong></h3>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -30,13 +29,11 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_28_231913.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_28_231941.png">
 </div>
@@ -44,13 +41,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_28_232006.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_28_232027.png">
 </div>
@@ -64,7 +59,6 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_28_232127.png">
 </div>
