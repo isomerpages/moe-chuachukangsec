@@ -6,8 +6,7 @@ description: ""
 third_nav_title: Alumni
 ---
 <h2><strong>Alumni Achievements</strong></h2>
-<h3><strong>Lee Kuan Yew Model Student Award 2024</strong></h3>
-<h3><strong>Ngee Ann Kongsi Gold Medal 2024</strong></h3>
+<h3><strong>Lee Kuan Yew Model Student Award 2024 and Ngee Ann Kongsi Gold Medal 2024</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
