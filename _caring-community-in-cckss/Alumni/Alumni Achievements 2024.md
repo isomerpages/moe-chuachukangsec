@@ -15,13 +15,11 @@ third_nav_title: Alumni
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ac49f49dcde3c7150ed43606d048c5ce34e7527d03aadea66f72a3c1c1fb8f5f.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ac49f49dcde3c7150ed43606d048c5ce34e7527d03aadea66f72a3c1c1fb8f5f.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_28_235038.png">
 </div>
@@ -45,12 +43,12 @@ third_nav_title: Alumni
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Chua_Chu_Kang_Secondary_School_Chin_Jing_Ying_DCE.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Chua_Chu_Kang_Secondary_School_Chin_Jing_Ying_DCE.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Teck_Whye_Secondary_School_Khairunnisa_DID.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Teck_Whye_Secondary_School_Khairunnisa_DID.png">
 </div>
 </th>
 </tr>
