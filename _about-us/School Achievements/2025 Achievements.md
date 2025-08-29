@@ -14,6 +14,11 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/524385190_746704891649772_6931959438307693702_n.jpg">
 </div>
+<h4><strong>Girl Guides West Division Fest 2025 - Poet's Playground</strong></h4>
+<h4><strong>2nd Place - Lee Mi Xue 2F, Yendluri Ayanna, 2F</strong></h4>
+<h4><strong>Girl Guides West Division Fest 2025 - Real to Reel</strong></h4>
+<h4><strong>2nd Place - Ava Lim Hee 2E, Yendluri Ayanna 2F, Amaia Kirtzen Frias Giere 2G, Gunasekara Kapinaya 3A</strong></h4>
+<p></p>
 <h4><strong>National Cadet Corps (Unit Recognition Award - Distinction)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_07_28_104020.png">
