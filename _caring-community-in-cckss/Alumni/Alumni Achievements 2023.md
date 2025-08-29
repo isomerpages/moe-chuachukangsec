@@ -10,7 +10,6 @@ third_nav_title: Alumni
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Anderson_Serangoon_JC_Outstanding_A_Levels_2023.jpg">
 </div>
-<h3><strong>CCKSians from the Class of 2021</strong></h3>
 <h3><strong>Republic Polytechnic</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
