@@ -30,7 +30,7 @@ third_nav_title: Alumni
 <h4><strong>Sujaysharan Devakumar (Class of 2022)</strong></h4>
 <h3><strong>MOE Humanities Scholarship 2024</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Chan_An_Ying_NJC_MOE_Humanities_Scholarship.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Chan_An_Ying_NJC_MOE_Humanities_Scholarship.jpg">
 </div>
 <h4><strong>Chan An-Ying (Class of 2022)</strong></h4>
 <h3><strong>Singapore Polytechnic</strong></h3>
