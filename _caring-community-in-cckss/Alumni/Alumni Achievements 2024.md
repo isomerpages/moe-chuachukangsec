@@ -52,18 +52,6 @@ third_nav_title: Alumni
 </div>
 </th>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MAD_DVEMG_Joshua.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ABE_DLA_Victor_Chin.jpg">
-</div>
-</td>
-</tr>
 </tbody>
 </table>
 <h3></h3>
