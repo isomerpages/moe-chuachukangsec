@@ -43,14 +43,26 @@ third_nav_title: Alumni
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Chua_Chu_Kang_Secondary_School_Chin_Jing_Ying_DCE.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chua_Chu_Kang_Secondary_School_Chin_Jing_Ying_DCE.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Teck_Whye_Secondary_School_Khairunnisa_DID.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Teck_Whye_Secondary_School_Khairunnisa_DID.png">
 </div>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MAD_DVEMG_Joshua.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ABE_DLA_Victor_Chin.jpg">
+</div>
+</td>
 </tr>
 </tbody>
 </table>
