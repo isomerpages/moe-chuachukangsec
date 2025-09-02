@@ -19,7 +19,7 @@ to our nation and a celebration of what it means to call Singapore home!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_09_145314.png">
 </div>
-<p><a href="https://heyzine.com/flip-book/e7719b033e.html" rel="noopener nofollow" target="_blank">Growing with Singapore: Voices of Our Youth CCKSS SG60 Edition</a>
+<p><a href="https://heyzine.com/flip-book/ddf1c73d83.html" rel="noopener nofollow" target="_blank">Growing with Singapore: Voices of Our Youth CCKSS SG60 Edition</a>
 </p>
 <p></p>
 <p></p>
