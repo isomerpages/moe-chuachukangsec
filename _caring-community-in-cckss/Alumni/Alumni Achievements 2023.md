@@ -10,6 +10,27 @@ third_nav_title: Alumni
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Anderson_Serangoon_JC_Outstanding_A_Levels_2023.jpg">
 </div>
+<h3><strong>Singapore Polytechnic</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MAD_DVEMG_Joshua.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ABE_DLA_Victor_Chin.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h3><strong>Republic Polytechnic</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
