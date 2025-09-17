@@ -39,7 +39,7 @@ the unity, resilience, and pride that will carry it forward.</p>
 </div>
 <p>Check our social media sites for more posts on CCKSS' National Day SG60
 celebrations!</p>
-<p><a href="https://www.facebook.com/CCKSians" rel="noopener nofollow" target="_blank">Facebook</a> &amp;
-<a href="https://www.instagram.com/cckssofficial/#" rel="noopener nofollow" target="_blank">Instragram</a>
-</p>
+<div class="iframe-wrapper">
+<iframe style="border:none;overflow:hidden" height="250" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCCKSians%2Fposts%2Fpfbid02bzyGiCkv54JSmHqnwnRsvBuJ6jwur1vmURSNEHd7uVLomfbqrdkxmFHEeq77uN1Pl&amp;show_text=true&amp;width=500"></iframe>
+</div>
 <p></p>
