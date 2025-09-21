@@ -40,6 +40,9 @@ and love that our teachers pour into everything they do. To all the wonderful
 teachers of CCKS and beyond—Happy Teachers' Day! You make the world brighter,
 kinder, and wiser with your dedication.</p>
 <div class="iframe-wrapper">
+<iframe style="border:none;overflow:hidden" height="378" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCCKSians%2Fposts%2Fpfbid0WrPzFPXZFfRQUPbyyScLaLG5mcQkhLC1tL36V6eXwQ2qjuNodM6bzs3dXUPDfEzWl&amp;show_text=true&amp;width=500"></iframe>
+</div>
+<div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTejt2rTloFoBN37ms6IUsXXPX-i2ouyIAAFYlVkLGnpKRVYdAIjm64Y9gJZzrDcGtsMtxQZ3OdoGfm/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
