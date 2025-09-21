@@ -23,6 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Teachers' Day Celebrations
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/teachers-day-celebrations/
+      image: /images/Screenshot_2025_09_21_205605.png
+      alt: Image alt text
+  - infopic:
       title: Growing with Singapore, Voices of Our Youth
       subtitle: events
       id: infopic
