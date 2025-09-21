@@ -5,6 +5,18 @@ variant: tiptap
 description: ""
 third_nav_title: School Achievements
 ---
+<h3><strong>Overall Champion (Secondary Section)  National Robotics Competition</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_13_at_17_05_41.jpg">
+</div>
+<h3><strong>1st Place (Robot Performance Award) National Robotics Competition</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/546525836_787183277601933_494947588543379578_n.jpg">
+</div>
+<h3><strong>3rd Place (Learning Journey Award) National Robotics Competition</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/547111887_787183314268596_8843850986853654317_n.jpg">
+</div>
 <h3><strong>Outstanding CCKSian Award (2024) - Jazzlyn Saw Weijia</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/490345746_663602159960046_6469839231299091419_n.jpg">
