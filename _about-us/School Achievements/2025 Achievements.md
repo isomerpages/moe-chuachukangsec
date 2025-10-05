@@ -24,7 +24,7 @@ third_nav_title: School Achievements
 <h3><strong>Achievements (Staff)</strong></h3>
 <h4><strong>Zake Salam India Association (Outstanding Educator Award) - Mr Anthony Raj Joseph</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_05_150003.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_05_150003.png">
 </div>
 <p></p>
 <h3><strong>Achievements (Uniformed Groups)</strong></h3>
