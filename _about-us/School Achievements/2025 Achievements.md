@@ -211,6 +211,22 @@ third_nav_title: School Achievements
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/493973802_675972948722967_9144473984769006404_n.jpg">
 </div>
 <h3><strong>Achievements (Academic)</strong></h3>
+<h4><strong>Bulan Bahasa 2025 (Petah Spontan Category, Champion - Daania Eiliyah Bte Akbar Ali, 1C)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/555621242_798954063091521_8857068100572843488_n.jpg">
+</div>
+<h4><strong>Bulan Bahasa 2025 (Suara Belia Category, Champion - Aushaf Firas Bin Basiran, 3B)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/555958835_799133523073575_1161523110875343277_n.jpg">
+</div>
+<h4><strong>Bulan Bahasa 2025 (Suara Belia Category, 2nd Place - Qisya Asmara Bte Mohammad Jazlan, 3F)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/555042641_799133729740221_1128742747748015170_n.jpg">
+</div>
+<h4><strong>Bulan Bahasa 2025 (Suara Belia Category, 3rd Place - Nur A'adawiyah Bte Johari, 3E)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/555522417_799133619740232_101585903264584977_n.jpg">
+</div>
 <h4><strong>Mother Tongue Language Fiesta, SG60 Quiz Competition (Motivational Award, Senthilkumar Srivarsha 3A, Sriram Gopitha 3B, Kannan Hiinthuja, 3C)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/522677466_745962188390709_7657665046732519721_n.jpg">
