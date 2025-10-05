@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: School Achievements
 ---
-<h3><strong>Overall Champion (Secondary Section)  National Robotics Competition</strong></h3>
+<h3><strong>Overall Champion (Secondary Section) National Robotics Competition</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_13_at_17_05_41.jpg">
 </div>
@@ -21,6 +21,12 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/490345746_663602159960046_6469839231299091419_n.jpg">
 </div>
+<h3><strong>Achievements (Staff)</strong></h3>
+<h4><strong>Zake Salam India Association (Outstanding Educator Award) - Mr Anthony Raj Joseph</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_05_150003.png">
+</div>
+<p></p>
 <h3><strong>Achievements (Uniformed Groups)</strong></h3>
 <h4><strong>Girl Guides (Puan Noor Aishah Award - Gold)</strong></h4>
 <div class="isomer-image-wrapper">
