@@ -23,6 +23,22 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Graduation Day & PSG Graduation Day Gifts 2025
+      subtitle: EVENTS
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/graduation-day-parent-support-group-graduation-day-gifts-2025/
+      image: /images/WhatsApp_Image_2025_10_03_at_15_46_36.jpg
+      alt: Image alt text
+  - infopic:
+      title: Teachers' Day Celebrations
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/teachers-day-celebrations/
+      image: /images/Screenshot_2025_09_21_205605.png
+      alt: Image alt text
+  - infopic:
       title: Growing with Singapore, Voices of Our Youth
       subtitle: events
       id: infopic

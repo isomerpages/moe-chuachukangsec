@@ -2,6 +2,9 @@ collections:
   events:
     output: true
     order:
+      - 2025 School Events/Graduation Day & Parent Support Group Graduation Day
+        Gifts 2025.md
+      - 2025 School Events/Teachers' Day Celebrations.md
       - 2025 School Events/Growing with Singapore, Voices of Our Youth CCKSS
         SG60 Edition.md
       - "2025 School Events/SG60: CCKSS Celebrates National Day!.md"
