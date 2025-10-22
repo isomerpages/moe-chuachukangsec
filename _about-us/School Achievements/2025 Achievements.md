@@ -77,7 +77,7 @@ third_nav_title: School Achievements
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Silver, Axel Ng 1F</strong>
+<p><strong>Silver, Ng Yong Zhi, Axel 1E</strong>
 </p>
 </th>
 </tr>
@@ -95,7 +95,7 @@ third_nav_title: School Achievements
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Bronze, Vikasni 1F</strong>
+<p><strong>Bronze, Peramanathan Vikasni 1F</strong>
 </p>
 </td>
 </tr>
