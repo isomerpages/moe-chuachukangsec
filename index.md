@@ -23,6 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Post Exam Activities
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/post-exam-activities/
+      image: /images/WhatsApp_Image_2025_10_22_at_17_14_41.jpg
+      alt: Image alt text
+  - infopic:
       title: Graduation Day & PSG Graduation Day Gifts 2025
       subtitle: EVENTS
       id: infopic
