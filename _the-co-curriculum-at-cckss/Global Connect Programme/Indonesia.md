@@ -55,66 +55,6 @@ it wasn’t just about where they went. It was about who they became.</p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBRBsN5GM1AmvS5oaO72033EVy5l0q7BPXj2Ptg5nnwZtOWvO1eaPCX-39osehoIfgojA6g7iHA1UF/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="466" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCCKSians%2Fposts%2Fpfbid05tGgG1k15Edg2u75ajCD1DizkSc8TxLTbGdnkothRv7QiSWtYMW5bnB4jcuKPvgXl&amp;show_text=true&amp;width=500"></iframe>
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCCKSians%2Fposts%2Fpfbid035cS6pBWMbbA2SCmszUzAh21grcBfkyPx7LXAUXzf1cP1ijTG1ppC9w2NPosrTgGnl&amp;show_text=true&amp;width=500"></iframe>
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCCKSians%2Fposts%2Fpfbid035cS6pBWMbbA2SCmszUzAh21grcBfkyPx7LXAUXzf1cP1ijTG1ppC9w2NPosrTgGnl&amp;show_text=true&amp;width=500"></iframe>
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCCKSians%2Fposts%2Fpfbid026ZauAWuc1ieUM9vMC3FovLdhHkAz7N8EdE1fybeheQreGKf5XeFnziVPukq6P9HLl&amp;show_text=true&amp;width=500"></iframe>
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2FCCKSians%2Fvideos%2F1112990820866698%2F&amp;show_text=true&amp;width=267&amp;t=0"></iframe>
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2FCCKSians%2Fvideos%2F1103973534986885%2F&amp;show_text=true&amp;width=267&amp;t=0"></iframe>
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCCKSians%2Fposts%2Fpfbid0EpFiuGT4L462CUFxVziMCsA3Bi245jGV2aLf8Pv7xKLhNLcahnQpi9Z2ziZczu8zl&amp;show_text=true&amp;width=500"></iframe>
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCCKSians%2Fposts%2Fpfbid0HXqxHiXqxy6xqKhFzpjQdMekmPpEUyUrHaS6UxM9gPFMBWKs87xtNEdsZW8BKEXMl&amp;show_text=true&amp;width=500"></iframe>
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="684" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCCKSians%2Fposts%2Fpfbid02ab4xGG2Fi4zrZSiq5bqHV92DgjEvoexgYQMpbvSpGhTTmVhapquosiLNzqKA9ykil&amp;show_text=true&amp;width=500"></iframe>
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <h1><strong>2024 Global Connect Trip to Yogyakarta, Indonesia</strong></h1>
 <p>Our first day in Yogyakarta was a heartwarming and unforgettable experience.
 We visited the Aminah&nbsp; Al Maa’uun Orphanage in the southern region
