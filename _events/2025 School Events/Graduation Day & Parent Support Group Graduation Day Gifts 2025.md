@@ -38,9 +38,11 @@ make your CCKSS family proud.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_03_at_15_46_36.jpg">
 </div>
+<p></p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="690" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCCKSians%2Fposts%2Fpfbid0CodFu3uZwc7tXfHTpgY7M8NDe6syEvkjMdQmz9o2QNrCLuGNxP5bjLXvg3oE5axpl&amp;show_text=true&amp;width=500"></iframe>
+<iframe style="border:none;overflow:hidden" height="690" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCCKSians%2Fposts%2Fpfbid0Cg6nviBY2yatfQsbpkSsPBvuS8K4HJyDJuDUEVJam8idSYGcHvpfkCQWsd1LbMMtl&amp;show_text=true&amp;width=500"></iframe>
 </div>
+<p></p>
 <div class="iframe-wrapper">
 <iframe style="border:none;overflow:hidden" height="431" width="560" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=316&amp;href=https%3A%2F%2Fwww.facebook.com%2Freel%2F3694466600855171%2F&amp;show_text=true&amp;width=560&amp;t=0"></iframe>
 </div>
