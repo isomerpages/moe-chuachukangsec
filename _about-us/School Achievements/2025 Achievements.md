@@ -33,7 +33,7 @@ third_nav_title: School Achievements
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/524385190_746704891649772_6931959438307693702_n.jpg">
 </div>
 <h4><strong>Video Competition: Mental Wellness Month (Mind Matters: Nurture, Heal, Thrive)</strong></h4>
-<h4><strong>1st Place - Chua Chu Kang Secondary School Girl Guides</strong></h4>
+<h4><strong>1st Place - Chew Yu Yi 1F, Ava Lim Hee 2E, Yendluri Ayanna 2F, Amaia Kirtzen Frias Giere 2G, Gunasekara Kapinaya 3A</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_23_at_18_26_00.jpg">
 </div>
