@@ -24,6 +24,9 @@ with peers from neighbouring countries and be inspired to take part in
 regional opportunities. As such, CCKSS Global Connect trips within the
 region offer meaningful ways for CCKSians to learn about ASEAN cultures
 firsthand, deepen their awareness, and build friendships beyond borders.</p>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT-ThTHm6D34vnLhzNSl0X-fRD2qD8OhijQfS8m3R6iZPC5810HIRWa251hkUsFPRWLnqH5zG9r6Ct6/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h4><strong>CCKSS Global Connect Chiang Rai, Thailand</strong></h4>
 <p>Chiang Rai, the northernmost province of Thailand, is home to a diverse
 population that includes various hill tribes and communities of Chinese
@@ -74,6 +77,9 @@ Palace and War Remembrance Museum. They can also experience rice planting
 and food sustainability at a natural farm-to-table restaurant. A visit
 to HCMC gives CCKSians a firsthand look at Vietnam’s rapid economic growth,
 dynamic start-up ecosystem, and rich historical and cultural heritage.</p>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT0Dt_vqJniBrSkFADKkGHl0qhEdFW0NEPplQjtEnH8_3H_MWN6RF3dqeAVmZIYDux_yDKye-awMmtA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p>Visit the CGC Vietnam Page:</p>
 <p><a href="https://www.chuachukangsec.moe.edu.sg/vietnam/" rel="noopener noreferrer nofollow" target="_blank">https://www.chuachukangsec.moe.edu.sg/vietnam/</a>
 </p>
