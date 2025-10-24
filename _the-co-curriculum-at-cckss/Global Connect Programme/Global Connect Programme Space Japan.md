@@ -44,6 +44,9 @@ across Japan for its wide selection of incredibly fresh seafood.</p>
 <p>Nagasaki is also known for its resilience. Nagasaki's Christians endured
 persecution during the Edo period, it also overcame an atomic bombing during
 World War II and the eruption of nearby Mount Unzen.</p>
+<p>You can learn more about Nagasaki from here:</p>
+<p><a href="https://www.discover-nagasaki.com/en/featured-topics/aboutnagasaki" rel="noopener noreferrer nofollow" target="_blank">https://www.discover-nagasaki.com/en/featured-topics/aboutnagasaki</a>
+</p>
 <h3><strong>Bench Art:</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_27_185817.png">
