@@ -34,6 +34,8 @@ of the US Fleet Activities Sasebo, which was formed in 1946.</p>
 <p>You can learn more about Sasebo from here:</p>
 <p><a href="https://www.discover-nagasaki.com/en/featured-topics/about_sasebo" rel="noopener noreferrer nofollow" target="_blank">https://www.discover-nagasaki.com/en/featured-topics/about_sasebo</a>
 </p>
+<h4><strong>Nagasaki ながさき</strong></h4>
+<p>Nagasaki</p>
 <h3><strong>Bench Art:</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_27_185817.png">
@@ -98,4 +100,5 @@ gives travelers a sense of renewal that goes beyond sightseeing. In the
 Goto Islands, each journey feels like a retreat for the heart, feeding
 the spirit with peace, reflection, and simple joys that linger long after
 you leave.</p>
+<p></p>
 <p></p>
