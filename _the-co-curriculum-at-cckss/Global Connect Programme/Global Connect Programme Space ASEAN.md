@@ -24,8 +24,26 @@ with peers from neighbouring countries and be inspired to take part in
 regional opportunities. As such, CCKSS Global Connect trips within the
 region offer meaningful ways for CCKSians to learn about ASEAN cultures
 firsthand, deepen their awareness, and build friendships beyond borders.</p>
-<h4><strong>CCKSS Global Connect Thailand</strong></h4>
-<p></p>
+<h4><strong>CCKSS Global Connect Chiang Rai, Thailand</strong></h4>
+<p>Chiang Rai, the northernmost province of Thailand, is home to a diverse
+population that includes various hill tribes and communities of Chinese
+descent. Its history stretches back to the 7th century, and in 1262, it
+became the first capital of the Lanna Kingdom. Geographically, Chiang Rai
+shares borders with Myanmar to the north and Laos to the east, with the
+point where the three countries meet famously known as the “Golden Triangle.”
+While the region was once a major center for opium production, royal initiatives
+helped transform local livelihoods by educating residents and promoting
+sustainable alternatives.</p>
+<p>Unlike Thailand’s more bustling cities, Chiang Rai maintains a quieter,
+more relaxed atmosphere. This slower pace has allowed the area to grow
+while preserving its traditional way of life. Many community development
+efforts focus on helping rural areas build tourism opportunities that protect
+their cultural and natural heritage. For CCKSians, Chiang Rai offers a
+meaningful chance to engage with Thai traditions, learn about the region’s
+rich history, and explore the outdoors in an authentic setting.</p>
+<p>Visit the CGC Thailand Page:</p>
+<p><a href="https://www.chuachukangsec.moe.edu.sg/thailand/" rel="noopener noreferrer nofollow" target="_blank">https://www.chuachukangsec.moe.edu.sg/thailand/</a>
+</p>
 <h4><strong>CCKSS Global Connect Yogyakarta, Indonesia</strong></h4>
 <p>Yogyakarta, often affectionately called “Jogja,” is considered the cultural
 soul of Indonesia. It is celebrated worldwide for its rich traditions in
