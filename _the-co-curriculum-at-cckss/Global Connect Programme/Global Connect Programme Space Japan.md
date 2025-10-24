@@ -35,7 +35,15 @@ of the US Fleet Activities Sasebo, which was formed in 1946.</p>
 <p><a href="https://www.discover-nagasaki.com/en/featured-topics/about_sasebo" rel="noopener noreferrer nofollow" target="_blank">https://www.discover-nagasaki.com/en/featured-topics/about_sasebo</a>
 </p>
 <h4><strong>Nagasaki ながさき</strong></h4>
-<p>Nagasaki</p>
+<p>Located along the western edge of Kyushu in southwestern Japan, Nagasaki
+Prefecture is made up of both mainland areas and a vast collection of islands
+scattered along its coast. With its position facing the sea and framed
+by mountains, the region is famous for breathtaking sunsets over clear
+blue waters. Nagasaki also offers a peaceful island lifestyle and is renowned
+across Japan for its wide selection of incredibly fresh seafood.</p>
+<p>Nagasaki is also known for its resilience. Nagasaki's Christians endured
+persecution during the Edo period, it also overcame an atomic bombing during
+World War II and the eruption of nearby Mount Unzen.</p>
 <h3><strong>Bench Art:</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_27_185817.png">
