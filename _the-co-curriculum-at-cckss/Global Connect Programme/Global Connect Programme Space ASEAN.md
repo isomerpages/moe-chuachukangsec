@@ -44,6 +44,9 @@ efforts focus on helping rural areas build tourism opportunities that protect
 their cultural and natural heritage. For CCKSians, Chiang Rai offers a
 meaningful chance to engage with Thai traditions, learn about the region’s
 rich history, and explore the outdoors in an authentic setting.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS9oPwAgR85HiOQdOxFr2bTYyNdg0uX__lQGl-vP8e4wyA_QHpIYJsStjKJ0wkJdeopwDmBvsMCd5Rk/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p>Visit the CGC Thailand Page:</p>
 <p><a href="https://www.chuachukangsec.moe.edu.sg/thailand/" rel="noopener noreferrer nofollow" target="_blank">https://www.chuachukangsec.moe.edu.sg/thailand/</a>
 </p>
@@ -60,6 +63,9 @@ in Indonesia, hosting more than a hundred higher learning institutions
 one of the country’s most renowned universities. For CCKSians, a trip to
 Yogyakarta offers a unique chance to experience Indonesia’s cultural richness,
 immerse in local traditions, and engage in meaningful outdoor learning.</p>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS2x0-J57YAGf2kcF1r_R-JuoLDOPcunUEljTm9JZh8VITiW3RSXLycgS0FrfsyDM7_ELR0ED0aNIDa/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p>Visit the CGC Indonesia Page:</p>
 <p><a href="https://www.chuachukangsec.moe.edu.sg/indonesia/" rel="noopener noreferrer nofollow" target="_blank">https://www.chuachukangsec.moe.edu.sg/indonesia/</a>
 </p>
