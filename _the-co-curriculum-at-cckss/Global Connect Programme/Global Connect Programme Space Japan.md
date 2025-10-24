@@ -24,7 +24,7 @@ on a recce trip with the goal of sending the first batch of CCKSians in
 <p>You can learn more about Shinkamigoto from here:</p>
 <p><a href="https://www.discover-nagasaki.com/en/featured-topics/about-shinkamigoto" rel="noopener noreferrer nofollow" target="_blank">https://www.discover-nagasaki.com/en/featured-topics/about-shinkamigoto</a>
 </p>
-<h4><strong>Sasebo させぼ &amp; Fukuoka ふくおか</strong></h4>
+<h4><strong>Sasebo させぼ </strong></h4>
 <p>Sasebo was on the return leg of our ferry journey from Shinkamigoto before
 we boarded a train to Fukuoka. Due to its strategic location and geographic
 proximity to Korea and China, Sasebo Naval District was founded in 1889
@@ -33,6 +33,17 @@ and Russo-Japanese Wars. Sasebo today is also home to US warships as part
 of the US Fleet Activities Sasebo, which was formed in 1946.</p>
 <p>You can learn more about Sasebo from here:</p>
 <p><a href="https://www.discover-nagasaki.com/en/featured-topics/about_sasebo" rel="noopener noreferrer nofollow" target="_blank">https://www.discover-nagasaki.com/en/featured-topics/about_sasebo</a>
+</p>
+<h4><strong>Fukuoka ふくおか</strong></h4>
+<p>Fukuoka, located on the northern shore of Japan’s Kyushu Island, is a
+vibrant city where modern urban life meets rich tradition. Known for its
+welcoming atmosphere, Fukuoka offers historic temples, and scenic coastal
+views. It’s also a culinary hotspot, famous for its Hakata ramen and lively
+street food stalls. With its mild climate, convenient transportation, and
+blend of culture, food, and nature, Fukuoka is a gateway to the charm of
+southern Japan.</p>
+<p>You can learn more about Fukuoka here:</p>
+<p><a href="https://www.japan.travel/en/destinations/kyushu/fukuoka/" rel="noopener noreferrer nofollow" target="_blank">https://www.japan.travel/en/destinations/kyushu/fukuoka/</a>
 </p>
 <h4><strong>Nagasaki ながさき</strong></h4>
 <p>Located along the western edge of Kyushu in southwestern Japan, Nagasaki
@@ -43,7 +54,9 @@ blue waters. Nagasaki also offers a peaceful island lifestyle and is renowned
 across Japan for its wide selection of incredibly fresh seafood.</p>
 <p>Nagasaki is also known for its resilience. Nagasaki's Christians endured
 persecution during the Edo period, it also overcame an atomic bombing during
-World War II and the eruption of nearby Mount Unzen.</p>
+World War II and the eruption of nearby Mount Unzen. Due to the rich learning
+opportunities for our CCKSians, Nagasaki is definitely a city which they
+will visit during their trip to Japan in 2026.</p>
 <p>You can learn more about Nagasaki from here:</p>
 <p><a href="https://www.discover-nagasaki.com/en/featured-topics/aboutnagasaki" rel="noopener noreferrer nofollow" target="_blank">https://www.discover-nagasaki.com/en/featured-topics/aboutnagasaki</a>
 </p>
