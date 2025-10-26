@@ -245,13 +245,18 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/555522417_799133619740232_101585903264584977_n.jpg">
 </div>
-<h4><strong>Rentas Pantas' Competition (2nd Place)</strong></h4>
+<h4><strong>Build Your Own Business (BYOB) – Accounting Gameboard Challenge (Top School) &amp; Build Your Own Business (BYOB) – Accounting Gameboard Challenge (Best Pairs Category, 3rd Place - Tan Xuan Ling 4D, Tiong Yu Xuan 4D)</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/500215439_696738523313076_8792733156291351793_n.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/527195915_752468784406716_8458514175950873859_n.jpg">
 </div>
+<p></p>
 <h4><strong>Mother Tongue Language Fiesta, SG60 Quiz Competition (Motivational Award, Senthilkumar Srivarsha 3A, Sriram Gopitha 3B, Kannan Hiinthuja, 3C)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/522677466_745962188390709_7657665046732519721_n.jpg">
+</div>
+<h4><strong>Rentas Pantas' Competition (2nd Place)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/500215439_696738523313076_8792733156291351793_n.jpg">
 </div>
 <h4><strong>Ngee Ann Polytechnic Mathematics Challenge 2025 (Overall School 1st Runners-Up)</strong></h4>
 <div class="isomer-image-wrapper">
