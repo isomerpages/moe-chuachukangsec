@@ -249,8 +249,6 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/500215439_696738523313076_8792733156291351793_n.jpg">
 </div>
-<p></p>
-<p></p>
 <h4><strong>Mother Tongue Language Fiesta, SG60 Quiz Competition (Motivational Award, Senthilkumar Srivarsha 3A, Sriram Gopitha 3B, Kannan Hiinthuja, 3C)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/522677466_745962188390709_7657665046732519721_n.jpg">
