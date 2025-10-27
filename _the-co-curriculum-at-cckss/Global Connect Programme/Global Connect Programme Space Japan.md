@@ -94,7 +94,7 @@ reflect.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_27_185742.png">
 </div>
 <h3><strong>The taste of travel is the heart of the land</strong></h3>
-<p><strong><em>Tabisaki no aji wa sono tochi no kokoro</em></strong>
+<p><strong><em>Lǚxíng ràng rén qiānbēi, nǐ huì fāxiàn shìjiè zhī dà, zìjǐ zhī miǎoxiǎo</em></strong>
 </p>
 <p><strong><em>“The taste of travel is the heart of the land”</em></strong> feels
 especially true in these regions of Kyushu. In <strong>Nagasaki</strong>,
