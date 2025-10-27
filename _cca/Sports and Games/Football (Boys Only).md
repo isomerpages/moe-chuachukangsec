@@ -80,6 +80,12 @@ so that our students can gain invaluable experience and further developed
 their knowledge of the game.</p>
 <p><strong>Key Programmes and Achievements</strong>
 </p>
+<p><strong>2025</strong>
+</p>
+<p><strong>National School Games Football Championships B Division Boys League 2</strong>
+</p>
+<p><strong>National School Games Football Championships C Division Boys League 4</strong>
+</p>
 <p><strong>2024</strong>
 </p>
 <p><strong>National School Games Football Championships B Division Boys' League 2: </strong>4th
