@@ -6,8 +6,7 @@ description: ""
 third_nav_title: Global Connect Programme
 ---
 <h2><strong>Japan</strong></h2>
-<h3><strong>The Japanese Corner</strong></h3>
-<h3><strong>Table Art:</strong></h3>
+<h3><strong>The Japanese Corner Table Art:</strong></h3>
 <p>Learn more about the exciting highlights of places CCKSians may visit
 as part of their inaugural Japan Trip in 2026! You may also utilise this
 opportunity to find out more about these Japanese cities which are rich
@@ -24,7 +23,7 @@ on a recce trip with the goal of sending the first batch of CCKSians in
 <p>You can learn more about Shinkamigoto from here:</p>
 <p><a href="https://www.discover-nagasaki.com/en/featured-topics/about-shinkamigoto" rel="noopener noreferrer nofollow" target="_blank">https://www.discover-nagasaki.com/en/featured-topics/about-shinkamigoto</a>
 </p>
-<h4><strong>Sasebo させぼ </strong></h4>
+<h4><strong>Sasebo させぼ</strong></h4>
 <p>Sasebo was on the return leg of our ferry journey from Shinkamigoto before
 we boarded a train to Fukuoka. Due to its strategic location and geographic
 proximity to Korea and China, Sasebo Naval District was founded in 1889
@@ -60,7 +59,7 @@ will visit during their trip to Japan in 2026.</p>
 <p>You can learn more about Nagasaki from here:</p>
 <p><a href="https://www.discover-nagasaki.com/en/featured-topics/aboutnagasaki" rel="noopener noreferrer nofollow" target="_blank">https://www.discover-nagasaki.com/en/featured-topics/aboutnagasaki</a>
 </p>
-<h3><strong>Bench Art:</strong></h3>
+<h3><strong>The Japanese Corner Bench Art:</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_27_185817.png">
 </div>
