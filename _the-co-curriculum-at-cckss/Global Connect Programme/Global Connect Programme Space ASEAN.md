@@ -107,10 +107,14 @@ dynamic start-up ecosystem, and rich historical and cultural heritage.</p>
 <p><strong><em>Lôhk gwâang gern gwàa jà yùu thîi derm</em></strong>
 </p>
 <p>The phrase <strong><em>“The world is too wide to stay in the same place”</em></strong> encourages
-us to explore beyond our comfort zone. It reminds us that life is full
-of opportunities, cultures, and experiences waiting to be discovered. Staying
-in one place—physically or mentally—limits our growth. By stepping out
-and seeing the world, we learn more about others, and about ourselves.</p>
+us to step beyond the comfort of familiar places and routines. The world
+is full of cultures, experiences, and opportunities that we may never understand
+if we remain where we are. Traveling—or simply being open to new experiences—broadens
+our perspective, teaches us empathy, and helps us grow. When we explore,
+we realise how large the world is and how many ways there are to live and
+dream. It also helps us understand ourselves better—our strengths, fears,
+and passions. In essence, life is short and the world is wide, so we should
+not limit ourselves by staying in the same place.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_27_101524.png">
 </div>
@@ -130,7 +134,7 @@ the world, the more we grow in wisdom, perspective, and self-awareness.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_27_101754.png">
 </div>
-<h3><strong>A journey of a thousand miles begins with a single step</strong></h3>
+<h3><strong>A journey of a thousand miles begins with a single step (Berjalan seribu mil dimulai dengan satu langkah)</strong></h3>
 <p>The saying<em> </em><strong><em>"A journey of a thousand miles begins with a single step,”</em></strong> teaches
 us the importance of starting, no matter how big or difficult something
 may seem. Many dreams, goals, or life changes can feel overwhelming at
@@ -142,15 +146,22 @@ and persistence. It tells us not to be afraid of slow progress, as long
 as we keep moving forward. Success is not achieved overnight—it is a journey
 made up of effort, discipline, and determination, one step at a time.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_27_095402.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_27_102456.png">
 </div>
-<h3><strong>The world is so big, I want to go and see it</strong></h3>
-<p><strong><em>Shìjiè nàme dà, wǒ xiǎng qù kànkàn</em></strong>
-</p>
-<p>This quote <strong>“The world is so big, I want to go and see it," </strong>expresses
-a simple yet powerful desire to explore beyond the familiar and discover
-the beauty, diversity, and possibilities that the world offers. It reflects
-a spirit of curiosity, freedom, and courage to step out of one’s comfort
-zone and experience life more fully.</p>
+<h3><strong>If you don’t go, how will you know how big the world is (Không đi, làm sao biết thế giới rộng lớn thế nào)</strong></h3>
+<p>This quote is a gentle yet powerful reminder that the world is far bigger
+than the place we are used to. If we never leave our comfort zone—our hometown,
+our habits, our familiar way of thinking—we will never truly understand
+how vast, beautiful, and diverse life can be. Books, films, or stories
+can show us parts of the world, but real understanding comes from seeing,
+experiencing, and feeling it for ourselves. Travel teaches us things no
+classroom can. It shows us new cultures, new languages, and new ways of
+living. It helps us realise that our problems are not the only problems,
+our beliefs are not the only truths, and our way of life is not the only
+way. By stepping outside, we grow more humble, open-minded, and compassionate.
+This quote is not only about physical travel—it is also about being brave
+enough to try new things, meet new people, and challenge our own limits.
+It encourages curiosity, exploration, and the courage to discover the unknown.
+Only by moving forward do we learn more about the world—and about ourselves.</p>
 <h4></h4>
 <p></p>
