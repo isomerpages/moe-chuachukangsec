@@ -91,8 +91,7 @@ outcomes were identified and sourced for each level.</p>
 <p>These activities strive to relate language and its applications to real
 life situations, thereby drawing a closer connection between Mother Tounges
 and our students.</p>
-<p><strong>Chinese Language</strong>
-</p>
+<h4><strong>Chinese Language</strong></h4>
 <p><strong>Sec 1: Chinese Calligraphy and its Application</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -113,8 +112,7 @@ and our students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_11_104502.png">
 </div>
-<p><strong>Malay Language</strong>
-</p>
+<h4><strong>Malay Language</strong></h4>
 <p><strong>Sec 1: Crafting of <em>Pantun </em>in Hari Raya Cards</strong>
 </p>
 <p><strong>Sec 2: Jawi Calligraphy on Canvas Pencil Cases</strong>
@@ -129,8 +127,7 @@ and our students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_11_121614.png">
 </div>
-<p><strong>Tamil Language</strong>
-</p>
+<h4><strong>Tamil Language</strong></h4>
 <p><strong>Sec 1: Learning Journey to Little India</strong>
 </p>
 <ul data-tight="true" class="tight">
