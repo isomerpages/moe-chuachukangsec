@@ -32,11 +32,29 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/524385190_746704891649772_6931959438307693702_n.jpg">
 </div>
+<h4><strong>Video Competition: Mental Wellness Month (Mind Matters: Nurture, Heal, Thrive)</strong></h4>
+<h4><strong>1st Place - Chew Yu Yi 1F, Ava Lim Hee 2E, Yendluri Ayanna 2F, Amaia Kirtzen Frias Giere 2G, Gunasekara Kapinaya 3A</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_23_at_18_26_00.jpg">
+</div>
 <h4><strong>Girl Guides West Division Fest 2025 - Poet's Playground</strong></h4>
 <h4><strong>2nd Place - Lee Mi Xue 2F, Yendluri Ayanna, 2F</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_23_at_18_31_18.jpg">
+</div>
 <h4><strong>Girl Guides West Division Fest 2025 - Real to Reel</strong></h4>
-<h4><strong>2nd Place - Ava Lim Hee 2E, Yendluri Ayanna 2F, Amaia Kirtzen Frias Giere 2G, Gunasekara Kapinaya 3A</strong></h4>
+<h4><strong>3rd Place - Ava Lim Hee 2E, Yendluri Ayanna 2F, Amaia Kirtzen Frias Giere 2G, Gunasekara Kapinaya 3A</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_23_at_18_29_13.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_23_at_18_21_44.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_23_at_18_27_35.jpg">
+</div>
 <h4><strong>National Cadet Corps (Unit Recognition Award - Distinction)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_07_28_104020.png">
@@ -227,9 +245,18 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/555522417_799133619740232_101585903264584977_n.jpg">
 </div>
+<h4><strong>Build Your Own Business (BYOB) – Accounting Gameboard Challenge (Top School) &amp; Build Your Own Business (BYOB) – Accounting Gameboard Challenge (Best Pairs Category, 3rd Place - Tan Xuan Ling 4D, Tiong Yu Xuan 4D)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/527195915_752468784406716_8458514175950873859_n.jpg">
+</div>
+<p></p>
 <h4><strong>Mother Tongue Language Fiesta, SG60 Quiz Competition (Motivational Award, Senthilkumar Srivarsha 3A, Sriram Gopitha 3B, Kannan Hiinthuja, 3C)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/522677466_745962188390709_7657665046732519721_n.jpg">
+</div>
+<h4><strong>Rentas Pantas' Competition (2nd Place)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/500215439_696738523313076_8792733156291351793_n.jpg">
 </div>
 <h4><strong>Ngee Ann Polytechnic Mathematics Challenge 2025 (Overall School 1st Runners-Up)</strong></h4>
 <div class="isomer-image-wrapper">

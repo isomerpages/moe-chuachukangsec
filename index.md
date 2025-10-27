@@ -23,6 +23,22 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Open House 2025
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/open-house-2025/
+      image: /images/Proposed_CCKSS_Open_House_2024__2000_x_875_052_mm___1000_x_1750_104_mm_.jpg
+      alt: Image alt text
+  - infopic:
+      title: Post Exam Activities
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/post-exam-activities/
+      image: /images/WhatsApp_Image_2025_10_22_at_17_14_41.jpg
+      alt: Image alt text
+  - infopic:
       title: Graduation Day & PSG Graduation Day Gifts 2025
       subtitle: EVENTS
       id: infopic

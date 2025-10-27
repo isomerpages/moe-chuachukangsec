@@ -6,13 +6,60 @@ description: ""
 third_nav_title: Global Connect Programme
 ---
 <h2><strong>Japan</strong></h2>
-<p>We are in the process of curating our wall and enhancing the learning
-space around it. Please check back in Term 4, Week 5!</p>
+<h3><strong>The Japanese Corner Table Art:</strong></h3>
+<p>Learn more about the exciting highlights of places CCKSians may visit
+as part of their inaugural Japan Trip in 2026! You may also utilise this
+opportunity to find out more about these Japanese cities which are rich
+in culture, history and exciting lifestyle experiences!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/work_in_progress.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_24_110738.png">
 </div>
-<h3><strong>The Japanese Corner</strong></h3>
-<h3><strong>Bench Art:</strong></h3>
+<h4><strong>Shinkamigoto しんかみごとう</strong></h4>
+<p>The Shinkamigoto Board of Education sends a group of students from its
+high schools on a learning trip to Singapore every year. In 2025, we felt
+that the time was right to send our students to Shinkamigoto and embarked
+on a recce trip with the goal of sending the first batch of CCKSians in
+2026.</p>
+<p>You can learn more about Shinkamigoto from here:</p>
+<p><a href="https://www.discover-nagasaki.com/en/featured-topics/about-shinkamigoto" rel="noopener noreferrer nofollow" target="_blank">https://www.discover-nagasaki.com/en/featured-topics/about-shinkamigoto</a>
+</p>
+<h4><strong>Sasebo させぼ</strong></h4>
+<p>Sasebo was on the return leg of our ferry journey from Shinkamigoto before
+we boarded a train to Fukuoka. Due to its strategic location and geographic
+proximity to Korea and China, Sasebo Naval District was founded in 1889
+and played a key role as a forward operating base during the First Sino-Japanese
+and Russo-Japanese Wars. Sasebo today is also home to US warships as part
+of the US Fleet Activities Sasebo, which was formed in 1946.</p>
+<p>You can learn more about Sasebo from here:</p>
+<p><a href="https://www.discover-nagasaki.com/en/featured-topics/about_sasebo" rel="noopener noreferrer nofollow" target="_blank">https://www.discover-nagasaki.com/en/featured-topics/about_sasebo</a>
+</p>
+<h4><strong>Fukuoka ふくおか</strong></h4>
+<p>Fukuoka, located on the northern shore of Japan’s Kyushu Island, is a
+vibrant city where modern urban life meets rich tradition. Known for its
+welcoming atmosphere, Fukuoka offers historic temples, and scenic coastal
+views. It’s also a culinary hotspot, famous for its Hakata ramen and lively
+street food stalls. With its mild climate, convenient transportation, and
+blend of culture, food, and nature, Fukuoka is a gateway to the charm of
+southern Japan.</p>
+<p>You can learn more about Fukuoka here:</p>
+<p><a href="https://www.japan.travel/en/destinations/kyushu/fukuoka/" rel="noopener noreferrer nofollow" target="_blank">https://www.japan.travel/en/destinations/kyushu/fukuoka/</a>
+</p>
+<h4><strong>Nagasaki ながさき</strong></h4>
+<p>Located along the western edge of Kyushu in southwestern Japan, Nagasaki
+Prefecture is made up of both mainland areas and a vast collection of islands
+scattered along its coast. With its position facing the sea and framed
+by mountains, the region is famous for breathtaking sunsets over clear
+blue waters. Nagasaki also offers a peaceful island lifestyle and is renowned
+across Japan for its wide selection of incredibly fresh seafood.</p>
+<p>Nagasaki is also known for its resilience. Nagasaki's Christians endured
+persecution during the Edo period, it also overcame an atomic bombing during
+World War II and the eruption of nearby Mount Unzen. Due to the rich learning
+opportunities for our CCKSians, Nagasaki is definitely a city which they
+will visit during their trip to Japan in 2026.</p>
+<p>You can learn more about Nagasaki from here:</p>
+<p><a href="https://www.discover-nagasaki.com/en/featured-topics/aboutnagasaki" rel="noopener noreferrer nofollow" target="_blank">https://www.discover-nagasaki.com/en/featured-topics/aboutnagasaki</a>
+</p>
+<h3><strong>The Japanese Corner Bench Art:</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_27_185817.png">
 </div>
@@ -47,7 +94,7 @@ reflect.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_27_185742.png">
 </div>
 <h3><strong>The taste of travel is the heart of the land</strong></h3>
-<p><strong><em>Tabisaki no aji wa sono tochi no kokoro</em></strong>
+<p><strong><em>Lǚxíng ràng rén qiānbēi, nǐ huì fāxiàn shìjiè zhī dà, zìjǐ zhī miǎoxiǎo</em></strong>
 </p>
 <p><strong><em>“The taste of travel is the heart of the land”</em></strong> feels
 especially true in these regions of Kyushu. In <strong>Nagasaki</strong>,
@@ -76,4 +123,5 @@ gives travelers a sense of renewal that goes beyond sightseeing. In the
 Goto Islands, each journey feels like a retreat for the heart, feeding
 the spirit with peace, reflection, and simple joys that linger long after
 you leave.</p>
+<p></p>
 <p></p>

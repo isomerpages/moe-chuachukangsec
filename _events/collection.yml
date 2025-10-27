@@ -2,6 +2,8 @@ collections:
   events:
     output: true
     order:
+      - 2025 School Events/Open House 2025.md
+      - 2025 School Events/Post Exam Activities.md
       - 2025 School Events/Graduation Day & Parent Support Group Graduation Day
         Gifts 2025.md
       - 2025 School Events/Teachers' Day Celebrations.md

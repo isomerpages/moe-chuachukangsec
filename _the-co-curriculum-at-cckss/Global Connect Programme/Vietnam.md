@@ -44,8 +44,8 @@ were initially shy, warmth and joy quickly took over. Bonds were formed,
 and many left with a deeper appreciation for what they had and a new desire
 to give back to the larger community in the future.</p>
 <p>As the trip came to an end, the group shared stories and highlights over
-their final Vietnamese meal and a surprise birthday celebration!. Each
-CCKSian had grown—not just as travelers, but as individuals. They had navigated
+their final Vietnamese meal and a surprise birthday celebration! Each CCKSian
+had grown—not just as travelers, but as individuals. They had navigated
 a new city, tasted unfamiliar foods, walked through history, and connected
 across language and culture. For many, this was their first time abroad
 without family. They returned home more independent, more aware, and more

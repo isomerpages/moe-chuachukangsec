@@ -67,7 +67,7 @@ how to make Pad Thai and Tom Yum soup!</p>
 <p>It was certainly a memorable trip which they will remember for a long
 time! Join us next year for the 2024 trip!</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRVPLf_vEkJUUTxE5N1VMHbPKe-VhG9YYEiyOgefg7pJusQoFHS82--AZTZvS5h1MI260FizJf67fHM/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRVPLf_vEkJUUTxE5N1VMHbPKe-VhG9YYEiyOgefg7pJusQoFHS82--AZTZvS5h1MI260FizJf67fHM/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Check out our <a href="https://www.facebook.com/CCKSians" rel="noopener noreferrer nofollow" target="_blank">Facebook Page</a> &amp;
 <a href="https://www.instagram.com/cckssofficial/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>for more of our trip highlights!</p>
