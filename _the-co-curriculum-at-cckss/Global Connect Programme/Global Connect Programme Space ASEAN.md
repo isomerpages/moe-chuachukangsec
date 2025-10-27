@@ -9,6 +9,12 @@ third_nav_title: Global Connect Programme
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4569140.jpg">
 </div>
+<h3><strong>Welcome to Timor-Leste! Latest ASEAN Country (26 Oct 2025)</strong></h3>
+<p><a href="https://www.straitstimes.com/asia/se-asia/timor-leste-officially-admitted-to-asean-becoming-its-11th-member" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/asia/se-asia/timor-leste-officially-admitted-to-asean-becoming-its-11th-member</a>  <strong> </strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Copy_of_Tabletop_Design__1_.png">
+</div>
 <p>Singapore has long maintained strong connections with the ASEAN region.
 These ties form a key pillar of its foreign policy, supported by shared
 histories and cultural links with neighbouring countries. As ASEAN’s middle
