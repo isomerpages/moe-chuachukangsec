@@ -32,7 +32,7 @@ trade, particularly through the Zhangjiagang Bonded Zone.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_27_094341.png">
 </div>
-<h3><strong>Wherever you go, go with all your heart</strong></h3>
+<h3><strong>Wherever you go, go with all your heart (无论你去哪里 都要全心全意地去)</strong></h3>
 <p><strong><em>Wúlùn nǐ qù dào nǎlǐ, dōu yào quánxīn quányì de qù</em></strong>
 </p>
 <p>The quote <strong><em>“Wherever you go, go with all your heart”</em></strong> by
@@ -46,7 +46,7 @@ the world to live with purpose, courage, and authenticity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_27_094726.png">
 </div>
-<h3><strong>Traveling ten thousand miles is better than reading ten thousand books</strong></h3>
+<h3><strong>Traveling ten thousand miles is better than reading ten thousand books (行万里路 胜读万卷书)</strong></h3>
 <p><strong><em>Xíng wàn lǐ lù, shèng dú wàn juǎn shū</em></strong>
 </p>
 <p>The proverb <strong><em>“Travelling ten thousand miles is better than reading ten thousand books,"</em></strong> highlights
@@ -58,7 +58,7 @@ encourages learning through action, experience, and discovery.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_27_095035.png">
 </div>
-<h3><strong>Travel makes people humble. You realize how vast the world is and how small you are.</strong></h3>
+<h3><strong>Travel makes people humble. You realize how vast the world is and how small you are (旅行让人谦卑 你会发现世界之大 自己之渺小)</strong></h3>
 <p><strong><em>Lǚxíng ràng rén qiānbēi, nǐ huì fāxiàn shìjiè zhī dà, zìjǐ zhī miǎoxiǎo</em></strong>
 </p>
 <p>The saying <strong><em>“Travel makes people humble; you discover how vast the world is and how small you are”</em></strong> reminds
@@ -71,7 +71,7 @@ beauty and diversity of life.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_27_095402.png">
 </div>
-<h3><strong>The world is so big, I want to go and see it</strong></h3>
+<h3><strong>The world is so big, I want to go and see it (世界那么大 我想去看看)</strong></h3>
 <p><strong><em>Shìjiè nàme dà, wǒ xiǎng qù kànkàn</em></strong>
 </p>
 <p>This quote <strong>“The world is so big, I want to go and see it," </strong>expresses
