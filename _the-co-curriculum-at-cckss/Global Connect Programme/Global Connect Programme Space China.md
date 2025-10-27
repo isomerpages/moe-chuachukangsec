@@ -26,8 +26,30 @@ trade, particularly through the Zhangjiagang Bonded Zone.</p>
 <p>You can learn more about Zhangjiagang from here:</p>
 <p><a href="http://jiangsu.chinadaily.com.cn/zhangjiagang/2023-11/02/c_941847.htm" rel="noopener noreferrer nofollow" target="_blank">http://jiangsu.chinadaily.com.cn/zhangjiagang/2023-11/02/c_941847.htm</a>
 </p>
-<p></p>
-<p></p>
+<h4><strong>Shanghai 上海</strong></h4>
+<p>Shanghai is a dynamic global city where tradition meets modern innovation.
+As China’s financial and commercial hub, it showcases cutting-edge technology,
+architecture, and international business, while still preserving cultural
+heritage in places like the Bund, Yu Garden, and historic neighbourhoods.
+For students, Shanghai offers valuable insights into globalization, urban
+development, and China’s role on the world stage. Visiting the city allows
+them to experience real-world applications of what they learn in the classroom
+and develop a broader, more global perspective.</p>
+<p>You can learn more about Shanghai from here:</p>
+<p><a href="https://www.chinahighlights.com/shanghai/" rel="noopener noreferrer nofollow" target="_blank">https://www.chinahighlights.com/shanghai/</a>
+</p>
+<h4><strong>Suzhou 苏州</strong></h4>
+<p>Suzhou, often called the “Venice of the East,” is a city rich in history,
+culture, and innovation. Known for its classical gardens, traditional architecture,
+silk heritage, and thriving modern industries, Suzhou offers students a
+unique blend of the ancient and the contemporary. Visiting Suzhou allows
+students to deepen their understanding of Chinese culture, appreciate the
+beauty of traditional arts, and observe how history and modern development
+coexist. It is not just a destination, but a meaningful learning journey
+that broadens perspectives and inspires global awareness.</p>
+<p>You can learn more about Suzhou from here:</p>
+<p><a href="https://www.chinahighlights.com/suzhou/" rel="noopener noreferrer nofollow" target="_blank">https://www.chinahighlights.com/suzhou/</a>
+</p>
 <h3><strong>The Chinese Corner Bench Art:</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_27_094341.png">
