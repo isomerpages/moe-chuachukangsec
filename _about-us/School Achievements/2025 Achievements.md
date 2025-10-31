@@ -228,6 +228,19 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/493973802_675972948722967_9144473984769006404_n.jpg">
 </div>
+<h3><strong>Achievements (Clubs &amp; Societies)</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_31_185625.png">
+</div>
+<h4><strong>Innovation, Design and Engineering (IDE Series): IDE Sprint (Secondary) Merit - Lim Dao Yik, 3C</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_31_185555.png">
+</div>
+<h4><strong>Innovation, Design and Engineering (IDE Series): IDE Sprint (Secondary) Merit - Tan Jun Rui Jaxton, 2B</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_31_185654.png">
+</div>
+<h4><strong>Innovation, Design and Engineering (IDE Series): IDE Sprint (Secondary) Merit - Sun Rui Xuan Melvin, 2C</strong></h4>
 <h3><strong>Achievements (Academic)</strong></h3>
 <h4><strong>Historical Scene Investigation Competition, Bronze &amp; Silver Award</strong></h4>
 <h4><strong>Bulan Bahasa 2025 (Petah Spontan Category, Champion - Daania Eiliyah Bte Akbar Ali, 1C)</strong></h4>
@@ -257,7 +270,7 @@ third_nav_title: School Achievements
 </div>
 <h4><strong>Rentas Pantas' Competition (2nd Place)</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/500215439_696738523313076_8792733156291351793_n.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/500215439_696738523313076_8792733156291351793_n.jpg">
 </div>
 <h4><strong>Ngee Ann Polytechnic Mathematics Challenge 2025 (Overall School 1st Runners-Up)</strong></h4>
 <div class="isomer-image-wrapper">
