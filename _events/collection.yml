@@ -2,8 +2,9 @@ collections:
   events:
     output: true
     order:
-      - 2025 School Events/CCKSS Featured in SingTeach.md
+      - 2025 School Events/.keep
       - 2025 School Events/Open House 2025.md
+      - 2025 School Events/CCKSS Featured in SingTeach.md
       - 2025 School Events/Post Exam Activities.md
       - 2025 School Events/Graduation Day & Parent Support Group Graduation Day
         Gifts 2025.md
@@ -13,7 +14,6 @@ collections:
       - "2025 School Events/SG60: CCKSS Celebrates National Day!.md"
       - 2025 School Events/Visit by Shinkamigoto Board of Education, Japan.md
       - 2025 School Events/Racial Harmony Day.md
-      - 2025 School Events/.keep
       - 2025 School Events/Discovery Week.md
       - 2025 School Events/Sports Challenge.md
       - 2025 School Events/Secondary Two Theatre Experience.md
