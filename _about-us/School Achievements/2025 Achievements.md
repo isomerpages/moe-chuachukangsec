@@ -267,7 +267,10 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/527195915_752468784406716_8458514175950873859_n.jpg">
 </div>
-<p></p>
+<h4><strong>Alagappa Institutions Alumni Singapore's Tamil Language (Translation) Competition 2025 - Motivational Prize Winners - Gunasekaran Kapinaya 3A, Senthilkumar Srivarsha 3A, Kaarthic Buvaneshwaran 3A, Sadhana Kannan 3C</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/487206030_652331077753821_1565797981046685126_n__1_.jpg">
+</div>
 <h4><strong>Mother Tongue Language Fiesta, SG60 Quiz Competition (Motivational Award, Senthilkumar Srivarsha 3A, Sriram Gopitha 3B, Kannan Hiinthuja, 3C)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/522677466_745962188390709_7657665046732519721_n.jpg">
