@@ -81,6 +81,10 @@ third_nav_title: School Achievements
 <img style="width: 40%;" height="auto" width="100%" alt="60" src="/images/495941946_685037767816485_5529993107208965380_n.jpg">
 </div>
 <h3><strong>Achievements (Sports &amp; Games)</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_31_193456.png">
+</div>
+<h4><strong>Singapore School Sports Council (SSSC) Colours Award Distinction awarded to Lucas Chua Kah Hong, 2E for his sporting excellence in representing Singapore in the Southeast Asia Tchoukball Championships and World Youth Beach Tchoukball Championships</strong></h4>
 <h4><strong>Taekwondo National School Games (Kyorugi)</strong></h4>
 <p></p>
 <table style="minWidth: 50px">
@@ -232,15 +236,15 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_31_185625.png">
 </div>
-<h4><strong>Robotics: Innovation, Design and Engineering (IDE Series): IDE Sprint (Secondary) Merit - Lim Dao Yik, 3C</strong></h4>
+<h4><strong>Robotics: Innovation, Design and Engineering (IDE Series): IDE Sprint (Secondary) Merit (Top 10 Team / Finalist) - Lim Dao Yik, 3C</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_31_185555.png">
 </div>
-<h4><strong>Robotics: Innovation, Design and Engineering (IDE Series): IDE Sprint (Secondary) Merit - Tan Jun Rui Jaxton, 2B</strong></h4>
+<h4><strong>Robotics: Innovation, Design and Engineering (IDE Series): IDE Sprint (Secondary) Merit (Top 10 Team / Finalist) - Tan Jun Rui Jaxton, 2B</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_31_185654.png">
 </div>
-<h4><strong>Robotics: Innovation, Design and Engineering (IDE Series): IDE Sprint (Secondary) Merit - Sun Rui Xuan Melvin, 2C</strong></h4>
+<h4><strong>Robotics: Innovation, Design and Engineering (IDE Series): IDE Sprint (Secondary) Merit (Top 10 Team / Finalist) - Sun Rui Xuan Melvin, 2C</strong></h4>
 <h3><strong>Achievements (Academic)</strong></h3>
 <h4><strong>Historical Scene Investigation Competition, Bronze &amp; Silver Award</strong></h4>
 <h4><strong>Bulan Bahasa 2025 (Petah Spontan Category, Champion - Daania Eiliyah Bte Akbar Ali, 1C)</strong></h4>
