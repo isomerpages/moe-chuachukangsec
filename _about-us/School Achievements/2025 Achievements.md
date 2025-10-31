@@ -229,6 +229,7 @@ third_nav_title: School Achievements
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/493973802_675972948722967_9144473984769006404_n.jpg">
 </div>
 <h3><strong>Achievements (Academic)</strong></h3>
+<h4><strong>Historical Scene Investigation Competition, Bronze &amp; Silver Award</strong></h4>
 <h4><strong>Bulan Bahasa 2025 (Petah Spontan Category, Champion - Daania Eiliyah Bte Akbar Ali, 1C)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/555621242_798954063091521_8857068100572843488_n.jpg">
