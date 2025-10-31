@@ -275,7 +275,7 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/522677466_745962188390709_7657665046732519721_n.jpg">
 </div>
-<h4><strong>Rentas Pantas' Competition (2nd Place)</strong></h4>
+<h4><strong>Rentas Pantas' Competition (2nd Place, Adriana Maisurah Binte Mustafa Kamal 2A, A’inul Mardhiah Binte Syed Mohamed Fazali 2A, Elif Aqhillah Muhammad Elfyan 2C, Batrisyia Nafeesah Binte Mohammad Helmy 2C)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/500215439_696738523313076_8792733156291351793_n.jpg">
 </div>
