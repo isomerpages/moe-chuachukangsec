@@ -158,19 +158,30 @@ to a Girl Guide)</p>
 </li>
 <li>
 <p><strong>2023 Gold </strong>(Awarded for 2022)</p>
-<p></p>
+</li>
+</ul>
+<p><strong>2025</strong>
+</p>
+<p><strong>West Division FEST 2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Online Advocacy Video Competition Round 2 - </strong>1st Prize</p>
+</li>
+<li>
+<p><strong>Poet's Playground - </strong>2nd Place</p>
+</li>
+<li>
+<p><strong>Real to Reel - </strong>3rd Place</p>
+</li>
+<li>
+<p><strong>What's Up [WhatsApp Sticker] - </strong>4th Place</p>
 </li>
 </ul>
 <p><strong>2024</strong>
 </p>
-<p><strong>West Division Day 2024 Online Quiz and Recyclable Diorama Competition</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>3rd Prize</p>
-<p></p>
-</li>
-</ul>
+<p><strong>West Division Day 2024 Online Quiz and Recyclable Diorama Competition - </strong>3rd
+Prize</p>
 <p><strong>Announcements</strong>
 </p>
 <p><strong>Training Days and Hours</strong>
@@ -206,7 +217,7 @@ to a Girl Guide)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fridays (alternate weeks)</p>
+<p>Fridays (except for holidays and HBL Days)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1415 to 1730</p>
@@ -218,6 +229,6 @@ to a Girl Guide)</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRK1M6NssMA01ndaDTTNOQDpw0zimkyBRQYFtJxDqy3zGUU6nFcgzmU8YuPBw1Mio4GqCtHmw_nJyNp/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRL7lYnlCJeS8FYyPoKoDzHGbCQfC23Ae2E4wfmgG2o3zg1zC4iEJ2uFDjC2_dNlMlT82Na0Oj4OWRk/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
