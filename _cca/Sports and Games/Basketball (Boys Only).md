@@ -65,37 +65,34 @@ variant: tiptap
 </p>
 <p>In Basketball, students are put through rigorous training on and off the
 court. We focus on developing their strength, good sportsmanship, teamwork
-and resilience in the face of challenges.</p>
-<p>Through the CCA they display resilience and learn to maintain composure
-in times of challenges, both inside and outside of the court and training.</p>
-<p>With a positive attitude, they aim to improve consistently with the support
-and constructive feedback received from their coach, teachers and teammates.</p>
-<p>During training or competitions, they display good sportsmanship by showing
-humility, being positive and sharing good practices and routines with their
-teammates to build up one another.</p>
+and resilience in the face of challenges. Through the CCA they display
+resilience and learn to maintain composure in times of challenges, both
+inside and outside of the court and training. With a positive attitude,
+they aim to improve consistently with the support and constructive feedback
+received from their coach, teachers and teammates. During training or competitions,
+they display good sportsmanship by showing humility, being positive and
+sharing good practices and routines with their teammates to build up one
+another.</p>
 <p><strong>Key Programmes and Achievements</strong>
 </p>
-<p><strong>Competitions</strong>
+<p><strong>Competitions (2025)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>National School Games Singapore B Division 2024</p>
+<p>National School Games Singapore B Division 2025</p>
 </li>
 <li>
-<p>National School Games Singapore C Division 2024</p>
+<p>National School Games Singapore C Division 2025</p>
 </li>
 </ul>
-<p><strong>Friendly Games (2023)</strong>
+<p><strong>Friendly Games (2025)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>CCKSS vs Kranji Secondary School</p>
+<p>CCKSS vs Crest Secondary School</p>
 </li>
 <li>
-<p>CCKSS vs Jurong West Secondary School</p>
-</li>
-<li>
-<p>CCKSS vs Yuan Ching Secondary School</p>
+<p>CCKSS vs Zhenghua Secondary School</p>
 </li>
 </ul>
 <p><strong>Announcements</strong>
@@ -125,7 +122,7 @@ teammates to build up one another.</p>
 <p>Wednesdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1430 to 1730</p>
+<p>1500 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Indoor Sports Hall</p>
@@ -136,7 +133,7 @@ teammates to build up one another.</p>
 <p>Fridays (alternate weeks)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1430 to 1730</p>
+<p>1330 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Indoor Sports Hall</p>
@@ -145,6 +142,6 @@ teammates to build up one another.</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTOROCpPm5E2zurmFPRPfqRDBJEMQPOzfs8pdoJyxJDK3qCiPxuNE5RgCj4y6axPQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQTxjNBRp5qNGSX-096pTSZF082NMbpNwhCoW00hjhBOdDyuXWa0HQjhaU5ojEKosjzgLZUctiCfHJS/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
