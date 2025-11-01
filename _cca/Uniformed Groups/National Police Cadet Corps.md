@@ -189,7 +189,7 @@ Anti-Narcotics Association) (SANA)</p>
 </ul>
 <p><strong>Achievements</strong>
 </p>
-<p><strong>Unit Recognition Award</strong>
+<p><strong>Unit Overall Proficiency Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -367,7 +367,7 @@ Anti-Narcotics Association) (SANA)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fridays (alternate weeks)</p>
+<p>Fridays (except for holidays and HBL Days)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1415 to 1730</p>
