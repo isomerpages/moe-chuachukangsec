@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
+<h2><strong>Humanities Department</strong></h2>
 <h4><strong>About the Department</strong></h4>
 <p>The Humanities Department comprises of the Social Studies, Geography,
 History, Principles of Accounts and Elements of Business Skills units.
@@ -21,6 +22,9 @@ through their own discovery and reasoning.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_12_191409.png">
 </div>
 <h4><strong>Social Studies</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department_Teacher___Students_Social_Studies_017.jpg">
+</div>
 <p>At the heart of the Singapore Social Studies curriculum is the preparation
 of students to be effective citizens by helping them to better understand
 the interconnectedness of Singapore and the world they live in, and appreciate
@@ -45,6 +49,9 @@ spirit to contribute responsibly to the society and world they live in.</p>
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQ7Wh_KwYz2zKTvRg5qT_xrxgc0wj9At2TGivcU2utofhjZa6wuosLkfRr0PMMsR1x-lUqHcYi82n_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Geography</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department_Teacher___Students_Geography_037.jpg">
+</div>
 <p>Geography bridges the humanities, social and natural sciences. It is a
 holistic subject that provides students with integrative ways of understanding
 the real world. Students will explore Earth, its natural and man-made environments,
@@ -71,6 +78,9 @@ one another and with other living species.</p>
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCiVEVndjjIPjlH60yzEX8mfHlffsD7-FfvzwIpD28oHhlPzkqPwE1mbMiSjKh4rMM633c-Y4im12-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>History</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department_Teacher___Students_History_019.jpg">
+</div>
 <p>History education in Singapore seeks to develop in students an appreciation
 of past human experiences, critical awareness of the nature of historical
 knowledge, and the ability to make connections between the past and present.</p>
@@ -249,7 +259,7 @@ of a career in the service industry.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Low Hui Xin, Annabel</p>
