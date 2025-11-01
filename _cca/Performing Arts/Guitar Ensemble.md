@@ -109,21 +109,24 @@ lasting friendships and make music together with like-minded peers.</p>
 <td rowspan="1" colspan="1">
 <p>1500 to 1730</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Guitar Studio</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fridays (alternate weeks)</p>
+<p>Fridays (except for holidays and HBL Days)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1415 to 1730</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guitar Studio</p>
 </td>
 </tr>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQSp2BZOIwOG9JpKQbkNOH04q0kjEf5kOkWk_V3YSEl6taITY5-eg88wPaFaNOmOaW26Tt8fAZyMxUD/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS802OpuL_eYxA3uePBeFQLw-jOXCzD5ncQl0pwKIi6KZ5WwcII5_2spv8jdsE4n0eCgemYDFwBlBUz/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
