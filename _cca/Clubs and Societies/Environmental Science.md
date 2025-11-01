@@ -375,7 +375,7 @@ Champion Award</p>
 <p>Wednesdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1500 to 1730(except for holidays and HBL Days)</p>
+<p>1500 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chua Chu Kang Secondary School</p>
