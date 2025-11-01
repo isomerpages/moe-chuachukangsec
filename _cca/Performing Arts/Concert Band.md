@@ -124,23 +124,23 @@ music instructor, Mr Kenneth Lun.</p>
 <p>1500 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chua Chua Kang Secondary School CD Shelter</p>
+<p>Music Room</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fridays (alternate weeks)</p>
+<p>Fridays (except for holidays and HBL Days)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1415 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chua Chua Kang Secondary School CD Shelter</p>
+<p>Music Room</p>
 </td>
 </tr>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHpF2t66uXggG9o61LU6EK_9V3s7jejBLyfO_sTRZt2h80lz17hj3hFFknVzISwg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRYg6q8LtzgeG82bX9B8QiIK1HSohVT8V8CG68pyn2OCMdQ_HZLueO_zYqWvktbl9HOSoD69xxYzaZu/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
