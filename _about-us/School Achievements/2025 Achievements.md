@@ -26,7 +26,6 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_05_150003.png">
 </div>
-<p></p>
 <h3><strong>Achievements (Uniformed Groups)</strong></h3>
 <h4><strong>Girl Guides (Puan Noor Aishah Award - Gold)</strong></h4>
 <div class="isomer-image-wrapper">
@@ -59,7 +58,7 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_07_28_104020.png">
 </div>
-<h4><strong>National Police Cadet Corps (Unit Outstanding Performance Award)</strong></h4>
+<h4><strong>National Police Cadet Corps (Unit Overall Proficiency Award - Distinction)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/495575595_686725014314427_8383209287599639267_n.jpg">
 </div>
