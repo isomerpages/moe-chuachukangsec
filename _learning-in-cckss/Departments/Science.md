@@ -105,7 +105,6 @@ use science to <strong>create meaningful change</strong> in the world.</p>
 </div>
 <p><strong><em>Students embark on a learning journey to an orchid farm, gaining insights into the orchid industry, cultivation techniques, and the importance of biodiversity conservation</em></strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
