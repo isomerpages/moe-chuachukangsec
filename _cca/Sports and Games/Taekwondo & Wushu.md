@@ -155,6 +155,40 @@ to represent CCKSS in national competitions.</p>
 </p>
 <p><strong>Competitions</strong>
 </p>
+<p><strong>2025</strong>
+</p>
+<p>National School Games 2025</p>
+<p><strong>Performances</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chinese New Year Celebrations (School)</p>
+</li>
+<li>
+<p>Speech Day (School)</p>
+</li>
+<li>
+<p>Chingay@Heartlands (Chua Chu Kang)</p>
+</li>
+<li>
+<p>National Day Celebrations@Heartlands (South West)</p>
+</li>
+</ul>
+<p><strong>2024</strong>
+</p>
+<p><strong>Competitions</strong>
+</p>
+<p>National School Games 2024</p>
+<p><strong>Performances</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chinese New Year Celebrations (School)</p>
+</li>
+<li>
+<p>Speech Day (School)</p>
+</li>
+</ul>
 <p><strong>2022</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -275,23 +309,23 @@ Medals</p>
 <p>1500 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outside Computer Labs 1 &amp; 2</p>
+<p>Outside Computer Labs 1 &amp; 2 (Wushu); 3 &amp; 4 (TKD)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fridays (alternate weeks)</p>
+<p>Fridays (except for holidays and HBL Days)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1415 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outside Computer Labs 1 &amp; 2</p>
+<p>Outside Computer Labs 1 &amp; 2 (Wushu); 3 &amp; 4 (TKD)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRULT4xRo4wO7HErkFGbeFxQyYAiUYxSkvHCCSRJWJezHjTZ0TwnAKtWUDbNegcsw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ69ILqWOSP5fbiNAXw-yO9klC0Om6eA8O0c6VuQBHZQxcKqThf0gRngql-_yj09ztM-GJVQRkVoh7U/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
