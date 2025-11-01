@@ -362,7 +362,7 @@ Anti-Narcotics Association) (SANA)</p>
 <p>1500 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Area outside NPCC Room</p>
+<p>3D, 3E, 3F &amp; old Basketball Court</p>
 </td>
 </tr>
 <tr>
@@ -373,12 +373,9 @@ Anti-Narcotics Association) (SANA)</p>
 <p>1415 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Area outside NPCC Room</p>
+<p>3D, 3E, 3F &amp; old Basketball Court</p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfZ4a8pqZWtJ3_ArZooAv-SDuGd-pye4ul-mKyCyyUCWNrD7YGo3RbR3ZKYXbWsQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p></p>
