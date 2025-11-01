@@ -64,7 +64,7 @@ variant: tiptap
 <p><strong>About Us</strong>
 </p>
 <p>The objectives of the Environmental Science Club are:</p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>to develop members’ self-awareness and help them acquire life skills to
 enrich their well-being</p>
@@ -81,31 +81,45 @@ and peer support</p>
 through Nature”. In the Environmental Science Club, students are given
 opportunities to explore, to create and innovate, and to do their part
 to save the Earth.</p>
-<p>Environmental Science Club members manage and maintain the Herb and Spice
-Garden in school. They are responsible for watering the plants, weeding,
-and planting new seeds. In 2021, the Herb and Spice Garden attained the
-Gold award in the Community in Bloom (CIB) competition. We also achieved
-the Outstanding Educational Community Garden Award. In 2023, the members
-have started to grow rice in mud ponds as part of their Sustainability
-Programme.</p>
-<p>Environmental Science Club members went to Siloso Beach Resort, Marina
-Barrage, Sungei Buloh, Hort Park and Choa Chu Kang Park for learning journeys.
-Through these experiences, members learnt about new plants such as their
-characteristics and benefits. They also learnt new gardening skills and
-techniques such as creating a compost bed and growing new plants by stem
-cutting.</p>
-<p>Environmental Science Club has achieved 3 stars accreditation and 2 stars
-accreditation under the Green Schools @ South West CDC in 2021 and 2022
-respectively. This award recognises members’ efforts and contributions
-to save the Earth. For example, members actively raise awareness about
-the Mozzie Wipeout campaign among residents living in the neighbourhood.
-In addition, they encourage their peers and members of the public to play
-an active role in protecting the environment.</p>
-<p>Environmental Science Club members are given opportunities to attend Do-It-Yourself
-workshops on how recyclable items can be upcycled into useful items. This
-year, they learnt how to make mask holders by using milk cartons. Members
-also collaborate with NParks for the Community in Nature Programme for
-schools. This programme promotes awareness about biodiversity in Singapore.</p>
+<p>Environmental Science Club members manage and maintain the green spaces
+in school. They are responsible for watering the plants, weeding, and planting
+new seeds. In recognition of their efforts, the Herb and Spice Garden attained
+the Gold Award in the Community in Bloom (CIB) competition and the Outstanding
+Educational Community Garden Award in 2021. In 2023, the members expanded
+their Sustainability Programme by growing rice in mud ponds, further demonstrating
+their commitment to environmental stewardship.</p>
+<p>Environmental Science Club members also went on learning journeys to Siloso
+Beach Resort, Marina Barrage, Sungei Buloh, Hort Park and Choa Chu Kang
+Park. Through these experiences, members learnt about new plants, their
+characteristics and benefits. They also picked up new gardening skills
+and techniques such as creating a compost bed and growing new plants by
+stem cutting. Their continuous learning and application of these skills
+have contributed to the club’s success in achieving 2 Stars accreditation
+under the Green Schools @ South West CDC in 2022, and 3 Stars accreditation
+since 2023 and 2024.</p>
+<p>This award recognises members’ efforts and contributions to save the Earth.
+For example, members actively raise awareness about the Mozzie Wipeout
+campaign among residents living in the neighbourhood. In addition, they
+encourage their peers and members of the public to play an active role
+in protecting the environment. Their consistent dedication also earned
+them the Sustainability Advocacy Challenge (SAC) Silver Award and the Community
+in Nature (CIN) Merit Award in 2024.</p>
+<p>Environmental Science Club members are also given opportunities to learn
+about sustainability, where they explore concepts such as solar power and
+solar energy by building solar cars, and learn about the importance of
+green spaces. They also create prototypes to develop their understanding
+of how green spaces contribute to a sustainable environment.</p>
+<p>This year, they learnt how to make mask holders by using milk cartons.
+Members have also collaborated with NParks for the Community in Nature
+Programme, which promotes awareness about biodiversity in Singapore. Their
+active participation in biodiversity initiatives was recognised when the
+club received the Nature Society of Singapore Biodiversity Race 2023 Most
+Unique Observation Award (Spotted Owl) and the National Youth Upcycling
+Movement (NYUM) Bronze Award. In addition, members achieved 2nd Place for
+the Most Improved category in the <em>Every Singaporean a Naturalist</em> programme
+by the Nature Society (Singapore) in 2023, and several students received
+Novice Naturalist Certificates of Achievement for their enthusiasm and
+contributions.</p>
 <p><strong>Key Programmes and Achievements</strong>
 </p>
 <p><strong>2024</strong>
@@ -381,6 +395,6 @@ Champion Award</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR8vOSlCInm8LYW8yudmZlWoU14Wrsc0a2QPSPYdzMzBmh8LWeeB2PL4RC2TXj2VXNLDVWIkqA9rksg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQxsMO6EyHYqo8zQZjzpo0-hFxaLr7b-Ih8xIhM9szhZAMklI7lOJZPGF7nNc2E1L9Vgw3tD-wG9ydf/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
