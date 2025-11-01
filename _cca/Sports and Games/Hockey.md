@@ -159,7 +159,7 @@ League 1 Championship</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fridays (alternate weeks)</p>
+<p>Fridays (except for holidays and HBL Days)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1415 to 1730</p>
@@ -171,6 +171,6 @@ League 1 Championship</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTXUARddxf6leHYbxYNem5EV1JXH2XR0wnBHtEy4rGQz0Tg54B2FsiGqkWm3MxviQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSiupLWN9r-z8VYaa-2a3_jj5EtS8C3ar-kt9vK5G-tydL3hXudQXhx5CAGd83HM5gVB842aafezaXZ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>

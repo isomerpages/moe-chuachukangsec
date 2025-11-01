@@ -5,10 +5,11 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
-<h4><strong>Vision</strong></h4>
+<h2><strong>Craft &amp; Technology Department</strong></h2>
+<h3><strong>Vision</strong></h3>
 <p>CCKSians who are self-directed learners, and critical and inventive problem
 solvers who contribute to the community.</p>
-<h4><strong>Team</strong></h4>
+<h3><strong>Team</strong></h3>
 <p>Ms Fong Li Sar, HOD (Craft &amp; Technology)</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -191,9 +192,11 @@ tactile forms;</p>
 <p>develop abilities for creative musical expression and communication</p>
 </li>
 </ul>
-<h4><strong>Programmes</strong></h4>
-<p><strong><u>Art</u></strong>
-</p>
+<h3><strong>Programmes</strong></h3>
+<h4><strong>Art</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Department_Teacher___Students_Art_010.jpg">
+</div>
 <p>The aims of art education in our schools are to enable every child to
 enjoy art, communicate visually, and make meaning through connecting with
 society and culture. The three learning domains – perceive, communicate,
@@ -218,17 +221,19 @@ the classroom such as visits to artists’ studios and heritage sites are
 organized, Such activities connect students to how artworks are produced,
 experienced and valued in real life.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Art_related_career.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Art_related_career.jpg">
 </div>
 <p><strong><em>Art-related career talk</em></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec3_Art_Tour.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Sec3_Art_Tour.jpg">
 </div>
 <p><strong><em>Sec 3 Art Tour</em></strong>
 </p>
-<p><strong><u>Design &amp; Technology</u></strong>
-</p>
+<h4><strong>Design &amp; Technology</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department_Teacher___Students_D_T_005.jpg">
+</div>
 <p>In D&amp;T, students learn mainly through design-and-make projects guided
 by a design process. The design process entails identifying design needs
 from real-world experiences, generating and developing ideas, and realising
@@ -247,22 +252,24 @@ technology.</p>
 <p>Learning journeys to design-related industries allow our students to widen
 their exposure and interest in product ideation.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec3_DT_LJ.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Sec3_DT_LJ.jpg">
 </div>
 <p><strong><em>Sec 3 D&amp;T Learning Journey</em></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Design_Task_presented_at_Sec3_D_T_LJ.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Design_Task_presented_at_Sec3_D_T_LJ.jpg">
 </div>
 <p><strong><em>Design Task presented at Sec 3 D&amp;T Learning Journey</em></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Experiencing_AI.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Experiencing_AI.jpg">
 </div>
 <p><strong><em>Experiencing Artifical Intelligence</em></strong>
 </p>
-<p><strong><u>Food &amp; Consumer Education (Lower Secondary) and Nutrition &amp; Food Science (Upper Secondary)</u></strong>
-</p>
+<h4><strong>Food &amp; Consumer Education (Lower Secondary) and Nutrition &amp; Food Science (Upper Secondary)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department_Teacher___Students_NFS_005__1_.jpg">
+</div>
 <p>The FCE syllabus is designed to empower students to be health-conscious
 and discerning consumers, enabling them to better manage their lives for
 the present and the future. Students who offer FCE as a subject (including
@@ -287,17 +294,16 @@ establish the validity of the experimental data.</p>
 organized to enhance students’ learning and widen their exposure in the
 subject.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_03_112228.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_03_112228.png">
 </div>
 <p><strong><em>Minimising enzymatic browning in fruit-based desserts</em></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec3_NFS_LJ_to_SHATEC.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Sec3_NFS_LJ_to_SHATEC.jpg">
 </div>
 <p><strong><em>Sec 3 NFS Learning Journey to SHATEC</em></strong>
 </p>
-<p><strong><u>Music</u></strong>
-</p>
+<h4><strong>Music</strong></h4>
 <p>The Lower Secondary Music curriculum seeks to develop musical understanding
 through the three Musical Processes of Listening, Creating and Performing.
 Students actively listen to experience and explore how music from a range

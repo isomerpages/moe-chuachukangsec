@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
+<h2><strong>Physical Education Department</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department_Teacher___Students_PE_014.jpg">
+</div>
 <h4><strong>PE Department Direction</strong></h4>
 <p>The CCKSS’ Physical Education (PE) and Sports CCA Programme aspires to
 build an active and vibrant sports community with a strong desire to pursue

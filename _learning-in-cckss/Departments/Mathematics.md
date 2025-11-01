@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
+<h2><strong>Mathematics Department</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department_Teacher___Students_Math_019.jpg">
+</div>
 <p>At Chua Chu Kang Secondary School (CCKSS), the Mathematics Department
 is committed to <strong>cultivating passionate, lifelong learners</strong> of
 mathematics. We believe that mathematics is not just about numbers—it’s

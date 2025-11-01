@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Departments
 ---
+<h2><strong>Infocomm &amp; Technology Department</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/In_Action_029.jpg">
+</div>
 <h4><strong>About us</strong></h4>
 <p>At Chua Chu Kang Secondary School, we leverage technology to empower students
 and teachers in a digital world. We aim to foster a positive environment,

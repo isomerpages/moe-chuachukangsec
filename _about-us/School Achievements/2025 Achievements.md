@@ -26,7 +26,6 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_05_150003.png">
 </div>
-<p></p>
 <h3><strong>Achievements (Uniformed Groups)</strong></h3>
 <h4><strong>Girl Guides (Puan Noor Aishah Award - Gold)</strong></h4>
 <div class="isomer-image-wrapper">
@@ -59,7 +58,7 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_07_28_104020.png">
 </div>
-<h4><strong>National Police Cadet Corps (Unit Outstanding Performance Award)</strong></h4>
+<h4><strong>National Police Cadet Corps (Unit Overall Proficiency Award - Distinction)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/495575595_686725014314427_8383209287599639267_n.jpg">
 </div>
@@ -81,6 +80,10 @@ third_nav_title: School Achievements
 <img style="width: 40%;" height="auto" width="100%" alt="60" src="/images/495941946_685037767816485_5529993107208965380_n.jpg">
 </div>
 <h3><strong>Achievements (Sports &amp; Games)</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_31_193456.png">
+</div>
+<h4><strong>Singapore School Sports Council (SSSC) Colours Award Distinction awarded to Lucas Chua Kah Hong, 2E for his sporting excellence in representing Singapore in the Southeast Asia Tchoukball Championships and World Youth Beach Tchoukball Championships</strong></h4>
 <h4><strong>Taekwondo National School Games (Kyorugi)</strong></h4>
 <p></p>
 <table style="minWidth: 50px">
@@ -228,7 +231,21 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/493973802_675972948722967_9144473984769006404_n.jpg">
 </div>
+<h3><strong>Achievements (Clubs &amp; Societies)</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_31_185625.png">
+</div>
+<h4><strong>Robotics: Innovation, Design and Engineering (IDE Series): IDE Sprint (Secondary) Merit (Top 10 Team / Finalist) - Lim Dao Yik, 3C</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_31_185555.png">
+</div>
+<h4><strong>Robotics: Innovation, Design and Engineering (IDE Series): IDE Sprint (Secondary) Merit (Top 10 Team / Finalist) - Tan Jun Rui Jaxton, 2B</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_31_185654.png">
+</div>
+<h4><strong>Robotics: Innovation, Design and Engineering (IDE Series): IDE Sprint (Secondary) Merit (Top 10 Team / Finalist) - Sun Rui Xuan Melvin, 2C</strong></h4>
 <h3><strong>Achievements (Academic)</strong></h3>
+<h4><strong>Historical Scene Investigation Competition, Bronze &amp; Silver Award</strong></h4>
 <h4><strong>Bulan Bahasa 2025 (Petah Spontan Category, Champion - Daania Eiliyah Bte Akbar Ali, 1C)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/555621242_798954063091521_8857068100572843488_n.jpg">
@@ -249,14 +266,17 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/527195915_752468784406716_8458514175950873859_n.jpg">
 </div>
-<p></p>
+<h4><strong>Alagappa Institutions Alumni Singapore's Tamil Language (Translation) Competition 2025 (Motivational Prize Winners - Gunasekaran Kapinaya 3A, Senthilkumar Srivarsha 3A, Kaarthic Buvaneshwaran 3A, Sadhana Kannan 3C)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/487206030_652331077753821_1565797981046685126_n__1_.jpg">
+</div>
 <h4><strong>Mother Tongue Language Fiesta, SG60 Quiz Competition (Motivational Award, Senthilkumar Srivarsha 3A, Sriram Gopitha 3B, Kannan Hiinthuja, 3C)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/522677466_745962188390709_7657665046732519721_n.jpg">
 </div>
-<h4><strong>Rentas Pantas' Competition (2nd Place)</strong></h4>
+<h4><strong>Rentas Pantas' Competition (2nd Place, Adriana Maisurah Binte Mustafa Kamal 2A, A’inul Mardhiah Binte Syed Mohamed Fazali 2A, Elif Aqhillah Muhammad Elfyan 2C, Batrisyia Nafeesah Binte Mohammad Helmy 2C)</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/500215439_696738523313076_8792733156291351793_n.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/500215439_696738523313076_8792733156291351793_n.jpg">
 </div>
 <h4><strong>Ngee Ann Polytechnic Mathematics Challenge 2025 (Overall School 1st Runners-Up)</strong></h4>
 <div class="isomer-image-wrapper">
@@ -270,7 +290,7 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/494271195_677282045258724_1191531491799770289_n.jpg">
 </div>
-<h4><strong>Raffles Institution Tamil Literacy Competition (2nd Prize, Upper Secondary Essay Writing Competition)</strong></h4>
+<h4><strong>Raffles Institution Tamil Literacy Competition (2nd Prize, Upper Secondary Essay Writing Competition, D T Ghaanavi Dakshinamurthi, 4A)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/492008671_668677666119162_597584011379660963_n.jpg">
 </div>

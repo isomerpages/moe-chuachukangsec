@@ -189,7 +189,7 @@ Anti-Narcotics Association) (SANA)</p>
 </ul>
 <p><strong>Achievements</strong>
 </p>
-<p><strong>Unit Recognition Award</strong>
+<p><strong>Unit Overall Proficiency Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -362,23 +362,23 @@ Anti-Narcotics Association) (SANA)</p>
 <p>1500 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Area outside NPCC Room</p>
+<p>3D, 3E, 3F &amp; old Basketball Court</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fridays (alternate weeks)</p>
+<p>Fridays (except for holidays and HBL Days)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1415 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Area outside NPCC Room</p>
+<p>3D, 3E, 3F &amp; old Basketball Court</p>
 </td>
 </tr>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfZ4a8pqZWtJ3_ArZooAv-SDuGd-pye4ul-mKyCyyUCWNrD7YGo3RbR3ZKYXbWsQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCgPlc1uJutOCj77awMXN_fjDa0Zg2EprEHFyXNPNrbggYcUUAAVRz1agViBAMD_S_Zxee-Rh5YyXu/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>

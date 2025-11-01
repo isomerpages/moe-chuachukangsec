@@ -77,10 +77,10 @@ while also gaining valuable life skills and experiences.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Participation in National School Games ‘C’ Division 2023-2024</p>
+<p>Participation in National School Games ‘C’ Division 2023-2025</p>
 </li>
 <li>
-<p>Participation in National School Games ‘B’ Division 2023-2024</p>
+<p>Participation in National School Games ‘B’ Division 2023-2025</p>
 </li>
 </ul>
 <p><strong>Announcement</strong>
@@ -118,7 +118,7 @@ while also gaining valuable life skills and experiences.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fridays (alternate weeks)</p>
+<p>Fridays (except for holidays and HBL Days)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1430 to 1700</p>
@@ -130,6 +130,6 @@ while also gaining valuable life skills and experiences.</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZqnZggdr_aTrOOrEgKyRpfaUwyEYkptJvOncXMNv6jUTfEft260ZQu0jVwZpkPA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS9umYMVmmu-7cbVW807ZxHmC8FBRtnObDTs5uOBBpKQkR-HhoivvPWpNMPT5Do5sDxsSW_3xuUq_CT/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>

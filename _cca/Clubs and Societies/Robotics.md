@@ -59,11 +59,14 @@ victorious. Together, we foster a positive learning environment, inspiring
 one another to grow. Members actively participate in events like the IDE
 Competition and National Robotics Challenge, demonstrating their skills
 and applying what they’ve learned.</p>
-<p><strong>Key programmes and Achievements 2022-2024</strong>
+<p><strong>Key programmes and Achievements 2022-2025</strong>
 </p>
 <p><strong>Programmes</strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p>Learning Journey to Hope Technik</p>
+</li>
 <li>
 <p>Workshop for Students by Engineers from Silicon Lab</p>
 </li>
@@ -81,6 +84,33 @@ of Robotics</p>
 <p><strong>Competitions</strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p>National Robotics Competition 2025 (Regular Category)</p>
+</li>
+<li>
+<p>National Robotics Competition 2025 (Open Category)</p>
+</li>
+<li>
+<p>IDE Sprint 2025</p>
+</li>
+<li>
+<p>IDE Robotics 2025</p>
+</li>
+<li>
+<p>IDE Sumobot 2025</p>
+</li>
+<li>
+<p>IDE Sprint 2024</p>
+</li>
+<li>
+<p>IDE Robotics 2024</p>
+</li>
+<li>
+<p>IDE Sumobot 2024</p>
+</li>
+<li>
+<p>National Robotics Competition 2024 (Regular Category)</p>
+</li>
 <li>
 <p>IDE Sprint 2023</p>
 </li>
@@ -109,6 +139,29 @@ of Robotics</p>
 <p><strong>Achievements</strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p><strong>National Robotics Competition (NRC) 2025 Regular Category: </strong>Championship
+Award</p>
+</li>
+<li>
+<p><strong>National Robotics Competition (NRC) 2025 Regular Category: </strong>1st
+in Best Robot Performance Award Secondary</p>
+</li>
+<li>
+<p><strong>National Robotics Competition (NRC) 2025 Regular Category: </strong>3rd
+in Best Learning Journey Award Secondary</p>
+</li>
+<li>
+<p><strong>National Robotics Competition (NRC) 2025 Regular Category: </strong>Finalist
+for Robot Run</p>
+</li>
+<li>
+<p><strong>National Robotics C</strong>o<strong>mpetition (NRC) 2025 Open Category: </strong>Top
+8</p>
+</li>
+<li>
+<p><strong>IDE Sprint 2025:</strong> Merit Award</p>
+</li>
 <li>
 <p><strong>IDE Robotics 2024: </strong>First Runner-up</p>
 </li>
@@ -156,7 +209,7 @@ of Robotics</p>
 <p>1500 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Learning Studio</p>
+<p>C52</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PLD</p>
@@ -164,13 +217,13 @@ of Robotics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fridays (alternate weeks)</p>
+<p>Fridays (except for holidays and HBL Days)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1415 to 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Learning Studio</p>
+<p>C52</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PLD</p>
@@ -179,6 +232,6 @@ of Robotics</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTW_HWZTLZaJr-YIfTcR2OZDXCMrF_kMMXlZ5DC0qJHchgS_SaYPLmualO0Dt23qA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS0s2cIRKoptoXq26M6pGLqfLVKGEUYkPUvZptnDIAL6pXfjpEeRAPjf7pRZrjQg3LJarGNv-vHv2KQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>

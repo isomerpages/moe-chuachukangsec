@@ -82,10 +82,8 @@ their knowledge of the game.</p>
 </p>
 <p><strong>2025</strong>
 </p>
-<p><strong>National School Games Football Championships B Division Boys League 2</strong>
-</p>
-<p><strong>National School Games Football Championships C Division Boys League 4</strong>
-</p>
+<p>National School Games Football Championships B Division Boys League 2</p>
+<p>National School Games Football Championships C Division Boys League 4</p>
 <p><strong>2024</strong>
 </p>
 <p><strong>National School Games Football Championships B Division Boys' League 2: </strong>4th
@@ -125,7 +123,7 @@ Position</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fridays (alternate weeks)</p>
+<p>Fridays (except for holidays and HBL Days)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1415 to 1730</p>
@@ -137,6 +135,6 @@ Position</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTswhAyG49Qd56hdiS_Lyk9fmTxGswEtNWT_EDFFLU1vSvmhbcZnTmvZ4IFxkJEfA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTX2a8tPtMU_BxH039ooIvWEbhIpiBhnk-181tzwQDP-y2AppfTdGNnNxL78IQbaINB4hpuWM66qhlo/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>

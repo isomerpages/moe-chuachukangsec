@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
+<h2><strong>English Language &amp; Literature Department</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Department_Teacher___Students_English_025.jpg">
+</div>
 <h4><strong>About the Department</strong></h4>
 <p>As teachers in the English &amp; Literature Department, we are truly committed
 to helping our students grow, not just as better users of the language,

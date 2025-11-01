@@ -6,6 +6,9 @@ third_nav_title: Learning for Life Programme
 variant: tiptap
 ---
 <h2><strong>Student Council</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Leaders_004.jpg">
+</div>
 <p>The pinnacle of Student Leadership opportunities in Chua Chu Kang Secondary
 School is to serve in the Student Council. As exemplary leaders, Student
 Councillors serve responsibly and they are adaptable. They are reflective
@@ -16,7 +19,10 @@ expected to exhibit each of the 5 Practices.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Picture2.png">
 </div>
-<p>The Student Council support the school in many ways –</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/School_Leaders___Students_003.jpg">
+</div>
+<p>The Student Council supports the school in many ways –</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Uphold the school rules and values</p>
@@ -30,16 +36,16 @@ Day, Sec 1 Orientation)</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
 </div>
 <p><strong><em>Activities during Student Council Camp</em></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture5.png">
 </div>
 <p><strong><em>CCKSS Leadership Workshop by Jurong Pioneer Junior College Student Council</em></strong>
 </p>

@@ -63,6 +63,30 @@ variant: tiptap
 </table>
 <p><strong>About Us</strong>
 </p>
+<p>The <strong>Chua Chu Kang Secondary School National Cadet Corps (CCKSS NCC)</strong> is
+a dynamic and disciplined uniformed group that strives to embody the spirit
+of excellence, leadership, and resilience. Guided by the vision of the <strong>Singapore National Cadet Corps (NCC)</strong> to
+nurture responsible, resourceful, and resilient cadets, our unit takes
+pride in developing students into confident leaders and committed citizens.</p>
+<p>At <strong>CCKSS NCC</strong>, cadets experience a wide range of fun and
+challenging military-related activities designed to cultivate discipline,
+teamwork, and leadership. From fieldcraft and precision drills to adventure
+training and marksmanship, every activity strengthens our cadets’ physical
+endurance, mental resilience, and moral uprightness.</p>
+<p>Our cadets actively uphold the <strong>Core Values</strong> of the NCC — <em>Loyalty to Country, Uprightness, Leadership, Discipline, Commitment and Responsibility, Care for Fellow Cadets,</em> and <em>Adventurous Spirit</em>.
+These values are the foundation of our unit’s identity and the guiding
+principles behind everything we do.</p>
+<p>Through various local and national-level events, such as the NCC Camp,
+the Orienteering Competition, and the Total Defence activities, our cadets
+learn to lead with purpose and serve with pride. The bonds formed through
+training and shared challenges instill in them a strong sense of camaraderie
+and belonging.</p>
+<p>At <strong>CCKSS NCC</strong>, we believe that every cadet has the potential
+to be a leader — one who leads by example, upholds the highest standards
+of conduct, and contributes positively to the school and the community.
+Our motto, <em>“To Serve with Pride and Lead with Honour,”</em> captures
+the essence of our journey as we continue to shape future-ready leaders
+who stand tall in the face of any challenge.</p>
 <p><strong>Vision</strong>
 </p>
 <p>The Singapore National Cadet Corps is a world-class organization that
@@ -295,7 +319,7 @@ leaders and team players through fun and challenging military-related activities
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fridays (alternate weeks)</p>
+<p>Fridays (except for holidays and HBL Days)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1430 to 1730</p>
@@ -307,6 +331,6 @@ leaders and team players through fun and challenging military-related activities
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMVo8unKiu5OpJfqZ_31heYTA9zYpmdKh4EGqRmmDWQcKCX_H_qJBXIpW61c7Gtw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQvxgJoHpUVL7IAogChroPTOAHUEGsBuC60d8Rn3SCbIpplqoHcFzWkijNjXm34qyJgMm-zdeCQwQ5E/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
