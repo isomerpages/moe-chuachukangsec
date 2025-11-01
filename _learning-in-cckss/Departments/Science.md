@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
+<h2><strong>Science Department</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_11_01_215624.png">
+</div>
 <h4><strong>Vision</strong></h4>
 <p><strong>"Nurturing Inspired Minds, Inquisitive Thinkers, and Innovative Problem-Solvers through Science"</strong>
 </p>
@@ -25,12 +29,21 @@ deepen scientific inquiry, with a strong focus on <strong>sustainability and inn
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Urban Farming</strong> – Exploring <strong>sustainable food production</strong> through <strong>aquaponics, hydroponics, and organic herb and mushroom cultivation</strong>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP_LLP_002.jpg">
+</div>
 </li>
 <li>
 <p><strong>Orchid Hybridisation &amp; Conservation</strong> – Promoting <strong>biodiversity conservation, ecological awareness, and entrepreneurship</strong>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP_LLP_061.jpg">
+</div>
 </li>
 <li>
 <p><strong>Clean Technology</strong> – Investigating <strong>innovative solutions for sustainable living</strong>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP_LLP_054.jpg">
+</div>
 </li>
 </ul>
 <p>By immersing students in these real-world contexts, we nurture <strong>environmentally responsible and forward-thinking problem-solvers</strong>.</p>
@@ -63,27 +76,27 @@ to <strong>real-world sustainability issues</strong>.</p>
 <p>Through this structured learning journey, we nurture <strong>responsible, innovative thinkers</strong> who
 use science to <strong>create meaningful change</strong> in the world.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Photo_1.jpg">
 </div>
 <p><strong><em>Students explore sustainable urban farming through hydroponics, nurturing fresh greens while cultivating scientific inquiry and innovation</em></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Photo_2.jpg">
 </div>
 <p><strong><em>Students engage in hands-on composting with earthworms, discovering how these natural recyclers convert food waste into nutrient-rich soil for sustainable farming</em></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_3.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Photo_3.jpg">
 </div>
 <p><strong><em>Our students experiment and create nutrient-rich mushroom media, applying scientific principles to cultivate sustainable food sources</em></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_4.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Photo_4.jpg">
 </div>
 <p><strong><em>Students explore the science of orchid hybridisation, applying precision and care to create new orchid varieties while learning about biodiversity and conservation</em></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_5.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Photo_5.jpg">
 </div>
 <p><strong><em>Students harness the power of the laminar flow hood to aseptically culture orchid seeds, mastering sterile techniques for successful orchid germination and growth</em></strong>
 </p>
@@ -158,14 +171,6 @@ use science to <strong>create meaningful change</strong> in the world.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Ang Jia Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Asmahan Binti Aman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
