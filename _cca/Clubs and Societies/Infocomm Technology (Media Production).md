@@ -37,18 +37,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teachers in charge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tiong Wee Teck Sebastian (2IC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tiong_wee_teck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tiong_wee_teck@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -71,6 +59,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Koh Eng Huat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_eng_huat@schools.gov.sg" rel="noopener nofollow" target="_blank">mailto:koh_eng_huat@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>About Us</strong>
@@ -83,6 +83,9 @@ overlooking key events in Chua Chu Kang Secondary, the stalwart stewards
 of running Chinese New Year, Pongal and even Academic celebrations smoothly.
 Need sound set-up? Projector support? Artistically-framed photographs?
 The Infocomm Technology (Media Production) Club members are ready!</p>
+<p><strong>Competitions</strong>
+</p>
+<p>Our School Story</p>
 <p><strong>Announcements</strong>
 </p>
 <p><strong>Training Days and Hours</strong>
@@ -118,7 +121,7 @@ The Infocomm Technology (Media Production) Club members are ready!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fridays (alternate weeks)</p>
+<p>Fridays (except for holidays and HBL Days)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1415 to 1730</p>
@@ -130,6 +133,6 @@ The Infocomm Technology (Media Production) Club members are ready!</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQhumU2NfHSDEDCJjwmAL2P60tNSb1HAdgD1sW7z-0GiI7qTxXnjYUGrayaL9CyLQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQosPontedvWuPILNhUSllLQEiYwXHeb2lbnRulp5Q55tjthdi4N8sgY1g5r2Ft8SI69e-hJ3DWBHla/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
