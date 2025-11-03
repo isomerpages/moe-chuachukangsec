@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
+<h2><strong>Mother Tongue Department</strong></h2>
 <h4><strong>Department Vision</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -51,7 +52,7 @@ traditional learning experiences.</p>
 <p>Cultural Performance Exposure</p>
 </li>
 </ul>
-<h4><strong>Mother Tongue Fortnight</strong></h4>
+<h3><strong>Mother Tongue Fortnight</strong></h3>
 <p>The annual Mother Tongue Fortnight programme is a highlight of the department
 that aims to create an immersive opportunity for students to appreciate
 and learn their Mother Tongue Language beyond the usual curriculum.</p>
@@ -62,8 +63,7 @@ interests.</p>
 <p>Through these series of activities, the department aims to enrich our
 student’s understanding and appreciation of languages and cultures, through
 authentic, hands-on learning experiences.</p>
-<p><strong>Mother Tongue Fortnight Carnival</strong>
-</p>
+<h4><strong>Mother Tongue Fortnight Carnival</strong></h4>
 <p>The Mother Tongue Fortnight Carnival is the highlight of the series of
 programmes. This carnival was staged with the intention of catering a genuine
 carnival experience, infused with local heritage and flavours, to our students.
@@ -83,56 +83,52 @@ to complete.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS0KvxHlLQK3hEr1szHT2V-QXbfa1OFTVa4RmXhXmjvMkkBFQdBahzLvB0dB7RSMMNYKPwNMhEdJlwy/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p><strong>Customised Language / Cultural Activities</strong>
-</p>
+<h4><strong>Customised Language / Cultural Activities</strong></h4>
 <p>To ignite the interest of our students in their Mother Tongue languages
 and related heritage, meaningful activities packed with targeted learning
 outcomes were identified and sourced for each level.</p>
 <p>These activities strive to relate language and its applications to real
 life situations, thereby drawing a closer connection between Mother Tounges
 and our students.</p>
-<p><strong>Chinese Language</strong>
-</p>
-<p><strong>Sec 1: Chinese Calligraphy and its Application</strong>
-</p>
+<h3><strong>Chinese Language</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department_Teacher___Students_Chinese_Language_026.jpg">
+</div>
+<h4><strong>Sec 1: Chinese Calligraphy and its Application</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_11_103757.png">
 </div>
-<p><strong>Sec 2: Crafting Fragrance Sachets with Wester Herbs</strong>
-</p>
+<h4><strong>Sec 2: Crafting Fragrance Sachets with Wester Herbs</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_11_103913.png">
 </div>
-<p><strong>Sec 3: Fusing a Traditional Umbrella with Art</strong>
-</p>
+<h4><strong>Sec 3: Fusing a Traditional Umbrella with Art</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_11_104259.png">
 </div>
-<p><strong>Sec 4/5: Designing a Fashionable Tote Bag using Conventional Dyes</strong>
-</p>
+<h4><strong>Sec 4/5: Designing a Fashionable Tote Bag using Conventional Dyes</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_11_104502.png">
 </div>
-<p><strong>Malay Language</strong>
-</p>
-<p><strong>Sec 1: Crafting of <em>Pantun </em>in Hari Raya Cards</strong>
-</p>
-<p><strong>Sec 2: Jawi Calligraphy on Canvas Pencil Cases</strong>
-</p>
-<p><strong>Sec 3: Performing Arts (<em>Kompang, Dikir Barat</em>, Malay Traditional Dance)</strong>
-</p>
+<h3><strong>Malay Language</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department_Teacher___Students_Malay_Language_005.jpg">
+</div>
+<h4><strong>Sec 1: Crafting of <em>Pantun </em>in Hari Raya Cards</strong></h4>
+<h4><strong>Sec 2: Jawi Calligraphy on Canvas Pencil Cases</strong></h4>
+<h4><strong>Sec 3: Performing Arts (<em>Kompang, Dikir Barat</em>, Malay Traditional Dance)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_11_121941.png">
 </div>
-<p><strong>Sec 4/5: <em>Skuad Serbu Sekolah</em> by Ria 89.7 DM (Introduction to Broadcasting and Media Industry)</strong>
-</p>
+<h4><strong>Sec 4/5: <em>Skuad Serbu Sekolah</em> by Ria 89.7 DM (Introduction to Broadcasting and Media Industry)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_11_121614.png">
 </div>
-<p><strong>Tamil Language</strong>
-</p>
-<p><strong>Sec 1: Learning Journey to Little India</strong>
-</p>
+<h3><strong>Tamil Language</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department_Teacher___Students_Tamil_Language_020.jpg">
+</div>
+<h4><strong>Sec 1: Learning Journey to Little India</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Flower tying and <em>thoranam</em>
@@ -158,24 +154,21 @@ and our students.</p>
 </div>
 </li>
 </ul>
-<p><strong>Sec 2: <em>Vanga Pongalaam </em>(<em>Pongal </em>Cooking Session)</strong>
-</p>
+<h4><strong>Sec 2: <em>Vanga Pongalaam </em>(<em>Pongal </em>Cooking Session)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Picture8.jpg">
 </div>
-<p><strong>Sec 3: Silk Thread Bangle Making/Decorating</strong>
-</p>
+<h4><strong>Sec 3: Silk Thread Bangle Making/Decorating</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
 </div>
-<p><strong>Sec 4/5: Research Work &amp; Presentation (AI Tools)</strong>
-</p>
+<h4><strong>Sec 4/5: Research Work &amp; Presentation (AI Tools)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Harvest Festival / Thanksgiving Day &amp; <em>Pongal</em> Celebration</p>
 </li>
 </ul>
-<h4><strong>Celebration of Festivals</strong></h4>
+<h3><strong>Celebration of Festivals</strong></h3>
 <p>MTL Department organises traditional festivals from different cultures.
 This provides students with an immersive experience in the joyful festive
 atmosphere. These celebrations not only allow students to immerse themselves
@@ -184,8 +177,7 @@ and appreciate the meanings and values behind each festival. By gaining
 a deeper understanding of the cultural significance of these celebrations,
 students develop a stronger attachment to their own culture and traditions,
 fostering a sense of pride and appreciation for their heritage.</p>
-<p><strong>Chinese New Year Celebrations</strong>
-</p>
+<h4><strong>Chinese New Year Celebrations</strong></h4>
 <p>“Lohei” or “捞鱼生” which means “toss up a good fortune”. During Chinese
 new year, our students come together to participate in the lively activity
 of lohei. This involves tossing and mixing various ingredients together
@@ -195,8 +187,7 @@ the Lunar New Year with enthusiasm and positivity.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRKRM5XOowIKCKaewJfpBf1XR5zyBttw6n45H4LSGtvse8CP72x7HiAVZ1dd_EZ_hqOp0YEWnFNWKUW/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p><strong><em>Pongal </em>Celebration</strong>
-</p>
+<h4><strong><em>Pongal </em>Celebration</strong></h4>
 <p>During the celebration of the Indian traditional <em>Pongal</em> festival,
 students actively participate by engaging in activities that include learning <em>pongal</em> recipes
 and creating<em> rangoli</em> art. Through these hands-on experiences, students
@@ -205,8 +196,7 @@ also explore their creativity by designing vibrant<em> rangoli</em> patterns.</p
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT98xYwbBEswDJv6kpkW4OOU644bGiscEOi9Q0MrnQlEfFlTdKyoH9YcPZjcmvcke_IEz77sAdGads1/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p><strong><em>Hari Raya</em> Celebration</strong>
-</p>
+<h4><strong><em>Hari Raya</em> Celebration</strong></h4>
 <p>The <em>Hari Raya</em> concert at Chua Chu Kang Secondary School was a vibrant
 celebration of sharing and cultural appreciation. Students and teachers
 showcased the festival’s rich heritage through traditional Malay dance
@@ -218,8 +208,7 @@ and harmony that <em>Hari Raya Aidilfitri</em> embodies.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQmaQQcwuLnKIjEuhucluI-_I4gHkbgjwLSpENbuapOeOTiYXoo18juhKLAm9iQdqUUgRxVI7_CqT0f/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p><strong><em>Deepavali</em> Celebration</strong>
-</p>
+<h4><strong><em>Deepavali</em> Celebration</strong></h4>
 <p>The <em>Deepavali</em> celebrations at Chua Chu Kang Secondary School came
 alive with colour and spleandour as our Parent Support Group came together
 to organise a bazaar with the Tamil Department to showcase the rich and
@@ -230,7 +219,7 @@ and teachers.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRnpgEvO7ymSqROnVB0cgEcsjn6v9k6-iAeE0Pb6IabS4YXUtRHq6KkdJ9FLt3zJbiMltwWK48ZD2bz/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4><strong>Mother Tongue Language Learning Journeys</strong></h4>
+<h3><strong>Mother Tongue Language Learning Journeys</strong></h3>
 <p>Learning journeys to heritage sites, such as Little India, Kampong Glam,
 and Singapore Chinese Cultural Center, provide our students with immersive
 experiences allowing them to have the opportunity to witness firsthand
@@ -238,7 +227,7 @@ the vibrant traditions, customs, and historical significance embedded within
 their respective cultures. These learning journeys foster a stronger connection
 and appreciation for their heritage, enabling students to embrace their
 cultural identity with pride.</p>
-<h4><strong>Reading Programme</strong></h4>
+<h3><strong>Reading Programme</strong></h3>
 <p>Extensive reading is extremely important for the development of language
 proficiency. It is also the foundation for developing discerning readers
 able to engage texts critically. Students will be exposed to a wide array
@@ -262,7 +251,7 @@ with societal issues and develop independent thinking skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_11_125457.png">
 </div>
-<h4><strong>Cultural Performance Exposure</strong></h4>
+<h3><strong>Cultural Performance Exposure</strong></h3>
 <p>The Cultural Performance Exposure Scheme (CPES) (“文化随意门”计划) is an initiative
 by The Commitee to Promote Chinese Language Learning (CPCLL) since 2009.
 The objective is to enhance students' interest in Chinese Language and
@@ -271,7 +260,7 @@ arts venues.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_11_125258.png">
 </div>
-<h4><strong>Singapore Book of Records</strong></h4>
+<h3><strong>Singapore Book of Records</strong></h3>
 <p>In the beginning of 2024, as we embarked on our merged school journey
 stronger together, our student artists conceptualized and created a dragon
 painting to usher in the new year. In the relentless pursuit of excellence,
@@ -283,7 +272,7 @@ Departments was entered into the Singapore Book of Records!</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRcMY4zC0e65-p6b5m0kLeCdJI3Ka6XWcHP8zxBn-r5NoPNbRGcpQ9gGivpURkHeiUyyJHLkzExZ-2T/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4><strong>Our Mother Tongue Team</strong></h4>
+<h3><strong>Our Mother Tongue Team</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_14_114217.png">
 </div>

@@ -7,13 +7,13 @@ third_nav_title: Global Connect Programme
 ---
 <h2><strong>ASEAN</strong></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4569140.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tempImagel6OPwj.jpg">
 </div>
 <h3><strong>Welcome to Timor-Leste! Latest ASEAN Country (26 Oct 2025)</strong></h3>
-<p><a href="https://www.straitstimes.com/asia/se-asia/timor-leste-officially-admitted-to-asean-becoming-its-11th-member" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/asia/se-asia/timor-leste-officially-admitted-to-asean-becoming-its-11th-member</a>  <strong> </strong>
+<p><a href="https://www.straitstimes.com/asia/se-asia/timor-leste-officially-admitted-to-asean-becoming-its-11th-member" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/asia/se-asia/timor-leste-officially-admitted-to-asean-becoming-its-11th-member</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Copy_of_Tabletop_Design__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20251026_WA0065_scaled_rdrfyb5wz44llxbab5utt98umqis39vamocc3bzvsg.jpg">
 </div>
 <p>Singapore has long maintained strong connections with the ASEAN region.
 These ties form a key pillar of its foreign policy, supported by shared
@@ -24,14 +24,18 @@ transformation will create new possibilities for Singaporeans and local
 businesses to engage, grow, and broaden their perspectives. Strengthening
 regional relationships also enables Singapore to better navigate global
 political and economic uncertainties.</p>
-<p>In this context, it is essential for CCKSians to understand how closely
-Singapore’s future is linked to ASEAN. They should feel confident interacting
-with peers from neighbouring countries and be inspired to take part in
-regional opportunities. As such, CCKSS Global Connect trips within the
-region offer meaningful ways for CCKSians to learn about ASEAN cultures
-firsthand, deepen their awareness, and build friendships beyond borders.</p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT-ThTHm6D34vnLhzNSl0X-fRD2qD8OhijQfS8m3R6iZPC5810HIRWa251hkUsFPRWLnqH5zG9r6Ct6/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h3><strong>The ASEAN Corner Table Art:</strong></h3>
+<p>It is essential for CCKSians to understand how closely Singapore’s future
+is linked to ASEAN. They should feel confident interacting with peers from
+neighbouring countries and be inspired to take part in regional opportunities.
+As such, CCKSS Global Connect trips within the region offer meaningful
+ways for CCKSians to learn about ASEAN cultures firsthand, deepen their
+awareness, and build friendships beyond borders.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Copy_of_Tabletop_Design__1_.png">
 </div>
 <h4><strong>CCKSS Global Connect Chiang Rai, Thailand</strong></h4>
 <p>Chiang Rai, the northernmost province of Thailand, is home to a diverse
@@ -95,4 +99,72 @@ dynamic start-up ecosystem, and rich historical and cultural heritage.</p>
 <p>Visit the CGC Vietnam Page:</p>
 <p><a href="https://www.chuachukangsec.moe.edu.sg/vietnam/" rel="noopener noreferrer nofollow" target="_blank">https://www.chuachukangsec.moe.edu.sg/vietnam/</a>
 </p>
+<h3><strong>Information about other ASEAN Countries:</strong></h3>
+<p><a href="https://asean.org/about-asean/" rel="noopener noreferrer nofollow" target="_blank">https://asean.org/about-asean/</a> (Scroll
+down to ASEAN Member States)</p>
+<h3><strong>The Southeast Asian Corner Bench Art:</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_27_100828.png">
+</div>
+<h3><strong>The world is too wide to stay in the same place (โลกกว้างเกินกว่าจะอยู่ที่เดิม)</strong></h3>
+<p><strong><em>Lôhk gwâang gern gwàa jà yùu thîi derm</em></strong>
+</p>
+<p>The phrase <strong><em>“The world is too wide to stay in the same place”</em></strong> encourages
+us to step beyond the comfort of familiar places and routines. The world
+is full of cultures, experiences, and opportunities that we may never understand
+if we remain where we are. Traveling—or simply being open to new experiences—broadens
+our perspective, teaches us empathy, and helps us grow. When we explore,
+we realise how large the world is and how many ways there are to live and
+dream. It also helps us understand ourselves better—our strengths, fears,
+and passions. In essence, life is short and the world is wide, so we should
+not limit ourselves by staying in the same place.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_27_101524.png">
+</div>
+<h3><strong>The more you travel, the more you understand the world (ยิ่งเดินทาง ยิ่งเข้าใจโลก)</strong></h3>
+<p><strong><em>Yîng dern-thaang, yîng khâo-jai lôhk</em></strong>
+</p>
+<p>The saying <strong><em>“The more you travel, the more you understand the world”</em></strong> reminds
+us that travel is not just about seeing new places, but about opening our
+minds and hearts. When we travel, we experience different cultures, beliefs,
+and ways of life. This helps us realise that the world is much bigger than
+our daily routines and personal viewpoints. Travel teaches understanding
+and humility. It shows us how people live differently, yet share similar
+hopes and struggles. We begin to appreciate diversity and become more empathetic
+and open-minded. At the same time, travel helps us discover more about
+ourselves—our strengths, limits, and dreams. In the end, the more we explore
+the world, the more we grow in wisdom, perspective, and self-awareness.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_27_101754.png">
+</div>
+<h3><strong>A journey of a thousand miles begins with a single step (Berjalan seribu mil dimulai dengan satu langkah)</strong></h3>
+<p>The saying<em> </em><strong><em>"A journey of a thousand miles begins with a single step,”</em></strong> teaches
+us the importance of starting, no matter how big or difficult something
+may seem. Many dreams, goals, or life changes can feel overwhelming at
+first, but this quote reminds us that every meaningful achievement is built
+from small, consistent actions. The first step may seem small or insignificant,
+but it is the most important because it moves us from intention to reality.
+Without it, no progress can begin. This saying encourages courage, patience,
+and persistence. It tells us not to be afraid of slow progress, as long
+as we keep moving forward. Success is not achieved overnight—it is a journey
+made up of effort, discipline, and determination, one step at a time.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_27_102456.png">
+</div>
+<h3><strong>If you don’t go, how will you know how big the world is (Không đi, làm sao biết thế giới rộng lớn thế nào)</strong></h3>
+<p>This quote is a gentle yet powerful reminder that the world is far bigger
+than the place we are used to. If we never leave our comfort zone—our hometown,
+our habits, our familiar way of thinking—we will never truly understand
+how vast, beautiful, and diverse life can be. Books, films, or stories
+can show us parts of the world, but real understanding comes from seeing,
+experiencing, and feeling it for ourselves. Travel teaches us things no
+classroom can. It shows us new cultures, new languages, and new ways of
+living. It helps us realise that our problems are not the only problems,
+our beliefs are not the only truths, and our way of life is not the only
+way. By stepping outside, we grow more humble, open-minded, and compassionate.
+This quote is not only about physical travel—it is also about being brave
+enough to try new things, meet new people, and challenge our own limits.
+It encourages curiosity, exploration, and the courage to discover the unknown.
+Only by moving forward do we learn more about the world—and about ourselves.</p>
+<h4></h4>
 <p></p>

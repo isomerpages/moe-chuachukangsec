@@ -26,13 +26,35 @@ trade, particularly through the Zhangjiagang Bonded Zone.</p>
 <p>You can learn more about Zhangjiagang from here:</p>
 <p><a href="http://jiangsu.chinadaily.com.cn/zhangjiagang/2023-11/02/c_941847.htm" rel="noopener noreferrer nofollow" target="_blank">http://jiangsu.chinadaily.com.cn/zhangjiagang/2023-11/02/c_941847.htm</a>
 </p>
-<p></p>
-<p></p>
+<h4><strong>Shanghai 上海</strong></h4>
+<p>Shanghai is a dynamic global city where tradition meets modern innovation.
+As China’s financial and commercial hub, it showcases cutting-edge technology,
+architecture, and international business, while still preserving cultural
+heritage in places like the Bund, Yu Garden, and historic neighbourhoods.
+For students, Shanghai offers valuable insights into globalization, urban
+development, and China’s role on the world stage. Visiting the city allows
+them to experience real-world applications of what they learn in the classroom
+and develop a broader, more global perspective.</p>
+<p>You can learn more about Shanghai from here:</p>
+<p><a href="https://www.chinahighlights.com/shanghai/" rel="noopener noreferrer nofollow" target="_blank">https://www.chinahighlights.com/shanghai/</a>
+</p>
+<h4><strong>Suzhou 苏州</strong></h4>
+<p>Suzhou, often called the “Venice of the East,” is a city rich in history,
+culture, and innovation. Known for its classical gardens, traditional architecture,
+silk heritage, and thriving modern industries, Suzhou offers students a
+unique blend of the ancient and the contemporary. Visiting Suzhou allows
+students to deepen their understanding of Chinese culture, appreciate the
+beauty of traditional arts, and observe how history and modern development
+coexist. It is not just a destination, but a meaningful learning journey
+that broadens perspectives and inspires global awareness.</p>
+<p>You can learn more about Suzhou from here:</p>
+<p><a href="https://www.chinahighlights.com/suzhou/" rel="noopener noreferrer nofollow" target="_blank">https://www.chinahighlights.com/suzhou/</a>
+</p>
 <h3><strong>The Chinese Corner Bench Art:</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_27_094341.png">
 </div>
-<h3><strong>Wherever you go, go with all your heart</strong></h3>
+<h3><strong>Wherever you go, go with all your heart (无论你去哪里 都要全心全意地去)</strong></h3>
 <p><strong><em>Wúlùn nǐ qù dào nǎlǐ, dōu yào quánxīn quányì de qù</em></strong>
 </p>
 <p>The quote <strong><em>“Wherever you go, go with all your heart”</em></strong> by
@@ -46,7 +68,7 @@ the world to live with purpose, courage, and authenticity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_27_094726.png">
 </div>
-<h3><strong>Traveling ten thousand miles is better than reading ten thousand books</strong></h3>
+<h3><strong>Traveling ten thousand miles is better than reading ten thousand books (行万里路 胜读万卷书)</strong></h3>
 <p><strong><em>Xíng wàn lǐ lù, shèng dú wàn juǎn shū</em></strong>
 </p>
 <p>The proverb <strong><em>“Travelling ten thousand miles is better than reading ten thousand books,"</em></strong> highlights
@@ -58,7 +80,7 @@ encourages learning through action, experience, and discovery.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_27_095035.png">
 </div>
-<h3><strong>Travel makes people humble. You realize how vast the world is and how small you are.</strong></h3>
+<h3><strong>Travel makes people humble. You realize how vast the world is and how small you are (旅行让人谦卑 你会发现世界之大 自己之渺小)</strong></h3>
 <p><strong><em>Lǚxíng ràng rén qiānbēi, nǐ huì fāxiàn shìjiè zhī dà, zìjǐ zhī miǎoxiǎo</em></strong>
 </p>
 <p>The saying <strong><em>“Travel makes people humble; you discover how vast the world is and how small you are”</em></strong> reminds
@@ -71,7 +93,7 @@ beauty and diversity of life.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_27_095402.png">
 </div>
-<h3><strong>The world is so big, I want to go and see it</strong></h3>
+<h3><strong>The world is so big, I want to go and see it (世界那么大 我想去看看)</strong></h3>
 <p><strong><em>Shìjiè nàme dà, wǒ xiǎng qù kànkàn</em></strong>
 </p>
 <p>This quote <strong>“The world is so big, I want to go and see it," </strong>expresses

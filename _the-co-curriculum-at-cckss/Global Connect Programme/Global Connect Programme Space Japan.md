@@ -63,7 +63,7 @@ will visit during their trip to Japan in 2026.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_27_185817.png">
 </div>
-<h3><strong>Every new place is a chance to discover a new you</strong></h3>
+<h3><strong>Every new place is a chance to discover a new you (新しい場所は新しい自分を見つけるチャンス)</strong></h3>
 <p><strong><em>A-ta-ra-shii ba-sho wa a-ta-ra-shii ji-bun o mi-tsu-ke-ru chan-su</em></strong>
 </p>
 <p>Japan is a country where every region feels like stepping into a different
@@ -77,7 +77,7 @@ sightseeing—it’s a chance to rediscover yourself in ways you never expected.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_27_185801.png">
 </div>
-<h3><strong>Nagasaki is a place where the past and the future quietly intersect</strong></h3>
+<h3><strong>Nagasaki is a place where the past and the future quietly intersect (長崎は、過去と未来が静かに交差する場所)</strong></h3>
 <p><strong><em>Nagasaki wa, kako to mirai ga shizuka ni kōsa suru basho</em></strong>
 </p>
 <p>Nagasaki truly embodies the idea that <strong><em>“the past and the future quietly intersect.”</em></strong> Once
@@ -93,7 +93,7 @@ reflect.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_27_185742.png">
 </div>
-<h3><strong>The taste of travel is the heart of the land</strong></h3>
+<h3><strong>The taste of travel is the heart of the land (旅先の味はその土 地の心)</strong></h3>
 <p><strong><em>Lǚxíng ràng rén qiānbēi, nǐ huì fāxiàn shìjiè zhī dà, zìjǐ zhī miǎoxiǎo</em></strong>
 </p>
 <p><strong><em>“The taste of travel is the heart of the land”</em></strong> feels
@@ -110,7 +110,7 @@ and spirit.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_27_185721.png">
 </div>
-<h3><strong>Travel is nourishment for the soul</strong></h3>
+<h3><strong>Travel is nourishment for the soul (旅は心の栄養である)</strong></h3>
 <p><strong><em>Tabi wa kokoro no eiyō de aru</em></strong>
 </p>
 <p><strong><em>“Travel is nourishment for the soul”</em> </strong>beautifully

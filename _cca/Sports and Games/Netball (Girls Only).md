@@ -63,15 +63,31 @@ variant: tiptap
 </table>
 <p><strong>About Us</strong>
 </p>
-<p>The sport of Netball aims to nurture a spirit of resilience and teamwork
-in its players. Through rigorous training and competitions, our students
-learn to push beyond their limits both physically and mentally to achieve
-the goals that they have set for themselves. Taking part in competitions
-and winning inspires our girls to keep striving for excellence. They learn
-how to bounce back from disappointments and celebrate successes as a team.</p>
+<p>Our Netball program is more than just a sport; it is a platform for holistic
+development, fostering essential life skills such as resilience, responsibility,
+and leadership. We offer unique opportunities for students to engage in
+international matches, including volunteering at events and watching live
+international fixtures, which broadens their understanding of the sport
+on a global scale.</p>
+<p>Through dedicated training sessions and participation in various competitions,
+our students learn the importance of teamwork, discipline, and commitment.
+These experiences help nurture camaraderie and trust among team members,
+creating a strong sense of unity and friendship within the team.</p>
+<p>We believe in instilling values that go beyond the court. Our students
+develop resilience by learning to overcome setbacks, embrace challenges,
+and celebrate successes together. Leadership skills are fostered through
+roles and responsibilities within the team, encouraging our girls to become
+confident, responsible individuals.</p>
+<p>Participating in our Netball program not only enhances athletic skills
+but also builds character, inspiring each student to strive for excellence,
+support one another, and grow into responsible leaders both on and off
+the court.</p>
 <p><strong>Key Programmes and Achievements</strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p>B and C Division West Zone Netball Competition 2025</p>
+</li>
 <li>
 <p>B and C Division West Zone Netball Competition 2024</p>
 </li>
@@ -114,7 +130,7 @@ how to bounce back from disappointments and celebrate successes as a team.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fridays (alternate weeks)</p>
+<p>Fridays (except for holidays and HBL Days)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1415 to 1730</p>
@@ -126,6 +142,6 @@ how to bounce back from disappointments and celebrate successes as a team.</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT56iYvm27Hcp8cQskS4_5ssdq0ke8eWRg4lSEJD9tF4hMVQFbcYCdlZYMZJyXhyQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTuOgI0r3ZY3wam66bv-Z2E1V6DGwj-dp2sgrxLibSBL4ukVF-EBEqGoEpIAnH7e6a0UjM0SgQWFmMZ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>

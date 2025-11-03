@@ -31,6 +31,14 @@ sections:
       image: /images/Proposed_CCKSS_Open_House_2024__2000_x_875_052_mm___1000_x_1750_104_mm_.jpg
       alt: Image alt text
   - infopic:
+      title: CCKSS Featured in SingTeach
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/cckss-featured-in-singteach/
+      image: /images/Screenshot_2025_10_31_113813.png
+      alt: Image alt text
+  - infopic:
       title: Post Exam Activities
       subtitle: events
       id: infopic
