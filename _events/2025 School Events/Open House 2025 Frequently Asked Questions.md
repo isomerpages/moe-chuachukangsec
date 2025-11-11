@@ -137,8 +137,8 @@ is better.</p>
 However, this arrangement is reviewed on a yearly basis.</p>
 </li>
 </ul>
-<h3><strong>5. SUBJECT ALLOCATION </strong></h3>
-<h4>5.1	How many subjects are offered at Sec 3?</h4>
+<h3><strong>5. SUBJECT ALLOCATION</strong></h3>
+<h4>5.1 How many subjects are offered at Sec 3?</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>The maximum number of subjects offered for 2025 was 7.</p>
@@ -147,10 +147,10 @@ However, this arrangement is reviewed on a yearly basis.</p>
 <p>The subjects offered at Sec 3 (predominantly G3) students in 2025 are
 English Language, Mother Tongue, Higher Mother Tongue, Mathematics, Additional
 Mathematics, Principles of Accounts, Pure Science (Chemistry, Physics,
-Biology), Combined Science (Physics/Chemistry or Chemistry/Biology), Humanities
-(Core History, Social Studies with Elective History, Elective Geography,
-Elective Literature) and Coursework Subjects (Art, Design &amp; Technology
-or Nutrition &amp; Food Science).</p>
+Biology), Combined Science (Physics/Chemistry or Chemistry/Biology), Humanities<sup>1</sup> (Core
+History, Social Studies with Elective History, Elective Geography, Elective
+Literature) and Coursework Subjects (Art, Design &amp; Technology or Nutrition
+&amp; Food Science).</p>
 </li>
 <li>
 <p>The subjects offered at Sec 3 (predominantly G2) in 2025 were English
@@ -174,10 +174,130 @@ well as the availability of school resources.</p>
 </li>
 </ul>
 <p></p>
+<p><sup>1</sup>Students who opt for Core History must take up Combined Humanities
+(Social Studies and Elective Geography or Elective Literature); students
+who opt for Core Geography must take up Combined Humanities (Social Studies
+and Elective History or Elective Literature)</p>
 <p></p>
+<h3>6.FULL SUBJECT BASED BANDING</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>As part of MOE’s ongoing efforts to nurture the joy of learning and develop
+multiple pathways to cater to the different strengths and interests of
+our students, our Lower Secondary students are in mixed form classes offering
+subjects at more or less demanding levels, calibrated to balance between
+greater customization of learning while ensuring they benefit from a broad-based
+education focused on developing strong fundamentals and stretching students
+to their fullest potential.</p>
+</li>
+<li>
+<p>There are six Common Curriculum subjects that students attend together
+in their mixed form classes, i.e. Art, Character and Citizenship Education
+(CCE), Design and Technology (D&amp;T), Food and Consumer Education (FCE),
+Music, and Physical Education (PE).</p>
+</li>
+<li>
+<p>While the learning outcomes will be common for all students, teachers
+will differentiate their teaching to meet the learning needs of different
+learner profiles to ensure that they continue to be sufficiently supported
+and challenged in their learning. This will allow students to learn at
+a suitable pace while ensuring that a high level of quality and rigour
+in teaching is maintained.</p>
+</li>
+<li>
+<p>All secondary school students can offer English Language, Mother Tongue
+Languages, Mathematics and Science at a more demanding level from the start
+of Secondary One based on students' PSLE Achievement Level (AL) for each
+subject. This provision will continue under Full SBB.</p>
+</li>
+<li>
+<p>Beyond the start of Secondary One, students may also offer these subjects
+at a more demanding level based on their performance in secondary school</p>
+</li>
+</ul>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="4">
+<p>Eligibility criteria to offer English Language, Mother Tongue Languages,
+Mathematics and/or Science at a more demanding level</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Posting Group</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>PSLE Standard Grade</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>PSLE Foundation Grade</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Option to offer subject at</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PG2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AL 5 or better</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>G3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>PG1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AL 5 or better</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>G2/G3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AL 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AL A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>G2</p>
+</td>
+</tr>
+</tbody>
+</table>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students in schools that are implementing Full SBB will also be able to
+offer Humanities subjects (Geography, History, and Literature in English)
+at a more demanding level from Secondary Two. The criteria for taking Humanities
+at a more demanding level will be based on students' aptitude for and interest
+in these subjects at Secondary One.</p>
 <p></p>
-<p></p>
-<p></p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <p></p>
