@@ -31,6 +31,14 @@ sections:
       image: /images/Proposed_CCKSS_Open_House_2024__2000_x_875_052_mm___1000_x_1750_104_mm_.jpg
       alt: Image alt text
   - infopic:
+      title: CGC Thailand Trip 2025
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/thailand/
+      image: /images/WhatsApp_Image_2025_11_11_at_16_07_47.jpg
+      alt: Image alt text
+  - infopic:
       title: CCKSS Featured in SingTeach
       subtitle: events
       id: infopic
