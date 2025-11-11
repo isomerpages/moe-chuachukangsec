@@ -10,10 +10,9 @@ third_nav_title: 2025 School Events
 <p><strong>FREQUENTLY ASKED QUESTIONS (FAQs)</strong>
 <br>
 </p>
-<p><strong>1.	CUT-OFF POINTS</strong>
+<p><strong>1. CUT-OFF POINTS</strong>
 </p>
-<p><strong>1.1&nbsp; What is the school’s indicative PSLE Score range?</strong>
-</p>
+<p>1.1&nbsp; What is the school’s indicative PSLE Score range?</p>
 <p>Based on students posted to Sec 1 in 2025:</p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -80,8 +79,7 @@ on the demand pattern and cohort size.</p>
 </p>
 </li>
 </ol>
-<p><strong>2.1 What are the school’s start and end times?</strong>
-</p>
+<p>2.1 What are the school’s start and end times?</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Morning flag-raising will begin at 0800. Students must be punctual for
@@ -111,8 +109,7 @@ mixed classes of students taking subjects at G1, G2 and G3 levels.</p>
 </p>
 </li>
 </ol>
-<p><strong>4.1 Does CCKSS offer Higher MT languages for CL, ML &amp; TL?</strong>
-</p>
+<p>4.1 Does CCKSS offer Higher MT languages for CL, ML &amp; TL?</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>CCKSS offers HMTL to students in the G3 course of study who are competent
@@ -129,8 +126,7 @@ not need to travel to other centres to take HMTL.</p>
 before they can be offered HMTL.</p>
 </li>
 </ul>
-<p><strong>4.2 Other Important Information:</strong>
-</p>
+<p>4.2 Other Important Information:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>HMTL lessons are conducted in school. Students will attend 4 hours of
