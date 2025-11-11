@@ -87,6 +87,9 @@ media! Join us next year for the 2026 trip!</p>
 </tr>
 </tbody>
 </table>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRR70vgmiGCOR31PtHc0D0_LXm8rM2NiIVPSjXKzKhvA9E8OTXGSU2rM2GInKJi5ZQ5rHdEssSRCQfX/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h2><strong>2024 Global Connect Trip to Chiang Rai, Thailand</strong></h2>
 <p>Our recent 6 days 5 nights overseas trip to Chiang Rai, Thailand was an
 enriching and unforgettable experience. Known for its stunning landscapes
