@@ -410,8 +410,8 @@ with the new Singapore-Cambridge Secondary Education Certificate (SEC)
 examinations. This will apply for the 2024 Secondary One cohort. From 2027,
 the national certification will reflect the subject level at which each
 subject is taken.</p>
-<h3>7.	PERSONAL LEARNING DEVICE (PLD)</h3>
-<h4>7.1	Will my child / ward get a Personal Learning Device next year?</h4>
+<h3>7. PERSONAL LEARNING DEVICE (PLD)</h3>
+<h4>7.1 Will my child / ward get a Personal Learning Device next year?</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>As part of the National Digital Literacy Programme, every secondary student
@@ -429,6 +429,308 @@ in schools, PLDs will better support teaching and learning and develop
 students' digital literacies.</p>
 </li>
 </ul>
+<p></p>
+<p></p>
+<h3>8.	CO-CURRICULAR ACTIVITIES (CCAs)</h3>
+<h4>8.1 How many CCAs are there?</h4>
+<p>We have 18 CCAs in total.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Performing Arts: Concert Band, Drama Club and Modern Dance and Guitar
+Ensemble.</p>
+</li>
+<li>
+<p>Uniformed Groups: Girl Guides, National Cadet Corps, National Police Cadet
+Corps and Scouts.</p>
+</li>
+<li>
+<p>Sports &amp; Games: Badminton, Basketball (Boys), Hockey, Football (Boys),
+Netball (Girls) and Taekwondo &amp; Wushu.</p>
+</li>
+<li>
+<p>Clubs &amp; Societies: Environmental Science Infocomm Technology (Media
+Production) and Robotics.</p>
+</li>
+</ul>
+<h4>8.2 Are CCAs compulsory?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Yes. The school believes in providing a holistic education for our students
+and CCAs are one of the key platforms where students learn values and life-skills
+which are useful and relevant in their lives. Every student is required
+to participate in one CCA.</p>
+</li>
+<li>
+<p>There will be a trial period for CCAs and appeals to change CCAs can be
+made. Approval to change CCA will be given on a case-by-case basis.</p>
+</li>
+</ul>
+<h4>8.3 How many days of CCA do students have to attend? </h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students attend CCA sessions thrice every 2 weeks.</p>
+</li>
+</ul>
+<h4>8.4 What are CCA hours like?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Every Wednesday: 1500 to 1730</p>
+</li>
+<li>
+<p>Every Friday: 1415 to 1730</p>
+<p></p>
+</li>
+</ul>
+<h3>9.	SPECIAL PROGRAMMES</h3>
+<h4>9.1 What Special Programmes are offered in CCKSS?</h4>
+<p><strong><u>Applied Learning Programme (ALP): Sustainable Living for a Resilient Future </u></strong>
+</p>
+<p><strong>Overview:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The ALP at CCKSS connects academic learning to real-world applications,
+enhancing students' motivation to acquire essential skills and knowledge
+for their futures</p>
+</li>
+</ul>
+<p><strong>Focus Areas:</strong>
+</p>
+<p>The ALP emphasises Sustainable Living for a Resilient Future through three
+main pillars:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sustainable Food Systems</p>
+</li>
+<li>
+<p>Sustainable Practices</p>
+</li>
+<li>
+<p>Green Conservation</p>
+</li>
+</ul>
+<p><strong>Objectives:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Inspire STEM Interest:</strong> Engaging real-world activities
+spark curiosity in science, technology, engineering, and math (STEM).</p>
+</li>
+<li>
+<p><strong>Build Critical and Creative Thinkers:</strong> Students develop
+adaptability, critical thinking, and inventiveness.</p>
+</li>
+<li>
+<p><strong>Develop Design Thinkers:</strong> Students learn to solve and identify
+problems using design thinking.</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Tiered Development (5 Es):</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tier 1 - Excite: Ignite interest in sustainability and STEM with engaging,
+real-world examples.</p>
+</li>
+<li>
+<p>Tier 2 - Empathise &amp; Explore: Understand user needs and brainstorm
+diverse solutions with a focus on empathy and exploration.</p>
+</li>
+<li>
+<p>Tier 3 - Experiment &amp; Excel: Prototype and refine sustainable solutions
+through hands-on experimentation.</p>
+</li>
+</ul>
+<p></p>
+<p><strong><u>Orchid Hybridisation Programme (Biology)</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The Orchid Hybridisation Programme is a series of workshops where students
+learn about the physiology and anatomy of an orchid plant and the process
+of orchid hybridisation. This provides a unique real-world context for
+learning relevant topics in the Pure Biology and Science (Biology) syllabi.
+In recent years, the school has expanded its programme and developed the
+Design and Research Space for Orchid Hybridisation where students can carry
+out the hybridisation process under laboratory conditions and try their
+hands at creating new orchid hybrids.</p>
+</li>
+</ul>
+<p><strong><u>Immersive Classroom (Virtual Reality)</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Virtual Reality (VR) is revolutionizing education by immersing students
+in interactive, hands-on experiences that make complex topics more engaging
+and easier to understand. With VR, students can explore the human bloodstream
+at a cellular level, walk through historical cities, or study geography
+by interacting with landforms in Google Earth, transforming abstract concepts
+into vivid, real-world experiences.</p>
+</li>
+<li>
+<p>Beyond academics, VR unleashes creativity by enabling students to practice
+sports in virtual environments, create stunning 3D art in imagined environments,
+or go on virtual field trips to explore faraway cities and cultural landmarks.</p>
+</li>
+<li>
+<p>This immersive approach not only boosts creativity but also enhances retention
+by turning lessons into captivating journeys. Additionally, VR fuels students'
+imagination, inspiring them to dive deeper into research and write more
+imaginative stories as they experience rich, immersive worlds firsthand.
+By blending learning with exploration, VR sparks curiosity, expands horizons,
+and enriches education in ways previously unimaginable.</p>
+</li>
+</ul>
+<p></p>
+<p><strong><u>Learning for Life Programme (LLP): Community Youth Leadership</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Our LLP is Community Youth Leadership. The aim of the programme is to
+develop our students with the necessary life-skills to be responsible and
+contributing citizens of the future. A CCKSian makes a consistent effort
+to develop his/her personal attributes such as self-reliance, perseverance,
+and a sense of responsibility to self, society, and nation.</p>
+</li>
+<li>
+<p>All CCKSians attend courses based on the Student Leadership Challenge
+with a specific focus for each level. In addition, training is customised
+for specific student leader groups such as the Student Councillors, Peer
+Support Leaders, Class Leaders and CCA Leaders.</p>
+</li>
+<li>
+<p>CCKSians are encouraged to apply their learning through their CCAs and
+community service where they will work in teams to serve others, and to
+demonstrate their leadership potential. Adopting the Design Thinking Framework
+for Values-in-Action programme enables students to develop empathy for
+others &amp; create solutions to meet their needs. CCKSians are also given
+opportunities to initiate service-learning projects in school and in the
+community.</p>
+</li>
+</ul>
+<p><strong><u>CCKSS Global Connect </u></strong>
+</p>
+<p><strong>CCKSS Global Connect Overseas Programme (CGC)</strong> is the school’s<strong> signature initiative</strong> to
+nurture global-minded, effective communicators. Through partnership with
+overseas schools, our <strong>secondary 3 students</strong> engage in civic
+&amp; cultural learning via <strong>educational exchanges, site visits &amp; Global VIA projects.</strong>
+</p>
+<p>Since its launch in <strong>2023 (Chiang Rai, Thailand)</strong>, the programme
+has expanded to include <strong>Vietnam, Indonesia</strong> and <strong>China</strong>,
+with new partnerships in <strong>Japan </strong>and another <strong>Chinese province </strong>planned
+for 2026.</p>
+<p>Overseas experiences allow for authentic learning to <strong>broaden students’ learning experiences </strong>and <strong>deepen students’ acquisition of 21CC</strong>.
+These will enable students to</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Work effectively with peers from diverse cultural backgrounds.</p>
+</li>
+<li>
+<p>Engage in new and unfamiliar global contexts.</p>
+</li>
+<li>
+<p>Appreciate Singapore’s unique challenges and responses.</p>
+</li>
+</ul>
+<p></p>
+<p>Participants consistently share that the programme strengthened their<strong> resilience, respect</strong> and <strong>intercultural understanding</strong>.</p>
+<p></p>
+<h3>10.	TRANSPORTATION &amp; TRAFFIC</h3>
+<h4>10.1 What is the traffic condition like outside school in the morning?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>We are situated along a belt of schools. The schools along this belt have
+staggered start times and as such traffic is not a major problem.</p>
+</li>
+<li>
+<p>We strongly encourage students to start their journey to school earlier,
+so that they arrive at school punctually and are in a better frame of mind
+for the school day ahead.</p>
+</li>
+</ul>
+<h4>10.2 Where can I drop my child / ward off in the morning if I am driving?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents / guardians can drop their child / ward off along at the designated
+drop-off point inside the school, after the school gate.</p>
+</li>
+</ul>
+<h3>11.	GENERAL DISCIPLINE AND SCHOOL TONE</h3>
+<h4>11.1 How is the discipline of the students in school like?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>The school discipline tone is positive, with established systems and strong
+support from the Student Development Team.</p>
+</li>
+<li>
+<p>The school has zero tolerance for students who engage in teasing, harassment
+or bullying. Students who commit such offences will be dealt with according
+to the school’s and MOE’s disciplinary framework.</p>
+</li>
+<li>
+<p>Year Heads are appointed to oversee the well-being and holistic development
+of the students in their respective levels with support from the Student
+Management Committee.</p>
+</li>
+</ul>
+<h4>11.2 Is the environment in the school conducive for studying?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>We constantly encourage and motivate our students to give their best and
+to maximize their potential.</p>
+</li>
+<li>
+<p>We are also mindful that a good study environment is essential for teaching
+and learning to take place. Our teachers too are mindful of this and work
+towards cultivating a strong learning culture here in CCKSS.</p>
+</li>
+<li>
+<p>Conducive study spaces can be found in the library and students may make
+use of study tables and chairs located outside the Computer Labs.</p>
+</li>
+</ul>
+<h4>11.3 Are handphones allowed in the school?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students learn well when there is order, discipline and minimal distraction.
+It is important that all CCKSians learn to be responsible and discerning
+users of technology. We would strongly advise parents / guardians, if they
+wish their children / ward to bring a mobile phone to school, to purchase
+for your child only a simple mobile phone for communication purposes. This
+is to minimize distraction and replacement costs in the case of loss or
+damage.</p>
+</li>
+<li>
+<p>In addition to the CCE and Cyber Wellness curriculum, our school has in
+place the following rules and policies to ensure responsible use of mobile
+devices in school.</p>
+</li>
+<li>
+<p>Students will keep their mobile phones / electronic devices in assigned
+lockers at the start of the day. Mobile phones / electronic devices can
+only be used after the end of curriculum hours.</p>
+</li>
+<li>
+<p>Should parents / guardians need to contact their child / ward, or in the
+case of an emergency, they may call the school office. For non-emergency
+cases, they should SMS their child / ward and leave a message for him /
+her to return a call as soon as he / she reads the message after school
+dismissal.</p>
+</li>
+</ul>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
