@@ -10,7 +10,7 @@ third_nav_title: 2025 School Events
 <p><strong>FREQUENTLY ASKED QUESTIONS (FAQs)</strong>
 <br>
 </p>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CUT-OFF POINTS</strong>
+<p><strong>1.	CUT-OFF POINTS</strong>
 </p>
 <p><strong>1.1&nbsp; What is the school’s indicative PSLE Score range?</strong>
 </p>
@@ -97,7 +97,7 @@ to 3.30pm.</p>
 </p>
 </li>
 </ol>
-<p><strong>3.1	How many classes are there for Secondary 1 in 2025?</strong>
+<p><strong>3.1 How many classes are there for Secondary 1 in 2025?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -129,7 +129,7 @@ not need to travel to other centres to take HMTL.</p>
 before they can be offered HMTL.</p>
 </li>
 </ul>
-<p><strong>4.2	Other Important Information:</strong>
+<p><strong>4.2 Other Important Information:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
