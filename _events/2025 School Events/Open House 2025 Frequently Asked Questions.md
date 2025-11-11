@@ -67,12 +67,13 @@ third_nav_title: 2025 School Events
 </tr>
 </tbody>
 </table>
-<p>Remarks:</p>
+<p><strong>Remarks:</strong>
+</p>
 <p>Meeting the indicative cut-off point (COP) does not guarantee admission
 to the school. The current year’s PSLE Score ranges may vary, depending
 on the demand pattern and cohort size.</p>
 <p>&nbsp;</p>
-<h3><strong>2. SCHOOL HOURS</strong></h3>
+<h3>2. SCHOOL HOURS</h3>
 <h4>2.1 What are the school’s start and end times?</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -83,15 +84,15 @@ to 3.30pm.</p>
 </li>
 </ul>
 <p></p>
-<h3><strong>3. NUMBER OF SEC 1 CLASSES FOR 2025</strong></h3>
-<h4><strong>3.1 How many classes are there for Secondary 1 in 2025?</strong></h4>
+<h3>3. NUMBER OF SEC 1 CLASSES FOR 2025</h3>
+<h4>3.1 How many classes are there for Secondary 1 in 2025?</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>In 2024, we had 8 Full Subject Based Banding (FSBB) classes. They were
 mixed classes of students taking subjects at G1, G2 and G3 levels.</p>
 </li>
 </ul>
-<h3><strong>4. HIGHER MOTHER TONGUE LANGUAGES (HMTL) – FOR STUDENTS TAKING G3 MTL ONLY</strong></h3>
+<h3>4. HIGHER MOTHER TONGUE LANGUAGES (HMTL) – FOR STUDENTS TAKING G3 MTL ONLY</h3>
 <h4>4.1 Does CCKSS offer Higher MT languages for CL, ML &amp; TL?</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -101,8 +102,8 @@ develop students’ strengths &amp; interest in all their chosen Mother Tongue
 Languages.</p>
 </li>
 <li>
-<p>HCL, HML &amp; HTL classes are offered within the school. Students do
-not need to travel to other centres to take HMTL.</p>
+<p>HCL, HML &amp; HTL classes are offered <u>within</u> the school. Students
+do not need to travel to other centres to take HMTL.</p>
 </li>
 <li>
 <p>Prospective students must demonstrate their competence in the language
@@ -127,17 +128,16 @@ drop the subject and switch to G3 MTL at any point in time.</p>
 </li>
 <li>
 <p>If a student uses HMT as his/her L1, he/she is not allowed to use MT in
-the computation of R5/R4, as MOE only allows students to use ONE MT grade
-at any one time, and not both. If he/she uses EL as his L1, he/she can
-choose either the HMT or MT grade for the computation of R5/R4, whichever
-is better.</p>
+the computation of R5/R4, as MOE only allows students to use <u>ONE MT grade</u> at
+any one time, and not both. If he/she uses EL as his L1, he/she can choose
+either the HMT or MT grade for the computation of R5/R4, whichever is better.</p>
 </li>
 <li>
 <p>Hindi classes will be held within the school premises for the year 2026.
 However, this arrangement is reviewed on a yearly basis.</p>
 </li>
 </ul>
-<h3><strong>5. SUBJECT ALLOCATION</strong></h3>
+<h3>5. SUBJECT ALLOCATION</h3>
 <h4>5.1 How many subjects are offered at Sec 3?</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -205,10 +205,10 @@ a suitable pace while ensuring that a high level of quality and rigour
 in teaching is maintained.</p>
 </li>
 <li>
-<p>All secondary school students can offer English Language, Mother Tongue
-Languages, Mathematics and Science at a more demanding level from the start
-of Secondary One based on students' PSLE Achievement Level (AL) for each
-subject. This provision will continue under Full SBB.</p>
+<p>All secondary school students can offer <strong>English Language, Mother Tongue Languages, Mathematics and Science</strong> at
+a more demanding level from the start of Secondary One based on students'
+PSLE Achievement Level (AL) for each subject. This provision will continue
+under Full SBB.</p>
 </li>
 <li>
 <p>Beyond the start of Secondary One, students may also offer these subjects
@@ -305,10 +305,10 @@ Mathematics and/or Science at a more demanding level</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students in schools that are implementing Full SBB will also be able to
-offer Humanities subjects (Geography, History, and Literature in English)
-at a more demanding level from Secondary Two. The criteria for taking Humanities
-at a more demanding level will be based on students' aptitude for and interest
-in these subjects at Secondary One.</p>
+offer <strong>Humanities subjects</strong> (Geography, History, and Literature
+in English) at a more demanding level from Secondary Two. The criteria
+for taking Humanities at a more demanding level will be based on students'
+aptitude for and interest in these subjects at Secondary One.</p>
 <p></p>
 </li>
 </ul>
@@ -327,16 +327,20 @@ in these subjects at Secondary One.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Humanities Level at Secondary One</p>
+<p><strong>Humanities Level at Secondary One</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Humanities Subjects</p>
+<p><strong>Humanities Subjects</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School-based assessment</p>
+<p><strong>School-based assessment</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Option to offer Humanities at a more demanding level from Secondary Two:</p>
+<p><strong>Option to offer Humanities at a more demanding level from Secondary Two:</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -530,16 +534,16 @@ problems using design thinking.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tier 1 - Excite: Ignite interest in sustainability and STEM with engaging,
-real-world examples.</p>
+<p><strong>Tier 1 - Excite:</strong> Ignite interest in sustainability and
+STEM with engaging, real-world examples.</p>
 </li>
 <li>
-<p>Tier 2 - Empathise &amp; Explore: Understand user needs and brainstorm
-diverse solutions with a focus on empathy and exploration.</p>
+<p><strong>Tier 2 - Empathise &amp; Explore:</strong> Understand user needs
+and brainstorm diverse solutions with a focus on empathy and exploration.</p>
 </li>
 <li>
-<p>Tier 3 - Experiment &amp; Excel: Prototype and refine sustainable solutions
-through hands-on experimentation.</p>
+<p><strong>Tier 3 - Experiment &amp; Excel:</strong> Prototype and refine
+sustainable solutions through hands-on experimentation.</p>
 </li>
 </ul>
 <p></p>
@@ -720,7 +724,7 @@ dismissal.</p>
 </li>
 </ul>
 <p></p>
-<h3>12.	TEACHERS</h3>
+<h3>12. TEACHERS</h3>
 <h4>12.1 How are the teaching staff like?</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -734,8 +738,8 @@ among our teachers and this translates into better teaching and learning
 practices for our students.</p>
 </li>
 </ul>
-<h3>13.	COMMUNICATION CHANNELS WITH PARENTS / GUARDIANS</h3>
-<h4>13.1 How can parents / guardians be kept informed of school events and activities? </h4>
+<h3>13. COMMUNICATION CHANNELS WITH PARENTS / GUARDIANS</h3>
+<h4>13.1 How can parents / guardians be kept informed of school events and activities?</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Parents / gradians can be kept informed of school events and activities
