@@ -410,6 +410,27 @@ with the new Singapore-Cambridge Secondary Education Certificate (SEC)
 examinations. This will apply for the 2024 Secondary One cohort. From 2027,
 the national certification will reflect the subject level at which each
 subject is taken.</p>
+<h3>7.	PERSONAL LEARNING DEVICE (PLD)</h3>
+<h4>7.1	Will my child / ward get a Personal Learning Device next year?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>As part of the National Digital Literacy Programme, every secondary student
+would have their own Personal Learning Device (PLD) at Secondary 1. Parents
+/ guardians will need to opt in to the programme so that the school can
+make a bulk purchase. Students can pay for the device through their Edusave
+accounts. For students from lower-income households, further subsidies
+are provided.</p>
+</li>
+<li>
+<p>The PLD that is used by Chua Chu Kang Secondary students currently is
+the Chromebook. The new cohort of Secondary 1 students will continue to
+purchase the Chromebook too. Complemented by enhanced internet connectivity
+in schools, PLDs will better support teaching and learning and develop
+students' digital literacies.</p>
+</li>
+</ul>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
