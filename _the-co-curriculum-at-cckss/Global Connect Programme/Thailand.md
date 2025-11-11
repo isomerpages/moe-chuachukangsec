@@ -25,7 +25,11 @@ martial art. They also prepared the traditional Khanom Tian dessert and
 experienced the Sabad Chai Victory Drum, gaining deeper appreciation of
 its ceremonial importance. These workshops allowed students to develop
 meaningful interactions with local peers while experiencing Thai artistic,
-culinary, and performance traditions firsthand.</p>
+culinary, and performance traditions firsthand. Enjoy a lovely video from
+our friends at Phusangwittayakhom School:</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQMwoO1ud2JSZ4Il4_RvvR66JY8X-8szM5b1B5_L9xMNK5ledS4_iupjw4jX0i5bgFisMvV3VZ1cTNw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p>Beyond the school-based activities, the group explored several of Chiang
 Rai’s most notable cultural and historical sites. At the White Temple (Wat
 Rong Khun), students observed the intricate craftsmanship and contemporary
@@ -50,6 +54,7 @@ ties with SWPY and PWK, deepened students’ appreciation of Thai culture,
 and reinforced the value of overseas experiential learning. It remains
 a meaningful and formative chapter in their development as globally aware
 and culturally confident learners.</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
