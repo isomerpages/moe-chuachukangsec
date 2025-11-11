@@ -53,10 +53,11 @@ and enriching experience for all. This 6D5N Chiang Rai immersion strengthened
 ties with SWPY and PWK, deepened students’ appreciation of Thai culture,
 and reinforced the value of overseas experiential learning. It remains
 a meaningful and formative chapter in their development as globally aware
-and culturally confident learners.</p>
-<p></p>
-<table style="minWidth: 75px">
+and culturally confident learners. Catch the fun content on our social
+media! Join us next year for the 2026 trip!</p>
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -78,6 +79,11 @@ and culturally confident learners.</p>
 <iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Freel%2F767934606281791%2F&amp;show_text=true&amp;width=267&amp;t=0"></iframe>
 </div>
 </th>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1361205132322753%2F&amp;show_text=true&amp;width=267&amp;t=0"></iframe>
+</div>
+</td>
 </tr>
 </tbody>
 </table>
@@ -106,7 +112,7 @@ closer, creating bonds that will last a lifetime.</p>
 <p>This journey to Chiang Rai was not just a geographical excursion but a
 meaningful cultural exchange and learning opportunity. It left all participants
 with cherished memories and a deeper appreciation for the beauty and diversity
-of Thailand.</p>
+of Thailand. Join us next year for the 2025 trip!</p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQpwiKkVIMV1vqSH17dlm6RJM8BtvDaKPuAnKTKqEO15BEUbICEwsExmjYS5ElUN8QbT7ufSNJRGWty/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
