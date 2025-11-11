@@ -469,13 +469,7 @@ to participate in one CCA.</p>
 made. Approval to change CCA will be given on a case-by-case basis.</p>
 </li>
 </ul>
-<h4>8.3 How many days of CCA do students have to attend?</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Students attend CCA sessions thrice every 2 weeks.</p>
-</li>
-</ul>
-<h4>8.4 What are CCA hours like?</h4>
+<h4>8.3 What are CCA hours like?</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Every Wednesday: 1500 to 1730</p>
