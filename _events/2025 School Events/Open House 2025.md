@@ -170,12 +170,8 @@ Labs 3 &amp; 4, Level 2)</p>
 </li>
 </ul>
 <h4><strong>Global Connect Programme (Area outside Computer Lab 4, Level 2)</strong></h4>
-<p>Visit the following key programme at the Global Connect Wall display:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Global Connect Programme</p>
-</li>
-</ul>
+<p>Visit the Global Connect Wall display for an exciting preview of our Global
+Connect Programme!</p>
 <h4><strong>Learning Experiences (Level 1)</strong></h4>
 <p>Visit the VIRTEX Room for an exciting learning experience in virtual reality!</p>
 <p></p>
