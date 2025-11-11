@@ -2,9 +2,9 @@ collections:
   events:
     output: true
     order:
-      - 2025 School Events/OPEN HOUSE 2025 FREQUENTLY ASKED QUESTIONS.md
       - 2025 School Events/.keep
       - 2025 School Events/Open House 2025.md
+      - 2025 School Events/OPEN HOUSE 2025 FREQUENTLY ASKED QUESTIONS.md
       - 2025 School Events/CCKSS Featured in SingTeach.md
       - 2025 School Events/Post Exam Activities.md
       - 2025 School Events/Graduation Day & Parent Support Group Graduation Day
