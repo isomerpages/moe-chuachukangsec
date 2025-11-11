@@ -100,9 +100,6 @@ Booths at the Hall:</p>
 <li>
 <p>Sustainability Education</p>
 </li>
-<li>
-<p>Global Connect Programme</p>
-</li>
 </ul>
 <p><strong>Performing Arts</strong>
 </p>
@@ -170,6 +167,13 @@ Labs 3 &amp; 4, Level 2)</p>
 </li>
 <li>
 <p>National Police Cadet Corps</p>
+</li>
+</ul>
+<h4><strong>Global Connect Programme (Area outside Computer Lab 4, Level 2)</strong></h4>
+<p>Visit the following key programme at the Global Connect Wall display:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Global Connect Programme</p>
 </li>
 </ul>
 <h4><strong>Learning Experiences (Level 1)</strong></h4>
