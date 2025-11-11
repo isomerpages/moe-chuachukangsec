@@ -431,7 +431,7 @@ students' digital literacies.</p>
 </ul>
 <p></p>
 <p></p>
-<h3>8.	CO-CURRICULAR ACTIVITIES (CCAs)</h3>
+<h3>8. CO-CURRICULAR ACTIVITIES (CCAs)</h3>
 <h4>8.1 How many CCAs are there?</h4>
 <p>We have 18 CCAs in total.</p>
 <ul data-tight="true" class="tight">
@@ -465,7 +465,7 @@ to participate in one CCA.</p>
 made. Approval to change CCA will be given on a case-by-case basis.</p>
 </li>
 </ul>
-<h4>8.3 How many days of CCA do students have to attend? </h4>
+<h4>8.3 How many days of CCA do students have to attend?</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students attend CCA sessions thrice every 2 weeks.</p>
@@ -481,9 +481,9 @@ made. Approval to change CCA will be given on a case-by-case basis.</p>
 <p></p>
 </li>
 </ul>
-<h3>9.	SPECIAL PROGRAMMES</h3>
+<h3>9. SPECIAL PROGRAMMES</h3>
 <h4>9.1 What Special Programmes are offered in CCKSS?</h4>
-<p><strong><u>Applied Learning Programme (ALP): Sustainable Living for a Resilient Future </u></strong>
+<p><strong><u>Applied Learning Programme (ALP): Sustainable Living for a Resilient Future</u></strong>
 </p>
 <p><strong>Overview:</strong>
 </p>
@@ -609,7 +609,7 @@ opportunities to initiate service-learning projects in school and in the
 community.</p>
 </li>
 </ul>
-<p><strong><u>CCKSS Global Connect </u></strong>
+<p><strong><u>CCKSS Global Connect</u></strong>
 </p>
 <p><strong>CCKSS Global Connect Overseas Programme (CGC)</strong> is the school’s<strong> signature initiative</strong> to
 nurture global-minded, effective communicators. Through partnership with
@@ -636,7 +636,7 @@ These will enable students to</p>
 <p></p>
 <p>Participants consistently share that the programme strengthened their<strong> resilience, respect</strong> and <strong>intercultural understanding</strong>.</p>
 <p></p>
-<h3>10.	TRANSPORTATION &amp; TRAFFIC</h3>
+<h3>10. TRANSPORTATION &amp; TRAFFIC</h3>
 <h4>10.1 What is the traffic condition like outside school in the morning?</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -656,7 +656,7 @@ for the school day ahead.</p>
 drop-off point inside the school, after the school gate.</p>
 </li>
 </ul>
-<h3>11.	GENERAL DISCIPLINE AND SCHOOL TONE</h3>
+<h3>11. GENERAL DISCIPLINE AND SCHOOL TONE</h3>
 <h4>11.1 How is the discipline of the students in school like?</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -720,6 +720,44 @@ dismissal.</p>
 </li>
 </ul>
 <p></p>
+<h3>12.	TEACHERS</h3>
+<h4>12.1 How are the teaching staff like?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Our teachers are caring and committed to bring out the best in our students.
+We believe in our students’ abilities and work closely with them to help
+them realise their full potential.</p>
+</li>
+<li>
+<p>There is also a strong culture of learning, sharing and collaboration
+among our teachers and this translates into better teaching and learning
+practices for our students.</p>
+</li>
+</ul>
+<h3>13.	COMMUNICATION CHANNELS WITH PARENTS / GUARDIANS</h3>
+<h4>13.1 How can parents / guardians be kept informed of school events and activities? </h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents / gradians can be kept informed of school events and activities
+via the school website or through messages on Parents Gateway.</p>
+</li>
+</ul>
+<h4>13.2 What are some communication channels between parents / guardians and the school?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents / guardians are welcome to call the school’s General Office (Tel:
+67691386) should they have any queries.</p>
+</li>
+</ul>
+<h4>13.3 Is there a Parent Support Group (PSG)?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Yes, there is a Parent Support Group which parents may consider joining.
+CCKSS PSG provides a network for parents to share best practices in supporting
+their children’s passion in learning, support the school programmes and
+be equipped by attending relatable workshops pertaining to parenting.</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <p></p>
