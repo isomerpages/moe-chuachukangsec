@@ -286,6 +286,20 @@ Mathematics and/or Science at a more demanding level</p>
 <p>G2</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <ul data-tight="true" class="tight">
@@ -298,8 +312,104 @@ in these subjects at Secondary One.</p>
 <p></p>
 </li>
 </ul>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="4">
+<p>Eligibility criteria</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Humanities Level at Secondary One</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Humanities Subjects</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School-based assessment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Option to offer Humanities at a more demanding level from Secondary Two:</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>G2</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Geography</p>
+</li>
+<li>
+<p>History</p>
+</li>
+<li>
+<p>Literature in English</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aptitude and interest for specific subject</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>G3 Geography, History and/or Literature in English (i.e., can offer one
+or more Humanities subjects at a more demanding level)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>G1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Humanities</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Social Studies component</p>
+</li>
+<li>
+<p>Humanities Exposure Modules (HEMs) in Geography, History and Literature
+in English</p>
+</li>
+</ul>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aptitude in English and G1 Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>G2 Geography, History and/or Literature in English (i.e., can offer one
+or more Humanities subjects at a more demanding level)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>• Under Full SBB, the GCE ‘N’ and ‘O’ Level examinations will be replaced
+with the new Singapore-Cambridge Secondary Education Certificate (SEC)
+examinations. This will apply for the 2024 Secondary One cohort. From 2027,
+the national certification will reflect the subject level at which each
+subject is taken.</p>
 <p></p>
 <p></p>
 <p></p>
