@@ -10,9 +10,8 @@ third_nav_title: 2025 School Events
 <p><strong>FREQUENTLY ASKED QUESTIONS (FAQs)</strong>
 <br>
 </p>
-<p><strong>1. CUT-OFF POINTS</strong>
-</p>
-<p>1.1&nbsp; What is the school’s indicative PSLE Score range?</p>
+<h3><strong>1. CUT-OFF POINTS</strong></h3>
+<h4>1.1&nbsp; What is the school’s indicative PSLE Score range?</h4>
 <p>Based on students posted to Sec 1 in 2025:</p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -73,13 +72,8 @@ third_nav_title: 2025 School Events
 to the school. The current year’s PSLE Score ranges may vary, depending
 on the demand pattern and cohort size.</p>
 <p>&nbsp;</p>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong>SCHOOL HOURS</strong>
-</p>
-</li>
-</ol>
-<p>2.1 What are the school’s start and end times?</p>
+<h3><strong>2. SCHOOL HOURS</strong></h3>
+<h4>2.1 What are the school’s start and end times?</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Morning flag-raising will begin at 0800. Students must be punctual for
@@ -89,27 +83,16 @@ to 3.30pm.</p>
 </li>
 </ul>
 <p></p>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p><strong>NUMBER OF SEC 1 CLASSES FOR 2025</strong>
-</p>
-</li>
-</ol>
-<p><strong>3.1 How many classes are there for Secondary 1 in 2025?</strong>
-</p>
+<h3><strong>3. NUMBER OF SEC 1 CLASSES FOR 2025</strong></h3>
+<h4><strong>3.1 How many classes are there for Secondary 1 in 2025?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>In 2024, we had 8 Full Subject Based Banding (FSBB) classes. They were
 mixed classes of students taking subjects at G1, G2 and G3 levels.</p>
 </li>
 </ul>
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p><strong>HIGHER MOTHER TONGUE LANGUAGES (HMTL) – FOR STUDENTS TAKING G3 MTL ONLY</strong>
-</p>
-</li>
-</ol>
-<p>4.1 Does CCKSS offer Higher MT languages for CL, ML &amp; TL?</p>
+<h3><strong>4. HIGHER MOTHER TONGUE LANGUAGES (HMTL) – FOR STUDENTS TAKING G3 MTL ONLY</strong></h3>
+<h4>4.1 Does CCKSS offer Higher MT languages for CL, ML &amp; TL?</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>CCKSS offers HMTL to students in the G3 course of study who are competent
@@ -126,7 +109,7 @@ not need to travel to other centres to take HMTL.</p>
 before they can be offered HMTL.</p>
 </li>
 </ul>
-<p>4.2 Other Important Information:</p>
+<h4>4.2 Other Important Information:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>HMTL lessons are conducted in school. Students will attend 4 hours of
@@ -154,9 +137,43 @@ is better.</p>
 However, this arrangement is reviewed on a yearly basis.</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<h3><strong>5. SUBJECT ALLOCATION </strong></h3>
+<h4>5.1	How many subjects are offered at Sec 3?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>The maximum number of subjects offered for 2025 was 7.</p>
+</li>
+<li>
+<p>The subjects offered at Sec 3 (predominantly G3) students in 2025 are
+English Language, Mother Tongue, Higher Mother Tongue, Mathematics, Additional
+Mathematics, Principles of Accounts, Pure Science (Chemistry, Physics,
+Biology), Combined Science (Physics/Chemistry or Chemistry/Biology), Humanities
+(Core History, Social Studies with Elective History, Elective Geography,
+Elective Literature) and Coursework Subjects (Art, Design &amp; Technology
+or Nutrition &amp; Food Science).</p>
+</li>
+<li>
+<p>The subjects offered at Sec 3 (predominantly G2) in 2025 were English
+Language, Mother Tongue, Mathematics, Additional Mathematics, Principles
+of Accounts and Combined Sciences (Physics/Chemistry or Chemistry/Biology),
+Humanities (Social Studies with Elective Geography/Elective History) and
+Coursework Subjects (Art, Design &amp; Technology and Nutrition &amp; Food
+Science).</p>
+</li>
+<li>
+<p>The subjects offered at Sec 3 (predominantly G1) in 2025 were English
+Language, Basic Mother Tongue, Mathematics, Science, Computing, Elements
+of Business Skills. In addition, Social Studies and Humanities Exposure
+Modules (Geography, History &amp; Literature) are offered as non-examinable
+subjects.</p>
+</li>
+<li>
+<p>The allocation of subject combinations will depend on the students’ eligibility
+for respective options based on their academic performance and choice as
+well as the availability of school resources.</p>
+</li>
+</ul>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
