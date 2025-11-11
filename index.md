@@ -17,7 +17,7 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/useful-links
-      background: /images/2023 Design/Homepage Banner/HomePage Banner v5.gif
+      background: /images/3.png
   - resources:
       title: Announcements
       button: Click here for more
