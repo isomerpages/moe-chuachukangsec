@@ -440,8 +440,8 @@ students' digital literacies.</p>
 <p>We have 18 CCAs in total.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Performing Arts: Concert Band, English Drama Club and Modern Dance and
-Guitar Ensemble.</p>
+<p>Performing Arts: Concert Band, English Drama Club, Modern Dance and Guitar
+Ensemble.</p>
 </li>
 <li>
 <p>Uniformed Groups: Girl Guides, National Cadet Corps, National Police Cadet
@@ -452,7 +452,7 @@ Corps and Scouts.</p>
 Netball (Girls) and Taekwondo &amp; Wushu.</p>
 </li>
 <li>
-<p>Clubs &amp; Societies: Environmental Science Infocomm Technology (Media
+<p>Clubs &amp; Societies: Environmental Science, Infocomm Technology (Media
 Production) and Robotics.</p>
 </li>
 </ul>
