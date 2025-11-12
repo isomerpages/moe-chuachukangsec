@@ -5,7 +5,92 @@ variant: tiptap
 description: ""
 third_nav_title: Global Connect Programme
 ---
-<h1><strong>2024 Global Connect Trip to Chiang Rai, Thailand</strong></h1>
+<h2><strong>2025 Global Connect Trip to Chiang Rai, Thailand</strong></h2>
+<p>Our largest overseas learning journey to date unfolded over six days and
+five nights in Chiang Rai, Thailand, where 62 students and 9 staff embarked
+on a comprehensive cultural and community engagement experience. With the
+cohort split between two partner institutions—Srinagarindra The Princess
+Mother School (SWPY) and Phusangwittayakhom School (PWK)—the programme
+offered an exceptional opportunity to appreciate northern Thai culture,
+heritage, and traditions.</p>
+<p>At both partner schools, our students were warmly welcomed by the Thai
+educators and students. Instead of traditional classroom immersion, the
+itinerary focused on a structured series of cultural appreciation workshops
+designed to deepen understanding of the customs and practices of the Chiang
+Rai region. Students participated in Loy Krathong crafting to learn the
+significance of this important festival, created Lanna lanterns to explore
+the symbolism of light in Lanna culture, and engaged in Muay Thai fitness
+sessions that introduced them to key techniques of Thailand’s national
+martial art. They also prepared the traditional Khanom Tian dessert and
+experienced the Sabad Chai Victory Drum, gaining deeper appreciation of
+its ceremonial importance. These workshops allowed students to develop
+meaningful interactions with local peers while experiencing Thai artistic,
+culinary, and performance traditions firsthand. Enjoy a lovely video from
+our friends at Phusangwittayakhom School:</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQMwoO1ud2JSZ4Il4_RvvR66JY8X-8szM5b1B5_L9xMNK5ledS4_iupjw4jX0i5bgFisMvV3VZ1cTNw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>Beyond the school-based activities, the group explored several of Chiang
+Rai’s most notable cultural and historical sites. At the White Temple (Wat
+Rong Khun), students observed the intricate craftsmanship and contemporary
+symbolism embedded in its architecture. The Blue Temple (Wat Rong Suea
+Ten) offered a vivid display of modern sacred design, while the Chiang
+Rai Skywalk provided sweeping views of the Mekong River and the surrounding
+borderlands. Visits to the Mae Sai Border and the Golden Triangle exposed
+students to the dynamics of cross-border exchange and the historical significance
+of this tri-border region. A respectful visit to the Long Neck Village
+introduced students to the heritage and artistic traditions of the Karen
+ethnic community.</p>
+<p>A particularly memorable component of the journey was the hands-on culinary
+experience at Suwanee Cooking School. Here, students learned to prepare
+Pad Thai and Tom Yam soup, gaining practical exposure to foundational Thai
+cooking techniques and flavour profiles. Many expressed pride in being
+able to create full dishes from scratch under the guidance of local instructors.</p>
+<p>Managing an overseas trip of this scale, involving 62 students and 9 staff,
+was a significant milestone for the school. The students demonstrated adaptability,
+cooperation, and respect throughout the journey, contributing to a smooth
+and enriching experience for all. This 6D5N Chiang Rai immersion strengthened
+ties with SWPY and PWK, deepened students’ appreciation of Thai culture,
+and reinforced the value of overseas experiential learning. It remains
+a meaningful and formative chapter in their development as globally aware
+and culturally confident learners. Catch the fun content on our social
+media! Join us next year for the 2026 trip!</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Freel%2F701914035808654%2F&amp;show_text=true&amp;width=267&amp;t=0"></iframe>
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1834201097489849%2F&amp;show_text=true&amp;width=267&amp;t=0"></iframe>
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Freel%2F767934606281791%2F&amp;show_text=true&amp;width=267&amp;t=0"></iframe>
+</div>
+</th>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1361205132322753%2F&amp;show_text=true&amp;width=267&amp;t=0"></iframe>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRR70vgmiGCOR31PtHc0D0_LXm8rM2NiIVPSjXKzKhvA9E8OTXGSU2rM2GInKJi5ZQ5rHdEssSRCQfX/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h2><strong>2024 Global Connect Trip to Chiang Rai, Thailand</strong></h2>
 <p>Our recent 6 days 5 nights overseas trip to Chiang Rai, Thailand was an
 enriching and unforgettable experience. Known for its stunning landscapes
 and cultural landmarks, Chiang Rai offered the perfect backdrop for learning
@@ -30,13 +115,13 @@ closer, creating bonds that will last a lifetime.</p>
 <p>This journey to Chiang Rai was not just a geographical excursion but a
 meaningful cultural exchange and learning opportunity. It left all participants
 with cherished memories and a deeper appreciation for the beauty and diversity
-of Thailand.</p>
+of Thailand. Join us next year for the 2025 trip!</p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQpwiKkVIMV1vqSH17dlm6RJM8BtvDaKPuAnKTKqEO15BEUbICEwsExmjYS5ElUN8QbT7ufSNJRGWty/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Check out our <a href="https://www.facebook.com/CCKSians" rel="noopener noreferrer nofollow" target="_blank">Facebook Page</a> &amp;
 <a href="https://www.instagram.com/cckssofficial/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>for more of our trip highlights!</p>
-<h1><strong>2023 Global Connect Trip to Chiang Rai, Thailand</strong></h1>
+<h2><strong>2023 Global Connect Trip to Chiang Rai, Thailand</strong></h2>
 <p>Our first ever batch of CCKSians embarked on the school's first overseas
 trip in November 2023 to Chiang Rai, Thailand. We were excited to bring
 our Student Councillors to visit their counterparts at Srinagarindra The
