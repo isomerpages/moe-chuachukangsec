@@ -88,7 +88,7 @@ to 3.30pm.</p>
 <h4>3.1 How many classes are there for Secondary 1 in 2025?</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>In 2024, we had 8 Full Subject Based Banding (FSBB) classes. They were
+<p>In 2025, we had 8 Full Subject Based Banding (FSBB) classes. They were
 mixed classes of students taking subjects at G1, G2 and G3 levels.</p>
 </li>
 </ul>
@@ -440,8 +440,8 @@ students' digital literacies.</p>
 <p>We have 18 CCAs in total.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Performing Arts: Concert Band, Drama Club and Modern Dance and Guitar
-Ensemble.</p>
+<p>Performing Arts: Concert Band, English Drama Club and Modern Dance and
+Guitar Ensemble.</p>
 </li>
 <li>
 <p>Uniformed Groups: Girl Guides, National Cadet Corps, National Police Cadet
