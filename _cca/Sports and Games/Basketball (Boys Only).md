@@ -28,7 +28,7 @@ variant: tiptap
 <p>Overall Teacher in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Catherine Rajindran</p>
+<p>Ms Catherine Rajindran (IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:catherine_rajindran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">catherine_rajindran@schools.gov.sg</a>
