@@ -40,22 +40,10 @@ variant: tiptap
 <p>Teachers in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Kar Keat</p>
+<p>Mdm Chitra Murugan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_kar_keat@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_kar_keat@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Xie Xinyi Elspeth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:xie_xinyi@schools.gov.sg" rel="noopener nofollow" target="_blank">xie_xinyi@schools.gov.sg</a>
+<p><a href="mailto:chitra_murugan@schools.gov.sg" rel="noopener nofollow" target="_blank">chitra_murugan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
