@@ -52,6 +52,18 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Lim Kar Keat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_kar_keat@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_kar_keat@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Elodie Sng Qian Jin</p>
 </td>
 <td rowspan="1" colspan="1">
