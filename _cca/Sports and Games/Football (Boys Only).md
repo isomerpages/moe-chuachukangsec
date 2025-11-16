@@ -28,7 +28,7 @@ variant: tiptap
 <p>Overall Teacher in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Rick Chan</p>
+<p>Mr Rick Chan (IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_whye_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_whye_leong@schools.gov.sg</a>
@@ -40,7 +40,7 @@ variant: tiptap
 <p>Teachers in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Andrew Tan</p>
+<p>Mr Andrew Tan (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_jia_en_andrew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jia_en_andrew@schools.gov.sg</a>
