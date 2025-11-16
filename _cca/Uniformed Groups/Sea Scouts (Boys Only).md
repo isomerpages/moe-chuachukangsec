@@ -28,10 +28,10 @@ variant: tiptap
 <p>Overall Teacher in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tang Shao Wei Alan</p>
+<p>Mr Chai Jun Yang (IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tang_shao_wei_alan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_shao_wei_alan@schools.gov.sg</a>
+<p><a href="mailto:chai_jun_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chai_jun_yang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -40,10 +40,10 @@ variant: tiptap
 <p>Teachers in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Chai Pin Yuen Kwong Bertrand</p>
+<p>Mr Tang Shao Wei Alan (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chai_pin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chai_pin@schools.gov.sg</a>
+<p><a href="mailto:tang_shao_wei_alan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_shao_wei_alan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -52,10 +52,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chai Jun Yang</p>
+<p>Mr Lee Chai Pin Yuen Kwong Bertrand</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chai_jun_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chai_jun_yang@schools.gov.sg</a>
+<p><a href="mailto:lee_chai_pin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chai_pin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
