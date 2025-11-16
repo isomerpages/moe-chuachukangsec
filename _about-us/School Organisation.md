@@ -543,7 +543,7 @@ variant: tiptap
 <p>Senior Teacher (Social Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Vena Chan</p>
+<p>Mrs Vena Foo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_gek_chu_vena@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_gek_chu_vena@schools.gov.sg</a>
