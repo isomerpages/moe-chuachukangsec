@@ -192,7 +192,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (Student Management)&nbsp;(Internal)</p>
+<p>HOD (Student Management)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kumaravel S/O Thangavel</p>
