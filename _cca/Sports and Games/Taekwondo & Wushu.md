@@ -25,7 +25,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Overall Teacher in charge</p>
+<p>Overall Teacher in charge (Taekwondo)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Daniel Chan Wei Min (IC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:danial_chan_wei_min@schools.gov.sg" rel="noopener nofollow" target="_blank">danial_chan_wei_min@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teachers in charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Teh-Ooi Lay Bee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teh-ooi_lay_bee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teh-ooi_lay_bee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Overall Teacher in charge (Wushu)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Meng Teck (IC)</p>
@@ -40,34 +64,22 @@ variant: tiptap
 <p>Teachers in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Chan Wei Min (2IC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:danial_chan_wei_min@schools.gov.sg" rel="noopener nofollow" target="_blank">danial_chan_wei_min@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Teh-Ooi Lay Bee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teh-ooi_lay_bee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teh-ooi_lay_bee@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Santhi d/o Krishnasamy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:santhi_krishnasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">santhi_krishnasamy@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Christine Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_wei_peng@schools.gov.sg" rel="noopener nofollow" target="_blank">wong_wei_peng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
