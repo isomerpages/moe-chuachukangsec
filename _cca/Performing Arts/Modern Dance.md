@@ -28,7 +28,7 @@ variant: tiptap
 <p>Overall Teacher in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ifa Hanifah (IC)</p>
+<p>Mdm Ifa Hanifah (I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ifa_hanifah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ifa_hanifah@schools.gov.sg</a>
@@ -40,7 +40,7 @@ variant: tiptap
 <p>Teachers in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Komala Narayanan (2IC)</p>
+<p>Ms Komala Narayanan (2I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:komala_narayanan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">komala_narayanan@schools.gov.sg</a>
