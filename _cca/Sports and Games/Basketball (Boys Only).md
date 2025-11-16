@@ -47,18 +47,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chitra Murugan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chitra_murugan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chitra_murugan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong>About Us</strong>
