@@ -40,10 +40,10 @@ third_nav_title: Performing Arts
 <p>Teachers in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Christine Wong (2IC)</p>
+<p>Dr Thinesh A/L Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_wei_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wei_peng@schools.gov.sg</a>
+<p><a href="mailto:thinesh_subramaniam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thinesh_subramaniam@schools.gov.sg</a>
 </p>
 </td>
 </tr>

@@ -5,13 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 School Events
 ---
-<p><strong>OPEN HOUSE 2025</strong>
-</p>
-<p><strong>FREQUENTLY ASKED QUESTIONS (FAQs)</strong>
-<br>
-</p>
+<h3><strong>OPEN HOUSE 2025 FREQUENTLY ASKED QUESTIONS (FAQs)</strong></h3>
 <h3><strong>1. CUT-OFF POINTS</strong></h3>
-<h4>1.1&nbsp; What is the school’s indicative PSLE Score range?</h4>
+<h4><strong>1.1&nbsp; What is the school’s indicative PSLE Score range?</strong></h4>
 <p>Based on students posted to Sec 1 in 2025:</p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -51,20 +47,6 @@ third_nav_title: 2025 School Events
 <p>25-27</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong>Remarks:</strong>
@@ -72,9 +54,8 @@ third_nav_title: 2025 School Events
 <p>Meeting the indicative cut-off point (COP) does not guarantee admission
 to the school. The current year’s PSLE Score ranges may vary, depending
 on the demand pattern and cohort size.</p>
-<p>&nbsp;</p>
-<h3>2. SCHOOL HOURS</h3>
-<h4>2.1 What are the school’s start and end times?</h4>
+<h3><strong>2. SCHOOL HOURS</strong></h3>
+<h4><strong>2.1 What are the school’s start and end times?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Morning flag-raising will begin at 0800. Students must be punctual for
@@ -83,17 +64,16 @@ to prepare for the school day. Lessons will generally end between 2.30pm
 to 3.30pm.</p>
 </li>
 </ul>
-<p></p>
-<h3>3. NUMBER OF SEC 1 CLASSES FOR 2025</h3>
-<h4>3.1 How many classes are there for Secondary 1 in 2025?</h4>
+<h3><strong>3. NUMBER OF SEC 1 CLASSES FOR 2025</strong></h3>
+<h4><strong>3.1 How many classes are there for Secondary 1 in 2025?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>In 2025, we had 8 Full Subject Based Banding (FSBB) classes. They were
 mixed classes of students taking subjects at G1, G2 and G3 levels.</p>
 </li>
 </ul>
-<h3>4. HIGHER MOTHER TONGUE LANGUAGES (HMTL) – FOR STUDENTS TAKING G3 MTL ONLY</h3>
-<h4>4.1 Does CCKSS offer Higher MT languages for CL, ML &amp; TL?</h4>
+<h3><strong>4. HIGHER MOTHER TONGUE LANGUAGES (HMTL) – FOR STUDENTS TAKING G3 MTL ONLY</strong></h3>
+<h4><strong>4.1 Does CCKSS offer Higher MT languages for CL, ML &amp; TL?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>CCKSS offers HMTL to students in the G3 course of study who are competent
@@ -110,7 +90,7 @@ do not need to travel to other centres to take HMTL.</p>
 before they can be offered HMTL.</p>
 </li>
 </ul>
-<h4>4.2 Other Important Information:</h4>
+<h4><strong>4.2 Other Important Information:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>HMTL lessons are conducted in school. Students will attend 4 hours of
@@ -137,8 +117,8 @@ either the HMT or MT grade for the computation of R5/R4, whichever is better.</p
 However, this arrangement is reviewed on a yearly basis.</p>
 </li>
 </ul>
-<h3>5. SUBJECT ALLOCATION</h3>
-<h4>5.1 How many subjects are offered at Sec 3?</h4>
+<h3><strong>5. SUBJECT ALLOCATION</strong></h3>
+<h4><strong>5.1 How many subjects are offered at Sec 3?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>The maximum number of subjects offered for 2025 was 7.</p>
@@ -173,13 +153,11 @@ for respective options based on their academic performance and choice as
 well as the availability of school resources.</p>
 </li>
 </ul>
-<p></p>
 <p><sup>1</sup>Students who opt for Core History must take up Combined Humanities
 (Social Studies and Elective Geography or Elective Literature); students
 who opt for Core Geography must take up Combined Humanities (Social Studies
 and Elective History or Elective Literature)</p>
-<p></p>
-<h3>6.FULL SUBJECT BASED BANDING</h3>
+<h3><strong>6.FULL SUBJECT BASED BANDING</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>As part of MOE’s ongoing efforts to nurture the joy of learning and develop
@@ -414,8 +392,8 @@ with the new Singapore-Cambridge Secondary Education Certificate (SEC)
 examinations. This will apply for the 2024 Secondary One cohort. From 2027,
 the national certification will reflect the subject level at which each
 subject is taken.</p>
-<h3>7. PERSONAL LEARNING DEVICE (PLD)</h3>
-<h4>7.1 Will my child / ward get a Personal Learning Device next year?</h4>
+<h3><strong>7. PERSONAL LEARNING DEVICE (PLD)</strong></h3>
+<h4><strong>7.1 Will my child / ward get a Personal Learning Device next year?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>As part of the National Digital Literacy Programme, every secondary student
@@ -433,10 +411,8 @@ in schools, PLDs will better support teaching and learning and develop
 students' digital literacies.</p>
 </li>
 </ul>
-<p></p>
-<p></p>
-<h3>8. CO-CURRICULAR ACTIVITIES (CCAs)</h3>
-<h4>8.1 How many CCAs are there?</h4>
+<h3><strong>8. CO-CURRICULAR ACTIVITIES (CCAs)</strong></h3>
+<h4><strong>8.1 How many CCAs are there?</strong></h4>
 <p>We have 18 CCAs in total.</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -456,7 +432,7 @@ Netball (Girls) and Taekwondo &amp; Wushu.</p>
 Production) and Robotics.</p>
 </li>
 </ul>
-<h4>8.2 Are CCAs compulsory?</h4>
+<h4><strong>8.2 Are CCAs compulsory?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Yes. The school believes in providing a holistic education for our students
@@ -469,18 +445,17 @@ to participate in one CCA.</p>
 made. Approval to change CCA will be given on a case-by-case basis.</p>
 </li>
 </ul>
-<h4>8.3 What are CCA hours like?</h4>
+<h4><strong>8.3 What are CCA hours like?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Every Wednesday: 1500 to 1730</p>
 </li>
 <li>
 <p>Every Friday: 1415 to 1730</p>
-<p></p>
 </li>
 </ul>
-<h3>9. SPECIAL PROGRAMMES</h3>
-<h4>9.1 What Special Programmes are offered in CCKSS?</h4>
+<h3><strong>9. SPECIAL PROGRAMMES</strong></h3>
+<h4><strong>9.1 What Special Programmes are offered in CCKSS?</strong></h4>
 <p><strong><u>Applied Learning Programme (ALP): Sustainable Living for a Resilient Future</u></strong>
 </p>
 <p><strong>Overview:</strong>
@@ -523,7 +498,6 @@ adaptability, critical thinking, and inventiveness.</p>
 problems using design thinking.</p>
 </li>
 </ul>
-<p></p>
 <p><strong>Tiered Development (5 Es):</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -540,7 +514,6 @@ and brainstorm diverse solutions with a focus on empathy and exploration.</p>
 sustainable solutions through hands-on experimentation.</p>
 </li>
 </ul>
-<p></p>
 <p><strong><u>Orchid Hybridisation Programme (Biology)</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -580,7 +553,6 @@ By blending learning with exploration, VR sparks curiosity, expands horizons,
 and enriches education in ways previously unimaginable.</p>
 </li>
 </ul>
-<p></p>
 <p><strong><u>Learning for Life Programme (LLP): Community Youth Leadership</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -631,11 +603,9 @@ These will enable students to</p>
 <p>Appreciate Singapore’s unique challenges and responses.</p>
 </li>
 </ul>
-<p></p>
 <p>Participants consistently share that the programme strengthened their<strong> resilience, respect</strong> and <strong>intercultural understanding</strong>.</p>
-<p></p>
-<h3>10. TRANSPORTATION &amp; TRAFFIC</h3>
-<h4>10.1 What is the traffic condition like outside school in the morning?</h4>
+<h3><strong>10. TRANSPORTATION &amp; TRAFFIC</strong></h3>
+<h4><strong>10.1 What is the traffic condition like outside school in the morning?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>We are situated along a belt of schools. The schools along this belt have
@@ -647,15 +617,15 @@ so that they arrive at school punctually and are in a better frame of mind
 for the school day ahead.</p>
 </li>
 </ul>
-<h4>10.2 Where can I drop my child / ward off in the morning if I am driving?</h4>
+<h4><strong>10.2 Where can I drop my child / ward off in the morning if I am driving?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Parents / guardians can drop their child / ward off along at the designated
 drop-off point inside the school, after the school gate.</p>
 </li>
 </ul>
-<h3>11. GENERAL DISCIPLINE AND SCHOOL TONE</h3>
-<h4>11.1 How is the discipline of the students in school like?</h4>
+<h3><strong>11. GENERAL DISCIPLINE AND SCHOOL TONE</strong></h3>
+<h4><strong>11.1 How is the discipline of the students in school like?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>The school discipline tone is positive, with established systems and strong
@@ -672,7 +642,7 @@ of the students in their respective levels with support from the Student
 Management Committee.</p>
 </li>
 </ul>
-<h4>11.2 Is the environment in the school conducive for studying?</h4>
+<h4><strong>11.2 Is the environment in the school conducive for studying?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>We constantly encourage and motivate our students to give their best and
@@ -688,7 +658,7 @@ towards cultivating a strong learning culture here in CCKSS.</p>
 use of study tables and chairs located outside the Computer Labs.</p>
 </li>
 </ul>
-<h4>11.3 Are handphones allowed in the school?</h4>
+<h4><strong>11.3 Are handphones allowed in the school?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students learn well when there is order, discipline and minimal distraction.
@@ -717,9 +687,8 @@ her to return a call as soon as he / she reads the message after school
 dismissal.</p>
 </li>
 </ul>
-<p></p>
-<h3>12. TEACHERS</h3>
-<h4>12.1 How are the teaching staff like?</h4>
+<h3><strong>12. TEACHERS</strong></h3>
+<h4><strong>12.1 How are the teaching staff like?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Our teachers are caring and committed to bring out the best in our students.
@@ -732,39 +701,31 @@ among our teachers and this translates into better teaching and learning
 practices for our students.</p>
 </li>
 </ul>
-<h3>13. COMMUNICATION CHANNELS WITH PARENTS / GUARDIANS</h3>
-<h4>13.1 How can parents / guardians be kept informed of school events and activities?</h4>
+<h3><strong>13. COMMUNICATION CHANNELS WITH PARENTS / GUARDIANS</strong></h3>
+<h4><strong>13.1 How can parents / guardians be kept informed of school events and activities?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Parents / gradians can be kept informed of school events and activities
 via the school website or through messages on Parents Gateway.</p>
 </li>
 </ul>
-<h4>13.2 What are some communication channels between parents / guardians and the school?</h4>
+<h4><strong>13.2 What are some communication channels between parents / guardians and the school?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Parents / guardians are welcome to call the school’s General Office (Tel:
 67691386) should they have any queries.</p>
 </li>
 </ul>
-<h4>13.3 Is there a Parent Support Group (PSG)?</h4>
+<h4><strong>13.3 Is there a Parent Support Group (PSG)?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Yes, there is a Parent Support Group which parents may consider joining.
 CCKSS PSG provides a network for parents to share best practices in supporting
 their children’s passion in learning, support the school programmes and
 be equipped by attending relatable workshops pertaining to parenting.</p>
+<p></p>
 </li>
 </ul>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>

@@ -28,7 +28,7 @@ variant: tiptap
 <p>Overall Teacher in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Catherine Rajindran</p>
+<p>Ms Catherine Rajindran (IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:catherine_rajindran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">catherine_rajindran@schools.gov.sg</a>
@@ -44,18 +44,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">pua_lee_too@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chitra Murugan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chitra_murugan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chitra_murugan@schools.gov.sg</a>
 </p>
 </td>
 </tr>

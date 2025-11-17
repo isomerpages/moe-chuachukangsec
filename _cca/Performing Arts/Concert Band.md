@@ -52,22 +52,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ernawati Shaffie Othman</p>
+<p>Mr Benjamin Pooi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ernawati_shaffie_othman@schools.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ernawati_shaffie_othman@schools.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Masayu Aziza Masagos Ahmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:masayu_aziza_masagos_ahmad@schools.edu.sg" rel="noopener noreferrer nofollow" target="_blank">masayu_aziza_masagos_ahmad@schools.gov.sg</a>
+<p><a href="mailto:pooi_ming_shurn_benjamin@schools.gov.sg" rel="noopener nofollow" target="_blank">pooi_ming_shurn_benjamin@schools.gov.sg</a>
 </p>
 </td>
 </tr>

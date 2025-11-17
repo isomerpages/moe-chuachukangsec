@@ -192,7 +192,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (Student Management)&nbsp;(Internal)</p>
+<p>HOD (Student Management)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kumaravel S/O Thangavel</p>
@@ -543,7 +543,7 @@ variant: tiptap
 <p>Senior Teacher (Social Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Vena Chan</p>
+<p>Mrs Vena Foo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_gek_chu_vena@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_gek_chu_vena@schools.gov.sg</a>
@@ -595,6 +595,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:t_rengasamy_ragavel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">t_rengasamy_ragavel@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamad Ismail Haron</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Mohamad_Ismail_Haron@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mohamad_Ismail_Haron@schools.gov.sg</a>
 </p>
 </td>
 </tr>
