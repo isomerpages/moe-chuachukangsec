@@ -4,8 +4,13 @@ permalink: /students/booklist/
 description: ""
 variant: tiptap
 ---
-<h5></h5>
-<p></p>
+<h5>Secondary 1</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Students/2026 BookList/S1.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
+</p>
+</li>
+</ul>
 <h5>Secondary 2</h5>
 <ul data-tight="true" class="tight">
 <li>
