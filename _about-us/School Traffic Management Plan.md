@@ -57,7 +57,7 @@ within school premises.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Buses: 190, 975, 985 (4-6 mins walk from nearest bus stop)</p>
+<p>Buses: 190, 975, 985, 982E and 984 (4-6 mins walk from nearest bus stop)</p>
 </li>
 <li>
 <p>Bus 983M: School term weekdays only, arrives at the school at <strong>6:59 AM</strong> and <strong>7:19 AM</strong> respectively</p>
