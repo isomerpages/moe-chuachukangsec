@@ -6,14 +6,14 @@ description: ""
 ---
 <ol data-tight="true" class="tight">
 <li>
-<p>The results of the 2025 GCE N-Level Examination will be released on Thursday,
-18 December 2025 at 2.00 p.m.</p>
+<p>The results of the 2025 GCE N-Level Examination will be released on <strong><u>Thursday, 18 December 2025 at 2.00 p.m.</u></strong>
+</p>
 </li>
 <li>
 <p>All 4 Normal (Academic) &amp; 4 Normal (Technical) students receiving
-their results are to report to the School Hall by 1.30 p.m. Students are
-to be in their school uniform and observe proper decorum. Students who
-turn up in improper attire and/or with coloured hair will not be allowed
+their results are to report to the <strong><u>School Hall</u></strong> by <strong><u>1.30 p.m.</u></strong> Students
+are to be in their school uniform and observe proper decorum. Students
+who turn up in improper attire and/or with coloured hair will not be allowed
 to collect their results with the rest of the students. They will instead
 be required to collect their results at another venue after the main group
 has collected their results.</p>
@@ -51,14 +51,17 @@ your child/ward: <a href="http://go.gov.sg/nlevel-selparentresources" rel="noope
 </p>
 </li>
 <li>
-<p>Letter of Authorisation (Appointment of proxy for school candidates who
-are unable to collect their results in person)</p>
+<p><strong><a href="/files/Students/2025 N Level Release/N_Level___Letter_of_Authorisation_2025_CCKSS.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter of Authorisation</a></strong> (Appointment
+of proxy for school candidates who are unable to collect their results
+in person)</p>
 </li>
 <li>
-<p>Polytechnic Foundation Programme (PFP) Factsheet for students</p>
+<p><strong><a href="/files/Students/2025 N Level Release/2025_PFP_Factsheet_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Polytechnic Foundation Programme (PFP) Factsheet</a></strong> for
+students</p>
 </li>
 <li>
-<p>Direct-Entry Scheme to Polytechnic Programme (DPP) Factsheet for students</p>
+<p><strong><a href="/files/Students/2025 N Level Release/2025_DPP_Factsheet_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Direct-Entry Scheme to Polytechnic Programme (DPP) Factsheet </a></strong>for
+students</p>
 <p></p>
 </li>
 </ul>
