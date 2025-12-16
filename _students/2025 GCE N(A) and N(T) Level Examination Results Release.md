@@ -51,16 +51,16 @@ your child/ward: <a href="http://go.gov.sg/nlevel-selparentresources" rel="noope
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Students/2025 N Level Release/N_Level___Letter_of_Authorisation_2025_CCKSS.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter of Authorisation</a></strong> (Appointment
+<p><a href="/files/Students/2025 N Level Release/N_Level___Letter_of_Authorisation_2025_CCKSS.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter of Authorisation</a> (Appointment
 of proxy for school candidates who are unable to collect their results
 in person)</p>
 </li>
 <li>
-<p><strong><a href="/files/Students/2025 N Level Release/2025_PFP_Factsheet_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Polytechnic Foundation Programme (PFP) Factsheet</a></strong> for
+<p><a href="/files/Students/2025 N Level Release/2025_PFP_Factsheet_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Polytechnic Foundation Programme (PFP) Factsheet</a> for
 students</p>
 </li>
 <li>
-<p><strong><a href="/files/Students/2025 N Level Release/2025_DPP_Factsheet_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Direct-Entry Scheme to Polytechnic Programme (DPP) Factsheet </a></strong>for
+<p><a href="/files/Students/2025 N Level Release/2025_DPP_Factsheet_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Direct-Entry Scheme to Polytechnic Programme (DPP) Factsheet</a><strong><a href="/files/Students/2025 N Level Release/2025_DPP_Factsheet_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a></strong>for
 students</p>
 <p></p>
 </li>
