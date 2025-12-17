@@ -44,7 +44,18 @@ description: ""
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Transfer Appeals for Sec 1 2026 (Non Medical)</p>
+<p>Transfer Appeals for Sec 1 2026 (Medical)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please proceed directly to General Office to apply.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Transfer Appeals for Sec 1 2026 (Non-Medical)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/sec1transfercckss-2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1transfercckss-2026</a>
@@ -53,7 +64,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Purchase of books and sale of uniforms</p>
