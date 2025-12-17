@@ -41,7 +41,7 @@ proceed to the General Office to complete the appeal form.</p>
 <p></p>
 <h4><u>Transfer Into Chua Chu Kang Secondary School</u></h4>
 <p>To appeal for transfer into Chua Chu Kang Secondary School, please click
-on the link below to submit your appeal for transfer by <strong>12 pm on 23 December 2025</strong>.
+on the link below to submit your appeal for transfer by <strong>12 pm on 26 December 2025</strong>.
 Please note that applicants for transfer will be considered based on the
 cut-off point (COP) of the Posting Group that student is in and available
 vacancies. Applicants will be put on the waiting list after the submission
