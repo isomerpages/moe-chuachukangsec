@@ -100,7 +100,7 @@ the growth of every child in our school.</p>
 <p>Mr Kumaravel Thangavel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Student Management (Internal)</p>
+<p>HOD Student Management</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
