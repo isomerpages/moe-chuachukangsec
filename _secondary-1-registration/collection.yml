@@ -1,5 +1,5 @@
 collections:
-  secondary-1-registration-day:
+  secondary-1-registration:
     output: true
     order:
       - Welcome to Chua Chu Kang Secondary School.md
