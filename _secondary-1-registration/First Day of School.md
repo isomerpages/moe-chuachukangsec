@@ -34,8 +34,8 @@ However, students are required to bring along the following:</p>
 </li>
 </ul>
 <p>If your child is unwell or has flu-like symptoms on first day of school,
-please call the school</p>
-<p>at <strong>6769 1386 </strong>to inform that he/she is unwell</p>
+please call the school at <strong>6769 1386 </strong>to inform that he/she
+is unwell.</p>
 <h4>Sec 1 Orientation Programme (2 and 5 Jan 2026)</h4>
 <table style="minWidth: 75px">
 <colgroup>
