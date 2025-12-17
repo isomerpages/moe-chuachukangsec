@@ -29,19 +29,17 @@ subject to slots availability.</p>
 <p>The school year will start on&nbsp;<strong>2 January 2025</strong>. Click
 on the (<strong>link</strong>) to find out more on the first day of school
 and Sec 1 Orientation programme.&nbsp;</p>
-<h4>School Transfer Appeals After Release of Sec 1 Posting</h4>
+<h4><u>School Transfer Appeals After Release of Sec 1 Posting</u></h4>
 <p>Transfer requests into or out of Chua Chu Kang Secondary School following
 the Secondary 1 Posting results are subject to special considerations and
 circumstances (eg: medical conditions) and available vacancies.</p>
-<p><strong><u>Transfer Out of Chua Chu Kang Secondary School (Medical Reasons)</u></strong>
-</p>
+<h4><u>Transfer Out of Chua Chu Kang Secondary School (Medical Reasons)</u></h4>
 <p>Students who require a transfer due to serious medical conditions or severe
 physical impairments, may appeal directly to Chua Chu Kang Secondary School
 by <strong>12 pm on 20 December 2025</strong>. Parents/Guardians are to
 proceed to the General Office to complete the appeal form.</p>
 <p></p>
-<p><strong><u>Transfer Into Chua Chu Kang Secondary School</u></strong>
-</p>
+<h4><u>Transfer Into Chua Chu Kang Secondary School</u></h4>
 <p>To appeal for transfer into Chua Chu Kang Secondary School, please click
 on the link below to submit your appeal for transfer by <strong>12 pm on 23 December 2025</strong>.
 Please note that applicants for transfer will be considered based on the
@@ -51,8 +49,7 @@ of transfer request. While on the waiting list, students must report to
 their current posted school.</p>
 <p>Link: <a href="https://go.gov.sg/sec1transfercckss-2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1transfercckss-2026</a>
 </p>
-<p><strong>Support&nbsp;</strong>
-</p>
+<h4><strong>Support&nbsp;</strong></h4>
 <p>We have a strong team of teachers and administrative staff supporting
 the growth of every child in our school.</p>
 <p>Please contact the following staff if you have any queries about the Sec
