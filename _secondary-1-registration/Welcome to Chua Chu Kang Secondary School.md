@@ -7,13 +7,13 @@ description: ""
 <p>Congratulations on your child’s/ward’s posting to Chua Chu Kang Secondary
 School!&nbsp;We look forward to welcoming you to the CCKSS family come
 2026.</p>
-<p>We will be conducting our Secondary 1 Registration Day online, hence parents/guardians <strong>are not required</strong>&nbsp;<strong>to be physically present</strong>&nbsp;in
+<p>We will be conducting our Secondary 1 Registration online, hence parents/guardians <strong>are not required</strong>&nbsp;<strong>to be physically present</strong>&nbsp;in
 our school.&nbsp;</p>
 <p>Please complete the following as part of your child’s/ward’s Sec 1 Registration:</p>
 <h4>Step 1: Online Registration&nbsp;(Compulsory)</h4>
 <p>Please complete the&nbsp;<strong>online registration</strong>&nbsp;by
 clicking on this (<strong><a href="https://go.gov.sg/sec1eregistration2026" rel="noopener noreferrer nofollow" target="_blank">link</a></strong>).
-The online registration portal will be open from&nbsp;<strong>19 December 2025 (Friday), 8 am until 23 December 2025 (Tue), 5 pm.</strong>
+The online registration portal will be open from&nbsp;<strong>19 December 2025 (Friday), 8 am until 22 December 2025 (Tue), 5 pm.</strong>
 </p>
 <h4>Step 2: Purchase of Books and Sale of Uniforms</h4>
 <p>The sale of books and school uniforms for Secondary 1 students will be
