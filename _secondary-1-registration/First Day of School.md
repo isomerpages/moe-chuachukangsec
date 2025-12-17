@@ -96,7 +96,7 @@ is unwell.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00 pm</p>
+<p>12.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4.00 pm</p>
