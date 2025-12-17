@@ -10,14 +10,12 @@ School!&nbsp;We look forward to welcoming you to the CCKSS family come
 <p>We will be conducting our Secondary 1 Registration Day online, hence parents/guardians <strong>are not required</strong>&nbsp;<strong>to be physically present</strong>&nbsp;in
 our school.&nbsp;</p>
 <p>Please complete the following as part of your child’s/ward’s Sec 1 Registration:</p>
-<p><strong>Step 1: Online Registration&nbsp;(Compulsory)</strong>
-</p>
+<h4>Step 1: Online Registration&nbsp;(Compulsory)</h4>
 <p>Please complete the&nbsp;<strong>online registration</strong>&nbsp;by
 clicking on this (<strong><a href="https://go.gov.sg/sec1eregistration2026" rel="noopener noreferrer nofollow" target="_blank">link</a></strong>).
 The online registration portal will be open from&nbsp;<strong>19 December 2025 (Friday), 8 am until 23 December 2025 (Tue), 5 pm.</strong>
 </p>
-<p><strong>Step 2: Purchase of Books and Sale of Uniforms</strong>
-</p>
+<h4>Step 2: Purchase of Books and Sale of Uniforms</h4>
 <p>The sale of books and school uniforms for Secondary 1 students will be
 held in our school bookshop on <strong>18, 19 and 22 December 2025, 9 am to 3 pm</strong> (kindly
 avoid lunch hours: 12pm - 1pm) and <strong>20 December 2025, 9 am to 11.30 am</strong>.</p>
@@ -25,15 +23,13 @@ avoid lunch hours: 12pm - 1pm) and <strong>20 December 2025, 9 am to 11.30 am</s
 purchase of books and uniforms; however, <strong>18 - 22 December</strong>  <strong>2025</strong> are
 set aside specifically for incoming Sec 1 students.</p>
 <p>For purchase of books, you may purchase online from <strong>18 – 24 December 2025</strong> at
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>and arrange for delivery from <strong>27 – 30 December 2025</strong>,
+<a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>and arrange for delivery from <strong>27 – 30 December 2025</strong>,
 subject to slots availability.</p>
-<p><strong>Step 3: Getting Ready for the First Day of School&nbsp;</strong>
-</p>
+<h4>Step 3: Getting Ready for the First Day of School&nbsp;</h4>
 <p>The school year will start on&nbsp;<strong>2 January 2025</strong>. Click
 on the (<strong>link</strong>) to find out more on the first day of school
 and Sec 1 Orientation programme.&nbsp;</p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>School Transfer Appeals After Release of Sec 1 Posting</u></a></strong>
-</p>
+<h4>School Transfer Appeals After Release of Sec 1 Posting</h4>
 <p>Transfer requests into or out of Chua Chu Kang Secondary School following
 the Secondary 1 Posting results are subject to special considerations and
 circumstances (eg: medical conditions) and available vacancies.</p>
@@ -47,13 +43,13 @@ proceed to the General Office to complete the appeal form.</p>
 <p><strong><u>Transfer Into Chua Chu Kang Secondary School</u></strong>
 </p>
 <p>To appeal for transfer into Chua Chu Kang Secondary School, please click
-on the link below to submit <a rel="noopener noreferrer nofollow" target="_blank">your appeal for transfer by </a><strong><a rel="noopener noreferrer nofollow" target="_blank">12 pm on 23 December 2025</a></strong>
-<a rel="noopener noreferrer nofollow" target="_blank">.</a>Please note that applicants for transfer will be considered based
-on the cut-off point (COP) of the Posting Group that student is in and
-available vacancies. Applicants will be put on the waiting list after the
-submission of transfer request. While on the waiting list, students must
-report to their current posted school.</p>
-<p>Link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1transfercckss-2026</a>
+on the link below to submit your appeal for transfer by <strong>12 pm on 23 December 2025</strong>.
+Please note that applicants for transfer will be considered based on the
+cut-off point (COP) of the Posting Group that student is in and available
+vacancies. Applicants will be put on the waiting list after the submission
+of transfer request. While on the waiting list, students must report to
+their current posted school.</p>
+<p>Link: <a href="https://go.gov.sg/sec1transfercckss-2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1transfercckss-2026</a>
 </p>
 <p><strong>Support&nbsp;</strong>
 </p>
