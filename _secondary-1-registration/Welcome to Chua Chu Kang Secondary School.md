@@ -17,7 +17,7 @@ The online registration portal will be open from&nbsp;<strong>19 December 2025 (
 </p>
 <h4>Step 2: Purchase of Books and Sale of Uniforms</h4>
 <p>The sale of books and school uniforms for Secondary 1 students will be
-held in our school bookshop on <strong>18, 19 and 22 December 2025, 9 am to 3 pm</strong> (kindly
+held in our school bookshop on <strong>19 and 22 December 2025, 9 am to 3 pm</strong> (kindly
 avoid lunch hours: 12pm - 1pm) and <strong>20 December 2025, 9 am to 11.30 am</strong>.</p>
 <p>Do note that there are other available dates from <strong>26 and 29 December 2025</strong> for
 purchase of books and uniforms; however, <strong>18 - 22 December</strong>  <strong>2025</strong> are
