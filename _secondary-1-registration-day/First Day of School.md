@@ -49,10 +49,7 @@ please call the school</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Sec 1 Orientation Programme</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -67,15 +64,11 @@ please call the school</p>
 <td rowspan="1" colspan="1">
 <p><strong>5 January 2026</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Reporting Venue</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -89,8 +82,6 @@ please call the school</p>
 <td rowspan="1" colspan="1">
 <p><strong>Reporting Time</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.50 am</p>
@@ -102,8 +93,6 @@ please call the school</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Dismissal Time</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
