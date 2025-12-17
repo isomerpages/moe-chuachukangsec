@@ -33,6 +33,8 @@ to find out more on the first day of school and Sec 1 Orientation programme.&nbs
 <p>Transfer requests into or out of Chua Chu Kang Secondary School following
 the Secondary 1 Posting results are subject to special considerations and
 circumstances (eg: medical conditions) and available vacancies.</p>
+<p>Link</p>
+<p></p>
 <h4><u>Transfer Out of Chua Chu Kang Secondary School (Medical Reasons)</u></h4>
 <p>Students who require a transfer due to serious medical conditions or severe
 physical impairments, may appeal directly to Chua Chu Kang Secondary School
