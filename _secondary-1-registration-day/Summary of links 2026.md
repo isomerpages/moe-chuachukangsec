@@ -4,7 +4,7 @@ permalink: /summary-of-links-2026/
 variant: tiptap
 description: ""
 ---
-<p>Summary of links</p>
+<h4>Summary of links</h4>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -35,7 +35,7 @@ description: ""
 <p>Online registration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*Link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1eregistration2026</a>
+<p><a href="https://go.gov.sg/sec1eregistration2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1eregistration2026</a>
 </p>
 </td>
 </tr>
@@ -47,7 +47,7 @@ description: ""
 <p>Transfer Appeals for Sec 1 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*Link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1transfercckss-2026</a>
+<p><a href="https://go.gov.sg/sec1transfercckss-2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1transfercckss-2026</a>
 </p>
 </td>
 </tr>
@@ -59,7 +59,7 @@ description: ""
 <p>Purchase of books and sale of uniforms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*Link: <a rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>
+<p><a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>
 </p>
 </td>
 </tr>
