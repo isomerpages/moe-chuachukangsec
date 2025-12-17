@@ -36,7 +36,7 @@ circumstances (eg: medical conditions) and available vacancies.</p>
 <h4><u>Transfer Out of Chua Chu Kang Secondary School (Medical Reasons)</u></h4>
 <p>Students who require a transfer due to serious medical conditions or severe
 physical impairments, may appeal directly to Chua Chu Kang Secondary School
-by <strong>12 pm on 20 December 2025</strong>. Parents/Guardians are to
+by <strong>12 pm on 22 December 2025</strong>. Parents/Guardians are to
 proceed to the General Office to complete the appeal form.</p>
 <p></p>
 <h4><u>Transfer Into Chua Chu Kang Secondary School</u></h4>
