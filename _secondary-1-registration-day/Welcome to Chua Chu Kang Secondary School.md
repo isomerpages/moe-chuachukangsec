@@ -27,8 +27,8 @@ set aside specifically for incoming Sec 1 students.</p>
 subject to slots availability.</p>
 <h4>Step 3: Getting Ready for the First Day of School&nbsp;</h4>
 <p>The school year will start on&nbsp;<strong>2 January 2025</strong>. Click
-on the (<strong>link</strong>) to find out more on the first day of school
-and Sec 1 Orientation programme.&nbsp;</p>
+on the (<a href="/students/first-day-of-school/" rel="noopener nofollow" target="_blank">link</a>)
+to find out more on the first day of school and Sec 1 Orientation programme.&nbsp;</p>
 <h4><u>School Transfer Appeals After Release of Sec 1 Posting</u></h4>
 <p>Transfer requests into or out of Chua Chu Kang Secondary School following
 the Secondary 1 Posting results are subject to special considerations and
