@@ -44,7 +44,7 @@ description: ""
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Transfer Appeals for Sec 1 2026</p>
+<p>Transfer Appeals for Sec 1 2026 (Non Medical)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/sec1transfercckss-2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1transfercckss-2026</a>
