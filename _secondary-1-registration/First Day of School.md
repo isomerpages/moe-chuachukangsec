@@ -27,7 +27,7 @@ However, students are required to bring along the following:</p>
 <p>Writing materials and stationery</p>
 </li>
 <li>
-<p>A book (for silent reading)</p>
+<p>A book (for reading)</p>
 </li>
 <li>
 <p>Water bottle</p>
