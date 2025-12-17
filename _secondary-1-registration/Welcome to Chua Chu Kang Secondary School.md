@@ -26,7 +26,7 @@ set aside specifically for incoming Sec 1 students.</p>
 <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>and arrange for delivery from <strong>27 – 30 December 2025</strong>,
 subject to slots availability.</p>
 <h4>Step 3: Getting Ready for the First Day of School&nbsp;</h4>
-<p>The school year will start on&nbsp;<strong>2 January 2025</strong>. Click
+<p>The school year will start on&nbsp;<strong>2 January 2026</strong>. Click
 on the (<a href="/students/first-day-of-school/" rel="noopener nofollow" target="_blank">link</a>)
 to find out more on the first day of school and Sec 1 Orientation programme.&nbsp;</p>
 <h4><u>School Transfer Appeals After Release of Sec 1 Posting</u></h4>
