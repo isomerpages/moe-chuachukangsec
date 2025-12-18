@@ -1,0 +1,8 @@
+collections:
+  secondary-1-registration:
+    output: true
+    order:
+      - Welcome to Chua Chu Kang Secondary School.md
+      - First Day of School.md
+      - Transfer Appeals for Sec 1 2026.md
+      - Summary of links 2026.md
