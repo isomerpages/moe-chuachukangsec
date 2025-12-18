@@ -16,12 +16,11 @@ clicking on this (<strong><a href="https://go.gov.sg/sec1eregistration2026" rel=
 The online registration portal will be open from&nbsp;<strong>19 December 2025 (Friday), 8 am until 22 December 2025 (Tue), 5 pm.</strong>
 </p>
 <h4>Step 2: Purchase of Books and Sale of Uniforms</h4>
-<p>The sale of books and school uniforms for Secondary 1 students will be
-held in our school bookshop on <strong>19 and 22 December 2025, 9 am to 3 pm</strong> (kindly
-avoid lunch hours: 12pm - 1pm) and <strong>20 December 2025, 9 am to 11.30 am</strong>.</p>
-<p>Do note that there are other available dates on <strong>23, 26 and 29 December 2025</strong> for
-purchase of books and uniforms; however, <strong>19 - 22 December</strong>  <strong>2025</strong> are
-set aside specifically for incoming Sec 1 students.</p>
+<p>The sale of books and school uniforms for incoming Secondary 1 students
+will be held at the school bookshop on <strong>19 and 22 December 2025, from 9.00 am to 3.00 pm</strong>  <em>(kindly avoid lunch hours from 12.00 pm to 1.00 pm)</em>,
+and on <strong>20 December 2025, from 9.00 am to 11.30 am</strong>. <strong>These dates have been specially allocated for incoming Secondary 1 students.</strong>
+</p>
+<p>Please note that books and uniforms may also be purchased on <strong>23, 26, and 29 December 2025</strong>, <strong>which are open to students from all levels</strong>.</p>
 <p>For purchase of books, you may purchase online from <strong>19 – 24 December 2025</strong> at
 <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>and arrange for delivery from <strong>27 – 30 December 2025</strong>,
 subject to slots availability.</p>
@@ -74,7 +73,7 @@ the growth of every child in our school.</p>
 <p>Assistant Year Head (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Secondary 1 Orientation and Academic matters</p>
+<p>Student Development, Pastoral Care and Academic matters (Secondary 1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em><a href="mailto:idayu_somdi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">idayu_somdi@schools.gov.sg</a></em>
@@ -115,13 +114,58 @@ the growth of every child in our school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Ramesh Santhi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject-Based Banding (SBB) matters</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:santhi_krishnasamy@schools.gov.sg" rel="noopener nofollow" target="_blank">santhi_krishnasamy@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Yoke Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue matters</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_yoke_hong@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_yoke_hong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Keum Ray</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD PE and CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Co-Curricular Activities (CCA) matters</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_keum_ray@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_keum_ray@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Goh Huilin Nelly&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager&nbsp;</p>
 <p>&nbsp;</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Admin matters including</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -134,19 +178,6 @@ the growth of every child in our school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em><a href="mailto:goh_nelly@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_nelly@schools.gov.sg</a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Alan Wong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administration Manager&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em><a href="mailto:wong_hong_wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_hong_wai@schools.gov.sg</a></em>
 </p>
 </td>
 </tr>
@@ -169,3 +200,6 @@ the growth of every child in our school.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
+<p></p>
+<p></p>
+<p></p>
