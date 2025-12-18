@@ -74,6 +74,18 @@ description: ""
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Traffic Management Plan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/about-us/school-traffic-management-plan/" rel="noopener nofollow" target="_blank">https://www.chuachukangsec.moe.edu.sg/about-us/school-traffic-management-plan/</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
