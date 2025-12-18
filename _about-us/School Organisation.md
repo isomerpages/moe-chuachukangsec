@@ -50,6 +50,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Vice Principal (Acad)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Siew Khim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_siew_khim_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ong_siew_khim_b@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Vice Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -303,7 +315,7 @@ variant: tiptap
 <p>Subject Head (Character &amp; Citizenship Education)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mr Ong Teck Meng Victor</p>
+<p>Mr Ong Teck Meng Victor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Ong_teck_meng_victor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ong_teck_meng_victor@schools.gov.sg</a>
