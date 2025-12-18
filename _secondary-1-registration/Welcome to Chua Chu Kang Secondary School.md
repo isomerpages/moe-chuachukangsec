@@ -16,11 +16,113 @@ clicking on this (<strong><a href="https://go.gov.sg/sec1eregistration2026" rel=
 The online registration portal will be open from&nbsp;<strong>19 December 2025 (Friday), 8 am until 22 December 2025 (Tue), 5 pm.</strong>
 </p>
 <h4>Step 2: Purchase of Books and Sale of Uniforms</h4>
-<p>The sale of books and school uniforms for incoming Secondary 1 students
-will be held at the school bookshop on <strong>19 and 22 December 2025, from 9.00 am to 3.00 pm</strong>  <em>(kindly avoid lunch hours from 12.00 pm to 1.00 pm)</em>,
-and on <strong>20 December 2025, from 9.00 am to 11.30 am</strong>. <strong>These dates have been specially allocated for incoming Secondary 1 students.</strong>
+<p>The sale of books and school uniforms for incoming <strong>Secondary 1 students</strong> will
+be held at the school bookshop on the dates below.</p>
+<p>Kindly avoid lunch hours from <strong>12.00 pm to 1.00 pm</strong> where
+applicable.</p>
+<p><strong>Bookshop Sales Schedule</strong>
 </p>
-<p>Please note that books and uniforms may also be purchased on <strong>23, 26, and 29 December 2025</strong>, <strong>which are open to students from all levels</strong>.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Remarks</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 Dec 2025 (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00 am – 3.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reserved for incoming Sec 1 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 Dec 2025 (Sat)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00 am – 11.30 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reserved for incoming Sec 1 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Dec 2025 (Mon)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00 am – 3.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reserved for incoming Sec 1 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Dec 2025 (Tue)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00 am – 3.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open to all levels</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 Dec 2025 (Wed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00 am – 11.00 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reserved for incoming Sec 1 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Dec 2025 (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00 am – 3.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open to all levels</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 Dec 2025 (Mon)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00 am – 3.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open to all levels</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>For purchase of books, you may purchase online from <strong>19 – 24 December 2025</strong> at
 <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>and arrange for delivery from <strong>27 – 30 December 2025</strong>,
 subject to slots availability.</p>
