@@ -67,7 +67,7 @@ variant: tiptap
 <p>Mr Koh Eng Huat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_eng_huat@schools.gov.sg" rel="noopener nofollow" target="_blank">mailto:koh_eng_huat@schools.gov.sg</a>
+<p><a href="mailto:koh_eng_huat@schools.gov.sg" rel="noopener nofollow" target="_blank">koh_eng_huat@schools.gov.sg</a>
 </p>
 </td>
 </tr>
