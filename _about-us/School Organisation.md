@@ -279,10 +279,10 @@ variant: tiptap
 <p>Level Head (English Language)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Naraindran Chandrashagaran</p>
+<p>Ms Xie Xinyi Elspeth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:naraindran_chandrashagaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">naraindran_chandrashagaran@schools.gov.sg</a>
+<p><a href="mailto:Xie_xinyi@schools.gov.sg" rel="noopener nofollow" target="_blank">Xie_xinyi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -331,6 +331,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Nurul_izzati_nizamudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nurul_izzati_nizamudin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head English Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Naraindran Chandrashagaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:naraindran_chandrashagaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">naraindran_chandrashagaran@schools.gov.sg</a>
 </p>
 </td>
 </tr>
