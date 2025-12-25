@@ -23,6 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: N Level Results (Class of 2025)
+      subtitle: EVENTS
+      id: infopic
+      button: READ MORE
+      url: https://chuachukangsec.moe.edu.sg/n-level-results-class-of-2025/
+      image: /images/598259099_867224552931138_2094717485872113192_n.jpg
+      alt: Image alt text
+  - infopic:
       title: Open House 2025
       subtitle: events
       id: infopic
