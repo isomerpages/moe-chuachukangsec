@@ -336,7 +336,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head English Literature</p>
+<p>Subject Head English Language &amp; English Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Naraindran Chandrashagaran</p>
@@ -583,18 +583,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Wong_hong_wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wong_hong_wai@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Khoo Boo Leong Peter</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Khoo_boo_leong_peter@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Khoo_boo_leong_peter@schools.gov.sg</a>
 </p>
 </td>
 </tr>
