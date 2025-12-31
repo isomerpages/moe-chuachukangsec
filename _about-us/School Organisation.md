@@ -987,7 +987,8 @@ variant: tiptap
 <p>Miss Lim Ze Hui Alvina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_ze_hui_alvina@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_ze_hui_alvina@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1010,7 +1011,8 @@ variant: tiptap
 <p>Ms Cheong Pui Kuan Carolyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:cheong_pui_kuan_carolyn_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_pui_kuan_carolyn_a@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
