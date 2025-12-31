@@ -122,6 +122,14 @@ Novice Naturalist Certificates of Achievement for their enthusiasm and
 contributions.</p>
 <p><strong>Key Programmes and Achievements</strong>
 </p>
+<p><strong>2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>NParks Grow &amp; Share Initiative 2025: </strong>Certificate
+of Appreciation</p>
+</li>
+</ul>
 <p><strong>2024</strong>
 </p>
 <ul data-tight="true" class="tight">
