@@ -903,7 +903,7 @@ variant: tiptap
 <p>Mr Toh Chong Ji</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_chong_ji@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_chong_ji@schools.gov.sg</a> 
+<p><a href="mailto:toh_chong_ji@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_chong_ji@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1227,7 +1227,7 @@ variant: tiptap
 <p>Ms Irdawaty Binte Mohd</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Irdawaty_mohd@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Irdawaty_mohd@schools.gov.sg</a>
+<p><a href="mailto:Irdawaty_mohd@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">irdawaty_mohd@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1240,6 +1240,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pang_yew_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pang_yew_cheng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Han Khai Choog Neil Benedict</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:han_khai_choong_neil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_khai_choong_neil@schools.gov.sg</a> 
 </p>
 </td>
 </tr>
