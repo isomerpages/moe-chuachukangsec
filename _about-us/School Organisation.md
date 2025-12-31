@@ -1251,7 +1251,7 @@ variant: tiptap
 <p>Mr Han Khai Choog Neil Benedict</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:han_khai_choong_neil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_khai_choong_neil@schools.gov.sg</a> 
+<p><a href="mailto:han_khai_choong_neil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_khai_choong_neil@schools.gov.sg</a>
 </p>
 </td>
 </tr>
