@@ -897,6 +897,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Toh Chong Ji</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:toh_chong_ji@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_chong_ji@schools.gov.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2D</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1011,7 +1023,7 @@ variant: tiptap
 <p>Ms Cheong Pui Kuan Carolyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_pui_kuan_carolyn_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_pui_kuan_carolyn_a@schools.gov.sg</a> 
+<p><a href="mailto:cheong_pui_kuan_carolyn_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_pui_kuan_carolyn_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
