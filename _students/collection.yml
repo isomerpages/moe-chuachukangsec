@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - 2026 Sec 1 Class List.md
       - Cohort Level website.md
       - Timetable/.keep
       - Timetable/Class Timetable.md
