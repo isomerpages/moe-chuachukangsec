@@ -336,7 +336,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head English Literature</p>
+<p>Subject Head English Language &amp; English Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Naraindran Chandrashagaran</p>
@@ -583,18 +583,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Wong_hong_wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wong_hong_wai@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Khoo Boo Leong Peter</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Khoo_boo_leong_peter@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Khoo_boo_leong_peter@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -897,6 +885,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Toh Chong Ji</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:toh_chong_ji@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_chong_ji@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2D</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -987,7 +987,8 @@ variant: tiptap
 <p>Miss Lim Ze Hui Alvina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_ze_hui_alvina@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_ze_hui_alvina@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1010,7 +1011,8 @@ variant: tiptap
 <p>Ms Cheong Pui Kuan Carolyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:cheong_pui_kuan_carolyn_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_pui_kuan_carolyn_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1213,7 +1215,7 @@ variant: tiptap
 <p>Ms Irdawaty Binte Mohd</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Irdawaty_mohd@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Irdawaty_mohd@schools.gov.sg</a>
+<p><a href="mailto:Irdawaty_mohd@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">irdawaty_mohd@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1226,6 +1228,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pang_yew_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pang_yew_cheng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Han Khai Choog Neil Benedict</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:han_khai_choong_neil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_khai_choong_neil@schools.gov.sg</a>
 </p>
 </td>
 </tr>

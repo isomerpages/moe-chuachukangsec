@@ -23,6 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: 2026 Start Right Programme Day 1
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/start-right-programme-day-1/
+      image: /images/WhatsApp_Image_2026_01_02_at_16_00_36.jpg
+      alt: Image alt text
+  - infopic:
       title: N Level Results (Class of 2025)
       subtitle: EVENTS
       id: infopic
