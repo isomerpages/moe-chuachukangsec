@@ -23,7 +23,7 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
-      title: Start Right Programme Day 1
+      title: 2026 Start Right Programme Day 1
       subtitle: events
       id: infopic
       button: read more
