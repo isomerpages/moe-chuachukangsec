@@ -329,10 +329,10 @@ reads the message after school dismissal.</p>
 <p>g. Extortion/Bullying</p>
 <p>h. Gambling</p>
 <p>i. Vandalism</p>
-<p>j. Possession of viewing of pornographic materials</p>
+<p>j. Possession or viewing of pornographic materials</p>
 <p>k. Smoking in different forms and possession of tobacco products and paraphernalia
 such as cigarettes, lighters, e-cigarettes and shisha</p>
-<p>l. Substance abuse such as consuming band drugs and glue-sniffing</p>
+<p>l. Substance abuse such as consuming drugs and glue-sniffing</p>
 <p>m. Behaving as a public nuisance</p>
 <p>n. Modification of school uniform</p>
 <p>o. Failure of Singapore citizens to sing the National Anthem and recite
@@ -387,8 +387,8 @@ the severity of the incident to ensure adherence to the rules.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Allocation</strong>
 </p>
-<p>Studentsareassignedlockersfor safestorageofcomputerdevices and mobile
-phones.</p>
+<p>Students are assigned lockers for safe storage of computer devices and
+mobile phones.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
