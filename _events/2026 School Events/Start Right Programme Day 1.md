@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2026 School Events
 ---
-<h2><strong>First Day of School 2026: <em>Growing Together, Thriving Together</em></strong><em> </em></h2>
+<h2><strong>First Day of School 2026: <em>Growing Together, Thriving Together</em></strong></h2>
 <p>The new school year at CCKSS began on a joyful and meaningful note as
 we warmly welcomed our CCKSians back on campus for the first day of school.
 It marked the start of a new chapter filled with learning, friendships,
