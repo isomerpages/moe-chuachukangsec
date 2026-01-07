@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Cohort Level website.md
+      - Timetable/HBL Timetable.md
       - Timetable/.keep
       - Timetable/Class Timetable.md
       - 2026 Sec 1 Class List.md
