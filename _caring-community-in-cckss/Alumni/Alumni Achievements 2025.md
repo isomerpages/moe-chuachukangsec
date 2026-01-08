@@ -65,6 +65,40 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
+<h3><strong>Republic Polytechnic</strong></h3>
+<p><strong>Republic Polytechnic Academic Awards Ceremony 2025</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_08_160522.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_08_160541.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_08_160611.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_08_160628.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Chan Nyein Htet (Class of 2022)</strong></h4>
 <p></p>
