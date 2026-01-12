@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - 2025 GCE O Level Examinations.md
       - Cohort Level website.md
       - Timetable/.keep
       - Timetable/Class Timetable.md
