@@ -36,8 +36,8 @@ for the school’s verification.</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><u>Letter of Authorisation</u></strong> (appointment of proxy for
-students who are unable to collect their results in person)</p>
+<p><strong><a href="/files/Students/2026 OLevel Exam Results/O_Level___Letter_of_Authorisation_2025_CCKSS.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Letter of Authorisation</u></a></strong> (appointment
+of proxy for students who are unable to collect their results in person)</p>
 </li>
 <li>
 <p><strong><u>MOE’s press release</u></strong>: For further information on
@@ -46,7 +46,7 @@ the release of the examination results or the 2026 Joint Admission Exercise
 </p>
 </li>
 <li>
-<p><strong><em><u>What’s Next</u></em><u> Pamphlet</u></strong>
+<p><strong><em><a href="/files/Students/2026 OLevel Exam Results/WhatsNextOLevel.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>What’s Next</u></a></em><a href="/files/Students/2026 OLevel Exam Results/WhatsNextOLevel.pdf" rel="noopener noreferrer nofollow" target="_blank"><u> Pamphlet</u></a></strong>
 </p>
 </li>
 </ul>
