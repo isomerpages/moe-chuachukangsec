@@ -13,7 +13,7 @@ sections:
           url: /students/cohort-level-website/
         - title: Parents
           description: ""
-          url: /parents/2025-sec-1-parent-engagement/
+          url: /parents/2026-sec-1-parent-engagement/
         - title: Useful Links
           description: ""
           url: /useful-links/useful-links
