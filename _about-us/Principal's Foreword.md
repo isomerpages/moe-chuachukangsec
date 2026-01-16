@@ -8,51 +8,47 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:183px;height:240px;margin-left:15px;" height="auto" width="100%" src="/images/About%20Us/Mr%20Cheng.jpeg">
 </div>
-<p>We began our journey as a merged school with the theme “Together, A New
-Beginning” in our first year, progressed to “Stronger Together” in the
-second year, and now, as we enter our third year, we proudly embrace the
-theme “Together We Excel!”</p>
-<p>Reflecting on the first two years of our merged school, I am filled with
-gratitude for the growth, collaboration, and achievements we have shared.
-These successes would not have been possible without the unwavering support
-and dedication of our teachers, staff, and stakeholders. Together, we have
-truly lived out the spirit of our 2024 school theme, Stronger Together.</p>
-<p>The year 2024 marked a significant milestone as we fully integrated into
-a single campus, bringing together all our Secondary 1 to 5 students. With
-a safe and inclusive environment as our foundation, we remain steadfast
-in our mission to nurture the holistic well-being and growth of our students.
-Beyond academic excellence, we strive to equip our students with the values,
-skills, and knowledge they need to fulfill their potential and inspire
-them to make meaningful contributions to the community.</p>
-<p>The achievements of our CCKSians reflect not only their hard work but
-also the dedication of our staff. Education is more than just academic
-results; it is about cultivating life skills, values, and character. Through
-Co-Curricular Activities, academic programmes, and a wide range of enriching
-experiences, our students have forged lifelong friendships and created
-lasting memories.</p>
-<p>Our staff members, the cornerstone of the CCKSian family, have demonstrated
-excellence and unwavering commitment to the school and the community. Their
-contributions were nationally recognized, with several receiving National
-Day Awards for their outstanding service. Professional development initiatives,
-including learning journeys to explore innovative teaching approaches,
-have further empowered our staff to stay at the forefront of education.</p>
-<p>We are also proud of the international exposure our students have gained
-through the CCKSS Global Connect programme. Overseas experiences in countries
-such as China, Indonesia, Thailand, and Vietnam have broadened their perspectives,
-deepened their understanding of Singapore's place in the global context,
-and strengthened their commitment to the nation.</p>
-<p>Our achievements as a school would not have been possible without the
-meaningful partnerships between teachers, parents, and the wider community.
-The African proverb, “It takes a village to raise a child,” aptly describes
-the spirit of our collaborative efforts. Parents, the School Advisory Committee,
-alumni, and community partners have been invaluable in supporting our students'
-holistic development through shared goals, open communication, and active
-involvement.</p>
-<p>As we look forward to 2025, let us build on the strong foundation we have
-laid together. To all CCKSians, parents, and school partners, let us strive
-for even greater achievements in the years ahead, united in our commitment
-to providing the best for our students.</p>
-<p>Together We Excel!</p>
+<p>As we begin 2026, I am deeply grateful for the strong foundations laid
+in the past year and for the collective efforts of our staff, students,
+parents, and partners who journeyed together through a fulfilling 2025.
+It was a year marked by perseverance, growth, and a shared commitment to
+helping every CCKSian thrive — and these achievements now propel us forward
+with confidence and hope.</p>
+<p>At the heart of our school’s success are our dedicated staff, whose professionalism,
+care, and unwavering commitment continue to shape lives beyond the classroom.
+Each plays a vital role in shaping the experiences and opportunities our
+students receive, and together, we form a community that believes deeply
+in the potential of every learner entrusted to us. I am thankful for the
+many unseen hours spent guiding, encouraging, and supporting our students
+— helping them grow not only academically, but also in character, resilience,
+and confidence. Together, our educators foster environments where students
+feel safe to learn, motivated to improve, and inspired to pursue excellence.</p>
+<p>Our students’ achievements in 2025 reflect this strong foundation of support
+and belief. We are proud of our Robotics Club for emerging as Champions
+of the National Robotics Competition, our Dance CCA for attaining Distinction
+Awards at the Singapore Youth Festival, and our Uniformed Groups for achieving
+the highest Unit Proficiency Awards. These accomplishments showcase not
+only talent and hard work, but also teamwork, discipline, and perseverance
+— values that define the CCKSian spirit.</p>
+<p>We are equally grateful for the strong partnership of our parents, Parents
+Support Group, School Advisory Committee, and community and industry partners.
+Your trust, encouragement, and involvement enrich our students’ learning
+experiences and strengthen our school community. Education thrives when
+schools and families walk closely together, united by shared purpose and
+commitment to holistic development.</p>
+<p>As we move into 2026 with our school theme, <strong><em>Growing Together, Thriving Together</em></strong>,
+we reaffirm our commitment to nurturing strong relationships, fostering
+holistic growth, and creating a supportive environment where every learner
+can flourish. We will continue to strengthen teaching and learning, prioritise
+student well-being and character development, and empower our students
+to take ownership of their learning and contribute meaningfully to society.</p>
+<p>Together, let us continue to inspire one another, grow in purpose, and
+make a meaningful difference in the lives entrusted to us. I look forward
+to another year of shared learning, growth, and success with the Chua Chu
+Kang Secondary School community.</p>
 <p></p>
-<p>Timothy Cheng
+<p><strong>Growing Together, Thriving Together!</strong>
+</p>
+<p></p>
+<p>Mr Timothy Cheng
 <br>Principal</p>
