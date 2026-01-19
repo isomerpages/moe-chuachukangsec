@@ -1,6 +1,6 @@
 ---
 title: HBL Timetable
-permalink: /students/hbl-timetable/
+permalink: /learning-in-cckss/hbl-timetable/
 date: 2026-01-07
 layout: post
 description: ""
