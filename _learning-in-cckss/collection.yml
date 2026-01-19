@@ -2,8 +2,6 @@ collections:
   learning-in-cckss:
     output: true
     order:
-      - HBL Matters/HBL Timetable.md
-      - HBL Matters/.keep
       - "Applied Learning Programme: Sustainable Living for a Resilient
         Future.md"
       - Departments/.keep
@@ -16,3 +14,5 @@ collections:
       - Departments/Physical Education.md
       - Departments/Science.md
       - Personalised Digital Learning Programme.md
+      - HBL Matters/.keep
+      - HBL Matters/HBL Timetable.md
