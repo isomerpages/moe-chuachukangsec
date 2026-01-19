@@ -2,6 +2,7 @@ collections:
   learning-in-cckss:
     output: true
     order:
+      - Timetable/.keep
       - "Applied Learning Programme: Sustainable Living for a Resilient
         Future.md"
       - Departments/.keep
