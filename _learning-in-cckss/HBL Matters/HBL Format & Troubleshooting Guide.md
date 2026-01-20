@@ -197,7 +197,7 @@ channels.</p>
 </li>
 </ul>
 <h3><strong>4. Assignment Submission &amp; Expectations</strong></h3>
-<h3><strong>Submission Deadlines</strong></h3>
+<h4><strong>Submission Deadlines</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>All HBL assignments must be submitted by <strong>3.30 p.m. on the HBL day</strong>
