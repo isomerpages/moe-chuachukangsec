@@ -8,17 +8,12 @@ third_nav_title: HBL Matters
 <h2><strong>HBL Format &amp; Troubleshooting Guide</strong></h2>
 <p><a href="/files/HBL_2026_STUDENT_INFO.pdf" rel="noopener nofollow" target="_blank">HBL Student Information</a>
 </p>
-<p><strong>Home-Based Learning (HBL) Guide for Students (S1–S5) – 2026</strong>
-</p>
+<h3><strong>Home-Based Learning (HBL) Guide for Students (S1–S5) – 2026</strong></h3>
 <p>This guide provides important information on Home-Based Learning (HBL)
 for all Secondary 1 to Secondary 5 students in 2026. Please read it carefully
 to understand expectations, schedules, submission requirements, and support
 channels.</p>
-<p>&nbsp;</p>
-<p><strong>1. HBL Dates (Semester 1)</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<h3>&nbsp;<strong>1. HBL Dates (Semester 1)&nbsp;</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -43,29 +38,63 @@ channels.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Friday, 9 January</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thursday, 22 January</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wednesday, 4 February</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monday, 2 March</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thursday, 2 April*</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thursday, 16 April</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monday, 27 April</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wednesday, 13 May</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thursday, 2 April<strong>*</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tuesday, 14 July</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thursday, 22 January</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thursday, 16 April</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wednesday, 15 July</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wednesday, 4 February</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monday, 27 April</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thursday, 16 July</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monday, 2 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wednesday, 13 May</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Friday, 31 July</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>* <em>The HBL day on 2 April will follow an </em><strong><em>Even Tuesday timetable</em></strong>.</p>
-<p></p>
-<p><strong>2. Structure of Home-Based Learning</strong>
-</p>
+<h3><strong>2. Structure of Home-Based Learning</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -111,6 +140,11 @@ channels.</p>
 <p>Students to choose from topics curated by the school
 <br>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning In CCKSS/HBL Matters/QrCode.jpg">
+</div>
+<p></p>
 <p><a href="http://go.gov.sg/silcckss2026" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/silcckss2026</a>
 </p>
 </td>
@@ -134,10 +168,8 @@ channels.</p>
 <p><em>** Sec 1 students will commence SIL from Term 2</em>
 </p>
 <p></p>
-<p><strong>3. General Flow of an HBL Day</strong>
-</p>
-<p><strong>Before 8.00 a.m.</strong>
-</p>
+<h3><strong>3. General Flow of an HBL Day</strong></h3>
+<h4><strong>Before 8.00 a.m.</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Wake up early and prepare for the day</p>
@@ -147,8 +179,7 @@ channels.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>8.00 a.m. – 8.30 a.m.</strong>
-</p>
+<h4><strong>8.00 a.m. – 8.30 a.m.</strong></h4>
 <p>Refer to the <strong>HBL timetable</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -159,20 +190,14 @@ channels.</p>
 <p>Organise your study space and prepare lesson materials</p>
 </li>
 </ul>
-<p><strong>After 8.30 a.m.</strong>
-</p>
+<h4><strong>After 8.30 a.m.</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Begin <strong>self-directed learning</strong> according to your timetable</p>
+<p>Begin <strong>self-directed learning</strong> according to your timetable&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>4. Assignment Submission &amp; Expectations</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Submission Deadlines</strong>
-</p>
+<h3><strong>4. Assignment Submission &amp; Expectations</strong></h3>
+<h3><strong>Submission Deadlines</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>All HBL assignments must be submitted by <strong>3.30 p.m. on the HBL day</strong>
@@ -183,16 +208,13 @@ channels.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Submission deadline is <strong>3.30 p.m. on the following school day</strong>
+<p>Submission deadline is <strong>3.30 p.m. on the following school day&nbsp;</strong>
 </p>
 </li>
 </ul>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Monitoring &amp; Consequences</strong>
-</p>
+<h4><strong>Monitoring &amp; Consequences</strong></h4>
 <p>Submission of HBL assignments is <strong>closely monitored</strong>.
 <br>Failure to submit assignments may result in:</p>
 <ul data-tight="true" class="tight">
@@ -208,8 +230,7 @@ channels.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>5. Important SLS (Student Learning Space) Information</strong>
-</p>
+<h3><strong>5. Important SLS (Student Learning Space) Information</strong></h3>
 <p>For an SLS assignment to be recorded as <strong>complete</strong>, students
 must ensure that:</p>
 <ul data-tight="true" class="tight">
@@ -218,6 +239,9 @@ must ensure that:</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning In CCKSS/HBL Matters/Picture_1.jpg">
+</div>
 <p></p>
 <p></p>
 <ul data-tight="true" class="tight">
@@ -234,21 +258,26 @@ all videos)</p>
 </p>
 </li>
 </ul>
-<p>&nbsp;Assignment deadlines are set at <strong>3.30 p.m.</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning In CCKSS/HBL Matters/Picture_2.jpg">
+</div>
 <ul data-tight="true" class="tight">
+<li>
+<p>Assignment deadlines are set at <strong>3.30 p.m.</strong>
+</p>
+</li>
 <li>
 <p>Any overdue submission in <strong>SLS or Google Classroom</strong> will
 be flagged as <strong>non-submission</strong>
 </p>
-</li>
-</ul>
 <p>📌 <strong>Tip:</strong>
 <br>Take a <strong>screenshot of the completed module page</strong> for your
 own reference.</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p><strong>6. Troubleshooting &amp; Support Contacts</strong>
-</p>
+<h3><strong>6. Troubleshooting &amp; Support Contacts</strong></h3>
 <p>If you encounter issues <strong>before or during HBL</strong>, please seek
 help using the appropriate channel below.</p>
 <p><strong>Subject-Related Issues</strong>
