@@ -5,9 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: HBL Matters
 ---
-<h2><strong>HBL Format &amp; Troubleshooting Guide</strong></h2>
-<p><a href="/files/HBL_2026_STUDENT_INFO.pdf" rel="noopener nofollow" target="_blank">HBL Student Information</a>
-</p>
 <h3><strong>Home-Based Learning (HBL) Guide for Students (S1–S5) – 2026</strong></h3>
 <p>This guide provides important information on Home-Based Learning (HBL)
 for all Secondary 1 to Secondary 5 students in 2026. Please read it carefully
