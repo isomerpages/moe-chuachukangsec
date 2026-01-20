@@ -292,7 +292,10 @@ help using the appropriate channel below.</p>
 </p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning In CCKSS/HBL Matters/Picture_3.jpg">
+</div>
 <p></p>
 <p></p>
 <p><strong>ICT / PLD Issues</strong>
