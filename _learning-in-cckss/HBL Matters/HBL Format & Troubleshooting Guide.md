@@ -280,8 +280,7 @@ own reference.</p>
 <h3><strong>6. Troubleshooting &amp; Support Contacts</strong></h3>
 <p>If you encounter issues <strong>before or during HBL</strong>, please seek
 help using the appropriate channel below.</p>
-<p><strong>Subject-Related Issues</strong>
-</p>
+<h4><strong>Subject-Related Issues</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Email your <strong>subject teacher</strong>
@@ -298,8 +297,7 @@ help using the appropriate channel below.</p>
 </div>
 <p></p>
 <p></p>
-<p><strong>ICT / PLD Issues</strong>
-</p>
+<h4><strong>ICT / PLD Issues</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Contact <strong>CCKSS ICT Helpdesk</strong>: <strong>+65 8940 8022</strong>
@@ -309,8 +307,7 @@ help using the appropriate channel below.</p>
 <p>Provide: 1) Name, 2) Class, 3) Description of Issue, and 4) Contact information</p>
 </li>
 </ul>
-<p><strong>MC / Emergency</strong>
-</p>
+<h4><strong>MC / Emergency</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Contact or email your <strong>Form Teacher</strong>
@@ -321,8 +318,7 @@ help using the appropriate channel below.</p>
 <a href="https://www.chuachukangsec.moe.edu.sg/about-us/administrative-information/school-organisation/" rel="noopener noreferrer nofollow" target="_blank">https://www.chuachukangsec.moe.edu.sg/about-us/administrative-information/school-organisation/</a>)</p>
 </li>
 </ul>
-<p><strong>All Other Issues</strong>
-</p>
+<h4><strong>All Other Issues</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Contact <strong>CCKSS General Office</strong>: <strong>+65 6769 1386</strong>
