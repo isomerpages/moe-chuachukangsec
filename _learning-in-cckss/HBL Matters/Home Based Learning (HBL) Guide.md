@@ -153,8 +153,7 @@ channels.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>HBL and SIL activities designed
-<br><strong>for completion at home or in school**</strong>
+<p>HBL and SIL activities designed <strong>for completion at home or in school**</strong>
 </p>
 </td>
 </tr>
