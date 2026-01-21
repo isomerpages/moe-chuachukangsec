@@ -91,7 +91,8 @@ channels.</p>
 </tbody>
 </table>
 <p>* <em>The HBL day on 2 April will follow an </em><strong><em>Even Tuesday timetable</em></strong>.</p>
-<h3><strong>2. Structure of Home-Based Learning</strong></h3>
+<h3><strong>2. Structure of Home-Based Learning</strong><br></h3>
+<p>HBL consists of <strong>two components</strong>:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -159,7 +160,7 @@ channels.</p>
 </tr>
 </tbody>
 </table>
-<p>HBL consists of <strong>two components</strong>:</p>
+<p></p>
 <p><em>*Students who have difficulties with home wifi connectivity can request to attend HBL in school</em>
 </p>
 <p><em>** Sec 1 students will commence SIL from Term 2</em>
