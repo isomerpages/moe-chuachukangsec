@@ -13,7 +13,8 @@ variant: tiptap
 to develop <strong>effective communicators and active contributors with civic, cross-cultural and global literacy</strong>.</p>
 <p>We embarked on our first overseas trip to Chiang Rai, Thailand in 2023
 and since then, we have scaled up our offering to <strong>4 countries - Thailand, Vietnam, Indonesia and China</strong> to
-our Sec 3 CCKSians.</p>
+our Sec 3 CCKSians. In 2026, we are proud to offer <strong>5 trips to 4 countries - China, Japan, Indonesia and Thailand.</strong>
+</p>
 <p>Overseas experiences allow for authentic learning to <strong>broaden students’ learning experiences</strong> and <strong>deepen students’ acquisition of 21CC</strong>.
 These will enable students to</p>
 <ul data-tight="true" class="tight">
@@ -35,9 +36,9 @@ counterparts and learnt to be more resilient, respectful and more understanding
 towards their peers.</p>
 <p>Do visit our country pages for Thailand, Vietnam, Indonesia and China
 as well as our <a href="https://www.facebook.com/CCKSians" rel="noopener nofollow" target="_blank">Facebook</a> and
-<a href="https://www.instagram.com/cckssofficial" rel="noopener nofollow" target="_blank">Instagram</a>pages for more details, photos and reels of the 2023 and
-2024 trips!</p>
+<a href="https://www.instagram.com/cckssofficial" rel="noopener nofollow" target="_blank">Instagram</a>pages for more details, photos and reels of the 2023, 2024
+and 2025 trips!</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTh4Pjhtq_K0UGX0-zC0QG0798iU5SSATPWIE9do3U66nK0MZUKFMbY9ixUdyhlLXWLYvASrVmy-28w/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTh4Pjhtq_K0UGX0-zC0QG0798iU5SSATPWIE9do3U66nK0MZUKFMbY9ixUdyhlLXWLYvASrVmy-28w/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
