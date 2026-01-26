@@ -92,7 +92,8 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 <p><strong>At Chua Chu Kang Secondary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
-<p></p>
+<p><strong>Secondary 1 </strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
