@@ -92,20 +92,143 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 <p><strong>At Chua Chu Kang Secondary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
-<p><strong>Secondary 1 </strong>
+<p><strong>Secondary 1</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Co Curriculum At Cckss/CCE/2026_SED_Sec1.jpg">
+</div>
+<p></p>
+<p><strong>Secondary 2</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Co Curriculum At Cckss/CCE/2026_SED_Sec2.jpg">
+</div>
+<p><strong>Secondary 3</strong>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Co Curriculum At Cckss/CCE/2026_SED_Sec3.jpg">
+</div>
+<p><strong>Secondary 4</strong>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Co Curriculum At Cckss/CCE/2026_SED_Sec4.jpg">
+</div>
+<p><strong>Secondary 5</strong>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Co Curriculum At Cckss/CCE/2026_SED_Sec5.jpg">
+</div>
+<p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
+<p>8. <em>eTeens</em> is a programme that was developed by Health Promotion
+Board, in collaboration with the Ministry of Education, to provide Secondary
+3 students with accurate information on STIs, HIV and protection from a
+health perspective. With the formation of the Communicable Diseases Agency
+(CDA) on 1 April 2025, the programme would now be managed by CDA’s Training
+and Education Division instead of HPB. <em>eTeens</em> is conducted in two
+segments – a mass talk segment and a classroom-based programme. The desired
+outcome of the <em>eTeens</em> programme is that students are empowered to
+make wise, informed and sensible decisions to protect themselves from sexually
+transmitted infectious diseases.</p>
+<p>9. Students are taught skills such as decision-making, assertiveness and
+negotiation to say “no” to sex and negative peer pressure. They also learn
+that the impact of STIs/HIV extends beyond themselves and involves their
+family, and the importance of responsible decision-making and seeking help.
+Abstinence and upholding family values are the key messages.</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>
+<p><strong>At Chua Chu Kang Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
+<br>
 <br>
 </p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Topics/Lessons</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Programme Learning Objectives</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time Period</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mass Talk delivered through a pre-recorded video</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Raise awareness and provide knowledge on:</p>
+</li>
+</ul>
+<p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
+what it is, how it spreads, how to prevent infection mainly through ABC
+(abstinence, being faithful, correct, and consistent condom use), consequences
+and impact</p>
+<p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
+assertiveness, negotiation to say ‘no’ to peer pressure)</p>
+<p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
+way, including avenues for help-seeking.</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Classroom-based Lesson</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn to negotiate their way out of a risky situation by applying skills
+of assertiveness and responsible decision-making</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 7</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Information for Parents</strong>
+</p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
+out of the Sexuality Education lessons, <em>eTeens</em> and/or supplementary
+sexuality education programmes by MOE-approved external providers.</p>
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
+children out of the <strong>Sexuality Education lessons</strong> need to
+complete an opt-out form. This form will be made available via Parents
+Gateway and is also available <u>here</u> (please upload parents opt-out
+form found in <strong>Annex</strong>  <strong>A in PDF format</strong> and
+insert a hyperlink for parents to access the form). The completed form
+is to be submitted by 27/02/2026.</p>
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents of Secondary Three students
+who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
+to complete an opt-out form. This form will be made available via Parents
+Gateway and is also available <u>here</u> (please upload parents opt-out
+form found in <strong>Annex</strong>  <strong>B in PDF format</strong> and
+insert a hyperlink for parents to access the form). &nbsp;The completed
+form is to be submitted by 27/02/2026.</p>
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
+at 67691386 or email <a href="mailto:cckss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cckss@moe.edu.sg</a> for discussion or to
+seek clarification about the school’s Sexuality Education programme.</p>
+<p></p>
