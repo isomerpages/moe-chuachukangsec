@@ -4,6 +4,8 @@ permalink: /cce/moe-sexuality-education-in-schools/
 variant: tiptap
 description: ""
 ---
+<p><strong>Moe Sexuality Education in Schools</strong>
+</p>
 <p>1) Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
 mature, develop healthy and rewarding relationships with others, including
@@ -14,7 +16,7 @@ marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
-<p>2) The <strong>Goals</strong> of Sexuality Education are to:</p>
+<p>2. The <strong>Goals</strong> of Sexuality Education are to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Support students in managing their physiological, social and emotional
@@ -30,7 +32,7 @@ by having positive mainstream values and attitudes about sexuality that
 are premised on the family as the basic unit of society.</p>
 </li>
 </ul>
-<p>3) The <strong>Key Messages</strong> of Sexuality Education are:</p>
+<p>&nbsp;3. The <strong>Key Messages</strong> of Sexuality Education are:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Love and respect yourself as you love and respect others;</p>
@@ -46,13 +48,17 @@ foundation for strong families);</p>
 <p>Abstinence before marriage is the best protection against STIs/HIV and
 unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
+<p></p>
 </li>
 </ul>
-<p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;for
-more information on MOE Sexuality Education.</p>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> (please
+insert hyperlink: <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>)
+for more information on MOE Sexuality Education.</p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p>
+<br>
+<br>
+<br>
+<br>
+</p>
