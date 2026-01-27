@@ -2,4 +2,5 @@ collections:
   draft:
     output: true
     order:
+      - Education Career Guidance.md
       - MOE Sexuality Education in Schools.md
