@@ -6,7 +6,7 @@ description: ""
 ---
 <p><strong>Moe Sexuality Education in Schools</strong>
 </p>
-<p>1) Sexuality Education (SEd) in schools aims to enable students to understand
+<p>1. Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
 mature, develop healthy and rewarding relationships with others, including
 those with members of the opposite sex, and make wise, informed and responsible
@@ -94,34 +94,331 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </p>
 <p><strong>Secondary 1</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Co Curriculum At Cckss/CCE/2026_SED_Sec1.jpg">
-</div>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Unit</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Title / Duration</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Overview</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Objectives </strong>
+</p>
+<p>At the end of the lesson, students will be able to:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time Period</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Respectful Relationships &amp; Safety</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Steady or Not Lesson 1 (60 mins)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson helps students understand more about relationship building
+and the different types of love (e.g. familial, platonic, romantic). They
+will have the opportunity to better understand the considerations involved
+in making responsible decisions towards dating and romantic relationships
+and understand how to build healthy and supportive relationships, both
+online and offline.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>recognise the importance of monitoring and managing our emotional reactions,
+in helpful ways that are reflective of our values and principles</p>
+</li>
+<li>
+<p>recognise that there are different forms of love (e.g. familial, platonic,
+romantic love)</p>
+</li>
+<li>
+<p>recognise the importance of, and understand what builds healthy and supportive
+relationships, both online and offline</p>
+</li>
+<li>
+<p>understand what dating is, and recognise that the readiness and interest
+in dating vary among individuals</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2 Week 7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Being Aware, Being Safe Lesson 2 (60 mins)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson focuses on helping students to be safe from the dangers of
+sexual grooming and on respecting one’s right to safety. Students will
+also learn about the legal provisions against sexual abuse, and the impact
+of sexual abuse on victims, including the psychological impact on the sense
+of self.</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>understand that physical and psychological abuse from others, especially
+those we know and trust, can have strong negative effects on a person’s
+self-concept</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2 Week 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>More than Meets the Eye
+<br>Lesson 3 (60 mins)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson touches on two areas relevant to an adolescent’s curiosity
+on matters related to sexuality – masturbation and pornography. Students
+will gain awareness of the health, legal and moral issues related to viewing,
+downloading and/or distributing pornography. While students may perceive
+watching pornography as a private issue without consequences to bear, they
+will learn that it could lead to addiction and/or other risky sexual behaviours.</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>understand and accept that as we work towards becoming our best self,
+there will be times when we make mistakes, and recognise the importance
+of exercising moral courage in facing up to consequences</p>
+</li>
+<li>
+<p>recognise that there are moral and legal consequences of risky sexual
+behaviours, pornography access and acting irresponsibly or maliciously
+when online (e.g. spreading of online falsehoods, flouting copyright laws,
+etc.)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2 Week 9</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Secondary 2</strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Co Curriculum At Cckss/CCE/2026_SED_Sec2.jpg">
-</div>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">Unit</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Title/ Duration</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Overview</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Objectives</strong>
+</p>
+<p>At the end of the lesson, students will be able to:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time Period</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Respectful Relationships &amp; Safety</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A Role for Everyone Lesson 1 (60 mins)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson focus on how the family, culture and society can influence
+one’s perception of their gender roles. Students will learn what gender
+stereotypes are (e.g. males traditionally as breadwinners and females traditionally
+as doing household chores) and how gender stereotypes are formed. &nbsp;Students
+will discuss how one’s understanding of gender roles should not be limited
+by gender stereotypes, for example women can be pilots, while men can be
+nurses.&nbsp;</p>
+<p>Students learn to focus on their personal strengths to pursue their interests
+and build their self- confidence.&nbsp;</p>
+<p>Students will also learn about the definitions of biological sex, gender
+identity, gender expression and sexual orientation. They will learn to
+treat everyone with respect and empathy.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>know that one’s understanding of gender roles should not be limited by
+gender stereotypes</p>
+</li>
+<li>
+<p>develop an appreciation of one’s own unique qualities and characteristics
+as a male or female</p>
+</li>
+<li>
+<p>understand what sexual orientation entails</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2 Week 7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Online Safety Challenge</p>
+<p>Lesson 2A</p>
+<p>(60 mins)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson focuses on the issue of online grooming and cyber-flashing.
+It emphasises the need for help-seeking, peer support and positive peer
+influence. The lesson encourages the safe and responsible use of social
+media, and aims to deepen students’ conviction, and extend a call to action
+to students to taking appropriate decisions to safeguard their well-being
+and safety.</p>
+<p>&nbsp;</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>recognise one’s vulnerability to risky situations and the importance of
+exercising discretion to reduce risks and avoid negative consequences,
+both online and offline</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2 Week 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Do I or Don’t I</p>
+<p>Lesson 2B</p>
+<p>(60 mins)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson focuses on respect for personal boundaries; and how to be
+safe from risky sexual behaviour, teenage pregnancy and abortion. Students
+will learn the importance of respecting one another’s boundaries in relationships.
+This lesson emphasises the importance of responsible decision-making, the
+value of sexual abstinence, the need for help seeking. Students will be
+aware of Singapore laws protecting minors, such as the legal consequences
+of having sex with a minor, abortion and the abandonment of babies.&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>recognise the importance of self-respect and respect for others in relating
+to members of the opposite sex</p>
+</li>
+<li>
+<p>recognise one’s vulnerability to risky situations and the importance of
+exercising discretion to reduce risks and avoid negative consequences,
+both offline and online</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2 Week 9</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Secondary 3</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Co Curriculum At Cckss/CCE/2026_SED_Sec3.jpg">
-</div>
 <p><strong>Secondary 4</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Co Curriculum At Cckss/CCE/2026_SED_Sec4.jpg">
-</div>
 <p><strong>Secondary 5</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Co Curriculum At Cckss/CCE/2026_SED_Sec5.jpg">
-</div>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8. <em>eTeens</em> is a programme that was developed by Health Promotion
 Board, in collaboration with the Ministry of Education, to provide Secondary
