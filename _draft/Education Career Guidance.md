@@ -121,6 +121,32 @@ relevant in a changing world.</p>
 </div>
 </div>
 </div>
+<p><strong>For Parents:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>“ECG Nuggets@CCKSS” - ECG Newsletter for parents</strong>
+</p>
+</li>
+<li>
+<p><strong>Parents’ Engagement Level Talks</strong>
+</p>
+</li>
+<li>
+<p><strong>Education Pathways Talks for Parents Support Group (PSG)</strong>
+</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Co Curriculum At Cckss/ECG/2026_ECG_8.jpg">
+</div>
+<p><strong>Make an appointment to see your ECG Counsellor, Ms Rosetta, today!</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Co Curriculum At Cckss/ECG/2026_ECG_9.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
