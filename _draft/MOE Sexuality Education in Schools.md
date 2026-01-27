@@ -467,8 +467,6 @@ both offline and online</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank"><br></a></strong>
-</p>
 <p><strong>Unit</strong>
 </p>
 </td>
@@ -822,6 +820,23 @@ alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
