@@ -1,5 +1,4 @@
 collections:
   draft:
     output: true
-    order:
-      - MOE Sexuality Education in Schools.md
+    order: []
