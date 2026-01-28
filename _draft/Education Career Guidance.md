@@ -141,9 +141,8 @@ relevant in a changing world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Co Curriculum At Cckss/ECG/2026_ECG_8.jpg">
 </div>
-<p><strong>Make an appointment to see your ECG Counsellor, Ms Rosetta, today!</strong>
+<p><strong>Click </strong><a href="https://go.gov.sg/chatwmsfung" rel="noopener nofollow" target="_blank">here</a><strong> to make an appointment to see your ECG Counsellor, Ms Rosetta, today!</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Co Curriculum At Cckss/ECG/2026_ECG_9.jpg">
 </div>
