@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Cohort Level website.md
+      - Timetable/2026 WA1 MA1 Individual Class Schedules.md
       - Timetable/.keep
       - Timetable/Class Timetable.md
       - 2025 GCE O Level Examination Results Release.md
