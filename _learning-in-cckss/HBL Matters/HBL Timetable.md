@@ -10,7 +10,7 @@ third_nav_title: HBL Matters
 </p>
 <p><a href="/files/S2_HBL_Time_Table__Sem_1.pdf" rel="noopener nofollow" target="_blank">Sec 2 HBL Timetable Semester 1</a>
 </p>
-<p><a href="/files/S3_HBL_Time_Table__Sem_1.pdf" rel="noopener nofollow" target="_blank">Sec 3 HBL Timetable Semester 1</a>
+<p><a href="/files/Students/2026 HBL Timetable/2026_HBL_S3_HBL_Time_Table__Sem_1_29_Jan.pdf" rel="noopener nofollow" target="_blank">Sec 3 HBL Timetable Semester 1 (29 Jan)</a>
 </p>
 <p><a href="/files/S4_5_HBL_Time_Table__Sem_1.pdf" rel="noopener nofollow" target="_blank">Sec 4&amp;5 HBL Timetable Semester 1</a>
 </p>
