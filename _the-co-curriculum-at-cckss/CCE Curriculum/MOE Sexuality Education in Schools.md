@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCE Curriculum
 variant: tiptap
 ---
-<h4><strong>Moe Sexuality Education in Schools</strong></h4>
+<h4><strong>MOE Sexuality Education in Schools</strong></h4>
 <p>1. Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
 mature, develop healthy and rewarding relationships with others, including
@@ -61,7 +61,11 @@ curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
 Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
-<p>5.The subjects that incorporate topics on sexuality include:</p>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p>The subjects that incorporate topics on sexuality include:</p>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>Science</p>
