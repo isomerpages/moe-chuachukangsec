@@ -13,8 +13,9 @@ variant: tiptap
 to develop <strong>effective communicators and active contributors with civic, cross-cultural and global literacy</strong>.</p>
 <p>We embarked on our first overseas trip to Chiang Rai, Thailand in 2023
 and since then, we have scaled up our offering to <strong>4 countries - Thailand, Vietnam, Indonesia and China</strong> to
-our Sec 3 CCKSians. In 2026, we are proud to offer <strong>5 trips to 4 countries - China, Japan, Indonesia and Thailand.</strong>
-</p>
+our Sec 3 CCKSians. In 2026, we are proud to offer <strong>5 trips to 4 countries - China, Japan, Indonesia and Thailand. </strong>The
+briefing slides for the Assembly presentation on the CGC 2026 trips can
+be found below.</p>
 <p>Overseas experiences allow for authentic learning to <strong>broaden students’ learning experiences</strong> and <strong>deepen students’ acquisition of 21CC</strong>.
 These will enable students to</p>
 <ul data-tight="true" class="tight">
