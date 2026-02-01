@@ -39,6 +39,6 @@ as well as our <a href="https://www.facebook.com/CCKSians" rel="noopener nofollo
 <a href="https://www.instagram.com/cckssofficial" rel="noopener nofollow" target="_blank">Instagram</a>pages for more details, photos and reels of the 2023, 2024
 and 2025 trips!</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTh4Pjhtq_K0UGX0-zC0QG0798iU5SSATPWIE9do3U66nK0MZUKFMbY9ixUdyhlLXWLYvASrVmy-28w/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTzK9GMKgI8ZNX2htJrYlKnciew7eV1MuZjahxU7QSk_9BsIZMijghh5-HN2hCxYYfnXa4nkkhiPOFT/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
