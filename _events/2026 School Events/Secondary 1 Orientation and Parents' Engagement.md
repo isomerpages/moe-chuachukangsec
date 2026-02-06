@@ -7,17 +7,22 @@ third_nav_title: 2026 School Events
 ---
 <h2><strong>Secondary 1 Orientation and Parents' Engagement</strong></h2>
 <p>Starting secondary school is an exciting milestone filled with new opportunities,
-challenges, and experiences. To support our newest CCKSians as they embark
-on this important journey, CCKSS organized a meaningful Secondary 1 Parent
-Engagement session that brought parents and children together in a warm
-and welcoming environment.</p>
-<p>The event aimed to strengthen the partnership between home and school
-while helping students feel supported as they adjust to a new chapter of
-their education. Parents were introduced to the school’s values, expectations,
-and support systems, gaining a better understanding of how they can work
-hand in hand with teachers to nurture their children’s growth. They were
-also treated to an energetic display by the Secondary 1 CCKSians who proudly
-danced the mass dance they learnt as part of their orientation.</p>
+challenges, and experiences. It was all smiles, laughter, and high energy
+as our Secondary 1 CCKSians dove into a fun-filled orientation! Their seniors
+pulled out all the stops, organising lively ice-breakers and bonding games
+that sparked instant friendships. The excitement peaked when the students
+came together to learn a dynamic mass dance, creating a buzzing and unforgettable
+start to their secondary school adventure.</p>
+<p>Additionally, to support our newest CCKSians as they embark on this important
+journey, CCKSS also organized a meaningful Secondary 1 Parent Engagement
+session that brought parents and children together in a warm and welcoming
+environment. The event aimed to strengthen the partnership between home
+and school while helping students feel supported as they adjust to a new
+chapter of their education. Parents were introduced to the school’s values,
+expectations, and support systems, gaining a better understanding of how
+they can work hand in hand with teachers to nurture their children’s growth.
+They were also treated to an energetic display by the Secondary 1 CCKSians
+who proudly danced the mass dance they learnt as part of their orientation.</p>
 <p>One particularly touching segment of the programme invited parents to
 write personal notes of encouragement to their children. As parents carefully
 penned their thoughts, the room was filled with a quiet sense of reflection
