@@ -23,7 +23,7 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
-      title: Secondary 1 Parents Engagement
+      title: Secondary 1 Orientation & Parents Engagement
       subtitle: events
       id: infopic
       button: read more
