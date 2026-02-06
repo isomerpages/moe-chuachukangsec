@@ -23,6 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Secondary 1 Parents Engagement
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/secondary-1-parent-engagement/
+      image: /images/Screenshot_2026_02_06_103854.png
+      alt: Image alt text
+  - infopic:
       title: Pongal Celebrations
       subtitle: events
       id: infopic
