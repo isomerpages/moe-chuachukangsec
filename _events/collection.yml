@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2026 School Events/Turning Up the Volume on Learning at CCKSS!.md
       - 2026 School Events/Dialogue with Global Thought Leaders on Knowledge
         Building.md
       - 2026 School Events/.keep
