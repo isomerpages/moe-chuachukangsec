@@ -23,6 +23,13 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Pongal Celebrations
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/pongal-celebrations/
+      image: /images/Screenshot_2026_02_06_095903.png
+  - infopic:
       title: 2026 Start Right Programme Day 1 & 2
       subtitle: events
       id: infopic
