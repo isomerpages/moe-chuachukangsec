@@ -23,6 +23,21 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Dialogue with Global Thought Leaders on Knowledge Building
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/dialogue-with-global-thought-leaders-on-knowledge-building/
+      image: /images/WhatsApp_Image_2026_02_05_at_17_10_28.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: Pongal Celebrations
       subtitle: events
       id: infopic
