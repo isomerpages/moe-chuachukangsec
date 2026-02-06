@@ -2,6 +2,8 @@ collections:
   events:
     output: true
     order:
+      - 2026 School Events/TL & ML Unit Learning Journey to Little India &
+        Kampong Glam.md
       - 2026 School Events/.keep
       - 2026 School Events/Pongal Celebrations.md
       - 2026 School Events/Secondary 1 Orientation and Parents' Engagement.md
