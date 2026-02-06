@@ -23,6 +23,21 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Pongal Celebrations
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/pongal-celebrations/
+      image: /images/Screenshot_2026_02_06_095903.png
+  - infopic:
+      title: TL & ML Unit Learning Journey to Little India & Kampong Glam
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/tl-ml-unit-learning-journey-to-little-india-kampong-glam/
+      image: /images/Screenshot_2026_02_06_110605.png
+      alt: Image alt text
+  - infopic:
       title: Secondary 1 Orientation & Parents Engagement
       subtitle: events
       id: infopic
@@ -30,13 +45,6 @@ sections:
       url: https://chuachukangsec.moe.edu.sg/secondary-1-parent-engagement/
       image: /images/Screenshot_2026_02_06_103854.png
       alt: Image alt text
-  - infopic:
-      title: Pongal Celebrations
-      subtitle: events
-      id: infopic
-      button: read more
-      url: https://chuachukangsec.moe.edu.sg/pongal-celebrations/
-      image: /images/Screenshot_2026_02_06_095903.png
   - infopic:
       title: 2026 Start Right Programme Day 1 & 2
       subtitle: events
