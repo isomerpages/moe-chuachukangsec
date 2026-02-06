@@ -46,6 +46,6 @@ where our CCKSians can learn, grow, and succeed together.</p>
 <p>Here’s to a wonderful year ahead as we continue to journey forward with
 purpose and excitement!</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRGDjJtMYSHSZMPIbEsWvE-moi4cgN8ouqUA2AhwN7CxI9UFYgH_nk-Vrfxc1FfrLoAd8sIYNyUCRL/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRGDjJtMYSHSZMPIbEsWvE-moi4cgN8ouqUA2AhwN7CxI9UFYgH_nk-Vrfxc1FfrLoAd8sIYNyUCRL/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
