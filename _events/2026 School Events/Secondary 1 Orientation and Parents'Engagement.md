@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2026 School Events
 ---
-<h2><strong>Secondary 1 Parent Engagement</strong></h2>
+<h2><strong>Secondary 1 Orientation and Parents' Engagement</strong></h2>
 <p>Starting secondary school is an exciting milestone filled with new opportunities,
 challenges, and experiences. To support our newest CCKSians as they embark
 on this important journey, CCKSS organized a meaningful Secondary 1 Parent
