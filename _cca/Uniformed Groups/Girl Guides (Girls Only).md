@@ -160,6 +160,15 @@ to a Girl Guide)</p>
 <p><strong>2023 Gold </strong>(Awarded for 2022)</p>
 </li>
 </ul>
+<p><strong>2026</strong>
+</p>
+<p><strong>World Thinking Day 2026</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Telepathy Challenge</strong> - 3rd Prize</p>
+</li>
+</ul>
 <p><strong>2025</strong>
 </p>
 <p><strong>West Division FEST 2025</strong>
@@ -229,6 +238,6 @@ Prize</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRL7lYnlCJeS8FYyPoKoDzHGbCQfC23Ae2E4wfmgG2o3zg1zC4iEJ2uFDjC2_dNlMlT82Na0Oj4OWRk/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRL7lYnlCJeS8FYyPoKoDzHGbCQfC23Ae2E4wfmgG2o3zg1zC4iEJ2uFDjC2_dNlMlT82Na0Oj4OWRk/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>

@@ -27,4 +27,9 @@ third_nav_title: School Achievements
 </tr>
 </tbody>
 </table>
+<h3><strong>Achievements (Uniformed Groups)</strong></h3>
+<h4><strong>World Thinking Day 2026 Telepathy Challenge (3rd Prize)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_02_07_at_13_38_32.jpg">
+</div>
 <p></p>
