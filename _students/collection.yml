@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Acceptable Use Policy (AUP).md
       - CCA schedule update for Semester 1.md
       - Cohort Level website.md
       - Timetable/.keep
