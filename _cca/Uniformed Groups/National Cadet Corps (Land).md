@@ -214,6 +214,7 @@ leaders and team players through fun and challenging military-related activities
 </p>
 <p><strong><u>Unit Recognition Award (for both Land and Sea units)</u></strong>
 </p>
+<p><strong>2026: Distinction </strong>(Awarded for 2025)</p>
 <p><strong>2025: Distinction</strong> (Awarded for 2024)</p>
 <p><strong>2024: Distinction </strong>(Awarded for 2023)</p>
 <p><strong>2023: Distinction </strong>(Awarded for 2022)</p>
@@ -343,6 +344,6 @@ leaders and team players through fun and challenging military-related activities
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQvxgJoHpUVL7IAogChroPTOAHUEGsBuC60d8Rn3SCbIpplqoHcFzWkijNjXm34qyJgMm-zdeCQwQ5E/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQvxgJoHpUVL7IAogChroPTOAHUEGsBuC60d8Rn3SCbIpplqoHcFzWkijNjXm34qyJgMm-zdeCQwQ5E/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
