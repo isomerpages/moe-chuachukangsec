@@ -6,17 +6,13 @@ third_nav_title: Timetable
 variant: tiptap
 ---
 <p>Dear CCKSians, please take note that the timetable below is effective
-from Term 1.</p>
-<p></p>
-<p><a href="/files/Students/2026 Timetable/2026_Sem_1_TT___Sec_1__5_Jan_.pdf" rel="noopener nofollow" target="_blank">2026 Sem 1 Timetable - Sec 1 (5 Jan)</a>
+from Term 2.</p>
+<p>
+<br><a href="/files/Students/2026 Term2 timetable/2026_Term_2_TT___SEC_1__19_Mar_.pdf" rel="noopener nofollow" target="_blank">2026 Term 2 Timetable - Sec 1 (19 Mar)</a>
+<br><a href="/files/Students/2026 Term2 timetable/2026_Term_2_TT___SEC_2__19_Mar_.pdf" rel="noopener nofollow" target="_blank">2026 Term 2 Timetable - Sec 2 (19 Mar)</a>
+<br><a href="/files/Students/2026 Term2 timetable/2026_Term_2_TT___SEC_3__19_Mar_.pdf" rel="noopener nofollow" target="_blank">2026 Term 2 Timetable - Sec 3 (19 Mar)</a>
+<br><a href="/files/Students/2026 Term2 timetable/2026_Term_2_TT___SEC_4_5__19_Mar_.pdf" rel="noopener nofollow" target="_blank">2026 Term 2 Timetable - Sec 4n5 (19 Mar)</a>
 </p>
-<p><a href="/files/Students/2026 Timetable/2026_Sem_1_TT___Sec_2__5_Jan_.pdf" rel="noopener nofollow" target="_blank">2026 Sem 1 Timetable - Sec 2 (5 Jan)</a>
-</p>
-<p><a href="/files/Students/2026 Timetable/2026_Sem_1_TT___Sec_3__5_Jan_.pdf" rel="noopener nofollow" target="_blank">2026 Sem 1 Timetable - Sec 3 (5 Jan)</a>
-</p>
-<p><a href="/files/Students/2026 Timetable/2026_Sem_1_TT___Sec_4_5__5_Jan_.pdf" rel="noopener nofollow" target="_blank">2026 Sem 1 Timetable - Sec 4n5 (5 Jan)</a>
-</p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
