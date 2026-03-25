@@ -1,0 +1,12 @@
+---
+title: 2026 WA2 MA2 Individual Class Schedules
+permalink: /students/2026-wa-ma-individual-class-schedules/
+variant: tiptap
+description: ""
+third_nav_title: Timetable
+---
+<p><a href="/files/Students/2026 WA2 Timetable/Sec_1__2026_WA_MA_Individual_Class_Schedule__Letter_from_P_Final.pdf" rel="noopener nofollow" target="_blank">[Sec 1] 2026 WA2 MA2 Individual Class Schedule</a>
+<br><a href="/files/Students/2026 WA2 Timetable/Sec_2__2026_WA_MA_Individual_Class_Schedule__Letter_from_P_Final.pdf" rel="noopener nofollow" target="_blank">[Sec 2] 2026 WA2 MA2 Individual Class Schedule</a>
+<br><a href="/files/Students/2026 WA2 Timetable/Sec_3__2026_WA_MA_Individual_Class_Schedule__Letter_from_P_Final.pdf" rel="noopener nofollow" target="_blank">[Sec 3] 2026 WA2 MA2 Individual Class Schedule</a>
+<br><a href="/files/Students/2026 WA2 Timetable/Sec_4_5__2026_WA_MA_Individual_Class_Schedule__Letter_from_P_Final.pdf" rel="noopener nofollow" target="_blank">[Sec 4n5] 2026 WA2 MA2 Individual Class Schedule</a>
+</p>
