@@ -19,8 +19,7 @@ and <em>“From Participation to Insight: Lessons from a Knowledge Building Proj
 drive pedagogical innovation, professional growth, and a strong CAN (Collaboration,
 Adaptability, Networking) culture. This recognition affirms our school’s
 commitment to nurturing lifelong learners and fostering a dynamic, knowledge-building
-community. <a href="https://singteach.nie.edu.sg/wp-content/uploads/2025/10/SingTeach_Issue-94.pdf" rel="noopener noreferrer nofollow" target="_blank">Read the full issue here.</a>
-</p>
+community.</p>
 <p>“Over the past few years, I’ve witnessed a quiet but powerful transformation
 sweep through the classrooms and corridors of Chua Chu Kang Secondary School.
 It is not just in the lessons being taught—but in how we think about learning,
