@@ -63,29 +63,24 @@ Teachers 2023 recipient.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/In%20The%20News/presidents%20award%20for%20teacher%202023.jpeg">
 </div>
 <h3><strong>Nasihat arwah ayah bantu kuatkan semangat hingga berjaya</strong></h3>
-<p><a href="https://www.beritaharian.sg/setempat/nasihat-arwah-ayah-bantu-kuatkan-semangat-hingga-berjaya" rel="noopener noreferrer nofollow" target="_blank">https://www.beritaharian.sg/setempat/nasihat-arwah-ayah-bantu-kuatkan-semangat-hingga-berjaya</a>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/In%20The%20News/Inthenews01.jpg">
 </div>
 <hr>
 <h3><strong>Dapat ganjaran ketepi masa untuk pelajaran walau minat pelbagai</strong></h3>
-<p><a href="https://www.beritaharian.sg/setempat/dapat-ganjaran-ketepi-masa-untuk-pelajaran-walau-minat-pelbagai" rel="noopener noreferrer nofollow" target="_blank">https://www.beritaharian.sg/setempat/dapat-ganjaran-ketepi-masa-untuk-pelajaran-walau-minat-pelbagai</a>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/In%20The%20News/Inthenews02.jpg">
 </div>
 <hr>
 <h3><strong>Keputusan GCE 'N': Adik hidap barah jadi sumber kekuatan; kehilangan ayah sebelum peperiksaan</strong></h3>
-<p><a href="https://berita.mediacorp.sg/singapura/keputusan-gce-n-adik-hidap-barah-jadi-sumber-kekuatan-kehilangan-ayah-sebelum-peperiksaan-717306" rel="noopener noreferrer nofollow" target="_blank">https://berita.mediacorp.sg/singapura/keputusan-gce-n-adik-hidap-barah-jadi-sumber-kekuatan-kehilangan-ayah-sebelum-peperiksaan-717306</a>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/In%20The%20News/Inthenews03.jpg">
 </div>
 <hr>
 <h3><strong>Secondary School Open House</strong></h3>
-<p><a href="https://www.8world.com/so-young/secondary-school-open-house-1975561" rel="noopener noreferrer nofollow" target="_blank">https://www.8world.com/so-young/secondary-school-open-house-1975561</a>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/In%20The%20News/Inthenews04.jpg">
 </div>
