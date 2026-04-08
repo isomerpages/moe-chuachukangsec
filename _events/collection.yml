@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2026 School Events/CCA Leaders' Investiture.md
       - 2026 School Events/.keep
       - 2026 School Events/Hari Raya Celebrations.md
       - 2026 School Events/Dialogue with Global Thought Leaders on Knowledge
