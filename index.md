@@ -23,6 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Hari Raya Celebrations
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/hari-raya-celebrations/
+      image: /images/Screenshot_2026_04_08_160232.png
+      alt: Image alt text
+  - infopic:
       title: Dialogue with Global Thought Leaders on Knowledge Building
       subtitle: events
       id: infopic
