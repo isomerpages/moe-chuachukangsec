@@ -23,6 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Speech Day
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/speech-day/
+      image: /images/Screenshot_2026_04_09_130556.png
+      alt: Image alt text
+  - infopic:
       title: Student Council Investiture
       subtitle: events
       id: infopic
