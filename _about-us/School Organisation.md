@@ -1236,7 +1236,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Han Khai Choog Neil Benedict</p>
+<p>Mr Han Khai Choong Neil Benedict</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:han_khai_choong_neil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_khai_choong_neil@schools.gov.sg</a>
