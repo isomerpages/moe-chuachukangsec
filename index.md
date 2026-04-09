@@ -27,7 +27,7 @@ sections:
       subtitle: events
       id: infopic
       button: read more
-      url: https://chuachukangsec.moe.edu.sg/student-leaders-investiture/
+      url: https://chuachukangsec.moe.edu.sg/student-council-investiture/
       image: /images/Screenshot_2026_04_09_120235.png
       alt: Image alt text
   - infopic:
