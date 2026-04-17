@@ -207,6 +207,6 @@ and First Aid.</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSVpZm37xu-sOs6SqSoR6svNof_29B7B2cvHkJzywCSvOJJcco55d6O2ZPpp_okLqENt5oXYSoPPT9D/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSVpZm37xu-sOs6SqSoR6svNof_29B7B2cvHkJzywCSvOJJcco55d6O2ZPpp_okLqENt5oXYSoPPT9D/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
