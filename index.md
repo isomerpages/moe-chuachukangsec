@@ -23,6 +23,14 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: Secondary One Camp
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/secondary-1-camp/
+      image: /images/Screenshot_2026_04_17_111326.png
+      alt: Image alt text
+  - infopic:
       title: Student Council Investiture
       subtitle: events
       id: infopic
