@@ -2,7 +2,6 @@ collections:
   learning-in-cckss:
     output: true
     order:
-      - Direct School Admission Application 2026.md
       - "Applied Learning Programme: Sustainable Living for a Resilient
         Future.md"
       - Departments/.keep
@@ -14,6 +13,7 @@ collections:
       - Departments/Mother Tongue.md
       - Departments/Physical Education.md
       - Departments/Science.md
+      - Direct School Admission Application 2026.md
       - Personalised Digital Learning Programme.md
       - HBL Matters/.keep
       - HBL Matters/Home Based Learning (HBL) Guide.md
