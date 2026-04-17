@@ -23,6 +23,22 @@ sections:
       button: Click here for more
       subtitle: STAY UP TO DATE WITH US
   - infopic:
+      title: CCKSS Global Connect Trip (Xi'An, China)
+      subtitle: The Co-Curriculum
+      id: infopic
+      button: read more
+      url: https://www.chuachukangsec.moe.edu.sg/china/
+      image: /images/Screenshot_2026_04_17_120746.png
+      alt: Image alt text
+  - infopic:
+      title: Secondary One Camp
+      subtitle: events
+      id: infopic
+      button: read more
+      url: https://chuachukangsec.moe.edu.sg/secondary-1-camp/
+      image: /images/Screenshot_2026_04_17_111326.png
+      alt: Image alt text
+  - infopic:
       title: Student Council Investiture
       subtitle: events
       id: infopic

@@ -151,6 +151,9 @@ to a Girl Guide)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p><strong>2026 Gold </strong>(Awarded for 2025)</p>
+</li>
+<li>
 <p><strong>2025 Gold </strong>(Awarded for 2024)</p>
 </li>
 <li>
