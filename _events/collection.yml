@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - 2026 School Events/Global Connect Trip to Xi'an China.md
       - 2026 School Events/Speech Day.md
       - 2026 School Events/Student Council Investiture.md
       - 2026 School Events/CCA Leaders' Investiture.md
