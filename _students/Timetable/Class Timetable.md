@@ -6,12 +6,20 @@ third_nav_title: Timetable
 variant: tiptap
 ---
 <p>Dear CCKSians, please take note that the timetable below is effective
-from Term 2.</p>
+from 2026 Term 3.</p>
+<p><a href="/files/Students/2026 Term 3 Timetable/2026_Term_3_TT___CLASS_SEC_1__26_Jun_.pdf" rel="noopener nofollow" target="_blank">2026 Term 3 Timetable - Sec 1 </a>
+</p>
+<p></p>
+<p><a href="/files/Students/2026 Term 3 Timetable/2026_Term_3_TT___CLASS_SEC_2__26_Jun_.pdf" rel="noopener nofollow" target="_blank">2026 Term 3 Timetable - Sec 2</a>
+</p>
+<p></p>
+<p><a href="/files/Students/2026 Term 3 Timetable/2026_Term_3_TT___CLASS_SEC_3__26_Jun_.pdf" rel="noopener nofollow" target="_blank">2026 Term 3 Timetable - Sec 3</a>
+</p>
+<p></p>
+<p><a href="/files/Students/2026 Term 3 Timetable/2026_Term_3_TT___CLASS_SEC_4_5__26_Jun_.pdf" rel="noopener nofollow" target="_blank">2026 Term 3 Timetable - Sec 4 and 5</a>
+</p>
 <p>
-<br><a href="/files/Students/2026 Term2 timetable/2026_Term_2_TT___SEC_1__19_Mar_.pdf" rel="noopener nofollow" target="_blank">2026 Term 2 Timetable - Sec 1 (19 Mar)</a>
-<br><a href="/files/Students/2026 Term2 timetable/2026_Term_2_TT___SEC_2__19_Mar_.pdf" rel="noopener nofollow" target="_blank">2026 Term 2 Timetable - Sec 2 (19 Mar)</a>
-<br><a href="/files/Students/2026 Term2 timetable/2026_Term_2_TT___SEC_3__19_Mar_.pdf" rel="noopener nofollow" target="_blank">2026 Term 2 Timetable - Sec 3 (19 Mar)</a>
-<br><a href="/files/Students/2026 Term2 timetable/2026_Term_2_TT___SEC_4_5__19_Mar_.pdf" rel="noopener nofollow" target="_blank">2026 Term 2 Timetable - Sec 4n5 (19 Mar)</a>
+<br>
 </p>
 <p></p>
 <p></p>

@@ -276,18 +276,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head (English Language)&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Xie Xinyi Elspeth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Xie_xinyi@schools.gov.sg" rel="noopener nofollow" target="_blank">Xie_xinyi@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Level Head (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1161,6 +1149,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Amanda Louise Binny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:amanda_louise_binny@schools.gov.sg" rel="noopener nofollow" target="_blank">amanda_louise_binny@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3G</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1192,6 +1192,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_mei_qing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_mei_qing@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Loh Khou Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loh_khou_han@schools.gov.sg" rel="noopener nofollow" target="_blank">loh_khou_han@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1288,6 +1300,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:latifah_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">latifah_hassan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Soh Jing Yuan Bernice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soh_jing_yuan_bernice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_jing_yuan_bernice@schools.gov.sg</a>
 </p>
 </td>
 </tr>
