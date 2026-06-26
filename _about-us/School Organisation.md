@@ -276,18 +276,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head (English Language)&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Xie Xinyi Elspeth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Xie_xinyi@schools.gov.sg" rel="noopener nofollow" target="_blank">Xie_xinyi@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Level Head (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1192,6 +1180,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_mei_qing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_mei_qing@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Loh Khou Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loh_khou_han@schools.gov.sg" rel="noopener nofollow" target="_blank">loh_khou_han@schools.gov.sg</a>
 </p>
 </td>
 </tr>
