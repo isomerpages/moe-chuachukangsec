@@ -1149,6 +1149,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Amanda Louise Binny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:amanda_louise_binny@schools.gov.sg" rel="noopener nofollow" target="_blank">amanda_louise_binny@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3G</p>
 </td>
 <td rowspan="1" colspan="1">
