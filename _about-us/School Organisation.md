@@ -1293,6 +1293,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Soh Jing Yuan Bernice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soh_jing_yuan_bernice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_jing_yuan_bernice@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4F</p>
 </td>
 <td rowspan="1" colspan="1">
