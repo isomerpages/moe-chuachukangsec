@@ -1155,7 +1155,7 @@ variant: tiptap
 <p>Ms Amanda Louise Binny</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:amanda_louise_binny@schools.gov.sg" rel="noopener nofollow" target="_blank">amanda_louise_binny@schools.gov.sg</a>
+<p><a href="mailto:amanda_louise_binny_a@schools.gov.sg" rel="noopener nofollow" target="_blank">amanda_louise_binny_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
