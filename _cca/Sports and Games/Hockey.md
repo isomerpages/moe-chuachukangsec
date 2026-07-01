@@ -40,10 +40,10 @@ variant: tiptap
 <p>Teachers in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Cyrus Tan (2IC)</p>
+<p>Mr Tiong Wee Teck Sebastian (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:TAN_Kwang_Yonk@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">TAN_Kwang_Yonk@schools.gov.sg</a>
+<p><a href="mailto:tiong_wee_teck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tiong_wee_teck@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -64,10 +64,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Eng Huat</p>
+<p>Mr Fairuz Bin Atan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_eng_huat@schools.gov.sg" rel="noopener nofollow" target="_blank">koh_eng_huat@schools.gov.sg</a>
+<p><a href="mailto:fairuz_atan@schools.gov.sg" rel="noopener nofollow" target="_blank">fairuz_atan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -76,10 +76,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Thinesh A/L Subramaniam</p>
+<p>Mdm Ernawati Shaffie Othman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:thinesh_subramaniam@schools.gov.sg" rel="noopener nofollow" target="_blank">thinesh_subramaniam@schools.gov.sg</a>
+<p><a href="mailto:ernawati_shaffie_othman@schools.gov.sg" rel="noopener nofollow" target="_blank">ernawati_shaffie_othman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -171,6 +171,6 @@ League 1 Championship</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSiupLWN9r-z8VYaa-2a3_jj5EtS8C3ar-kt9vK5G-tydL3hXudQXhx5CAGd83HM5gVB842aafezaXZ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSiupLWN9r-z8VYaa-2a3_jj5EtS8C3ar-kt9vK5G-tydL3hXudQXhx5CAGd83HM5gVB842aafezaXZ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
