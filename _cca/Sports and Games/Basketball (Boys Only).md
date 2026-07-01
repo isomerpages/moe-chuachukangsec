@@ -47,6 +47,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cheong Pui Kuan Carolyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheong_pui_kuan_carolyn_a@schools.gov.sg" rel="noopener nofollow" target="_blank">cheong_pui_kuan_carolyn_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>About Us</strong>
@@ -130,6 +142,6 @@ another.</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQTxjNBRp5qNGSX-096pTSZF082NMbpNwhCoW00hjhBOdDyuXWa0HQjhaU5ojEKosjzgLZUctiCfHJS/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQTxjNBRp5qNGSX-096pTSZF082NMbpNwhCoW00hjhBOdDyuXWa0HQjhaU5ojEKosjzgLZUctiCfHJS/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
