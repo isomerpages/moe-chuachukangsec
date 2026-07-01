@@ -47,6 +47,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Loh Khou Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lou_khou_han@schools.gov.sg" rel="noopener nofollow" target="_blank">lou_khou_han@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>About Us</strong>
@@ -232,6 +244,6 @@ for Robot Run</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS0s2cIRKoptoXq26M6pGLqfLVKGEUYkPUvZptnDIAL6pXfjpEeRAPjf7pRZrjQg3LJarGNv-vHv2KQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS0s2cIRKoptoXq26M6pGLqfLVKGEUYkPUvZptnDIAL6pXfjpEeRAPjf7pRZrjQg3LJarGNv-vHv2KQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
