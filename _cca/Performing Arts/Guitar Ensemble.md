@@ -47,6 +47,18 @@ third_nav_title: Performing Arts
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Amanda Louise Binny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:amanda_louise_binny_a@schools.gov.sg" rel="noopener nofollow" target="_blank">amanda_louise_binny_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>About Us</strong>
@@ -127,6 +139,6 @@ lasting friendships and make music together with like-minded peers.</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS802OpuL_eYxA3uePBeFQLw-jOXCzD5ncQl0pwKIi6KZ5WwcII5_2spv8jdsE4n0eCgemYDFwBlBUz/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS802OpuL_eYxA3uePBeFQLw-jOXCzD5ncQl0pwKIi6KZ5WwcII5_2spv8jdsE4n0eCgemYDFwBlBUz/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
