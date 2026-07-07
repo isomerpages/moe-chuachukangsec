@@ -76,7 +76,7 @@ variant: tiptap
 <p>Teachers in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Santhi d/o Krishnasamy</p>
+<p>Mdm Santhi D/O Krishnasamy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:santhi_krishnasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">santhi_krishnasamy@schools.gov.sg</a>
