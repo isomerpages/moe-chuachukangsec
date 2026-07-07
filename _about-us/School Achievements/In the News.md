@@ -18,6 +18,7 @@ the event, the Minister engaged with our students as they showcased their
 innovative research project, highlighting CCKSS' commitment to nurturing
 curious, future-ready learners who embrace innovation and authentic inquiry.</p>
 <p>Read the article <a href="https://www.straitstimes.com/singapore/parenting-education/can-ai-improve-learning-new-moe-fund-aims-to-find-faster-answers" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Published in <em>The Straits Times</em> on 2 June 2026.</p>
 <h3><strong>பாரம்பரிய கலைகள் பற்றி அறிந்துகொண்ட மாணவர்கள்</strong></h3>
 <p>Our Secondary 1 students' Tamil Learning Journey found our fledgling CCKSians
 in Little India. Our CCKSians actively participated in Tamil cultural activities
