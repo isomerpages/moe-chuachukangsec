@@ -10,7 +10,7 @@ third_nav_title: HBL Matters
 for all Secondary 1 to Secondary 5 students in 2026. Please read it carefully
 to understand expectations, schedules, submission requirements, and support
 channels.</p>
-<h3>&nbsp;<strong>1. HBL Dates (Semester 1)&nbsp;</strong></h3>
+<h3>&nbsp;<strong>1. HBL Dates </strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

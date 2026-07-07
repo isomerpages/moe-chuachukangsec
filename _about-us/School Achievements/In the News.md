@@ -6,6 +6,19 @@ third_nav_title: School Achievements
 variant: tiptap
 ---
 <h1><strong>In the News</strong></h1>
+<h3><strong>Can AI improve learning? New MOE fund aims to find faster answers</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students presenting their project to the Minister for Education." src="/images/Screenshot_2026_07_07_155134.png">
+</div>
+<p>Chua Chu Kang Secondary School was featured in <em>The Straits Times</em> as
+Minister for Education Desmond Lee launched MOE's new Rapid Research Fund,
+which supports timely research into the use of educational technology,
+including artificial intelligence, to enhance teaching and learning. During
+the event, the Minister engaged with our students as they showcased their
+innovative research project, highlighting CCKSS' commitment to nurturing
+curious, future-ready learners who embrace innovation and authentic inquiry.</p>
+<p>Read the article <a href="https://www.straitstimes.com/singapore/parenting-education/can-ai-improve-learning-new-moe-fund-aims-to-find-faster-answers" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Published in <em>The Straits Times</em> on 2 June 2026.</p>
 <h3><strong>பாரம்பரிய கலைகள் பற்றி அறிந்துகொண்ட மாணவர்கள்</strong></h3>
 <p>Our Secondary 1 students' Tamil Learning Journey found our fledgling CCKSians
 in Little India. Our CCKSians actively participated in Tamil cultural activities
