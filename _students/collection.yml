@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Cohort Level website.md
-      - Timetable/HBL Timetable.md
       - Timetable/.keep
       - Timetable/Class Timetable.md
+      - Timetable/HBL Timetable.md
       - Timetable/June ASP Timetable.md
       - 2026 Secondary 4&5 Preliminary Examination schedule.md
       - CCA schedule update for Semester 1.md
