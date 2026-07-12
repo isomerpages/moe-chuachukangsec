@@ -252,7 +252,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant YH&nbsp;(Sec 2)</p>
+<p>Assistant YH&nbsp;(Sec 1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Idayu Bte Somdi</p>
