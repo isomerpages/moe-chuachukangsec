@@ -216,7 +216,7 @@ respect for opponents and graciousness in victory or defeat.</p>
 <p>Kumaravel S/O Thangavel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Student Management) (Internal)</p>
+<p>HOD (Student Management)</p>
 </td>
 </tr>
 <tr>
@@ -255,6 +255,6 @@ respect for opponents and graciousness in victory or defeat.</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRk5p2me1FedljhvKwhpovdGISGYpDx6zUq3AUPUUSrSQJAkdbUGT2Z1GNJLD-CvxKhFe3ey_BrXsGl/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRk5p2me1FedljhvKwhpovdGISGYpDx6zUq3AUPUUSrSQJAkdbUGT2Z1GNJLD-CvxKhFe3ey_BrXsGl/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
