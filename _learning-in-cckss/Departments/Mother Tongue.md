@@ -472,7 +472,18 @@ Departments was entered into the Singapore Book of Records!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss</p>
+<p>Dr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thinesh A/L Subramaniam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Taw Ying</p>
