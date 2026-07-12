@@ -43,7 +43,15 @@ solvers who contribute to the community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Grace Lee Wee Chin</p>
+<p>Mr Toh Chong Ji</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Stanley Chin (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -100,14 +108,6 @@ solvers who contribute to the community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Jamil Mohd Yunos</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>STEM Instructors (Workshop)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Walter Chan Chee Hong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -117,14 +117,6 @@ solvers who contribute to the community.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Zulkieflee Ismail</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>STEM Instructors (Workshop)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr John Ng Ah Seng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>STEM Instructors (Workshop)</p>
@@ -164,6 +156,14 @@ solvers who contribute to the community.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Anthony Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Cheong Pui Kuan Carolyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
