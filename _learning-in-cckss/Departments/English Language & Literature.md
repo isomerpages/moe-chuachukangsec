@@ -97,7 +97,7 @@ powered by patented AI, is designed to support CCKSians in mastering the
 art of writing. It will work alongside the EL Syllabus 2020 curriculum
 to enhance their writing skills and learning experience.</p>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS--xk5r9a896-z4Tl8RCKmZODh0UcfUXELRUeYpsfXoJUpy_Xx4XOVxIBP4wRvQE51KU5lKzSXHvpB/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS--xk5r9a896-z4Tl8RCKmZODh0UcfUXELRUeYpsfXoJUpy_Xx4XOVxIBP4wRvQE51KU5lKzSXHvpB/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p><strong>The Literature Programme</strong>
 </p>
@@ -115,7 +115,7 @@ Slam competition. With such involvement we hope to nurture a generation
 of avid readers who are able to appreciate the nuanced kaleidoscope of
 life.</p>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTyx8rIqBasg3YdMpvcUYvFlD5DZBMkSLqhm3B-6ZsJNVDTzxh8_QtSVQLpu20vj-BOB39jGMN1g7KH/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTyx8rIqBasg3YdMpvcUYvFlD5DZBMkSLqhm3B-6ZsJNVDTzxh8_QtSVQLpu20vj-BOB39jGMN1g7KH/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Staff</strong></h4>
 <table style="minWidth: 75px">
@@ -145,17 +145,6 @@ life.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD (Character &amp; Citizenship Education)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Elspeth Xie Xinyi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head (English)&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -270,10 +259,10 @@ life.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Masayu Aziza Masagos Ahmad</p>
+<p>Lim Ze Hui Alvina</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -299,6 +288,28 @@ life.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Abdulattif</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (FAJT)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Bee Buat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (FAJT)</p>
 </td>
 </tr>
 </tbody>
