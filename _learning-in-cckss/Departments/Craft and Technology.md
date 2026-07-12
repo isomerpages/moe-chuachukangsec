@@ -133,7 +133,7 @@ solvers who contribute to the community.</p>
 <p>Mdm Ernawati Shaffie Othman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (CCE)</p>
+<p>Subject Head (Partnerships)</p>
 </td>
 </tr>
 <tr>
