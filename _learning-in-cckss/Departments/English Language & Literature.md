@@ -177,7 +177,7 @@ life.</p>
 <p>Ong Teck Meng Victor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Student Well-being)&nbsp;</p>
+<p>Subject Head (CCE)&nbsp;</p>
 </td>
 </tr>
 <tr>
