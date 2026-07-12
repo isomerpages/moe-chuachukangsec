@@ -101,17 +101,6 @@ assembly programmes.</p>
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asmahan Binte Aman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Christine Wong</p>
 </td>
 <td rowspan="1" colspan="1">
