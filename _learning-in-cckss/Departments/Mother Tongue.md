@@ -81,7 +81,7 @@ mosaic coasters, <em>pongal</em> pot paintings, herbal massagers and many
 more were some of the Asian heritage craftworks that students were guided
 to complete.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS0KvxHlLQK3hEr1szHT2V-QXbfa1OFTVa4RmXhXmjvMkkBFQdBahzLvB0dB7RSMMNYKPwNMhEdJlwy/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS0KvxHlLQK3hEr1szHT2V-QXbfa1OFTVa4RmXhXmjvMkkBFQdBahzLvB0dB7RSMMNYKPwNMhEdJlwy/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Customised Language / Cultural Activities</strong></h4>
 <p>To ignite the interest of our students in their Mother Tongue languages
@@ -185,7 +185,7 @@ while expressing well wishes and blessings for the upcoming year. By actively
 participating in Lohei, students embrace the festive spirit and celebrate
 the Lunar New Year with enthusiasm and positivity.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRKRM5XOowIKCKaewJfpBf1XR5zyBttw6n45H4LSGtvse8CP72x7HiAVZ1dd_EZ_hqOp0YEWnFNWKUW/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRKRM5XOowIKCKaewJfpBf1XR5zyBttw6n45H4LSGtvse8CP72x7HiAVZ1dd_EZ_hqOp0YEWnFNWKUW/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong><em>Pongal </em>Celebration</strong></h4>
 <p>During the celebration of the Indian traditional <em>Pongal</em> festival,
@@ -194,7 +194,7 @@ and creating<em> rangoli</em> art. Through these hands-on experiences, students
 not only gain practical knowledge of traditional cooking techniques but
 also explore their creativity by designing vibrant<em> rangoli</em> patterns.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT98xYwbBEswDJv6kpkW4OOU644bGiscEOi9Q0MrnQlEfFlTdKyoH9YcPZjcmvcke_IEz77sAdGads1/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT98xYwbBEswDJv6kpkW4OOU644bGiscEOi9Q0MrnQlEfFlTdKyoH9YcPZjcmvcke_IEz77sAdGads1/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong><em>Hari Raya</em> Celebration</strong></h4>
 <p>The <em>Hari Raya</em> concert at Chua Chu Kang Secondary School was a vibrant
@@ -206,7 +206,7 @@ an engaging and meaningful concert. The event fostered unity and deeper
 cultural understanding, allowing everyone to embrace the values of generosity
 and harmony that <em>Hari Raya Aidilfitri</em> embodies.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQmaQQcwuLnKIjEuhucluI-_I4gHkbgjwLSpENbuapOeOTiYXoo18juhKLAm9iQdqUUgRxVI7_CqT0f/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQmaQQcwuLnKIjEuhucluI-_I4gHkbgjwLSpENbuapOeOTiYXoo18juhKLAm9iQdqUUgRxVI7_CqT0f/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong><em>Deepavali</em> Celebration</strong></h4>
 <p>The <em>Deepavali</em> celebrations at Chua Chu Kang Secondary School came
@@ -217,7 +217,7 @@ art and craft and the trying on of traditional costumes, our CCKSians had
 plenty of fun as they learnt more about <em>Deepavali</em> with their friends
 and teachers.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRnpgEvO7ymSqROnVB0cgEcsjn6v9k6-iAeE0Pb6IabS4YXUtRHq6KkdJ9FLt3zJbiMltwWK48ZD2bz/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRnpgEvO7ymSqROnVB0cgEcsjn6v9k6-iAeE0Pb6IabS4YXUtRHq6KkdJ9FLt3zJbiMltwWK48ZD2bz/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3><strong>Mother Tongue Language Learning Journeys</strong></h3>
 <p>Learning journeys to heritage sites, such as Little India, Kampong Glam,
@@ -239,7 +239,7 @@ present their learning through creative performances such as book dialogues
 and skits. This culminating event not only celebrates their reading journey
 but also fosters confidence and appreciation for literature.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRof1A3CccwvRrcTempBno4pt_ULz4ZVIqcnKxv4xTjpQHhhrAggp4pH0zTjRrMNSUXxxwaxjK8VMk-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRof1A3CccwvRrcTempBno4pt_ULz4ZVIqcnKxv4xTjpQHhhrAggp4pH0zTjRrMNSUXxxwaxjK8VMk-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>In addition to the enriching activities of our reading programme, our
 Chinese Language Unit also publishes a student anthology, <em>Huifeng Xulai</em>.
@@ -270,7 +270,7 @@ met with countless setbacks but pressed on with resilience to bring their
 project to fruition. This collaboration between the Mother Tongue and Aesthetics
 Departments was entered into the Singapore Book of Records!</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRcMY4zC0e65-p6b5m0kLeCdJI3Ka6XWcHP8zxBn-r5NoPNbRGcpQ9gGivpURkHeiUyyJHLkzExZ-2T/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRcMY4zC0e65-p6b5m0kLeCdJI3Ka6XWcHP8zxBn-r5NoPNbRGcpQ9gGivpURkHeiUyyJHLkzExZ-2T/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3><strong>Our Mother Tongue Team</strong></h3>
 <div class="isomer-image-wrapper">
@@ -336,6 +336,17 @@ Departments was entered into the Singapore Book of Records!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (Chinese Language)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Angel Jeyanthi A/P Selvam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
@@ -406,10 +417,10 @@ Departments was entered into the Singapore Book of Records!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Koothaperumal Saravanaperumal</p>
+<p>Latifah Bte Hassan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -417,10 +428,10 @@ Departments was entered into the Singapore Book of Records!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Latifah Bte Hassan</p>
+<p>Loh Khou Han</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -461,7 +472,18 @@ Departments was entered into the Singapore Book of Records!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss</p>
+<p>Dr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thinesh A/L Subramaniam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Taw Ying</p>
