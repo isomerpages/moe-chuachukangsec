@@ -2,12 +2,12 @@ collections:
   students:
     output: true
     order:
-      - 2026 WA3 Class Schedule.md
       - Cohort Level website.md
       - Timetable/.keep
       - Timetable/Class Timetable.md
       - Timetable/June ASP Timetable.md
       - 2026 Secondary 4&5 Preliminary Examination schedule.md
+      - 2026 WA3 Class Schedule.md
       - CCA schedule update for Semester 1.md
       - 2025 GCE O Level Examination Results Release.md
       - 2025 GCE N(A) and N(T) Level Examination Results Release.md
