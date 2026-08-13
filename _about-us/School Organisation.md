@@ -951,7 +951,7 @@ variant: tiptap
 <p>Mr Christopher Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_yue_han_christopher@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_yue_han_christopher@schools.gpv.sg</a>
+<p><a href="mailto:goh_yue_han_christopher@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_yue_han_christopher@schools.gov.sg</a>
 </p>
 </td>
 </tr>
