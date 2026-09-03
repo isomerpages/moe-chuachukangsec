@@ -6,17 +6,27 @@ third_nav_title: Timetable
 variant: tiptap
 ---
 <p>Dear CCKSians, please take note that the timetable below is effective
-from 2026 Term 3.</p>
-<p><a href="/files/Students/2026 Term 3 Timetable/2026_Term_3_TT___CLASS_SEC_1__26_Jun_.pdf" rel="noopener nofollow" target="_blank">2026 Term 3 Timetable - Sec 1</a>
+from 2026 Term 4.</p>
+<p><a href="/files/Students/2026 Term 3 Timetable/2026_Term_3_TT___CLASS_SEC_1__26_Jun_.pdf" rel="noopener nofollow" target="_blank">2026 Term 4 Timetable - Sec 1</a>
 </p>
 <p></p>
-<p><a href="/files/Students/2026 Term 3 Timetable/2026_Term_3_TT___CLASS_SEC_2_edited_AiFF.pdf" rel="noopener nofollow" target="_blank">2026 Term 3 Timetable - Sec 2</a>
+<p><a href="/files/Students/2026 Term 3 Timetable/2026_Term_3_TT___CLASS_SEC_2_edited_AiFF.pdf" rel="noopener nofollow" target="_blank">2026 Term 4 Timetable - Sec 2</a>
 </p>
 <p></p>
-<p><a href="/files/Students/2026 Term 3 Timetable/2026_Term_3_TT___CLASS_SEC_3__26_Jun_.pdf" rel="noopener nofollow" target="_blank">2026 Term 3 Timetable - Sec 3</a>
+<p><a href="/files/Students/2026 Term 3 Timetable/2026_Term_3_TT___CLASS_SEC_3__26_Jun_.pdf" rel="noopener nofollow" target="_blank">2026 Term 4 Timetable - Sec 3</a>
 </p>
 <p></p>
-<p><a href="/files/Students/2026 Term 3 Timetable/2026_Term_3_TT___CLASS_SEC_4_5__26_Jun_.pdf" rel="noopener nofollow" target="_blank">2026 Term 3 Timetable - Sec 4 and 5</a>
+<p></p>
+<p><a href="/files/Students/2026 Term 4 Timetable/2026_Term_4_TT___WEEK_1_CLASS_S4_5.pdf" rel="noopener nofollow" target="_blank">2026 Term 4 Week 1 Timetable - Sec 4 and 5</a>
+</p>
+<p></p>
+<p><a href="/files/Students/2026 Term 4 Timetable/2026_Term_4_TT___WEEK_2_CLASS_S4_5.pdf" rel="noopener nofollow" target="_blank">2026 Term 4 Week 2 Timetable - Sec 4 and 5</a>
+</p>
+<p></p>
+<p><a href="/files/Students/2026 Term 4 Timetable/2026_Term_4_TT___WEEK_3_CLASS_S4_5.pdf" rel="noopener nofollow" target="_blank">2026 Term 4 Week 3 Timetable - Sec 4 and 5</a>
+</p>
+<p></p>
+<p><a href="/files/Students/2026 Term 4 Timetable/2026_Term_4_TT___WEEK_4_CLASS_S4_5.pdf" rel="noopener nofollow" target="_blank">2026 Term 4 Week 4 Timetable - Sec 4 and 5</a>
 </p>
 <p>
 <br>
