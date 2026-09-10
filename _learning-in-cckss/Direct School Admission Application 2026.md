@@ -164,4 +164,80 @@ from early-May.</p>
 <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p></p>
+<h4>Eligibility Criteria</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Selection for admission to the school via DSA-Secondary is based on the
+following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Hockey</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCA Involvement – Participation, Representation &amp; Achievements</p>
+</li>
+<li>
+<p>Physical Fitness - Latest NAPFA Test Results</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Modern Dance</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCA Involvement – Participation, Representation &amp; Achievement, or
+relevant experience or qualification in Dance</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Community Youth Leadership&nbsp;</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students must have assumed leadership role in the primary school in either
+CCA, Class or Committees</p>
+</li>
+<li>
+<p>Active participation in a school or community project</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Science, Technology</strong>,<strong> Engineering, Maths – <em>Science for Sustainable Development</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Passion in Sustainable Development&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Participation, Representation &amp; Achievements in Sustainability Projects/Programmes/Competitions</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Applicants should also possess the positive character traits and good
+conduct in school.</p>
+</li>
+<li>
+<p>Meeting all the criteria does not guarantee the student will be shortlisted/given
+an offer.</p>
+</li>
+</ol>
+<p></p>
+<h4>Application and Selection Procedures&nbsp;</h4>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from 6 May, 11am – 2
+June 2026, 3pm. For more details, please refer to MOE website – <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+<p></p>
+<p>Shortlisted applicants will be notified and scheduled to attend interviews
+and skills assessment. Shortlisted applicants should attend the interviews
+and skills assessment only if they are feeling well.</p>
+<p></p>
+<p>All applicants will be informed of the outcome of their application between
+17 and 28 August 2026. The school’s decision on the offer is final.</p>
 <p></p>
