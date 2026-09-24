@@ -11,6 +11,6 @@ description: ""
 <p><a href="/files/Students/20260820 EOY exam schedule/Sec_2_EOY_Exam_Schedule_2026_Final.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY Exam Schedule 2026</a>
 </p>
 <p></p>
-<p><a href="/files/Students/20260820 EOY exam schedule/Sec_3_EOY_Exam_Schedule_2026_Final.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY Exam Schedule 2026</a>
+<p><a href="/files/Students/20260820 EOY exam schedule/Sec_3_EOY_Exam_Schedule_2026_Final__updated_23_Sep_.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY Exam Schedule 2026</a>
 <br>
 </p>
